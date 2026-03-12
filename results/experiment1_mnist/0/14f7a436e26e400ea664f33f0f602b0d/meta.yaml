@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/14f7a436e26e400ea664f33f0f602b0d/artifacts
+end_time: 1773253987954
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 14f7a436e26e400ea664f33f0f602b0d
+run_name: puzzled-auk-174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253496534
+status: 3
+tags: []
+user_id: root

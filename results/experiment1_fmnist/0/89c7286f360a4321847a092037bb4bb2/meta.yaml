@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/89c7286f360a4321847a092037bb4bb2/artifacts
+end_time: 1773274711641
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 89c7286f360a4321847a092037bb4bb2
+run_name: vaunted-gull-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273980695
+status: 3
+tags: []
+user_id: root

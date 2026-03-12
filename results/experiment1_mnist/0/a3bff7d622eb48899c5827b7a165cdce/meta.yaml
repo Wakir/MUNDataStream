@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/a3bff7d622eb48899c5827b7a165cdce/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: a3bff7d622eb48899c5827b7a165cdce
+run_name: agreeable-shoat-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773244871694
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/cb71955538124fa6be15d0d711e607a0/artifacts
+end_time: 1773292428944
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: cb71955538124fa6be15d0d711e607a0
+run_name: indecisive-conch-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773291717695
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/479c8fc130de4191a245e7c94e5636d7/artifacts
+end_time: 1773252174936
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 479c8fc130de4191a245e7c94e5636d7
+run_name: respected-ant-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251676687
+status: 3
+tags: []
+user_id: root

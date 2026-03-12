@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/c262f1cffd3f47ffb2b436e871a9f3df/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: c262f1cffd3f47ffb2b436e871a9f3df
+run_name: glamorous-moose-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249370045
+status: 1
+tags: []
+user_id: root

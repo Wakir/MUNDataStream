@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/c845e87a591c45d2a6246c146da218a7/artifacts
+end_time: 1773251204672
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: c845e87a591c45d2a6246c146da218a7
+run_name: delicate-ant-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250694909
+status: 3
+tags: []
+user_id: root

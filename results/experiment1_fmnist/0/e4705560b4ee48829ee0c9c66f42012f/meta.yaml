@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/e4705560b4ee48829ee0c9c66f42012f/artifacts
+end_time: 1773282918782
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: e4705560b4ee48829ee0c9c66f42012f
+run_name: amazing-doe-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773282170686
+status: 3
+tags: []
+user_id: root

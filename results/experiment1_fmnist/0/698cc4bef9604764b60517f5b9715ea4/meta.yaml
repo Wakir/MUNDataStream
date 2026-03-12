@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/698cc4bef9604764b60517f5b9715ea4/artifacts
+end_time: 1773279143315
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 698cc4bef9604764b60517f5b9715ea4
+run_name: upset-roo-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278390084
+status: 3
+tags: []
+user_id: root

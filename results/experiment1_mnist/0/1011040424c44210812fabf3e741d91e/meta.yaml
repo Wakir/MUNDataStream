@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/1011040424c44210812fabf3e741d91e/artifacts
+end_time: 1773267133229
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 1011040424c44210812fabf3e741d91e
+run_name: crawling-asp-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266664281
+status: 3
+tags: []
+user_id: root

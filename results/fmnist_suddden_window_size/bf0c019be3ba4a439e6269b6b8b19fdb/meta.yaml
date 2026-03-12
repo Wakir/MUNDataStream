@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/bf0c019be3ba4a439e6269b6b8b19fdb/artifacts
+end_time: 1773300562576
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: bf0c019be3ba4a439e6269b6b8b19fdb
+run_name: resilient-lark-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773299788447
+status: 3
+tags: []
+user_id: root

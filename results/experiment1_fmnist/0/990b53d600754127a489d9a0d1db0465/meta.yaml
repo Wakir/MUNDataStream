@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/990b53d600754127a489d9a0d1db0465/artifacts
+end_time: 1773273474832
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 990b53d600754127a489d9a0d1db0465
+run_name: agreeable-calf-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773272743539
+status: 3
+tags: []
+user_id: root

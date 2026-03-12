@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/7a9a5a0821a3473d8c661b62b71fce24/artifacts
+end_time: 1773306119316
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 7a9a5a0821a3473d8c661b62b71fce24
+run_name: clumsy-crab-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773305342348
+status: 3
+tags: []
+user_id: root

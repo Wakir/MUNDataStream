@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/781139827609876224/7fea9b036aa44bb5a9a1ceec93260ca5/artifacts
+end_time: 1773324828930
+entry_point_name: ''
+experiment_id: '781139827609876224'
+lifecycle_stage: active
+run_id: 7fea9b036aa44bb5a9a1ceec93260ca5
+run_name: vaunted-chimp-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323989472
+status: 3
+tags: []
+user_id: root

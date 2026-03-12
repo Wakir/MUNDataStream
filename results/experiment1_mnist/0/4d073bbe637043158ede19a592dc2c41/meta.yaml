@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/4d073bbe637043158ede19a592dc2c41/artifacts
+end_time: 1773250676897
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 4d073bbe637043158ede19a592dc2c41
+run_name: able-fish-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250176573
+status: 3
+tags: []
+user_id: root

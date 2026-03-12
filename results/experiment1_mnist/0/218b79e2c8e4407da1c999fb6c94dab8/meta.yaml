@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/218b79e2c8e4407da1c999fb6c94dab8/artifacts
+end_time: 1773261307262
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 218b79e2c8e4407da1c999fb6c94dab8
+run_name: smiling-bird-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773260829056
+status: 3
+tags: []
+user_id: root

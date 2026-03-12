@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/65cf09149f424e43936a8ae304a03fef/artifacts
+end_time: 1773267466836
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 65cf09149f424e43936a8ae304a03fef
+run_name: rambunctious-bird-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773267001574
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/f7b9dbdd1c294eaebee677e73ffba8f3/artifacts
+end_time: 1773286418764
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: f7b9dbdd1c294eaebee677e73ffba8f3
+run_name: receptive-bass-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285689719
+status: 3
+tags: []
+user_id: root

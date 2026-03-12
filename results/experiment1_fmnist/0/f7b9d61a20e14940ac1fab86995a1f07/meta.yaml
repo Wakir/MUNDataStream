@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/f7b9d61a20e14940ac1fab86995a1f07/artifacts
+end_time: 1773279206025
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: f7b9d61a20e14940ac1fab86995a1f07
+run_name: sneaky-foal-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278488972
+status: 3
+tags: []
+user_id: root

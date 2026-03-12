@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/0d6dd85d87c14c87a667feb01735b6a0/artifacts
+end_time: 1773252025568
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 0d6dd85d87c14c87a667feb01735b6a0
+run_name: salty-skunk-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251526143
+status: 3
+tags: []
+user_id: root

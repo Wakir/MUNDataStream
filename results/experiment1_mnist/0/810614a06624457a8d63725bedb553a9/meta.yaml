@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/810614a06624457a8d63725bedb553a9/artifacts
+end_time: 1773257445950
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 810614a06624457a8d63725bedb553a9
+run_name: gaudy-boar-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773256958452
+status: 3
+tags: []
+user_id: root

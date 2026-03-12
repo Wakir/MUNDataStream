@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/bcb37b66a866468a87b4c934715a2c96/artifacts
+end_time: 1773266092702
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: bcb37b66a866468a87b4c934715a2c96
+run_name: auspicious-auk-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265351408
+status: 3
+tags: []
+user_id: root

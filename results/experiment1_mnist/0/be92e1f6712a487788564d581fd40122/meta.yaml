@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/be92e1f6712a487788564d581fd40122/artifacts
+end_time: 1773267438759
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: be92e1f6712a487788564d581fd40122
+run_name: efficient-grub-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266974174
+status: 3
+tags: []
+user_id: root

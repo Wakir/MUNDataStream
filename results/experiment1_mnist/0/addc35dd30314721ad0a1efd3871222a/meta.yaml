@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/addc35dd30314721ad0a1efd3871222a/artifacts
+end_time: 1773252170888
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: addc35dd30314721ad0a1efd3871222a
+run_name: sincere-wasp-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251671501
+status: 3
+tags: []
+user_id: root

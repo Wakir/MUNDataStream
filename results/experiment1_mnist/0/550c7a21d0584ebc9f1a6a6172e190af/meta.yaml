@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/550c7a21d0584ebc9f1a6a6172e190af/artifacts
+end_time: 1773256173836
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 550c7a21d0584ebc9f1a6a6172e190af
+run_name: welcoming-bug-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255681722
+status: 3
+tags: []
+user_id: root

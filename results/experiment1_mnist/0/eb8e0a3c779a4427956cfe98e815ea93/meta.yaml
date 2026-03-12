@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/eb8e0a3c779a4427956cfe98e815ea93/artifacts
+end_time: 1773261150219
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: eb8e0a3c779a4427956cfe98e815ea93
+run_name: enchanting-ape-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773260663367
+status: 3
+tags: []
+user_id: root

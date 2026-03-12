@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/84b3956b6a424ccc91dc288f079191e1/artifacts
+end_time: 1773267367281
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 84b3956b6a424ccc91dc288f079191e1
+run_name: lyrical-panda-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266621924
+status: 3
+tags: []
+user_id: root

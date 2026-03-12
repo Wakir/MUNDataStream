@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/889f35e19c894a148c36b8b4bab61aa2/artifacts
+end_time: 1773252012871
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 889f35e19c894a148c36b8b4bab61aa2
+run_name: thoughtful-gnu-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251511838
+status: 3
+tags: []
+user_id: root

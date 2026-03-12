@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/c22236da771d4e979090ced18157f64a/artifacts
+end_time: 1773318194516
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: c22236da771d4e979090ced18157f64a
+run_name: receptive-lamb-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316907527
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/951286562057381247/467a5b2615b449afa5615bacb8c5b75e/artifacts
+end_time: 1773322210285
+entry_point_name: ''
+experiment_id: '951286562057381247'
+lifecycle_stage: active
+run_id: 467a5b2615b449afa5615bacb8c5b75e
+run_name: salty-worm-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773321058746
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/074b94be2de548bd8aae8d281dd106a0/artifacts
+end_time: 1773255644196
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 074b94be2de548bd8aae8d281dd106a0
+run_name: marvelous-kite-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255150453
+status: 3
+tags: []
+user_id: root

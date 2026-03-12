@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/8a718203ab30470f963f09ef1f2f8086/artifacts
+end_time: 1773277719421
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 8a718203ab30470f963f09ef1f2f8086
+run_name: powerful-mare-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773276979558
+status: 3
+tags: []
+user_id: root

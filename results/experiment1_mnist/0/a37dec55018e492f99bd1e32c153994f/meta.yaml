@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/a37dec55018e492f99bd1e32c153994f/artifacts
+end_time: 1773254634380
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: a37dec55018e492f99bd1e32c153994f
+run_name: dazzling-fawn-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254144051
+status: 3
+tags: []
+user_id: root

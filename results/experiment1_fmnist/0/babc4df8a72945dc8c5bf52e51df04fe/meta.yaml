@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/babc4df8a72945dc8c5bf52e51df04fe/artifacts
+end_time: 1773284961007
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: babc4df8a72945dc8c5bf52e51df04fe
+run_name: youthful-seal-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284245988
+status: 3
+tags: []
+user_id: root

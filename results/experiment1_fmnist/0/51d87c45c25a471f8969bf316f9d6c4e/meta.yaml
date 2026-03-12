@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/51d87c45c25a471f8969bf316f9d6c4e/artifacts
+end_time: 1773281559168
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 51d87c45c25a471f8969bf316f9d6c4e
+run_name: painted-penguin-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773280860456
+status: 3
+tags: []
+user_id: root

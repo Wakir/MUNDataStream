@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/c70eaebf278d46518e541e0295fcbc43/artifacts
+end_time: 1773294359863
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: c70eaebf278d46518e541e0295fcbc43
+run_name: monumental-crane-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773293653922
+status: 3
+tags: []
+user_id: root

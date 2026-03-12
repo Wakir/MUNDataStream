@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/ebeec05ecbaa4559b373b268078a8d7f/artifacts
+end_time: 1773276086405
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: ebeec05ecbaa4559b373b268078a8d7f
+run_name: debonair-mule-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773275336837
+status: 3
+tags: []
+user_id: root

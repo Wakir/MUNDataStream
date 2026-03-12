@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/7600d06ec25e43318b1f0a21be4be3b7/artifacts
+end_time: 1773260452626
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 7600d06ec25e43318b1f0a21be4be3b7
+run_name: aged-bat-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259967106
+status: 3
+tags: []
+user_id: root

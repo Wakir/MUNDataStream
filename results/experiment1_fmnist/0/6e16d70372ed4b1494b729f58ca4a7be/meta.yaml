@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/6e16d70372ed4b1494b729f58ca4a7be/artifacts
+end_time: 1773290150092
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 6e16d70372ed4b1494b729f58ca4a7be
+run_name: rogue-robin-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773289400966
+status: 3
+tags: []
+user_id: root

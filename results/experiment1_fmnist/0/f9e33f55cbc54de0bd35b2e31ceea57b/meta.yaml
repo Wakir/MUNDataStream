@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/f9e33f55cbc54de0bd35b2e31ceea57b/artifacts
+end_time: 1773273351036
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: f9e33f55cbc54de0bd35b2e31ceea57b
+run_name: nervous-vole-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773272574336
+status: 3
+tags: []
+user_id: root

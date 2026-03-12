@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/36b506aa641b414d849ddef28467af6e/artifacts
+end_time: 1773310937447
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 36b506aa641b414d849ddef28467af6e
+run_name: wise-hare-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773309625801
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/eec746a2f44b4df59380a2f3c6f4df68/artifacts
+end_time: 1773313505179
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: eec746a2f44b4df59380a2f3c6f4df68
+run_name: secretive-steed-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312215215
+status: 3
+tags: []
+user_id: root

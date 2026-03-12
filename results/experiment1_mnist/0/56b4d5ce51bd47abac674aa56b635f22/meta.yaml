@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/56b4d5ce51bd47abac674aa56b635f22/artifacts
+end_time: 1773264834636
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 56b4d5ce51bd47abac674aa56b635f22
+run_name: upbeat-moth-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264363011
+status: 3
+tags: []
+user_id: root

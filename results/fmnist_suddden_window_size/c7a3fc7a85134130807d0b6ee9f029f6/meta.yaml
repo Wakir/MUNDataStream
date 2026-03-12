@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/c7a3fc7a85134130807d0b6ee9f029f6/artifacts
+end_time: 1773298959209
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: c7a3fc7a85134130807d0b6ee9f029f6
+run_name: exultant-gull-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773298110458
+status: 3
+tags: []
+user_id: root

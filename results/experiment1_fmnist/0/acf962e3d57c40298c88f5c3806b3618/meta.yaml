@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/acf962e3d57c40298c88f5c3806b3618/artifacts
+end_time: 1773279186532
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: acf962e3d57c40298c88f5c3806b3618
+run_name: worried-auk-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278457467
+status: 3
+tags: []
+user_id: root

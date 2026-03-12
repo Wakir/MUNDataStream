@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/2a4b4511ef79497f81019e59c9a6abcf/artifacts
+end_time: 1773295116260
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 2a4b4511ef79497f81019e59c9a6abcf
+run_name: aged-finch-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773294439004
+status: 3
+tags: []
+user_id: root

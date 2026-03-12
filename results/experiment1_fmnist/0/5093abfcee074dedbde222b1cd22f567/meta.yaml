@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/5093abfcee074dedbde222b1cd22f567/artifacts
+end_time: 1773263098262
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 5093abfcee074dedbde222b1cd22f567
+run_name: entertaining-croc-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262305255
+status: 3
+tags: []
+user_id: root

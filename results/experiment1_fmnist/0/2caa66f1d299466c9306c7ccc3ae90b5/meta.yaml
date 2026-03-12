@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/2caa66f1d299466c9306c7ccc3ae90b5/artifacts
+end_time: 1773267200810
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 2caa66f1d299466c9306c7ccc3ae90b5
+run_name: unique-wasp-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266458539
+status: 3
+tags: []
+user_id: root

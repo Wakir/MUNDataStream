@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/ace4903378d6452d9c57ff77d2b2fd45/artifacts
+end_time: 1773254196993
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: ace4903378d6452d9c57ff77d2b2fd45
+run_name: silent-hog-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253699134
+status: 3
+tags: []
+user_id: root

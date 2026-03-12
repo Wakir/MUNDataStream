@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/28b629c03d2e45e5ac21d493c04ba97e/artifacts
+end_time: 1773262020272
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 28b629c03d2e45e5ac21d493c04ba97e
+run_name: agreeable-yak-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261540969
+status: 3
+tags: []
+user_id: root

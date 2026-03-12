@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/a66c5fd830264f3da7a6363031fc4275/artifacts
+end_time: 1773251192273
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: a66c5fd830264f3da7a6363031fc4275
+run_name: shivering-shad-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250685379
+status: 3
+tags: []
+user_id: root

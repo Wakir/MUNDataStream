@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/f5a2722aad7a4caebb2ec938c52a7d7c/artifacts
+end_time: 1773257524652
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: f5a2722aad7a4caebb2ec938c52a7d7c
+run_name: abundant-ape-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257032947
+status: 3
+tags: []
+user_id: root

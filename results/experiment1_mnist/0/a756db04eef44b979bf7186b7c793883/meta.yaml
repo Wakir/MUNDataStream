@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/a756db04eef44b979bf7186b7c793883/artifacts
+end_time: 1773263833315
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: a756db04eef44b979bf7186b7c793883
+run_name: learned-fish-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263354300
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/56f41a38a1b940cdb26e62df97ae0079/artifacts
+end_time: 1773273822088
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 56f41a38a1b940cdb26e62df97ae0079
+run_name: loud-yak-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273064182
+status: 3
+tags: []
+user_id: root

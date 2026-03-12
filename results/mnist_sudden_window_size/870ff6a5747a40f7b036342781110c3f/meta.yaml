@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/870ff6a5747a40f7b036342781110c3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 870ff6a5747a40f7b036342781110c3f
+run_name: judicious-squid-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316070641
+status: 1
+tags: []
+user_id: root

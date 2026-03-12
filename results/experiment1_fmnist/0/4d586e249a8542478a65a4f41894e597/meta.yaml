@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/4d586e249a8542478a65a4f41894e597/artifacts
+end_time: 1773287978196
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 4d586e249a8542478a65a4f41894e597
+run_name: gregarious-gnat-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287343319
+status: 3
+tags: []
+user_id: root

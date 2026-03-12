@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/7ccadae375284c02918b09751fdaf509/artifacts
+end_time: 1773261470707
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 7ccadae375284c02918b09751fdaf509
+run_name: able-whale-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261469284
+status: 4
+tags: []
+user_id: root

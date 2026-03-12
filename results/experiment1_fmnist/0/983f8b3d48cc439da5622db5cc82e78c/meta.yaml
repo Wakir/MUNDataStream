@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/983f8b3d48cc439da5622db5cc82e78c/artifacts
+end_time: 1773294438950
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 983f8b3d48cc439da5622db5cc82e78c
+run_name: gregarious-mule-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773293750647
+status: 3
+tags: []
+user_id: root

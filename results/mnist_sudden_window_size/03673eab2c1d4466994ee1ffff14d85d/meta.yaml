@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/03673eab2c1d4466994ee1ffff14d85d/artifacts
+end_time: 1773322078783
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 03673eab2c1d4466994ee1ffff14d85d
+run_name: placid-snail-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773320893738
+status: 3
+tags: []
+user_id: root

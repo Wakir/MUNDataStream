@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/ca869f46f707403580f9587878e0db00/artifacts
+end_time: 1773270787598
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: ca869f46f707403580f9587878e0db00
+run_name: defiant-fowl-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773270026578
+status: 3
+tags: []
+user_id: root

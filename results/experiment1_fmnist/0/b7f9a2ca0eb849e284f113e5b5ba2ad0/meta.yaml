@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/b7f9a2ca0eb849e284f113e5b5ba2ad0/artifacts
+end_time: 1773281392057
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: b7f9a2ca0eb849e284f113e5b5ba2ad0
+run_name: thundering-slug-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773280660402
+status: 3
+tags: []
+user_id: root

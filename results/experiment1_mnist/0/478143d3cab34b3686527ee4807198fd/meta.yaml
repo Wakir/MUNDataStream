@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/478143d3cab34b3686527ee4807198fd/artifacts
+end_time: 1773264735463
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 478143d3cab34b3686527ee4807198fd
+run_name: mercurial-slug-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264260857
+status: 3
+tags: []
+user_id: root

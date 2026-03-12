@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/2de491a7f96141efad949856fb7426d4/artifacts
+end_time: 1773250179048
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 2de491a7f96141efad949856fb7426d4
+run_name: sedate-tern-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249669984
+status: 3
+tags: []
+user_id: root

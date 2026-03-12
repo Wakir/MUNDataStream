@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/ea69c6c3f64c4381bb6284dfd0c3cde0/artifacts
+end_time: 1773279812934
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: ea69c6c3f64c4381bb6284dfd0c3cde0
+run_name: respected-conch-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279062993
+status: 3
+tags: []
+user_id: root

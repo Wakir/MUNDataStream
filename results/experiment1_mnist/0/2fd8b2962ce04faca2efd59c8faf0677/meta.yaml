@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/2fd8b2962ce04faca2efd59c8faf0677/artifacts
+end_time: 1773267601540
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 2fd8b2962ce04faca2efd59c8faf0677
+run_name: exultant-crab-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773267133286
+status: 3
+tags: []
+user_id: root

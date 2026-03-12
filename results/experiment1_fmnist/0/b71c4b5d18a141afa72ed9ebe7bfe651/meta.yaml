@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/b71c4b5d18a141afa72ed9ebe7bfe651/artifacts
+end_time: 1773282628054
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: b71c4b5d18a141afa72ed9ebe7bfe651
+run_name: traveling-cat-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281917845
+status: 3
+tags: []
+user_id: root

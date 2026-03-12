@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/a18b15349e154d21b16380830289784f/artifacts
+end_time: 1773287922216
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: a18b15349e154d21b16380830289784f
+run_name: sedate-cow-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287237959
+status: 3
+tags: []
+user_id: root

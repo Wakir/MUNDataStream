@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/6e0d9a4bd8fd4f80a57f2f680a9d6226/artifacts
+end_time: 1773289561900
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 6e0d9a4bd8fd4f80a57f2f680a9d6226
+run_name: adaptable-goose-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773288859838
+status: 3
+tags: []
+user_id: root

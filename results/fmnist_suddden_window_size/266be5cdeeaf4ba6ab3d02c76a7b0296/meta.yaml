@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/266be5cdeeaf4ba6ab3d02c76a7b0296/artifacts
+end_time: 1773303579053
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 266be5cdeeaf4ba6ab3d02c76a7b0296
+run_name: angry-elk-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773302795343
+status: 3
+tags: []
+user_id: root

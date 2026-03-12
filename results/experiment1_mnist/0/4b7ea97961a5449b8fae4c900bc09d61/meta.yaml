@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/4b7ea97961a5449b8fae4c900bc09d61/artifacts
+end_time: 1773267005527
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 4b7ea97961a5449b8fae4c900bc09d61
+run_name: polite-jay-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266540077
+status: 3
+tags: []
+user_id: root

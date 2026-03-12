@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/f8a21ec19e484a0f9fdf76c147c99239/artifacts
+end_time: 1773261901370
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: f8a21ec19e484a0f9fdf76c147c99239
+run_name: defiant-penguin-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261419580
+status: 3
+tags: []
+user_id: root

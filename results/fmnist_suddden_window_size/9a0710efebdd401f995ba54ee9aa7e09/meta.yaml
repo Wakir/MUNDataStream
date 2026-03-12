@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/9a0710efebdd401f995ba54ee9aa7e09/artifacts
+end_time: 1773302030971
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 9a0710efebdd401f995ba54ee9aa7e09
+run_name: charming-midge-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773301275730
+status: 3
+tags: []
+user_id: root

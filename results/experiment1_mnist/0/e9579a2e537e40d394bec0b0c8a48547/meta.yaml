@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/e9579a2e537e40d394bec0b0c8a48547/artifacts
+end_time: 1773258575388
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: e9579a2e537e40d394bec0b0c8a48547
+run_name: gregarious-shrew-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258088414
+status: 3
+tags: []
+user_id: root

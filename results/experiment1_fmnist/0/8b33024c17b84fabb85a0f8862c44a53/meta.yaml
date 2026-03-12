@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/8b33024c17b84fabb85a0f8862c44a53/artifacts
+end_time: 1773273811953
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 8b33024c17b84fabb85a0f8862c44a53
+run_name: judicious-ant-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273057589
+status: 3
+tags: []
+user_id: root

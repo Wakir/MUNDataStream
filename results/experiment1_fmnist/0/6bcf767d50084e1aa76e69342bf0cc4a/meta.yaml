@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/6bcf767d50084e1aa76e69342bf0cc4a/artifacts
+end_time: 1773284247759
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 6bcf767d50084e1aa76e69342bf0cc4a
+run_name: calm-bear-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773283522520
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/198ad0033c4d420c84fc8ac602235e2d/artifacts
+end_time: 1773281138040
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 198ad0033c4d420c84fc8ac602235e2d
+run_name: bemused-gull-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773280421149
+status: 3
+tags: []
+user_id: root

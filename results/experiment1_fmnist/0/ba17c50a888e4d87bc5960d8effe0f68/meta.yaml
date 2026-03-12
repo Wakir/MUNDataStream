@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/ba17c50a888e4d87bc5960d8effe0f68/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: ba17c50a888e4d87bc5960d8effe0f68
+run_name: marvelous-rook-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268615046
+status: 1
+tags: []
+user_id: root

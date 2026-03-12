@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/6d8d5caf135b474ea97265fd39e9a418/artifacts
+end_time: 1773259121903
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 6d8d5caf135b474ea97265fd39e9a418
+run_name: defiant-pug-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258636098
+status: 3
+tags: []
+user_id: root

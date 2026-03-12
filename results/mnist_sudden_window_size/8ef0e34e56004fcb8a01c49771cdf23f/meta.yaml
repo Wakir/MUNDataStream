@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/8ef0e34e56004fcb8a01c49771cdf23f/artifacts
+end_time: 1773324516965
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 8ef0e34e56004fcb8a01c49771cdf23f
+run_name: nosy-ant-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323381928
+status: 3
+tags: []
+user_id: root

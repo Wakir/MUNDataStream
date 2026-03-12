@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/3f46aa4f844c46a1801a3223e9c78430/artifacts
+end_time: 1773288650148
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 3f46aa4f844c46a1801a3223e9c78430
+run_name: skittish-squirrel-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287900937
+status: 3
+tags: []
+user_id: root

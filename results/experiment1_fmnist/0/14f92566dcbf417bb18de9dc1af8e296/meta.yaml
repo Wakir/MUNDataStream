@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/14f92566dcbf417bb18de9dc1af8e296/artifacts
+end_time: 1773262972628
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 14f92566dcbf417bb18de9dc1af8e296
+run_name: indecisive-mink-279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262279842
+status: 3
+tags: []
+user_id: root

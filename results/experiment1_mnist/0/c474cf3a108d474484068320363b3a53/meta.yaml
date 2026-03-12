@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/c474cf3a108d474484068320363b3a53/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: c474cf3a108d474484068320363b3a53
+run_name: exultant-colt-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249391917
+status: 1
+tags: []
+user_id: root

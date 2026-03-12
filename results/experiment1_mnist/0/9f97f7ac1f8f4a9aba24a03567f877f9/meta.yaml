@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/9f97f7ac1f8f4a9aba24a03567f877f9/artifacts
+end_time: 1773253545404
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 9f97f7ac1f8f4a9aba24a03567f877f9
+run_name: intrigued-ape-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253044946
+status: 3
+tags: []
+user_id: root

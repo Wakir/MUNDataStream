@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/730c8d140fc14566a40fb7da1d0b87ec/artifacts
+end_time: 1773284926911
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 730c8d140fc14566a40fb7da1d0b87ec
+run_name: fortunate-eel-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284207267
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/a895f4cfdb9f423fa69e452127f0ca74/artifacts
+end_time: 1773253166981
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: a895f4cfdb9f423fa69e452127f0ca74
+run_name: mercurial-snipe-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252670391
+status: 3
+tags: []
+user_id: root

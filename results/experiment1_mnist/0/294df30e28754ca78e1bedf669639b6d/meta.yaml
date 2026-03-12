@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/294df30e28754ca78e1bedf669639b6d/artifacts
+end_time: 1773259531681
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 294df30e28754ca78e1bedf669639b6d
+run_name: mysterious-dog-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259049410
+status: 3
+tags: []
+user_id: root

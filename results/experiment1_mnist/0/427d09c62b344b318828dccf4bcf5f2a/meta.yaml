@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/427d09c62b344b318828dccf4bcf5f2a/artifacts
+end_time: 1773258636066
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 427d09c62b344b318828dccf4bcf5f2a
+run_name: clean-lark-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258147141
+status: 3
+tags: []
+user_id: root

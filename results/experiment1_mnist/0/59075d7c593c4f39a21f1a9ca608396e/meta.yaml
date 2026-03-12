@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/59075d7c593c4f39a21f1a9ca608396e/artifacts
+end_time: 1773258509501
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 59075d7c593c4f39a21f1a9ca608396e
+run_name: amusing-deer-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258020660
+status: 3
+tags: []
+user_id: root

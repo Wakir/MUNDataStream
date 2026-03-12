@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f676f9f55e2b4e6fb77c57f345af8b02/artifacts
+end_time: 1773251194415
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f676f9f55e2b4e6fb77c57f345af8b02
+run_name: honorable-colt-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250688578
+status: 3
+tags: []
+user_id: root

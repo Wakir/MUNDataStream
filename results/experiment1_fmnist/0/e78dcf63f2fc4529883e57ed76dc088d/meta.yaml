@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/e78dcf63f2fc4529883e57ed76dc088d/artifacts
+end_time: 1773272574297
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: e78dcf63f2fc4529883e57ed76dc088d
+run_name: popular-goose-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773271798728
+status: 3
+tags: []
+user_id: root

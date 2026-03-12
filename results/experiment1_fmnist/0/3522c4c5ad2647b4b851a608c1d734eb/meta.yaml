@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/3522c4c5ad2647b4b851a608c1d734eb/artifacts
+end_time: 1773282572189
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 3522c4c5ad2647b4b851a608c1d734eb
+run_name: selective-shrike-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281855249
+status: 3
+tags: []
+user_id: root

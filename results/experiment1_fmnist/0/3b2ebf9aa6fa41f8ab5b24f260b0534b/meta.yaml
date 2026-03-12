@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/3b2ebf9aa6fa41f8ab5b24f260b0534b/artifacts
+end_time: 1773268381414
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 3b2ebf9aa6fa41f8ab5b24f260b0534b
+run_name: trusting-doe-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773267636932
+status: 3
+tags: []
+user_id: root

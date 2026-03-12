@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/da403ba27cd04fcb971e5498553f6089/artifacts
+end_time: 1773273349125
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: da403ba27cd04fcb971e5498553f6089
+run_name: debonair-perch-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773272573585
+status: 3
+tags: []
+user_id: root

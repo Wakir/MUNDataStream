@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/22b8fd881eb548cd9a3910b6f9312d46/artifacts
+end_time: 1773261636851
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 22b8fd881eb548cd9a3910b6f9312d46
+run_name: languid-toad-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261150257
+status: 3
+tags: []
+user_id: root

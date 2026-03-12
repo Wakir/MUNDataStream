@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/667c6d26983f4d299d148a1e1945ef70/artifacts
+end_time: 1773286357590
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 667c6d26983f4d299d148a1e1945ef70
+run_name: angry-sheep-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285644947
+status: 3
+tags: []
+user_id: root

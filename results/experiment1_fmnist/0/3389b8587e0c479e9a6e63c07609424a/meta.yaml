@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/3389b8587e0c479e9a6e63c07609424a/artifacts
+end_time: 1773266570862
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 3389b8587e0c479e9a6e63c07609424a
+run_name: ambitious-wren-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265827301
+status: 3
+tags: []
+user_id: root

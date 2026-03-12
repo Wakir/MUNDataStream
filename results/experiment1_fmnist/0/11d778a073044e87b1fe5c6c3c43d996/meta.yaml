@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/11d778a073044e87b1fe5c6c3c43d996/artifacts
+end_time: 1773285439292
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 11d778a073044e87b1fe5c6c3c43d996
+run_name: able-skunk-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284725690
+status: 3
+tags: []
+user_id: root

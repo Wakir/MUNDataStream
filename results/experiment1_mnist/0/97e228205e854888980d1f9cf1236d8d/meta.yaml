@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/97e228205e854888980d1f9cf1236d8d/artifacts
+end_time: 1773267453639
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 97e228205e854888980d1f9cf1236d8d
+run_name: sassy-stag-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266987360
+status: 3
+tags: []
+user_id: root

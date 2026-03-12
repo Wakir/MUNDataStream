@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/037bb16506fa46389cb6ed1be5e0479c/artifacts
+end_time: 1773301446538
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 037bb16506fa46389cb6ed1be5e0479c
+run_name: tasteful-roo-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773300630973
+status: 3
+tags: []
+user_id: root

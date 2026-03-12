@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/98f5200181ca45d18ef094a9fc98565e/artifacts
+end_time: 1773315615020
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 98f5200181ca45d18ef094a9fc98565e
+run_name: fun-cow-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773314324747
+status: 3
+tags: []
+user_id: root

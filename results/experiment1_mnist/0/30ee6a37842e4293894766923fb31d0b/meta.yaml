@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/30ee6a37842e4293894766923fb31d0b/artifacts
+end_time: 1773267127361
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 30ee6a37842e4293894766923fb31d0b
+run_name: sedate-toad-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266658968
+status: 3
+tags: []
+user_id: root

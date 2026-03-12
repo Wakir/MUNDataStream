@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/2f453ec4f057415fa73ab3523a0c7d20/artifacts
+end_time: 1773266245805
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 2f453ec4f057415fa73ab3523a0c7d20
+run_name: traveling-mule-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265777730
+status: 3
+tags: []
+user_id: root

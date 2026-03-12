@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/8a53f20ec8334fd5a8b428376ff2e4fd/artifacts
+end_time: 1773312216534
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 8a53f20ec8334fd5a8b428376ff2e4fd
+run_name: chill-vole-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773310924671
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/2ad7781302e943a58f424d34f5e9d949/artifacts
+end_time: 1773292291883
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 2ad7781302e943a58f424d34f5e9d949
+run_name: dashing-foal-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773291544435
+status: 3
+tags: []
+user_id: root

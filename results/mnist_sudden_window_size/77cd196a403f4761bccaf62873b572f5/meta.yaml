@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/77cd196a403f4761bccaf62873b572f5/artifacts
+end_time: 1773323414684
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 77cd196a403f4761bccaf62873b572f5
+run_name: welcoming-sponge-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773322224366
+status: 3
+tags: []
+user_id: root

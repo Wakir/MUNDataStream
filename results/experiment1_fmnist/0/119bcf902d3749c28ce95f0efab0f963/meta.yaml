@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/119bcf902d3749c28ce95f0efab0f963/artifacts
+end_time: 1773282712907
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 119bcf902d3749c28ce95f0efab0f963
+run_name: brawny-panda-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773282007856
+status: 3
+tags: []
+user_id: root

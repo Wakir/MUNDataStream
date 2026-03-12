@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/b0c893bdc50c4ebca5552610a7848786/artifacts
+end_time: 1773286828784
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: b0c893bdc50c4ebca5552610a7848786
+run_name: industrious-slug-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773286119889
+status: 3
+tags: []
+user_id: root

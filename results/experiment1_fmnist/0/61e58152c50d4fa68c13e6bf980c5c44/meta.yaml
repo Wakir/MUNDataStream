@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/61e58152c50d4fa68c13e6bf980c5c44/artifacts
+end_time: 1773275438704
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 61e58152c50d4fa68c13e6bf980c5c44
+run_name: righteous-penguin-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773274711705
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/97bb315c9d734460bc839251d13790e9/artifacts
+end_time: 1773254128321
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 97bb315c9d734460bc839251d13790e9
+run_name: redolent-turtle-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253635856
+status: 3
+tags: []
+user_id: root

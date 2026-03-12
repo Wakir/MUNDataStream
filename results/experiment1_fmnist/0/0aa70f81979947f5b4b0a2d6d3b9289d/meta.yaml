@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/0aa70f81979947f5b4b0a2d6d3b9289d/artifacts
+end_time: 1773261468171
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 0aa70f81979947f5b4b0a2d6d3b9289d
+run_name: nebulous-goat-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261439223
+status: 4
+tags: []
+user_id: root

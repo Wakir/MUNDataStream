@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/a5b9787303f54ecf9f8726d1927e812f/artifacts
+end_time: 1773310931788
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: a5b9787303f54ecf9f8726d1927e812f
+run_name: silent-auk-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773309625898
+status: 3
+tags: []
+user_id: root

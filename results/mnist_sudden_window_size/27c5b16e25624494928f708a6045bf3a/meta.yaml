@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/27c5b16e25624494928f708a6045bf3a/artifacts
+end_time: 1773318625655
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 27c5b16e25624494928f708a6045bf3a
+run_name: capable-hen-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773317429311
+status: 3
+tags: []
+user_id: root

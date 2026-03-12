@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/a4feabba7de44c9aa6e2796aba87728d/artifacts
+end_time: 1773271022137
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: a4feabba7de44c9aa6e2796aba87728d
+run_name: nebulous-penguin-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773270238174
+status: 3
+tags: []
+user_id: root

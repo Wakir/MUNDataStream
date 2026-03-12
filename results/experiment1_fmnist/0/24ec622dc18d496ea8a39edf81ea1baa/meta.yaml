@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/24ec622dc18d496ea8a39edf81ea1baa/artifacts
+end_time: 1773279136620
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 24ec622dc18d496ea8a39edf81ea1baa
+run_name: useful-finch-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278373032
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/790a0a30302a43a3b56cc146d1ca26f8/artifacts
+end_time: 1773254691811
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 790a0a30302a43a3b56cc146d1ca26f8
+run_name: orderly-penguin-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254197023
+status: 3
+tags: []
+user_id: root

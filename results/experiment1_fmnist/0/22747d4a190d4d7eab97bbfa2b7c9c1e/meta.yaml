@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/22747d4a190d4d7eab97bbfa2b7c9c1e/artifacts
+end_time: 1773269445136
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 22747d4a190d4d7eab97bbfa2b7c9c1e
+run_name: adventurous-mare-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268643877
+status: 3
+tags: []
+user_id: root

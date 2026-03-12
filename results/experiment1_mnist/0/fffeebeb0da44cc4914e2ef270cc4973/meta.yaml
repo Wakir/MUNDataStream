@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/fffeebeb0da44cc4914e2ef270cc4973/artifacts
+end_time: 1773262750507
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: fffeebeb0da44cc4914e2ef270cc4973
+run_name: dazzling-stag-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262276444
+status: 3
+tags: []
+user_id: root

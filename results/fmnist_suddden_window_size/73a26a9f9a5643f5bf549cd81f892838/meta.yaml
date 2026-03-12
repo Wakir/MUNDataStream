@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/73a26a9f9a5643f5bf549cd81f892838/artifacts
+end_time: 1773299788390
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 73a26a9f9a5643f5bf549cd81f892838
+run_name: dazzling-bear-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773298958745
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/89a5d98de4c242269e528492963f2e59/artifacts
+end_time: 1773265877840
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 89a5d98de4c242269e528492963f2e59
+run_name: kindly-squid-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265133356
+status: 3
+tags: []
+user_id: root

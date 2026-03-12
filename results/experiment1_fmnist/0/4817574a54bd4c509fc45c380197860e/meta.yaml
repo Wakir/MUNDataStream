@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/4817574a54bd4c509fc45c380197860e/artifacts
+end_time: 1773286203360
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 4817574a54bd4c509fc45c380197860e
+run_name: flawless-kite-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285482957
+status: 3
+tags: []
+user_id: root

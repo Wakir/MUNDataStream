@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/8bd8e6e55d7744c88c9d2069e3549d81/artifacts
+end_time: 1773302985448
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 8bd8e6e55d7744c88c9d2069e3549d81
+run_name: sedate-boar-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773302215492
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/191f3f685fff465a80c6d35e3493eda2/artifacts
+end_time: 1773252724133
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 191f3f685fff465a80c6d35e3493eda2
+run_name: thoughtful-steed-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252217542
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/83bb5b6c44604e90af5e4c3e07a47d4b/artifacts
+end_time: 1773287541960
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 83bb5b6c44604e90af5e4c3e07a47d4b
+run_name: beautiful-cub-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773286847206
+status: 3
+tags: []
+user_id: root

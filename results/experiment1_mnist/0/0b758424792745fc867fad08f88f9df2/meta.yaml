@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/0b758424792745fc867fad08f88f9df2/artifacts
+end_time: 1773262276407
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 0b758424792745fc867fad08f88f9df2
+run_name: efficient-hen-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261798955
+status: 3
+tags: []
+user_id: root

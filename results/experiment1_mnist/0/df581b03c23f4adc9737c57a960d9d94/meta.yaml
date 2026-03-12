@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/df581b03c23f4adc9737c57a960d9d94/artifacts
+end_time: 1773259967067
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: df581b03c23f4adc9737c57a960d9d94
+run_name: salty-gull-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259482191
+status: 3
+tags: []
+user_id: root

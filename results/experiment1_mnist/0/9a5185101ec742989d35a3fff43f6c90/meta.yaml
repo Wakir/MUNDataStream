@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/9a5185101ec742989d35a3fff43f6c90/artifacts
+end_time: 1773251178297
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 9a5185101ec742989d35a3fff43f6c90
+run_name: luminous-kite-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250676925
+status: 3
+tags: []
+user_id: root

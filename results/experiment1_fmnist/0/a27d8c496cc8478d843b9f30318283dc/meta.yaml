@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/a27d8c496cc8478d843b9f30318283dc/artifacts
+end_time: 1773279062943
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: a27d8c496cc8478d843b9f30318283dc
+run_name: magnificent-hare-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278231102
+status: 3
+tags: []
+user_id: root

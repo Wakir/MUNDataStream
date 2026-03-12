@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/e08c9f1eb73b4b62a19cdf2c584af189/artifacts
+end_time: 1773255195351
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: e08c9f1eb73b4b62a19cdf2c584af189
+run_name: welcoming-carp-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254699584
+status: 3
+tags: []
+user_id: root

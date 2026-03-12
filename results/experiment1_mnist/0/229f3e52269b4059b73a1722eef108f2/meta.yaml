@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/229f3e52269b4059b73a1722eef108f2/artifacts
+end_time: 1773251195209
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 229f3e52269b4059b73a1722eef108f2
+run_name: gifted-sheep-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250689119
+status: 3
+tags: []
+user_id: root

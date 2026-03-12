@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/f52aeb8741464781b90f7831e1296e8a/artifacts
+end_time: 1773318625305
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: f52aeb8741464781b90f7831e1296e8a
+run_name: abundant-fly-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773317429576
+status: 3
+tags: []
+user_id: root

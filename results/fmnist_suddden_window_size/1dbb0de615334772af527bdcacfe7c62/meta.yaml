@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/1dbb0de615334772af527bdcacfe7c62/artifacts
+end_time: 1773299797097
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 1dbb0de615334772af527bdcacfe7c62
+run_name: selective-flea-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773298959713
+status: 3
+tags: []
+user_id: root

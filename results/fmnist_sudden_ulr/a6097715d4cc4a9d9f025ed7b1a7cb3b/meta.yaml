@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/a6097715d4cc4a9d9f025ed7b1a7cb3b/artifacts
+end_time: 1773310939501
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: a6097715d4cc4a9d9f025ed7b1a7cb3b
+run_name: luxuriant-sloth-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773309625808
+status: 3
+tags: []
+user_id: root

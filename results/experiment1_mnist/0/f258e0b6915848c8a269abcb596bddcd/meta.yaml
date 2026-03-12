@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f258e0b6915848c8a269abcb596bddcd/artifacts
+end_time: 1773254204104
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f258e0b6915848c8a269abcb596bddcd
+run_name: shivering-crane-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253705200
+status: 3
+tags: []
+user_id: root

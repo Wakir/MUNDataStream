@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f19d091c9f37478ea6f834d6f1e4a924/artifacts
+end_time: 1773256701070
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f19d091c9f37478ea6f834d6f1e4a924
+run_name: big-kite-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773256206550
+status: 3
+tags: []
+user_id: root

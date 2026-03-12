@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/e417f027103442c38c83fd913909082e/artifacts
+end_time: 1773314306790
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: e417f027103442c38c83fd913909082e
+run_name: skillful-shark-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773313518506
+status: 3
+tags: []
+user_id: root

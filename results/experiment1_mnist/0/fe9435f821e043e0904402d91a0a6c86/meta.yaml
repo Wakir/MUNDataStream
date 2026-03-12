@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/fe9435f821e043e0904402d91a0a6c86/artifacts
+end_time: 1773255702802
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: fe9435f821e043e0904402d91a0a6c86
+run_name: colorful-snake-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255205425
+status: 3
+tags: []
+user_id: root

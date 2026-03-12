@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/3149d0a4b5b946b39eac584853105d6b/artifacts
+end_time: 1773278231066
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 3149d0a4b5b946b39eac584853105d6b
+run_name: dapper-sponge-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773277493134
+status: 3
+tags: []
+user_id: root

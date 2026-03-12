@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/73ba0167f22446209dabc1e171b293ee/artifacts
+end_time: 1773317427553
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 73ba0167f22446209dabc1e171b293ee
+run_name: youthful-bat-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316214096
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/538a6b644a4348678bf1cafc2ef2692b/artifacts
+end_time: 1773273977217
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 538a6b644a4348678bf1cafc2ef2692b
+run_name: suave-bear-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273232625
+status: 3
+tags: []
+user_id: root

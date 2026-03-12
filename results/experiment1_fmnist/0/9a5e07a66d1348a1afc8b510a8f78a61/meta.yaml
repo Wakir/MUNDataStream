@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/9a5e07a66d1348a1afc8b510a8f78a61/artifacts
+end_time: 1773275831524
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 9a5e07a66d1348a1afc8b510a8f78a61
+run_name: bedecked-skink-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773275016787
+status: 3
+tags: []
+user_id: root

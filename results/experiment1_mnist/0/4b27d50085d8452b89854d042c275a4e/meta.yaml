@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/4b27d50085d8452b89854d042c275a4e/artifacts
+end_time: 1773255502870
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 4b27d50085d8452b89854d042c275a4e
+run_name: awesome-finch-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255011486
+status: 3
+tags: []
+user_id: root

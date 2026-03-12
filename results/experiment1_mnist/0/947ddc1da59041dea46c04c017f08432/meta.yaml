@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/947ddc1da59041dea46c04c017f08432/artifacts
+end_time: 1773260176320
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 947ddc1da59041dea46c04c017f08432
+run_name: intelligent-duck-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259686282
+status: 3
+tags: []
+user_id: root

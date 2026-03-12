@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/c920432c099c49819e5c75220a13afd1/artifacts
+end_time: 1773276208197
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: c920432c099c49819e5c75220a13afd1
+run_name: flawless-elk-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773275466237
+status: 3
+tags: []
+user_id: root

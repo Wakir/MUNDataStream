@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/291ed2bcebec41bd86f182e8c289ca3f/artifacts
+end_time: 1773313560476
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 291ed2bcebec41bd86f182e8c289ca3f
+run_name: grandiose-shad-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312251875
+status: 3
+tags: []
+user_id: root

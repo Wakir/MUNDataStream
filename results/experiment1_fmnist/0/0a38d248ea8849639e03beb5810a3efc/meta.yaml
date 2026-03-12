@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/0a38d248ea8849639e03beb5810a3efc/artifacts
+end_time: 1773278995581
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 0a38d248ea8849639e03beb5810a3efc
+run_name: useful-midge-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278280679
+status: 3
+tags: []
+user_id: root

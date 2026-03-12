@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/142f520043ab47b3a50aeab654afc4ed/artifacts
+end_time: 1773262303881
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 142f520043ab47b3a50aeab654afc4ed
+run_name: bright-worm-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261502723
+status: 3
+tags: []
+user_id: root

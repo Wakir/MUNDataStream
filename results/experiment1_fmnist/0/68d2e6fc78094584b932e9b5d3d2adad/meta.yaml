@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/68d2e6fc78094584b932e9b5d3d2adad/artifacts
+end_time: 1773293051932
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 68d2e6fc78094584b932e9b5d3d2adad
+run_name: beautiful-moth-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773292307987
+status: 3
+tags: []
+user_id: root

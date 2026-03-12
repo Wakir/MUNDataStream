@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/6072cba091b347049c0f2bd8c298d85e/artifacts
+end_time: 1773266572192
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 6072cba091b347049c0f2bd8c298d85e
+run_name: inquisitive-foal-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266107993
+status: 3
+tags: []
+user_id: root

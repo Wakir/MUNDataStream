@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/fdd6a9e9f8b0449ba222a56b2f6bc092/artifacts
+end_time: 1773287180134
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: fdd6a9e9f8b0449ba222a56b2f6bc092
+run_name: glamorous-whale-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773286462121
+status: 3
+tags: []
+user_id: root

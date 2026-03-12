@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/2cb092a6246b409d8d73140c4e0bdf58/artifacts
+end_time: 1773272298842
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 2cb092a6246b409d8d73140c4e0bdf58
+run_name: flawless-lamb-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773271540066
+status: 3
+tags: []
+user_id: root

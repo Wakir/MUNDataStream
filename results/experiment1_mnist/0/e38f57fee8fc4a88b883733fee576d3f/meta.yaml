@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/e38f57fee8fc4a88b883733fee576d3f/artifacts
+end_time: 1773253999929
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: e38f57fee8fc4a88b883733fee576d3f
+run_name: classy-sheep-705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253505633
+status: 3
+tags: []
+user_id: root

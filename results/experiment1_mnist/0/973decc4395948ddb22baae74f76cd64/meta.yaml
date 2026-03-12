@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/973decc4395948ddb22baae74f76cd64/artifacts
+end_time: 1773244870530
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 973decc4395948ddb22baae74f76cd64
+run_name: burly-fish-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773244800697
+status: 4
+tags: []
+user_id: root

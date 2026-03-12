@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/c18c7f3ed98c44a9b20e166926deb63b/artifacts
+end_time: 1773317429094
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: c18c7f3ed98c44a9b20e166926deb63b
+run_name: bittersweet-vole-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316213157
+status: 3
+tags: []
+user_id: root

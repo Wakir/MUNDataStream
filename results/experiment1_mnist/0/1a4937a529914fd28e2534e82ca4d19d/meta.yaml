@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/1a4937a529914fd28e2534e82ca4d19d/artifacts
+end_time: 1773254183283
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 1a4937a529914fd28e2534e82ca4d19d
+run_name: spiffy-hare-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253685615
+status: 3
+tags: []
+user_id: root

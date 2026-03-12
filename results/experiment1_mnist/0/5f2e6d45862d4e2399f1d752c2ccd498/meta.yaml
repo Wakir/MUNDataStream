@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/5f2e6d45862d4e2399f1d752c2ccd498/artifacts
+end_time: 1773267179803
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 5f2e6d45862d4e2399f1d752c2ccd498
+run_name: fortunate-penguin-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266838303
+status: 3
+tags: []
+user_id: root

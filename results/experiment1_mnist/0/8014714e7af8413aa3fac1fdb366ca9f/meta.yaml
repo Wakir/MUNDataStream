@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/8014714e7af8413aa3fac1fdb366ca9f/artifacts
+end_time: 1773254734408
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 8014714e7af8413aa3fac1fdb366ca9f
+run_name: marvelous-rat-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254234443
+status: 3
+tags: []
+user_id: root

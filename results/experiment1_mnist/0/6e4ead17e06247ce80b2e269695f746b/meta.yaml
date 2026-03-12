@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/6e4ead17e06247ce80b2e269695f746b/artifacts
+end_time: 1773262353894
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 6e4ead17e06247ce80b2e269695f746b
+run_name: abundant-ox-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261872768
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/77064c7a15664a97a999bd046d7d7f3b/artifacts
+end_time: 1773256481499
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 77064c7a15664a97a999bd046d7d7f3b
+run_name: dashing-ray-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255989418
+status: 3
+tags: []
+user_id: root

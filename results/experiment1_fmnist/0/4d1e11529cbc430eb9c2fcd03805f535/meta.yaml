@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/4d1e11529cbc430eb9c2fcd03805f535/artifacts
+end_time: 1773269926166
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 4d1e11529cbc430eb9c2fcd03805f535
+run_name: handsome-cub-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773269181406
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/621352ac745b44a0b304d28b1505fc14/artifacts
+end_time: 1773266813706
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 621352ac745b44a0b304d28b1505fc14
+run_name: tasteful-kite-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266342539
+status: 3
+tags: []
+user_id: root

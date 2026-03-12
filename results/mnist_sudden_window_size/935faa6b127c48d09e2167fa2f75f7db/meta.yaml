@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/935faa6b127c48d09e2167fa2f75f7db/artifacts
+end_time: 1773320939811
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 935faa6b127c48d09e2167fa2f75f7db
+run_name: learned-sponge-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773319777947
+status: 3
+tags: []
+user_id: root

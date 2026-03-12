@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/fee83f7ca7c04845ae110731e4f29481/artifacts
+end_time: 1773282098830
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: fee83f7ca7c04845ae110731e4f29481
+run_name: amazing-donkey-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281374270
+status: 3
+tags: []
+user_id: root

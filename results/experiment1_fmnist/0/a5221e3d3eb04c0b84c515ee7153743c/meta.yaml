@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/a5221e3d3eb04c0b84c515ee7153743c/artifacts
+end_time: 1773275466208
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: a5221e3d3eb04c0b84c515ee7153743c
+run_name: bald-deer-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773274721504
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/a2fbfef4d4c84adfbb2b901f61ad93fc/artifacts
+end_time: 1773272031092
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: a2fbfef4d4c84adfbb2b901f61ad93fc
+run_name: masked-worm-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773271295359
+status: 3
+tags: []
+user_id: root

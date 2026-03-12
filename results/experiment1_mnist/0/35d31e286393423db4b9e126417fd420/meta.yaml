@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/35d31e286393423db4b9e126417fd420/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 35d31e286393423db4b9e126417fd420
+run_name: amusing-fox-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249517552
+status: 1
+tags: []
+user_id: root

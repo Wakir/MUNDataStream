@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/5135ec77ad214da998c7cfe492300688/artifacts
+end_time: 1773285627392
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 5135ec77ad214da998c7cfe492300688
+run_name: able-zebra-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284906542
+status: 3
+tags: []
+user_id: root

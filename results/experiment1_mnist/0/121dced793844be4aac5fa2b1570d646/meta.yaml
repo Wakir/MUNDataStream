@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/121dced793844be4aac5fa2b1570d646/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 121dced793844be4aac5fa2b1570d646
+run_name: gregarious-mouse-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249393725
+status: 1
+tags: []
+user_id: root

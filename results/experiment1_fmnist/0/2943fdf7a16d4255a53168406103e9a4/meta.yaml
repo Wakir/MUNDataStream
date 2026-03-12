@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/2943fdf7a16d4255a53168406103e9a4/artifacts
+end_time: 1773284555816
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 2943fdf7a16d4255a53168406103e9a4
+run_name: secretive-foal-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773283825710
+status: 3
+tags: []
+user_id: root

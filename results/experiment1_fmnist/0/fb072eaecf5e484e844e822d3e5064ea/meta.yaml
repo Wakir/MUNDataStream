@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/fb072eaecf5e484e844e822d3e5064ea/artifacts
+end_time: 1773282843934
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: fb072eaecf5e484e844e822d3e5064ea
+run_name: skillful-finch-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773282132494
+status: 3
+tags: []
+user_id: root

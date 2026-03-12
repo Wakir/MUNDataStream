@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/0be877220d7945699ba341e0f2cdcc40/artifacts
+end_time: 1773244871510
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 0be877220d7945699ba341e0f2cdcc40
+run_name: sincere-slug-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773244801422
+status: 4
+tags: []
+user_id: root

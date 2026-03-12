@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/652724939092415161/cd8e49252c824e6bac4b2e10197f819f/artifacts
+end_time: 1773314252051
+entry_point_name: ''
+experiment_id: '652724939092415161'
+lifecycle_stage: active
+run_id: cd8e49252c824e6bac4b2e10197f819f
+run_name: flawless-midge-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312030383
+status: 3
+tags: []
+user_id: root

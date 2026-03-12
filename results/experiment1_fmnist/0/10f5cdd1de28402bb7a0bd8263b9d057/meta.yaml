@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/10f5cdd1de28402bb7a0bd8263b9d057/artifacts
+end_time: 1773276575887
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 10f5cdd1de28402bb7a0bd8263b9d057
+run_name: thundering-bass-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773275837366
+status: 3
+tags: []
+user_id: root

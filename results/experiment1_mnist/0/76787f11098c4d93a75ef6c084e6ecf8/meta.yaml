@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/76787f11098c4d93a75ef6c084e6ecf8/artifacts
+end_time: 1773260449892
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 76787f11098c4d93a75ef6c084e6ecf8
+run_name: debonair-lamb-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259972881
+status: 3
+tags: []
+user_id: root

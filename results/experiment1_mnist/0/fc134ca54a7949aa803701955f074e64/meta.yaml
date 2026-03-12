@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/fc134ca54a7949aa803701955f074e64/artifacts
+end_time: 1773260059091
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: fc134ca54a7949aa803701955f074e64
+run_name: nosy-squid-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259574728
+status: 3
+tags: []
+user_id: root

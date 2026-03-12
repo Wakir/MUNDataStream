@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/32ab4fdc073f49838eb71f416e67558c/artifacts
+end_time: 1773285709352
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 32ab4fdc073f49838eb71f416e67558c
+run_name: bittersweet-deer-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284984886
+status: 3
+tags: []
+user_id: root

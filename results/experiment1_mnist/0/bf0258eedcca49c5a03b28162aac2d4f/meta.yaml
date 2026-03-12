@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/bf0258eedcca49c5a03b28162aac2d4f/artifacts
+end_time: 1773265871787
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: bf0258eedcca49c5a03b28162aac2d4f
+run_name: nervous-frog-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265397781
+status: 3
+tags: []
+user_id: root

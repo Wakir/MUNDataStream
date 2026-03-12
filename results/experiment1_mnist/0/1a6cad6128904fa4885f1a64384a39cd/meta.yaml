@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/1a6cad6128904fa4885f1a64384a39cd/artifacts
+end_time: 1773266536152
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 1a6cad6128904fa4885f1a64384a39cd
+run_name: serious-wolf-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266067901
+status: 3
+tags: []
+user_id: root

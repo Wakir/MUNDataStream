@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/c6adc2b95f804545ad6d5b9adad4b70a/artifacts
+end_time: 1773252556239
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: c6adc2b95f804545ad6d5b9adad4b70a
+run_name: defiant-boar-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252052304
+status: 3
+tags: []
+user_id: root

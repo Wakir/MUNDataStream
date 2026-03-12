@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/f6ef3d9aaba345f19e2a133eabfbb61f/artifacts
+end_time: 1773260910794
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: f6ef3d9aaba345f19e2a133eabfbb61f
+run_name: trusting-conch-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773260426562
+status: 3
+tags: []
+user_id: root

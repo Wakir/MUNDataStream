@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/957a08de099f44b9b179989ef4e4bd79/artifacts
+end_time: 1773268613944
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 957a08de099f44b9b179989ef4e4bd79
+run_name: rumbling-duck-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268390001
+status: 4
+tags: []
+user_id: root

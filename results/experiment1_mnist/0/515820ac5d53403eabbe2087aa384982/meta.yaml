@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/515820ac5d53403eabbe2087aa384982/artifacts
+end_time: 1773264662535
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 515820ac5d53403eabbe2087aa384982
+run_name: delicate-doe-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264190565
+status: 3
+tags: []
+user_id: root

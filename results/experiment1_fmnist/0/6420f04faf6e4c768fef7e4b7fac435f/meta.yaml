@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/6420f04faf6e4c768fef7e4b7fac435f/artifacts
+end_time: 1773265405168
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 6420f04faf6e4c768fef7e4b7fac435f
+run_name: rogue-sponge-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264652342
+status: 3
+tags: []
+user_id: root

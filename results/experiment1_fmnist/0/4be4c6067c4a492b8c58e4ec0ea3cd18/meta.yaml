@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/4be4c6067c4a492b8c58e4ec0ea3cd18/artifacts
+end_time: 1773290794528
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 4be4c6067c4a492b8c58e4ec0ea3cd18
+run_name: calm-hound-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773290063779
+status: 3
+tags: []
+user_id: root

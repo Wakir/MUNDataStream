@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/57d029f6a47747cd926ba1f697064f8a/artifacts
+end_time: 1773280242037
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 57d029f6a47747cd926ba1f697064f8a
+run_name: clumsy-dove-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279484788
+status: 3
+tags: []
+user_id: root

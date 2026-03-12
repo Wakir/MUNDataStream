@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/10e8df4ed9584745b643628975a4f0e3/artifacts
+end_time: 1773272293855
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 10e8df4ed9584745b643628975a4f0e3
+run_name: upset-bass-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773271557396
+status: 3
+tags: []
+user_id: root

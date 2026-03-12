@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/9690d3b0fbaa48e898e68a56427c5da5/artifacts
+end_time: 1773265439213
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 9690d3b0fbaa48e898e68a56427c5da5
+run_name: auspicious-bass-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264665193
+status: 3
+tags: []
+user_id: root

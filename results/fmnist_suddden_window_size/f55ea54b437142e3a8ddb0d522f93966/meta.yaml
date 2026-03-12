@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/f55ea54b437142e3a8ddb0d522f93966/artifacts
+end_time: 1773306027835
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: f55ea54b437142e3a8ddb0d522f93966
+run_name: persistent-sloth-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773305253905
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/6d720d9b517a4928ac99f46c4a46478f/artifacts
+end_time: 1773303693669
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 6d720d9b517a4928ac99f46c4a46478f
+run_name: thoughtful-smelt-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773302907739
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/30497f91e2bd466385796752b745cab1/artifacts
+end_time: 1773255994116
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 30497f91e2bd466385796752b745cab1
+run_name: welcoming-wren-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255502904
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/1f359bd6417a44c8ace462ee7e38a057/artifacts
+end_time: 1773324477227
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 1f359bd6417a44c8ace462ee7e38a057
+run_name: stately-frog-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323317391
+status: 3
+tags: []
+user_id: root

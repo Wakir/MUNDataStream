@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/bd7d63798d394efd85f7bce3d01b49ec/artifacts
+end_time: 1773278338306
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: bd7d63798d394efd85f7bce3d01b49ec
+run_name: upbeat-fawn-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773277605311
+status: 3
+tags: []
+user_id: root

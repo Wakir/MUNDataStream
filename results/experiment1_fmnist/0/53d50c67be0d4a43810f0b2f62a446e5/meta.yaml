@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/53d50c67be0d4a43810f0b2f62a446e5/artifacts
+end_time: 1773278046907
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 53d50c67be0d4a43810f0b2f62a446e5
+run_name: masked-stork-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773277314099
+status: 3
+tags: []
+user_id: root

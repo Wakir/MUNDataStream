@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/8808a85de0c14b2cb3eb03eeae9293ca/artifacts
+end_time: 1773319745099
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 8808a85de0c14b2cb3eb03eeae9293ca
+run_name: rogue-snail-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773318576497
+status: 3
+tags: []
+user_id: root

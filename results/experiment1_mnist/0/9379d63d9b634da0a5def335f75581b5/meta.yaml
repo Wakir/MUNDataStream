@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/9379d63d9b634da0a5def335f75581b5/artifacts
+end_time: 1773262264671
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 9379d63d9b634da0a5def335f75581b5
+run_name: burly-squid-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261785742
+status: 3
+tags: []
+user_id: root

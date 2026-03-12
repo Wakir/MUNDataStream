@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/db6be43adfdd44c09865679e5d23132d/artifacts
+end_time: 1773274359463
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: db6be43adfdd44c09865679e5d23132d
+run_name: merciful-seal-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273617795
+status: 3
+tags: []
+user_id: root

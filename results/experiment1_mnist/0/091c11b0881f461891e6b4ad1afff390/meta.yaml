@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/091c11b0881f461891e6b4ad1afff390/artifacts
+end_time: 1773252207983
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 091c11b0881f461891e6b4ad1afff390
+run_name: serious-stoat-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251703951
+status: 3
+tags: []
+user_id: root

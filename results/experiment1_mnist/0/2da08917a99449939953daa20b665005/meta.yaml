@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/2da08917a99449939953daa20b665005/artifacts
+end_time: 1773265397741
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 2da08917a99449939953daa20b665005
+run_name: rogue-vole-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264923541
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/d0ea305d26f14cffb5c1d958e912c25a/artifacts
+end_time: 1773316890453
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: d0ea305d26f14cffb5c1d958e912c25a
+run_name: skillful-bat-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773315598570
+status: 3
+tags: []
+user_id: root

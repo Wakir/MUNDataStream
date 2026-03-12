@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/e439dd544f4046578bc23cbd9e7734ca/artifacts
+end_time: 1773252554828
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: e439dd544f4046578bc23cbd9e7734ca
+run_name: able-doe-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252051367
+status: 3
+tags: []
+user_id: root

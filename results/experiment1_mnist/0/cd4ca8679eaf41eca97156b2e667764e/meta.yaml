@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/cd4ca8679eaf41eca97156b2e667764e/artifacts
+end_time: 1773260297745
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: cd4ca8679eaf41eca97156b2e667764e
+run_name: bedecked-foal-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259818812
+status: 3
+tags: []
+user_id: root

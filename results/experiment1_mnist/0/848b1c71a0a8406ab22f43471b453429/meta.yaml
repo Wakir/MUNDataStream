@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/848b1c71a0a8406ab22f43471b453429/artifacts
+end_time: 1773252217505
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 848b1c71a0a8406ab22f43471b453429
+run_name: bright-moose-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251710997
+status: 3
+tags: []
+user_id: root

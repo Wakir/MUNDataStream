@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/af28ffb60d014b9593687c859b0f18e9/artifacts
+end_time: 1773269260994
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: af28ffb60d014b9593687c859b0f18e9
+run_name: overjoyed-turtle-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268501325
+status: 3
+tags: []
+user_id: root

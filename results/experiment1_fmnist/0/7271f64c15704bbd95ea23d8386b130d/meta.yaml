@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/7271f64c15704bbd95ea23d8386b130d/artifacts
+end_time: 1773271392138
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 7271f64c15704bbd95ea23d8386b130d
+run_name: angry-hen-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773270672334
+status: 3
+tags: []
+user_id: root

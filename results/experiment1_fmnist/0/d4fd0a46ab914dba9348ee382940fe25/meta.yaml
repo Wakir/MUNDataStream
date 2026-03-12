@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/d4fd0a46ab914dba9348ee382940fe25/artifacts
+end_time: 1773266621889
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: d4fd0a46ab914dba9348ee382940fe25
+run_name: legendary-gull-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265877866
+status: 3
+tags: []
+user_id: root

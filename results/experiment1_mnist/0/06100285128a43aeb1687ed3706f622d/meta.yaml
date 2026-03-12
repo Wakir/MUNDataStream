@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/06100285128a43aeb1687ed3706f622d/artifacts
+end_time: 1773264785426
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 06100285128a43aeb1687ed3706f622d
+run_name: bouncy-shark-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264315433
+status: 3
+tags: []
+user_id: root

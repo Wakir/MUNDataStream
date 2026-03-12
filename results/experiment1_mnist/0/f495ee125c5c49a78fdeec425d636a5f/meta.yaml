@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/f495ee125c5c49a78fdeec425d636a5f/artifacts
+end_time: 1773255480351
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: f495ee125c5c49a78fdeec425d636a5f
+run_name: bedecked-gnu-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254989065
+status: 3
+tags: []
+user_id: root

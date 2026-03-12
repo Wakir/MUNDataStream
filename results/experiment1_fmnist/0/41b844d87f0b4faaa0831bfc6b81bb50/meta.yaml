@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/41b844d87f0b4faaa0831bfc6b81bb50/artifacts
+end_time: 1773278058784
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 41b844d87f0b4faaa0831bfc6b81bb50
+run_name: omniscient-horse-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773277321025
+status: 3
+tags: []
+user_id: root

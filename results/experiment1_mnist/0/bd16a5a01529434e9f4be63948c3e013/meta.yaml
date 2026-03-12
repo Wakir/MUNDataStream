@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/bd16a5a01529434e9f4be63948c3e013/artifacts
+end_time: 1773257993837
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: bd16a5a01529434e9f4be63948c3e013
+run_name: popular-fly-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257502962
+status: 3
+tags: []
+user_id: root

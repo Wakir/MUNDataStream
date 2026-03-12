@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/c7d01f90f43f4fc9912cee643c79eb1e/artifacts
+end_time: 1773282377895
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: c7d01f90f43f4fc9912cee643c79eb1e
+run_name: glamorous-dove-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281650717
+status: 3
+tags: []
+user_id: root

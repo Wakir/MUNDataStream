@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/28fb2d0073314ed295a1333bed67276d/artifacts
+end_time: 1773252689838
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 28fb2d0073314ed295a1333bed67276d
+run_name: gaudy-elk-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252189350
+status: 3
+tags: []
+user_id: root

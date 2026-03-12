@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/8e85d34e8c5048a48d5ef4e0b919a4e7/artifacts
+end_time: 1773303775213
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 8e85d34e8c5048a48d5ef4e0b919a4e7
+run_name: honorable-eel-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773302985471
+status: 3
+tags: []
+user_id: root

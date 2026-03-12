@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/2be1e71f1d134981b3a3a0dc8f07495f/artifacts
+end_time: 1773275488408
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 2be1e71f1d134981b3a3a0dc8f07495f
+run_name: enchanting-tern-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773274761164
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/c3e949f3a7f74f84b30392ea223b8098/artifacts
+end_time: 1773323415833
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: c3e949f3a7f74f84b30392ea223b8098
+run_name: whimsical-lamb-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773322225223
+status: 3
+tags: []
+user_id: root

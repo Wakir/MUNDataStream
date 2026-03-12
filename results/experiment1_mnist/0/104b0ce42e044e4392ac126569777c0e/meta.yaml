@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/104b0ce42e044e4392ac126569777c0e/artifacts
+end_time: 1773256958414
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 104b0ce42e044e4392ac126569777c0e
+run_name: brawny-boar-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773256471455
+status: 3
+tags: []
+user_id: root

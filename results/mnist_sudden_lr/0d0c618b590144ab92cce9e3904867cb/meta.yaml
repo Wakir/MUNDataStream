@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/951286562057381247/0d0c618b590144ab92cce9e3904867cb/artifacts
+end_time: 1773319939854
+entry_point_name: ''
+experiment_id: '951286562057381247'
+lifecycle_stage: active
+run_id: 0d0c618b590144ab92cce9e3904867cb
+run_name: nebulous-cod-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773318763411
+status: 3
+tags: []
+user_id: root

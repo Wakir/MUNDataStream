@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/2acd61e9b71849078df5feb2782cd989/artifacts
+end_time: 1773274229509
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 2acd61e9b71849078df5feb2782cd989
+run_name: indecisive-goose-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273499249
+status: 3
+tags: []
+user_id: root

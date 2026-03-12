@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/cc02ce0546a54f3ebd3111e8bfa13c46/artifacts
+end_time: 1773263971958
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: cc02ce0546a54f3ebd3111e8bfa13c46
+run_name: salty-deer-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263494451
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/df0d0591e10545cc90fdd0e98047246e/artifacts
+end_time: 1773290782008
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: df0d0591e10545cc90fdd0e98047246e
+run_name: kindly-mule-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773290050208
+status: 3
+tags: []
+user_id: root

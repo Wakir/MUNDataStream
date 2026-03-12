@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/3bcef791c00345e7b1c7fd17260c473e/artifacts
+end_time: 1773300630877
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 3bcef791c00345e7b1c7fd17260c473e
+run_name: handsome-donkey-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773299806762
+status: 3
+tags: []
+user_id: root

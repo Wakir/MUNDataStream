@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/96e8e06370a541c2ac44448199824824/artifacts
+end_time: 1773265734221
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 96e8e06370a541c2ac44448199824824
+run_name: sneaky-hawk-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265261908
+status: 3
+tags: []
+user_id: root

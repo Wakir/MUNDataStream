@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/c2d7617d5a0b421680b2e9e832d7bc08/artifacts
+end_time: 1773265234779
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: c2d7617d5a0b421680b2e9e832d7bc08
+run_name: abundant-toad-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264765672
+status: 3
+tags: []
+user_id: root

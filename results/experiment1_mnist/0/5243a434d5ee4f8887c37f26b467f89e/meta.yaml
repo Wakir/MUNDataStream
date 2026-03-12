@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/5243a434d5ee4f8887c37f26b467f89e/artifacts
+end_time: 1773252036020
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 5243a434d5ee4f8887c37f26b467f89e
+run_name: youthful-horse-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251535416
+status: 3
+tags: []
+user_id: root

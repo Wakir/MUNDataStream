@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/b8c5b61f36c04e00bed688c35c222ef1/artifacts
+end_time: 1773281760960
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: b8c5b61f36c04e00bed688c35c222ef1
+run_name: silent-mink-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773280999966
+status: 3
+tags: []
+user_id: root

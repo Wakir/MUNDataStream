@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/f64579aca84744dbb45eab2d14285a4c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: f64579aca84744dbb45eab2d14285a4c
+run_name: angry-seal-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316069976
+status: 1
+tags: []
+user_id: root

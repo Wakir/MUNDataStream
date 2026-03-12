@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/74d7cb66c65448938952a7f5d6f5354d/artifacts
+end_time: 1773264665136
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 74d7cb66c65448938952a7f5d6f5354d
+run_name: wistful-trout-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263887661
+status: 3
+tags: []
+user_id: root

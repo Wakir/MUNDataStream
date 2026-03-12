@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/1a9056093230460c8549a0a816aabc5f/artifacts
+end_time: 1773316934953
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 1a9056093230460c8549a0a816aabc5f
+run_name: caring-bear-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773315630398
+status: 3
+tags: []
+user_id: root

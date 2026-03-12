@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/b6ae2a811da1415d869e9985e0b57db5/artifacts
+end_time: 1773265895043
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: b6ae2a811da1415d869e9985e0b57db5
+run_name: dashing-hawk-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265420278
+status: 3
+tags: []
+user_id: root

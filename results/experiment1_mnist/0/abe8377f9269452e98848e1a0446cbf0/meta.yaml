@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/abe8377f9269452e98848e1a0446cbf0/artifacts
+end_time: 1773267907462
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: abe8377f9269452e98848e1a0446cbf0
+run_name: bouncy-grub-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773267453693
+status: 3
+tags: []
+user_id: root

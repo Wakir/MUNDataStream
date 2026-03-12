@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/067526fd1a3c4246ad6b1d7035087eb5/artifacts
+end_time: 1773264187205
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 067526fd1a3c4246ad6b1d7035087eb5
+run_name: nebulous-croc-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263715619
+status: 3
+tags: []
+user_id: root

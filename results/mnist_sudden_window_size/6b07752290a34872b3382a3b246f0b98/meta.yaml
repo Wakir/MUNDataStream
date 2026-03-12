@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/6b07752290a34872b3382a3b246f0b98/artifacts
+end_time: 1773319737484
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 6b07752290a34872b3382a3b246f0b98
+run_name: classy-whale-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773318571086
+status: 3
+tags: []
+user_id: root

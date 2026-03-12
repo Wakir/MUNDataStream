@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/a03229b045364547a70266579cd2a90a/artifacts
+end_time: 1773288914666
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: a03229b045364547a70266579cd2a90a
+run_name: vaunted-goat-39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773288227962
+status: 3
+tags: []
+user_id: root

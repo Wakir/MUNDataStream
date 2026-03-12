@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/124696d457134329950ef0a126d4bb00/artifacts
+end_time: 1773252011969
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 124696d457134329950ef0a126d4bb00
+run_name: unequaled-moose-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251513520
+status: 3
+tags: []
+user_id: root

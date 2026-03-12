@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/9a9fb4d8da2d479aa3ccda5bce909b23/artifacts
+end_time: 1773244870530
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 9a9fb4d8da2d479aa3ccda5bce909b23
+run_name: trusting-dog-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773244801516
+status: 4
+tags: []
+user_id: root

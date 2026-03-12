@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/3a3a169fc3304fb99b0c9dd302bd4eee/artifacts
+end_time: 1773257595078
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 3a3a169fc3304fb99b0c9dd302bd4eee
+run_name: charming-flea-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257109350
+status: 3
+tags: []
+user_id: root

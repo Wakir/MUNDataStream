@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/637eaee332d24bc2904d7772b6a11288/artifacts
+end_time: 1773318551779
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 637eaee332d24bc2904d7772b6a11288
+run_name: skittish-colt-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773317385057
+status: 3
+tags: []
+user_id: root
