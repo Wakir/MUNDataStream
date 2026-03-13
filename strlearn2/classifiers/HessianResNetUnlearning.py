@@ -51,6 +51,29 @@ class HessianResNetUnlearning(BaseEstimator, ClassifierMixin):
 
         self.train_times_ = []
         self.memory_usage_ = []
+    
+    ####################################################################
+    # MEMORY USAGE
+    ####################################################################
+
+    def _get_memory_usage(self):
+
+        memory = 0
+
+        # pamięć parametrów modelu
+        for p in self.model.parameters():
+            memory += p.nelement() * p.element_size()
+
+        # pamięć gradientów (jeśli istnieją)
+        for p in self.model.parameters():
+            if p.grad is not None:
+                memory += p.grad.nelement() * p.grad.element_size()
+
+        # GPU memory (jeśli używany CUDA)
+        if torch.cuda.is_available():
+            memory += torch.cuda.memory_allocated(self.device)
+
+        return memory
 
 
     ####################################################################
@@ -279,12 +302,7 @@ class HessianResNetUnlearning(BaseEstimator, ClassifierMixin):
 
         self.train_times_.append(time.perf_counter() - t0)
 
-        self.memory_usage_.append(
-            sum(
-                gf[0].nbytes + gf[1].nbytes
-                for gf in self.buffer
-            )
-        )
+        self.memory_usage_.append(self._get_memory_usage())
 
         self.k += 1
 

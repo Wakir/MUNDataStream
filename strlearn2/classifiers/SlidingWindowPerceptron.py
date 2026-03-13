@@ -67,10 +67,28 @@ class SlidingWindowPerceptron(BaseEstimator, ClassifierMixin):
         )
 
         self._is_initialized = True
+    
+    def _track_memory_usage(self):
+
+        mem = 0
+
+        for p in self.model.parameters():
+            mem += p.nelement() * p.element_size()
+
+            if p.grad is not None:
+                mem += p.grad.nelement() * p.grad.element_size()
+
+        if hasattr(self, "buffer_"):
+            mem += sum(c[0].nbytes + c[1].nbytes for c in self.buffer_)
+
+        if torch.cuda.is_available():
+            mem += torch.cuda.memory_allocated(self.device)
+
+        self.memory_usage_.append(mem)
 
 
     # --------------------------------------------------
-    # Przygotowanie danych (MNIST -> tensor)
+    # DATA PREP (MNIST -> tensor)
     # --------------------------------------------------
     def _prepare_input(self, X):
 
@@ -80,11 +98,9 @@ class SlidingWindowPerceptron(BaseEstimator, ClassifierMixin):
             if X.ndim == 4:
                 X = np.transpose(X, (0, 3, 1, 2))
 
-            # MNIST: 1 kanał -> 3 kanały
             if X.shape[1] == 1:
                 X = np.repeat(X, 3, axis=1)
 
-            # gdyby przyszło jako spłaszczone 784
             if X.ndim == 2 and X.shape[1] == 784:
                 X = X.reshape(-1, 1, 28, 28)
                 X = np.repeat(X, 3, axis=1)
@@ -98,7 +114,7 @@ class SlidingWindowPerceptron(BaseEstimator, ClassifierMixin):
         return torch.tensor(y).long().to(self.device)
 
     # --------------------------------------------------
-    # Trening jednego chunka
+    # DATA CHUNK TRAIN
     # --------------------------------------------------
 
     def _train(self, X, y, epochs):
@@ -145,7 +161,7 @@ class SlidingWindowPerceptron(BaseEstimator, ClassifierMixin):
             self._init_model()
 
         # ==================================================
-        # k < L → trening inkrementalny
+        # k < L → inremental training
         # ==================================================
         if self.k_ < self.window_size:
 
@@ -153,7 +169,7 @@ class SlidingWindowPerceptron(BaseEstimator, ClassifierMixin):
             self.buffer_.append((X, y))
 
         # ==================================================
-        # k ≥ L → reset + trening na całym oknie
+        # k ≥ L → reset + training on whole window
         # ==================================================
         else:
             self.buffer_.append((X, y))
@@ -168,8 +184,7 @@ class SlidingWindowPerceptron(BaseEstimator, ClassifierMixin):
 
         self.train_times_.append(t_end - t_start)
 
-        mem = sum(c[0].nbytes + c[1].nbytes for c in self.buffer_)
-        self.memory_usage_.append(mem)
+        self._track_memory_usage()
 
         self.k_ += 1
 
