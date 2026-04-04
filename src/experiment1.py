@@ -6,7 +6,7 @@ from strlearn.evaluators import TestThenTrain
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import f1_score,  balanced_accuracy_score as bac, precision_score, recall_score
 from specificity import specificity, specificity_macro
-from strlearn2.classifiers import SlidingWindowPerceptron, FisherUnlearningAdam
+from strlearn2.classifiers import SlidingWindowPerceptron, HessianResNetUnlearning
 from collections import defaultdict
 
 
@@ -244,7 +244,7 @@ def run_experiment(chunk_size, noise_percent, delta_noise, window_size, random_s
     if alghoritm=="Sliding":
         clf = SlidingWindowPerceptron(window_size=window_size)
     elif alghoritm=="Unlearning":
-        clf = FisherUnlearningAdam(window_size=window_size, unlearning_rate = ulr)
+        clf = HessianResNetUnlearning(window_size=window_size, unlearning_rate = ulr)
     evaluator = TestThenTrain(metrics=list(metrics.values()))
 
     X0, y0 = next(iter(stream))
