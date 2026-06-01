@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/48b1682587ff4064a2a8701fcad78bc2/artifacts
+end_time: 1773286392222
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 48b1682587ff4064a2a8701fcad78bc2
+run_name: peaceful-newt-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285664283
+status: 3
+tags: []
+user_id: root

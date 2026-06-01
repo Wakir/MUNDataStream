@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/3491655f8aec44d7a591d81a35f940f8/artifacts
+end_time: 1780119351241
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 3491655f8aec44d7a591d81a35f940f8
+run_name: overjoyed-bat-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119317099
+status: 3
+tags: []
+user_id: plgmaczynspwr

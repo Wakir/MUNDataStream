@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/908e3a8602fd45c8ae783bee1b2e81dd/artifacts
+end_time: 1780135311906
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 908e3a8602fd45c8ae783bee1b2e81dd
+run_name: adorable-goat-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135277090
+status: 3
+tags: []
+user_id: plgmaczynspwr

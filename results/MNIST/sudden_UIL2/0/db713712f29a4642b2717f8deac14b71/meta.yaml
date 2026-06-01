@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/db713712f29a4642b2717f8deac14b71/artifacts
+end_time: 1780122366311
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: db713712f29a4642b2717f8deac14b71
+run_name: fortunate-crow-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122332083
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e091f2e06e474108b3ac1fadf00a58a0/artifacts
+end_time: 1780119393806
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e091f2e06e474108b3ac1fadf00a58a0
+run_name: upbeat-flea-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119360796
+status: 3
+tags: []
+user_id: plgmaczynspwr

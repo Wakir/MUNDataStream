@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/cfaa1b67ea1240f2a9f051e114529128/artifacts
+end_time: 1773276944236
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: cfaa1b67ea1240f2a9f051e114529128
+run_name: gentle-perch-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773276202918
+status: 3
+tags: []
+user_id: root

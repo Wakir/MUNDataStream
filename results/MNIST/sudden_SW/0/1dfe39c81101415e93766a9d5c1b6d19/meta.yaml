@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/1dfe39c81101415e93766a9d5c1b6d19/artifacts
+end_time: 1779393923675
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 1dfe39c81101415e93766a9d5c1b6d19
+run_name: youthful-worm-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779393585394
+status: 3
+tags: []
+user_id: plgmaczynspwr

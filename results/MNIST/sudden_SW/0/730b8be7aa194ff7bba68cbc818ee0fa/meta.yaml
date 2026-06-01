@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/730b8be7aa194ff7bba68cbc818ee0fa/artifacts
+end_time: 1779385462711
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 730b8be7aa194ff7bba68cbc818ee0fa
+run_name: welcoming-pug-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779385239959
+status: 3
+tags: []
+user_id: plgmaczynspwr

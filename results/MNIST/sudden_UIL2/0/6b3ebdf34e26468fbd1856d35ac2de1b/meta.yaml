@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/6b3ebdf34e26468fbd1856d35ac2de1b/artifacts
+end_time: 1780122064258
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 6b3ebdf34e26468fbd1856d35ac2de1b
+run_name: serious-bass-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122031109
+status: 3
+tags: []
+user_id: plgmaczynspwr

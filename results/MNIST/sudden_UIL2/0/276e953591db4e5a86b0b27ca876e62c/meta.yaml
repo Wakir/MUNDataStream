@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/276e953591db4e5a86b0b27ca876e62c/artifacts
+end_time: 1780108465793
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 276e953591db4e5a86b0b27ca876e62c
+run_name: monumental-snake-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108432150
+status: 3
+tags: []
+user_id: plgmaczynspwr

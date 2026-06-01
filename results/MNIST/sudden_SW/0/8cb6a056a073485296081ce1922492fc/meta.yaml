@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/8cb6a056a073485296081ce1922492fc/artifacts
+end_time: 1779356026725
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 8cb6a056a073485296081ce1922492fc
+run_name: victorious-auk-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779355968292
+status: 3
+tags: []
+user_id: plgmaczynspwr

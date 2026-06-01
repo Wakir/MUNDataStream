@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/72d8d42509a54764a6f0a5e2d0f36bc3/artifacts
+end_time: 1773259542194
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 72d8d42509a54764a6f0a5e2d0f36bc3
+run_name: ambitious-fox-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259058863
+status: 3
+tags: []
+user_id: root

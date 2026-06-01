@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/5bc1882838524d8e8a236bdc817d0cc4/artifacts
+end_time: 1773286119832
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 5bc1882838524d8e8a236bdc817d0cc4
+run_name: upset-chimp-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285408803
+status: 3
+tags: []
+user_id: root

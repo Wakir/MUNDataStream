@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/76c71f821f344a5d9ea810385a0b081b/artifacts
+end_time: 1780122303914
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 76c71f821f344a5d9ea810385a0b081b
+run_name: masked-penguin-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122270726
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/2bea9f1e5921476486dee12df3342bf2/artifacts
+end_time: 1773255496917
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 2bea9f1e5921476486dee12df3342bf2
+run_name: brawny-steed-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255004679
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e86de214c32042ffa2e9683c6edb6f9f/artifacts
+end_time: 1780121242668
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e86de214c32042ffa2e9683c6edb6f9f
+run_name: beautiful-skink-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121209585
+status: 3
+tags: []
+user_id: plgmaczynspwr

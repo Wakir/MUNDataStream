@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/4f79040fee774920a7ca91a9ad010649/artifacts
+end_time: 1780142444959
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 4f79040fee774920a7ca91a9ad010649
+run_name: lyrical-stoat-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142410086
+status: 3
+tags: []
+user_id: plgmaczynspwr

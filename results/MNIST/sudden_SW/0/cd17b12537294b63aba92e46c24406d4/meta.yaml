@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/cd17b12537294b63aba92e46c24406d4/artifacts
+end_time: 1779378391433
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: cd17b12537294b63aba92e46c24406d4
+run_name: unequaled-robin-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779378109458
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c98d3e46c90847e48bb2cf5f5df9a48c/artifacts
+end_time: 1780125491770
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c98d3e46c90847e48bb2cf5f5df9a48c
+run_name: nebulous-ant-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125458586
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/09b5cdefd00c4df585163971f84fd5cb/artifacts
+end_time: 1780142932111
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 09b5cdefd00c4df585163971f84fd5cb
+run_name: gaudy-lamb-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142897851
+status: 3
+tags: []
+user_id: plgmaczynspwr

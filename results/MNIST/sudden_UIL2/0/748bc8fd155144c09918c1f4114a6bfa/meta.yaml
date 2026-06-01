@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/748bc8fd155144c09918c1f4114a6bfa/artifacts
+end_time: 1780135393907
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 748bc8fd155144c09918c1f4114a6bfa
+run_name: victorious-stag-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135359910
+status: 3
+tags: []
+user_id: plgmaczynspwr

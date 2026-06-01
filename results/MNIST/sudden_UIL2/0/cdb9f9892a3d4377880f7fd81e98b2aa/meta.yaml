@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/cdb9f9892a3d4377880f7fd81e98b2aa/artifacts
+end_time: 1780112703680
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: cdb9f9892a3d4377880f7fd81e98b2aa
+run_name: nosy-whale-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112671238
+status: 3
+tags: []
+user_id: plgmaczynspwr

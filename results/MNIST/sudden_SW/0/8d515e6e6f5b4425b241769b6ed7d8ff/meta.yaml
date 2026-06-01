@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/8d515e6e6f5b4425b241769b6ed7d8ff/artifacts
+end_time: 1779429838732
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 8d515e6e6f5b4425b241769b6ed7d8ff
+run_name: gentle-fish-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779429510891
+status: 3
+tags: []
+user_id: plgmaczynspwr

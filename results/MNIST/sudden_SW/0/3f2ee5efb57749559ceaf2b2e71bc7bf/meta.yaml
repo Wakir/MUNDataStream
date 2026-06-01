@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/3f2ee5efb57749559ceaf2b2e71bc7bf/artifacts
+end_time: 1779486513134
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 3f2ee5efb57749559ceaf2b2e71bc7bf
+run_name: chill-snail-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779486296046
+status: 3
+tags: []
+user_id: plgmaczynspwr

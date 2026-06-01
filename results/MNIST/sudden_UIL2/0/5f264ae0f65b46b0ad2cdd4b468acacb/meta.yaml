@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/5f264ae0f65b46b0ad2cdd4b468acacb/artifacts
+end_time: 1780110369819
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 5f264ae0f65b46b0ad2cdd4b468acacb
+run_name: classy-sheep-995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110337532
+status: 3
+tags: []
+user_id: plgmaczynspwr

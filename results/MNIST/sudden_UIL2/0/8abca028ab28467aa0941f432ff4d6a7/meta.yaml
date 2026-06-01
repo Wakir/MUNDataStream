@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/8abca028ab28467aa0941f432ff4d6a7/artifacts
+end_time: 1780133696163
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 8abca028ab28467aa0941f432ff4d6a7
+run_name: adaptable-conch-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133661954
+status: 3
+tags: []
+user_id: plgmaczynspwr

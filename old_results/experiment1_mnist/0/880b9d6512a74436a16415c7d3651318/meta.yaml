@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/880b9d6512a74436a16415c7d3651318/artifacts
+end_time: 1773262766366
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 880b9d6512a74436a16415c7d3651318
+run_name: treasured-asp-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262291418
+status: 3
+tags: []
+user_id: root

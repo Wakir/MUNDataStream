@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/26b32c0cd6af466ea8db734db65ef439/artifacts
+end_time: 1780113117386
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 26b32c0cd6af466ea8db734db65ef439
+run_name: dazzling-sheep-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113083973
+status: 3
+tags: []
+user_id: plgmaczynspwr

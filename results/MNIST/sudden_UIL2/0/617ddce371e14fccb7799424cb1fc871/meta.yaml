@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/617ddce371e14fccb7799424cb1fc871/artifacts
+end_time: 1780129507219
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 617ddce371e14fccb7799424cb1fc871
+run_name: stylish-crane-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129472439
+status: 3
+tags: []
+user_id: plgmaczynspwr

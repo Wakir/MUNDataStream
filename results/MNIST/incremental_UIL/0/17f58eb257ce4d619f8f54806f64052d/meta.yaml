@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/17f58eb257ce4d619f8f54806f64052d/artifacts
+end_time: 1780244196771
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 17f58eb257ce4d619f8f54806f64052d
+run_name: charming-owl-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780244161212
+status: 3
+tags: []
+user_id: plgmaczynspwr

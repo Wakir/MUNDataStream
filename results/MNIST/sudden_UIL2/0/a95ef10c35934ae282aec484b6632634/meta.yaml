@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a95ef10c35934ae282aec484b6632634/artifacts
+end_time: 1780121135691
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a95ef10c35934ae282aec484b6632634
+run_name: bustling-frog-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121102585
+status: 3
+tags: []
+user_id: plgmaczynspwr

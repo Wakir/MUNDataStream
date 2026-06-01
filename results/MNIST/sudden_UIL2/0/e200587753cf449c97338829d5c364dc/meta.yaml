@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e200587753cf449c97338829d5c364dc/artifacts
+end_time: 1780131601418
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e200587753cf449c97338829d5c364dc
+run_name: orderly-grouse-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131567794
+status: 3
+tags: []
+user_id: plgmaczynspwr

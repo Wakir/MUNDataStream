@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/c9d8a0e709e448fdad98f75d4cecfac0/artifacts
+end_time: 1780112425257
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: c9d8a0e709e448fdad98f75d4cecfac0
+run_name: rebellious-skunk-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112392748
+status: 3
+tags: []
+user_id: plgmaczynspwr

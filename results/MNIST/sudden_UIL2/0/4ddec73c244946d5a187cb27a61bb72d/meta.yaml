@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/4ddec73c244946d5a187cb27a61bb72d/artifacts
+end_time: 1780240380558
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 4ddec73c244946d5a187cb27a61bb72d
+run_name: thundering-ape-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240347165
+status: 3
+tags: []
+user_id: plgmaczynspwr

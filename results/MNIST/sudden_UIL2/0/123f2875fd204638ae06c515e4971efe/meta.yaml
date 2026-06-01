@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/123f2875fd204638ae06c515e4971efe/artifacts
+end_time: 1780133057822
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 123f2875fd204638ae06c515e4971efe
+run_name: popular-dog-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133022054
+status: 3
+tags: []
+user_id: plgmaczynspwr

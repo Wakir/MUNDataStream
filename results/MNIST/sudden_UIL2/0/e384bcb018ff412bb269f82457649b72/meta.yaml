@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/e384bcb018ff412bb269f82457649b72/artifacts
+end_time: 1780139491123
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: e384bcb018ff412bb269f82457649b72
+run_name: abundant-worm-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139455450
+status: 3
+tags: []
+user_id: plgmaczynspwr

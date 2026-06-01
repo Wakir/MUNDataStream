@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/b255b5c8dd654085b1a8d8f4e02d4fa1/artifacts
+end_time: 1779380831425
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: b255b5c8dd654085b1a8d8f4e02d4fa1
+run_name: caring-lamb-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779380698354
+status: 3
+tags: []
+user_id: plgmaczynspwr

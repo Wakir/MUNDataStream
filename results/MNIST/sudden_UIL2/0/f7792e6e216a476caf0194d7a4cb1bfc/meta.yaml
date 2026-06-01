@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f7792e6e216a476caf0194d7a4cb1bfc/artifacts
+end_time: 1780142847235
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f7792e6e216a476caf0194d7a4cb1bfc
+run_name: useful-ox-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142811638
+status: 3
+tags: []
+user_id: plgmaczynspwr

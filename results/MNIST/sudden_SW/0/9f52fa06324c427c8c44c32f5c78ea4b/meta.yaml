@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/9f52fa06324c427c8c44c32f5c78ea4b/artifacts
+end_time: 1779402322793
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 9f52fa06324c427c8c44c32f5c78ea4b
+run_name: clean-trout-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779401905062
+status: 3
+tags: []
+user_id: plgmaczynspwr

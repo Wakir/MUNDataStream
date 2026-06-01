@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/507f4dad42c94d52af039248b0cc9862/artifacts
+end_time: 1780108032214
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 507f4dad42c94d52af039248b0cc9862
+run_name: bustling-fawn-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107999020
+status: 3
+tags: []
+user_id: plgmaczynspwr

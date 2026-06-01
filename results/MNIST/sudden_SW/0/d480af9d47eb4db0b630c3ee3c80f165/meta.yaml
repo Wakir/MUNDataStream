@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/d480af9d47eb4db0b630c3ee3c80f165/artifacts
+end_time: 1779494588567
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: d480af9d47eb4db0b630c3ee3c80f165
+run_name: painted-sheep-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779494182862
+status: 3
+tags: []
+user_id: plgmaczynspwr

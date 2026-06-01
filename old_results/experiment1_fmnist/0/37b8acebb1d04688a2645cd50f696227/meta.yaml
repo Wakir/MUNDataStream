@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/37b8acebb1d04688a2645cd50f696227/artifacts
+end_time: 1773280263705
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 37b8acebb1d04688a2645cd50f696227
+run_name: redolent-grouse-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279527965
+status: 3
+tags: []
+user_id: root

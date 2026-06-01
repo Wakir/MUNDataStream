@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/ff4d7e21e90c44d288410f344ccbaf2b/artifacts
+end_time: 1773262554231
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: ff4d7e21e90c44d288410f344ccbaf2b
+run_name: puzzled-rat-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262072943
+status: 3
+tags: []
+user_id: root

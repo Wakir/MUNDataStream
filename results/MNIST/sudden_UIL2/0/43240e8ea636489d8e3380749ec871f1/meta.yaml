@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/43240e8ea636489d8e3380749ec871f1/artifacts
+end_time: 1780124023611
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 43240e8ea636489d8e3380749ec871f1
+run_name: rare-goat-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123989633
+status: 3
+tags: []
+user_id: plgmaczynspwr

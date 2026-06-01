@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/906e8d72ca8d4240b4b007dd58f9014c/artifacts
+end_time: 1780136757402
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 906e8d72ca8d4240b4b007dd58f9014c
+run_name: luxuriant-shrew-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136723296
+status: 3
+tags: []
+user_id: plgmaczynspwr

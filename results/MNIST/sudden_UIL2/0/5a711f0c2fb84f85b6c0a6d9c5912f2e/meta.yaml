@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/5a711f0c2fb84f85b6c0a6d9c5912f2e/artifacts
+end_time: 1780123301626
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 5a711f0c2fb84f85b6c0a6d9c5912f2e
+run_name: funny-mouse-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123268434
+status: 3
+tags: []
+user_id: plgmaczynspwr

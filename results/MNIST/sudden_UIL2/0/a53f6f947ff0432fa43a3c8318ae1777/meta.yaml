@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/a53f6f947ff0432fa43a3c8318ae1777/artifacts
+end_time: 1780141659930
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: a53f6f947ff0432fa43a3c8318ae1777
+run_name: peaceful-stag-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141624410
+status: 3
+tags: []
+user_id: plgmaczynspwr

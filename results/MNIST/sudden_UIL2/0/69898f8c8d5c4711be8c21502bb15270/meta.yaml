@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/69898f8c8d5c4711be8c21502bb15270/artifacts
+end_time: 1780126066920
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 69898f8c8d5c4711be8c21502bb15270
+run_name: sedate-crane-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126033450
+status: 3
+tags: []
+user_id: plgmaczynspwr

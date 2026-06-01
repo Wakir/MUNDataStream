@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/380df0da02c046a5882a855b39205aa5/artifacts
+end_time: 1780124858393
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 380df0da02c046a5882a855b39205aa5
+run_name: blushing-mare-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124825104
+status: 3
+tags: []
+user_id: plgmaczynspwr

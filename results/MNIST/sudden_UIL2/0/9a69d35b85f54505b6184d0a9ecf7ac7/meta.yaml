@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/9a69d35b85f54505b6184d0a9ecf7ac7/artifacts
+end_time: 1780118045270
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 9a69d35b85f54505b6184d0a9ecf7ac7
+run_name: luxuriant-ram-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118011603
+status: 3
+tags: []
+user_id: plgmaczynspwr

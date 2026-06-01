@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/0a7b993fbe4e4368bc021887f9fc85c9/artifacts
+end_time: 1780141963709
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 0a7b993fbe4e4368bc021887f9fc85c9
+run_name: amusing-sheep-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141929001
+status: 3
+tags: []
+user_id: plgmaczynspwr

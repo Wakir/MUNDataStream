@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/57413e5040c7493ca67573ec1a08683d/artifacts
+end_time: 1780272603964
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 57413e5040c7493ca67573ec1a08683d
+run_name: bustling-jay-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780272550752
+status: 3
+tags: []
+user_id: plgmaczynspwr

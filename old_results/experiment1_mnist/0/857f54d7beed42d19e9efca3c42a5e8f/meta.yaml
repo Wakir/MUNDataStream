@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/857f54d7beed42d19e9efca3c42a5e8f/artifacts
+end_time: 1773259146281
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 857f54d7beed42d19e9efca3c42a5e8f
+run_name: suave-shad-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258658570
+status: 3
+tags: []
+user_id: root

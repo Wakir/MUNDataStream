@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/48a5ec1a81814796a2da89d2afcf105f/artifacts
+end_time: 1773286413691
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 48a5ec1a81814796a2da89d2afcf105f
+run_name: fearless-snail-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285681830
+status: 3
+tags: []
+user_id: root

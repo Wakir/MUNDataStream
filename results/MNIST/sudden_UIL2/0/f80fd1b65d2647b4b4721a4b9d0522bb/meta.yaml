@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f80fd1b65d2647b4b4721a4b9d0522bb/artifacts
+end_time: 1780120684031
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f80fd1b65d2647b4b4721a4b9d0522bb
+run_name: dazzling-moth-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120649849
+status: 3
+tags: []
+user_id: plgmaczynspwr

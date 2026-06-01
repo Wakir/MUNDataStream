@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/725b31682fc44d198233789d57198086/artifacts
+end_time: 1780114871439
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 725b31682fc44d198233789d57198086
+run_name: dashing-turtle-657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114837921
+status: 3
+tags: []
+user_id: plgmaczynspwr

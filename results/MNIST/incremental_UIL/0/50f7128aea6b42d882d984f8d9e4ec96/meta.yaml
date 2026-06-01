@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/50f7128aea6b42d882d984f8d9e4ec96/artifacts
+end_time: 1780241178702
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 50f7128aea6b42d882d984f8d9e4ec96
+run_name: clean-fawn-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241120785
+status: 3
+tags: []
+user_id: plgmaczynspwr

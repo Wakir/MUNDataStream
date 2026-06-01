@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/587f6c484c85403286086358cc344f7a/artifacts
+end_time: 1780122669505
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 587f6c484c85403286086358cc344f7a
+run_name: intrigued-whale-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122636291
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/699d124d88f7493a8c7ae87fc8ecc81d/artifacts
+end_time: 1780133535775
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 699d124d88f7493a8c7ae87fc8ecc81d
+run_name: stylish-snake-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133500940
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/71d67c78894048f1b2cef26b777b9c1a/artifacts
+end_time: 1780139833078
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 71d67c78894048f1b2cef26b777b9c1a
+run_name: colorful-bird-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139796815
+status: 3
+tags: []
+user_id: plgmaczynspwr

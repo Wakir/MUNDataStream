@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/1e8c66d1babe429b8c0121b7d5b8fa97/artifacts
+end_time: 1780123268430
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 1e8c66d1babe429b8c0121b7d5b8fa97
+run_name: useful-ray-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123234904
+status: 3
+tags: []
+user_id: plgmaczynspwr

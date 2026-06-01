@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/74b5a9a2d1f94cacb0fd8471c67c74be/artifacts
+end_time: 1780127230004
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 74b5a9a2d1f94cacb0fd8471c67c74be
+run_name: secretive-frog-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127196534
+status: 3
+tags: []
+user_id: plgmaczynspwr

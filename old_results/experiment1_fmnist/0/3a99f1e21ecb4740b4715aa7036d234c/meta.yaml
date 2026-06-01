@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/3a99f1e21ecb4740b4715aa7036d234c/artifacts
+end_time: 1773268613874
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 3a99f1e21ecb4740b4715aa7036d234c
+run_name: whimsical-rook-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268393207
+status: 4
+tags: []
+user_id: root

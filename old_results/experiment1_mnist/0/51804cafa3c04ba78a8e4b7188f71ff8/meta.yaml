@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/51804cafa3c04ba78a8e4b7188f71ff8/artifacts
+end_time: 1773255037557
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 51804cafa3c04ba78a8e4b7188f71ff8
+run_name: caring-lamb-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254539816
+status: 3
+tags: []
+user_id: root

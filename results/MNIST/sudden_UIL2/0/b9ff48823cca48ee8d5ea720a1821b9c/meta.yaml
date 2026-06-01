@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/b9ff48823cca48ee8d5ea720a1821b9c/artifacts
+end_time: 1780111016852
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: b9ff48823cca48ee8d5ea720a1821b9c
+run_name: popular-moose-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110984436
+status: 3
+tags: []
+user_id: plgmaczynspwr

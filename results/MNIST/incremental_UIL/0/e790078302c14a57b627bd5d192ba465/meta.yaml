@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/e790078302c14a57b627bd5d192ba465/artifacts
+end_time: 1780249758657
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: e790078302c14a57b627bd5d192ba465
+run_name: beautiful-roo-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780249722748
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/8e8a8c9aa65d488390bba46a4734f060/artifacts
+end_time: 1779406071495
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 8e8a8c9aa65d488390bba46a4734f060
+run_name: bittersweet-kite-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779405651231
+status: 3
+tags: []
+user_id: plgmaczynspwr

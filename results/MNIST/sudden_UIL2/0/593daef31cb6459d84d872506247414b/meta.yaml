@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/593daef31cb6459d84d872506247414b/artifacts
+end_time: 1780131002021
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 593daef31cb6459d84d872506247414b
+run_name: redolent-mule-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130967402
+status: 3
+tags: []
+user_id: plgmaczynspwr

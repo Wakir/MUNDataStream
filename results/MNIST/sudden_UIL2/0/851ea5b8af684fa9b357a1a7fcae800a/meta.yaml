@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/851ea5b8af684fa9b357a1a7fcae800a/artifacts
+end_time: 1780121600054
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 851ea5b8af684fa9b357a1a7fcae800a
+run_name: melodic-penguin-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121566670
+status: 3
+tags: []
+user_id: plgmaczynspwr

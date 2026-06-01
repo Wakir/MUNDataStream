@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/e734ad0920e74a7a94930ca4b99cdd15/artifacts
+end_time: 1780267259072
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: e734ad0920e74a7a94930ca4b99cdd15
+run_name: selective-koi-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267219434
+status: 3
+tags: []
+user_id: plgmaczynspwr

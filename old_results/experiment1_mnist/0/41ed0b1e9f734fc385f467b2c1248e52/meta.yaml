@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/41ed0b1e9f734fc385f467b2c1248e52/artifacts
+end_time: 1773266761863
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 41ed0b1e9f734fc385f467b2c1248e52
+run_name: placid-dolphin-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266292936
+status: 3
+tags: []
+user_id: root

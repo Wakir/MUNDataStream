@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/013859c697484cbf9f840f8a0197f1e3/artifacts
+end_time: 1779379123029
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 013859c697484cbf9f840f8a0197f1e3
+run_name: youthful-snake-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779378989245
+status: 3
+tags: []
+user_id: plgmaczynspwr

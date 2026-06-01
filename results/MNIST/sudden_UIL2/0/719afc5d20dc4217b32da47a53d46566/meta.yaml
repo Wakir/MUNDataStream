@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/719afc5d20dc4217b32da47a53d46566/artifacts
+end_time: 1780127182072
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 719afc5d20dc4217b32da47a53d46566
+run_name: magnificent-stag-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127148305
+status: 3
+tags: []
+user_id: plgmaczynspwr

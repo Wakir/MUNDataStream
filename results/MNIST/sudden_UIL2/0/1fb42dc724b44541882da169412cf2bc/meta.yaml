@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/1fb42dc724b44541882da169412cf2bc/artifacts
+end_time: 1780113856917
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 1fb42dc724b44541882da169412cf2bc
+run_name: zealous-conch-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113824334
+status: 3
+tags: []
+user_id: plgmaczynspwr

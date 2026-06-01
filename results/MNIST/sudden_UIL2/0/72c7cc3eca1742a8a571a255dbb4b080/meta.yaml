@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/72c7cc3eca1742a8a571a255dbb4b080/artifacts
+end_time: 1780138369542
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 72c7cc3eca1742a8a571a255dbb4b080
+run_name: worried-pig-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138335192
+status: 3
+tags: []
+user_id: plgmaczynspwr

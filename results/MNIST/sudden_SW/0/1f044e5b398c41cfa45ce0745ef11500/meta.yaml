@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns402/341924990387261327/1f044e5b398c41cfa45ce0745ef11500/artifacts
+end_time: 1779593306479
+entry_point_name: ''
+experiment_id: '341924990387261327'
+lifecycle_stage: active
+run_id: 1f044e5b398c41cfa45ce0745ef11500
+run_name: selective-hound-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591992807
+status: 3
+tags: []
+user_id: plgmaczynspwr

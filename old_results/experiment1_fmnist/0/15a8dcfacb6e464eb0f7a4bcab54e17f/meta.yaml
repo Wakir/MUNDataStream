@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/15a8dcfacb6e464eb0f7a4bcab54e17f/artifacts
+end_time: 1773275336769
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 15a8dcfacb6e464eb0f7a4bcab54e17f
+run_name: unruly-foal-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773274575954
+status: 3
+tags: []
+user_id: root

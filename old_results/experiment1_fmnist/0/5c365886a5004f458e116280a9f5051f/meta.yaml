@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/5c365886a5004f458e116280a9f5051f/artifacts
+end_time: 1773263881965
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 5c365886a5004f458e116280a9f5051f
+run_name: calm-rook-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263096571
+status: 3
+tags: []
+user_id: root

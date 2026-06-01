@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a8bd7170b0674eaf86a21da688ca9b79/artifacts
+end_time: 1780117371902
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a8bd7170b0674eaf86a21da688ca9b79
+run_name: lyrical-hare-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117339172
+status: 3
+tags: []
+user_id: plgmaczynspwr

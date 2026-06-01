@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/d01b5cc34b554bc68a7e630c7a7a52d9/artifacts
+end_time: 1780236729475
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: d01b5cc34b554bc68a7e630c7a7a52d9
+run_name: dashing-rook-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780236696439
+status: 3
+tags: []
+user_id: plgmaczynspwr

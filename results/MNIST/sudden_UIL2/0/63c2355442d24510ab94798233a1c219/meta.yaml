@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/63c2355442d24510ab94798233a1c219/artifacts
+end_time: 1780120812750
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 63c2355442d24510ab94798233a1c219
+run_name: charming-panda-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120779640
+status: 3
+tags: []
+user_id: plgmaczynspwr

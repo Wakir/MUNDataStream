@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/a12b64e357544bfbb4925f8f984d7e47/artifacts
+end_time: 1780112067266
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: a12b64e357544bfbb4925f8f984d7e47
+run_name: welcoming-rat-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112034740
+status: 3
+tags: []
+user_id: plgmaczynspwr

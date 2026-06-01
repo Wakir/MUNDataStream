@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/0e3f3e1e3ccd4ee6b08420ac66d28a69/artifacts
+end_time: 1779415426264
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 0e3f3e1e3ccd4ee6b08420ac66d28a69
+run_name: dashing-slug-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779414895814
+status: 3
+tags: []
+user_id: plgmaczynspwr

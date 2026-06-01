@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/af9b75c85c474a2f8cc32b493a91b142/artifacts
+end_time: 1779392564278
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: af9b75c85c474a2f8cc32b493a91b142
+run_name: abundant-wren-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779392222560
+status: 3
+tags: []
+user_id: plgmaczynspwr

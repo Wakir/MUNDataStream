@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/8b2dc709927f4613a78a62a49da5763d/artifacts
+end_time: 1780141076277
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 8b2dc709927f4613a78a62a49da5763d
+run_name: calm-mouse-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141042055
+status: 3
+tags: []
+user_id: plgmaczynspwr

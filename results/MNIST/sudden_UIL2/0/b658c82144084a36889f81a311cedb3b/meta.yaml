@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b658c82144084a36889f81a311cedb3b/artifacts
+end_time: 1780120152509
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b658c82144084a36889f81a311cedb3b
+run_name: big-horse-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120119328
+status: 3
+tags: []
+user_id: plgmaczynspwr

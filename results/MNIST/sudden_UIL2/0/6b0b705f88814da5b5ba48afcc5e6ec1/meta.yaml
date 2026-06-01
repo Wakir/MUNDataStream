@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6b0b705f88814da5b5ba48afcc5e6ec1/artifacts
+end_time: 1780115446274
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6b0b705f88814da5b5ba48afcc5e6ec1
+run_name: melodic-yak-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115412360
+status: 3
+tags: []
+user_id: plgmaczynspwr

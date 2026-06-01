@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/767d95c47d084e3ba5d1fafdc57d6d79/artifacts
+end_time: 1780133667984
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 767d95c47d084e3ba5d1fafdc57d6d79
+run_name: debonair-robin-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133632730
+status: 3
+tags: []
+user_id: plgmaczynspwr

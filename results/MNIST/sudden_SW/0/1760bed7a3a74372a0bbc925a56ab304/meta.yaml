@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns406/355398581562290081/1760bed7a3a74372a0bbc925a56ab304/artifacts
+end_time: 1779591233640
+entry_point_name: ''
+experiment_id: '355398581562290081'
+lifecycle_stage: active
+run_id: 1760bed7a3a74372a0bbc925a56ab304
+run_name: thoughtful-cow-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779590765496
+status: 3
+tags: []
+user_id: plgmaczynspwr

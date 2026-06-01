@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/27c8bb45be87476faba3ad26905f7570/artifacts
+end_time: 1773256131005
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 27c8bb45be87476faba3ad26905f7570
+run_name: aged-lamb-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255641692
+status: 3
+tags: []
+user_id: root

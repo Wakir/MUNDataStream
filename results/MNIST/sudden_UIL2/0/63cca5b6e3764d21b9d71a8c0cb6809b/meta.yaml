@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/63cca5b6e3764d21b9d71a8c0cb6809b/artifacts
+end_time: 1780131140496
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 63cca5b6e3764d21b9d71a8c0cb6809b
+run_name: colorful-dove-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131105858
+status: 3
+tags: []
+user_id: plgmaczynspwr

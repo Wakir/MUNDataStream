@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/65a0deb7a6344315b4c781381806791c/artifacts
+end_time: 1773274590216
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 65a0deb7a6344315b4c781381806791c
+run_name: nimble-ram-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273837275
+status: 3
+tags: []
+user_id: root

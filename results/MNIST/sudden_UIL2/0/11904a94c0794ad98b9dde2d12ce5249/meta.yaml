@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/11904a94c0794ad98b9dde2d12ce5249/artifacts
+end_time: 1780134662855
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 11904a94c0794ad98b9dde2d12ce5249
+run_name: big-turtle-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134628724
+status: 3
+tags: []
+user_id: plgmaczynspwr

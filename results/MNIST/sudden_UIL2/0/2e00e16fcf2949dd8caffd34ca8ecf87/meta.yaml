@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2e00e16fcf2949dd8caffd34ca8ecf87/artifacts
+end_time: 1780117646060
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2e00e16fcf2949dd8caffd34ca8ecf87
+run_name: judicious-grouse-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117612336
+status: 3
+tags: []
+user_id: plgmaczynspwr

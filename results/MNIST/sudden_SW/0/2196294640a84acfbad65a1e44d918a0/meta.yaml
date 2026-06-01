@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/2196294640a84acfbad65a1e44d918a0/artifacts
+end_time: 1779367210554
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 2196294640a84acfbad65a1e44d918a0
+run_name: suave-colt-112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779366983416
+status: 3
+tags: []
+user_id: plgmaczynspwr

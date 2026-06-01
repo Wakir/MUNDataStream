@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/fb9660da47564f73aa0567746f3be25b/artifacts
+end_time: 1780136533959
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: fb9660da47564f73aa0567746f3be25b
+run_name: righteous-turtle-833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136497722
+status: 3
+tags: []
+user_id: plgmaczynspwr

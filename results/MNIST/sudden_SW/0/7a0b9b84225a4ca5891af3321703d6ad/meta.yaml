@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/7a0b9b84225a4ca5891af3321703d6ad/artifacts
+end_time: 1779369019143
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 7a0b9b84225a4ca5891af3321703d6ad
+run_name: rebellious-snail-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779368734930
+status: 3
+tags: []
+user_id: plgmaczynspwr

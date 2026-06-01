@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/49b8ba395ec143ec8f641aba4de8917d/artifacts
+end_time: 1780247828472
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 49b8ba395ec143ec8f641aba4de8917d
+run_name: burly-frog-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780247791483
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/85b3f2c6481f483c95329efdb8142d12/artifacts
+end_time: 1779601483391
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: 85b3f2c6481f483c95329efdb8142d12
+run_name: righteous-fly-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779601008011
+status: 3
+tags: []
+user_id: plgmaczynspwr

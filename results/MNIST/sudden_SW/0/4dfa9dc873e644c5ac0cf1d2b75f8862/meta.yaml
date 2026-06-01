@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns402/341924990387261327/4dfa9dc873e644c5ac0cf1d2b75f8862/artifacts
+end_time: 1779589380503
+entry_point_name: ''
+experiment_id: '341924990387261327'
+lifecycle_stage: active
+run_id: 4dfa9dc873e644c5ac0cf1d2b75f8862
+run_name: omniscient-grouse-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779588074719
+status: 3
+tags: []
+user_id: plgmaczynspwr

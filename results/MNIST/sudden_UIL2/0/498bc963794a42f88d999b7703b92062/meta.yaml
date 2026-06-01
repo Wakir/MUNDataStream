@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/498bc963794a42f88d999b7703b92062/artifacts
+end_time: 1780138042862
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 498bc963794a42f88d999b7703b92062
+run_name: valuable-newt-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138008543
+status: 3
+tags: []
+user_id: plgmaczynspwr

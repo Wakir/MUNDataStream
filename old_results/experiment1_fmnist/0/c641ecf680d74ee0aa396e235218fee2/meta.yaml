@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/c641ecf680d74ee0aa396e235218fee2/artifacts
+end_time: 1773288605153
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: c641ecf680d74ee0aa396e235218fee2
+run_name: agreeable-midge-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287864017
+status: 3
+tags: []
+user_id: root

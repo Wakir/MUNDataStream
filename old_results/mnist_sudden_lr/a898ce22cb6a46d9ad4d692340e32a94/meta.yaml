@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/951286562057381247/a898ce22cb6a46d9ad4d692340e32a94/artifacts
+end_time: 1773322261173
+entry_point_name: ''
+experiment_id: '951286562057381247'
+lifecycle_stage: active
+run_id: a898ce22cb6a46d9ad4d692340e32a94
+run_name: mercurial-robin-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773321108525
+status: 3
+tags: []
+user_id: root

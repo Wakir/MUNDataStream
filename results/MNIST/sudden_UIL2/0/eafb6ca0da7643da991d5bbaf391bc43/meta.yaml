@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/eafb6ca0da7643da991d5bbaf391bc43/artifacts
+end_time: 1780128519184
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: eafb6ca0da7643da991d5bbaf391bc43
+run_name: dazzling-deer-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128485539
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/4a272c0bea0147338065d32fa7c71d69/artifacts
+end_time: 1780140486901
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 4a272c0bea0147338065d32fa7c71d69
+run_name: rumbling-steed-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140451390
+status: 3
+tags: []
+user_id: plgmaczynspwr

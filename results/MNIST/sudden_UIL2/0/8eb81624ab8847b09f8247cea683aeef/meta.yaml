@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/8eb81624ab8847b09f8247cea683aeef/artifacts
+end_time: 1780137596830
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 8eb81624ab8847b09f8247cea683aeef
+run_name: masked-snipe-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137562537
+status: 3
+tags: []
+user_id: plgmaczynspwr

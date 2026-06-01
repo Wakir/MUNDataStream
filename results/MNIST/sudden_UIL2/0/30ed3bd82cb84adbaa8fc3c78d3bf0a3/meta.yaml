@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/30ed3bd82cb84adbaa8fc3c78d3bf0a3/artifacts
+end_time: 1780134964295
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 30ed3bd82cb84adbaa8fc3c78d3bf0a3
+run_name: flawless-boar-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134929476
+status: 3
+tags: []
+user_id: plgmaczynspwr

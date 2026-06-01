@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/046dbece8f614d82893421f5d26c03bd/artifacts
+end_time: 1780138300920
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 046dbece8f614d82893421f5d26c03bd
+run_name: handsome-snake-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138266645
+status: 3
+tags: []
+user_id: plgmaczynspwr

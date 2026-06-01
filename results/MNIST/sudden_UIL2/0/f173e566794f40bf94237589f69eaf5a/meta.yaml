@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/f173e566794f40bf94237589f69eaf5a/artifacts
+end_time: 1780135626003
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: f173e566794f40bf94237589f69eaf5a
+run_name: wise-stork-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135591205
+status: 3
+tags: []
+user_id: plgmaczynspwr

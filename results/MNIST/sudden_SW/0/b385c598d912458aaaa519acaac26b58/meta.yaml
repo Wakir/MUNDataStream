@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns401/842381408063410304/b385c598d912458aaaa519acaac26b58/artifacts
+end_time: 1779598489014
+entry_point_name: ''
+experiment_id: '842381408063410304'
+lifecycle_stage: active
+run_id: b385c598d912458aaaa519acaac26b58
+run_name: hilarious-owl-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779597393814
+status: 3
+tags: []
+user_id: plgmaczynspwr

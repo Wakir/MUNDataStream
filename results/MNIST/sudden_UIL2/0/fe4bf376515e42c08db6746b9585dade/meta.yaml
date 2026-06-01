@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/fe4bf376515e42c08db6746b9585dade/artifacts
+end_time: 1780118504170
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: fe4bf376515e42c08db6746b9585dade
+run_name: lyrical-sponge-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118471315
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/cc5675ad3c714ed59639ee03b9499588/artifacts
+end_time: 1780128485535
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: cc5675ad3c714ed59639ee03b9499588
+run_name: luminous-dolphin-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128451925
+status: 3
+tags: []
+user_id: plgmaczynspwr

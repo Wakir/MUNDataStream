@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/fd75e98e44fb492493ff4b6402be4767/artifacts
+end_time: 1780120548176
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: fd75e98e44fb492493ff4b6402be4767
+run_name: rebellious-crow-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120515198
+status: 3
+tags: []
+user_id: plgmaczynspwr

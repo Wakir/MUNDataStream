@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/35820497c4b64cefaa1ccd6621dbc5ca/artifacts
+end_time: 1779406920623
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 35820497c4b64cefaa1ccd6621dbc5ca
+run_name: big-kit-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779406379062
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/77f3de39c0a54135a3924b8d77342b61/artifacts
+end_time: 1773263351242
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 77f3de39c0a54135a3924b8d77342b61
+run_name: enthused-donkey-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262878864
+status: 3
+tags: []
+user_id: root

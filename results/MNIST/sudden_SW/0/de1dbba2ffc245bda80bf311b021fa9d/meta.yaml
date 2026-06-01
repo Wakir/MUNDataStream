@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/de1dbba2ffc245bda80bf311b021fa9d/artifacts
+end_time: 1779390511808
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: de1dbba2ffc245bda80bf311b021fa9d
+run_name: upset-dog-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779390167297
+status: 3
+tags: []
+user_id: plgmaczynspwr

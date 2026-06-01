@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/9c45dd56037c4bbbb3dbf598952b0e13/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 9c45dd56037c4bbbb3dbf598952b0e13
+run_name: traveling-stoat-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249393194
+status: 1
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/19b0ab3a7a324f1b9fa9e16ea68da20f/artifacts
+end_time: 1773258438848
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 19b0ab3a7a324f1b9fa9e16ea68da20f
+run_name: skittish-smelt-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257952657
+status: 3
+tags: []
+user_id: root

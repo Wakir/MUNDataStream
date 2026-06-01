@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/56e5d58730fc42a0a955cec31dfb0042/artifacts
+end_time: 1780133323382
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 56e5d58730fc42a0a955cec31dfb0042
+run_name: abrasive-fowl-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133289565
+status: 3
+tags: []
+user_id: plgmaczynspwr

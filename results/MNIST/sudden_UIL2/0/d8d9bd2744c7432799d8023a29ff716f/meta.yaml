@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/d8d9bd2744c7432799d8023a29ff716f/artifacts
+end_time: 1780140344554
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: d8d9bd2744c7432799d8023a29ff716f
+run_name: legendary-stoat-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140308951
+status: 3
+tags: []
+user_id: plgmaczynspwr

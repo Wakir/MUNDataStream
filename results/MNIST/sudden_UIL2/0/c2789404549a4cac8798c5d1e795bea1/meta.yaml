@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c2789404549a4cac8798c5d1e795bea1/artifacts
+end_time: 1780127901360
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c2789404549a4cac8798c5d1e795bea1
+run_name: nervous-bird-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127867704
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/fd987d61cf32484f9c26dbd8451f9b54/artifacts
+end_time: 1780249686781
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: fd987d61cf32484f9c26dbd8451f9b54
+run_name: carefree-dog-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780249650794
+status: 3
+tags: []
+user_id: plgmaczynspwr

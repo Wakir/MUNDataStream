@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/10588c995c70479fa821c39947979f09/artifacts
+end_time: 1773255734811
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 10588c995c70479fa821c39947979f09
+run_name: victorious-vole-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255234655
+status: 3
+tags: []
+user_id: root

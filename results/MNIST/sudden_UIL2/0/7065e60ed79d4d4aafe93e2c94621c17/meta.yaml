@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7065e60ed79d4d4aafe93e2c94621c17/artifacts
+end_time: 1780141914489
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7065e60ed79d4d4aafe93e2c94621c17
+run_name: suave-stork-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141880265
+status: 3
+tags: []
+user_id: plgmaczynspwr

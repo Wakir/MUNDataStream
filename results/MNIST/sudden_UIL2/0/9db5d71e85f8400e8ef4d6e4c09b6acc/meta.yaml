@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/9db5d71e85f8400e8ef4d6e4c09b6acc/artifacts
+end_time: 1780125459062
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 9db5d71e85f8400e8ef4d6e4c09b6acc
+run_name: learned-colt-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125425022
+status: 3
+tags: []
+user_id: plgmaczynspwr

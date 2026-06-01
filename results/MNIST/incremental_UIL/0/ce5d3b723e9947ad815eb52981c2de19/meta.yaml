@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/ce5d3b723e9947ad815eb52981c2de19/artifacts
+end_time: 1780244730651
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: ce5d3b723e9947ad815eb52981c2de19
+run_name: silent-fly-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780244695033
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/ccc2452767cf407b81e12f7fef0c6c6d/artifacts
+end_time: 1780137493938
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: ccc2452767cf407b81e12f7fef0c6c6d
+run_name: gifted-roo-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137459666
+status: 3
+tags: []
+user_id: plgmaczynspwr

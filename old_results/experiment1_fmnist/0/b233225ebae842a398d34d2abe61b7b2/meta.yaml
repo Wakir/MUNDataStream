@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/b233225ebae842a398d34d2abe61b7b2/artifacts
+end_time: 1773282582551
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: b233225ebae842a398d34d2abe61b7b2
+run_name: judicious-hog-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281859444
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/53dc5999a5c14af1b689f13a895aa75b/artifacts
+end_time: 1780268999445
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 53dc5999a5c14af1b689f13a895aa75b
+run_name: honorable-sheep-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268948897
+status: 3
+tags: []
+user_id: plgmaczynspwr

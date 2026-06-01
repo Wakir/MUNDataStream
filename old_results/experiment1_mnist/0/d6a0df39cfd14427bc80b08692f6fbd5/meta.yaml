@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/d6a0df39cfd14427bc80b08692f6fbd5/artifacts
+end_time: 1773251029324
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: d6a0df39cfd14427bc80b08692f6fbd5
+run_name: capricious-vole-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250524378
+status: 3
+tags: []
+user_id: root

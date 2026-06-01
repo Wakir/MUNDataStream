@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/19dcdc8e175f49efa82bde5ca3839f44/artifacts
+end_time: 1773249369624
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 19dcdc8e175f49efa82bde5ca3839f44
+run_name: adventurous-stag-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249367548
+status: 4
+tags: []
+user_id: root

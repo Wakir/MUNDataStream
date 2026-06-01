@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/db82c76ab7574f7b95a6b509bbf51f20/artifacts
+end_time: 1780132106800
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: db82c76ab7574f7b95a6b509bbf51f20
+run_name: exultant-whale-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132073165
+status: 3
+tags: []
+user_id: plgmaczynspwr

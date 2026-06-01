@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/bbba362781c84f76bf92d96b5f04dbfe/artifacts
+end_time: 1779367776772
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: bbba362781c84f76bf92d96b5f04dbfe
+run_name: agreeable-stag-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779367545435
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6752a96ec8bc4f469b406cd92e81e862/artifacts
+end_time: 1780111270870
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6752a96ec8bc4f469b406cd92e81e862
+run_name: trusting-turtle-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111237506
+status: 3
+tags: []
+user_id: plgmaczynspwr

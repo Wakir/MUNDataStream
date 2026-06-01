@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/f80f1d1758dc417d8e017258aee90ba8/artifacts
+end_time: 1780120440268
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: f80f1d1758dc417d8e017258aee90ba8
+run_name: entertaining-koi-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120407241
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/0316303ceabb44c9b9699dfe8f2dd459/artifacts
+end_time: 1780109049966
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 0316303ceabb44c9b9699dfe8f2dd459
+run_name: chill-perch-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109017544
+status: 3
+tags: []
+user_id: plgmaczynspwr

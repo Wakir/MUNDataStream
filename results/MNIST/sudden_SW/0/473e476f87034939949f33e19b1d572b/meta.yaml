@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/473e476f87034939949f33e19b1d572b/artifacts
+end_time: 1779426248263
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 473e476f87034939949f33e19b1d572b
+run_name: marvelous-goat-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779425922996
+status: 3
+tags: []
+user_id: plgmaczynspwr

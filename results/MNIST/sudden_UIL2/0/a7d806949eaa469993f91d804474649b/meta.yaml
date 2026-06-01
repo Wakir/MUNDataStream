@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/a7d806949eaa469993f91d804474649b/artifacts
+end_time: 1780236370822
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: a7d806949eaa469993f91d804474649b
+run_name: whimsical-snake-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780236339153
+status: 3
+tags: []
+user_id: plgmaczynspwr

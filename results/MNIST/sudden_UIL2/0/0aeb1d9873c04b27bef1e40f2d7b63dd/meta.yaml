@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/0aeb1d9873c04b27bef1e40f2d7b63dd/artifacts
+end_time: 1780133744112
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 0aeb1d9873c04b27bef1e40f2d7b63dd
+run_name: traveling-grub-598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133710206
+status: 3
+tags: []
+user_id: plgmaczynspwr

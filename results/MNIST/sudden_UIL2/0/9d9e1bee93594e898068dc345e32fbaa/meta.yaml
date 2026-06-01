@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/9d9e1bee93594e898068dc345e32fbaa/artifacts
+end_time: 1780117781332
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 9d9e1bee93594e898068dc345e32fbaa
+run_name: colorful-hawk-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117747453
+status: 3
+tags: []
+user_id: plgmaczynspwr

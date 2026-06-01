@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/d1cf2242b7584deda38f197ad9855232/artifacts
+end_time: 1779407460802
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: d1cf2242b7584deda38f197ad9855232
+run_name: lyrical-seal-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779406920629
+status: 3
+tags: []
+user_id: plgmaczynspwr

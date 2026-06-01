@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/d81fc433647d4bfe903ec475264ad0ff/artifacts
+end_time: 1780121609018
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: d81fc433647d4bfe903ec475264ad0ff
+run_name: rebellious-crane-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121575029
+status: 3
+tags: []
+user_id: plgmaczynspwr

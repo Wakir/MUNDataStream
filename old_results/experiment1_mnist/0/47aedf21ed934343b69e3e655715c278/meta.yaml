@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/47aedf21ed934343b69e3e655715c278/artifacts
+end_time: 1773266521348
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 47aedf21ed934343b69e3e655715c278
+run_name: trusting-swan-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266052104
+status: 3
+tags: []
+user_id: root

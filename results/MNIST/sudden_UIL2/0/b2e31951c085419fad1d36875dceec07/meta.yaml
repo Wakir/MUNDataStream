@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b2e31951c085419fad1d36875dceec07/artifacts
+end_time: 1780115581025
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b2e31951c085419fad1d36875dceec07
+run_name: abrasive-crab-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115547442
+status: 3
+tags: []
+user_id: plgmaczynspwr

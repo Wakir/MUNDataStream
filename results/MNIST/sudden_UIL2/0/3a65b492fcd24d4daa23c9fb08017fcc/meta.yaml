@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/3a65b492fcd24d4daa23c9fb08017fcc/artifacts
+end_time: 1780137886305
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 3a65b492fcd24d4daa23c9fb08017fcc
+run_name: caring-stork-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137851392
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/58f2439429fb47f6b8f2738cee624a2f/artifacts
+end_time: 1780119249174
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 58f2439429fb47f6b8f2738cee624a2f
+run_name: debonair-skink-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119216061
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a1a19754e1e942e39e2aa1a421b98e9c/artifacts
+end_time: 1780122529146
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a1a19754e1e942e39e2aa1a421b98e9c
+run_name: intelligent-yak-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122495988
+status: 3
+tags: []
+user_id: plgmaczynspwr

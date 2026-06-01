@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/03fb691b0f3b4f5bb1f26763c6d5a4eb/artifacts
+end_time: 1779388404329
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 03fb691b0f3b4f5bb1f26763c6d5a4eb
+run_name: masked-ant-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779387992627
+status: 3
+tags: []
+user_id: plgmaczynspwr

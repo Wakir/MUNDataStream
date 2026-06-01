@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns406/355398581562290081/cb446681ed6e4346b0d191351bc0564d/artifacts
+end_time: 1779588437210
+entry_point_name: ''
+experiment_id: '355398581562290081'
+lifecycle_stage: active
+run_id: cb446681ed6e4346b0d191351bc0564d
+run_name: treasured-cow-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779587973639
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/1c2a51dbb2064dc7939d4e60b192a08d/artifacts
+end_time: 1773253562408
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 1c2a51dbb2064dc7939d4e60b192a08d
+run_name: bemused-horse-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253058948
+status: 3
+tags: []
+user_id: root

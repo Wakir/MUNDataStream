@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/3d7ae75028a54f63abb7586bfdaa04a5/artifacts
+end_time: 1773324538611
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 3d7ae75028a54f63abb7586bfdaa04a5
+run_name: orderly-shrew-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323412996
+status: 3
+tags: []
+user_id: root

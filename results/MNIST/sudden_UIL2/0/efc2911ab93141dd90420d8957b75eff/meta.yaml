@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/efc2911ab93141dd90420d8957b75eff/artifacts
+end_time: 1780120723287
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: efc2911ab93141dd90420d8957b75eff
+run_name: enthused-fly-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120689049
+status: 3
+tags: []
+user_id: plgmaczynspwr

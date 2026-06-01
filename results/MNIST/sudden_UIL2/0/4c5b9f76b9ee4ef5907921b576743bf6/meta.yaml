@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/4c5b9f76b9ee4ef5907921b576743bf6/artifacts
+end_time: 1780139526547
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 4c5b9f76b9ee4ef5907921b576743bf6
+run_name: crawling-fly-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139491128
+status: 3
+tags: []
+user_id: plgmaczynspwr

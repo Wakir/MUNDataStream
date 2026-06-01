@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9bc58379859d4ffb8b70a6c62b672150/artifacts
+end_time: 1780111827023
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9bc58379859d4ffb8b70a6c62b672150
+run_name: likeable-elk-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111794551
+status: 3
+tags: []
+user_id: plgmaczynspwr

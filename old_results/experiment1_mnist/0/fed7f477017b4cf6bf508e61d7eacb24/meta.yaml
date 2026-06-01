@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/fed7f477017b4cf6bf508e61d7eacb24/artifacts
+end_time: 1773259011391
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: fed7f477017b4cf6bf508e61d7eacb24
+run_name: painted-carp-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258530756
+status: 3
+tags: []
+user_id: root

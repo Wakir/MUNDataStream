@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/d6b64e492526448091eca682f108aab2/artifacts
+end_time: 1779358653806
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: d6b64e492526448091eca682f108aab2
+run_name: resilient-conch-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779358540785
+status: 3
+tags: []
+user_id: plgmaczynspwr

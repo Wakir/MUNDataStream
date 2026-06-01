@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/86d42f633779491885ed401794e6ed0e/artifacts
+end_time: 1773262866053
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 86d42f633779491885ed401794e6ed0e
+run_name: casual-cat-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262387845
+status: 3
+tags: []
+user_id: root

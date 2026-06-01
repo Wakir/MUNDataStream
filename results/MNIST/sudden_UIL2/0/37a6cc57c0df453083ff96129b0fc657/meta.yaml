@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/37a6cc57c0df453083ff96129b0fc657/artifacts
+end_time: 1780129924766
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 37a6cc57c0df453083ff96129b0fc657
+run_name: fortunate-asp-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129890000
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f1fe5337919144cb96f14ac77a2bc30f/artifacts
+end_time: 1773264765607
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f1fe5337919144cb96f14ac77a2bc30f
+run_name: gifted-snail-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264296321
+status: 3
+tags: []
+user_id: root

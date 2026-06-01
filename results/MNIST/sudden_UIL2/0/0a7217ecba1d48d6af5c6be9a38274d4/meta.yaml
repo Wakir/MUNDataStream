@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/0a7217ecba1d48d6af5c6be9a38274d4/artifacts
+end_time: 1780137750374
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 0a7217ecba1d48d6af5c6be9a38274d4
+run_name: nervous-stoat-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137714590
+status: 3
+tags: []
+user_id: plgmaczynspwr

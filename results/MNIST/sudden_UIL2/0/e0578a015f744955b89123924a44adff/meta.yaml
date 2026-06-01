@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/e0578a015f744955b89123924a44adff/artifacts
+end_time: 1780124296219
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: e0578a015f744955b89123924a44adff
+run_name: suave-gull-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124261981
+status: 3
+tags: []
+user_id: plgmaczynspwr

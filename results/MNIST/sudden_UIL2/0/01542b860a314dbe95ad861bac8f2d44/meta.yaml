@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/01542b860a314dbe95ad861bac8f2d44/artifacts
+end_time: 1780142335852
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 01542b860a314dbe95ad861bac8f2d44
+run_name: victorious-shad-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142300257
+status: 3
+tags: []
+user_id: plgmaczynspwr

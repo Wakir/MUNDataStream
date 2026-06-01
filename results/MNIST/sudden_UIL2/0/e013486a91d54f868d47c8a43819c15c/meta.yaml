@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e013486a91d54f868d47c8a43819c15c/artifacts
+end_time: 1780132149335
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e013486a91d54f868d47c8a43819c15c
+run_name: entertaining-cow-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132115479
+status: 3
+tags: []
+user_id: plgmaczynspwr

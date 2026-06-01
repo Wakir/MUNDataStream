@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/6a98b2a5ab2d4d98a4c886def94deb81/artifacts
+end_time: 1780121834690
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 6a98b2a5ab2d4d98a4c886def94deb81
+run_name: masked-gnat-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121801581
+status: 3
+tags: []
+user_id: plgmaczynspwr

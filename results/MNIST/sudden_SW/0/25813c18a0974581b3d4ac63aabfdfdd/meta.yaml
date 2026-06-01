@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/25813c18a0974581b3d4ac63aabfdfdd/artifacts
+end_time: 1779372464383
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 25813c18a0974581b3d4ac63aabfdfdd
+run_name: mercurial-bass-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779372128696
+status: 3
+tags: []
+user_id: plgmaczynspwr

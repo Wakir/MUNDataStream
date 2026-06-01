@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/8ba457e7f6654c2ca9c8d33fbca6d5dc/artifacts
+end_time: 1780267140679
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 8ba457e7f6654c2ca9c8d33fbca6d5dc
+run_name: stylish-owl-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267097893
+status: 3
+tags: []
+user_id: plgmaczynspwr

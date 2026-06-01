@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/be6efc834feb4556a1db7be5852d949d/artifacts
+end_time: 1773279164346
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: be6efc834feb4556a1db7be5852d949d
+run_name: peaceful-slug-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278433101
+status: 3
+tags: []
+user_id: root

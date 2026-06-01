@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/b827cb52861c47ce859003b7734a91c0/artifacts
+end_time: 1779587295060
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: b827cb52861c47ce859003b7734a91c0
+run_name: gentle-doe-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779586949243
+status: 3
+tags: []
+user_id: plgmaczynspwr

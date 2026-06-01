@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c13dec9ea3d54567b582e274c48e7be2/artifacts
+end_time: 1780120904947
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c13dec9ea3d54567b582e274c48e7be2
+run_name: masked-toad-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120871700
+status: 3
+tags: []
+user_id: plgmaczynspwr

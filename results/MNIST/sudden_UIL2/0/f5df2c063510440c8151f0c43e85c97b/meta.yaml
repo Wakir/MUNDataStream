@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/f5df2c063510440c8151f0c43e85c97b/artifacts
+end_time: 1780131833512
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: f5df2c063510440c8151f0c43e85c97b
+run_name: sassy-mink-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131798901
+status: 3
+tags: []
+user_id: plgmaczynspwr

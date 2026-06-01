@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/87bd00a5b95949029505f25155e2e5a8/artifacts
+end_time: 1773264164892
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 87bd00a5b95949029505f25155e2e5a8
+run_name: inquisitive-kite-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263693508
+status: 3
+tags: []
+user_id: root

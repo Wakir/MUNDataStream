@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6efdb94463cc467bb2362c6830339112/artifacts
+end_time: 1780115006040
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6efdb94463cc467bb2362c6830339112
+run_name: salty-ant-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114972476
+status: 3
+tags: []
+user_id: plgmaczynspwr

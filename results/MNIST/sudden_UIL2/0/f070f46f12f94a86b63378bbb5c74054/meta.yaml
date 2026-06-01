@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/f070f46f12f94a86b63378bbb5c74054/artifacts
+end_time: 1780129751080
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: f070f46f12f94a86b63378bbb5c74054
+run_name: traveling-bass-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129717144
+status: 3
+tags: []
+user_id: plgmaczynspwr

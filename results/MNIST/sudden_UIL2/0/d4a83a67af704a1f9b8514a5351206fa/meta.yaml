@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d4a83a67af704a1f9b8514a5351206fa/artifacts
+end_time: 1780125260973
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d4a83a67af704a1f9b8514a5351206fa
+run_name: receptive-turtle-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125226669
+status: 3
+tags: []
+user_id: plgmaczynspwr

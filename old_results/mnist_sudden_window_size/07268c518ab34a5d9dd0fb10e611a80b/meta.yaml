@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/07268c518ab34a5d9dd0fb10e611a80b/artifacts
+end_time: 1773317384582
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 07268c518ab34a5d9dd0fb10e611a80b
+run_name: incongruous-fowl-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316211366
+status: 3
+tags: []
+user_id: root

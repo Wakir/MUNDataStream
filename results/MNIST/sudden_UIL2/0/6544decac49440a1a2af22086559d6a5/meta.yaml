@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6544decac49440a1a2af22086559d6a5/artifacts
+end_time: 1780132878747
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6544decac49440a1a2af22086559d6a5
+run_name: luxuriant-sheep-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132842940
+status: 3
+tags: []
+user_id: plgmaczynspwr

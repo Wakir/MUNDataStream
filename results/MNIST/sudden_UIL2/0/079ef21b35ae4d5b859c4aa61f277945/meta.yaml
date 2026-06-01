@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/079ef21b35ae4d5b859c4aa61f277945/artifacts
+end_time: 1780127235773
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 079ef21b35ae4d5b859c4aa61f277945
+run_name: treasured-pug-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127200761
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/0980ac5424b14112b71192eaa8bc3e6f/artifacts
+end_time: 1773280242551
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 0980ac5424b14112b71192eaa8bc3e6f
+run_name: treasured-hawk-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279484481
+status: 3
+tags: []
+user_id: root

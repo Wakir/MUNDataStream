@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/71e3b978c9b041ea84b5c6e6240ef8d3/artifacts
+end_time: 1773273837234
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 71e3b978c9b041ea84b5c6e6240ef8d3
+run_name: unequaled-sponge-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273100646
+status: 3
+tags: []
+user_id: root

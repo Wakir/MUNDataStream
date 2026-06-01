@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d9d02bae50014bb28566ea27e5680e23/artifacts
+end_time: 1780114129785
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d9d02bae50014bb28566ea27e5680e23
+run_name: rumbling-goat-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114095977
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/bf1a8176bd3e4c43827fee2f20f2bf63/artifacts
+end_time: 1780124226378
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: bf1a8176bd3e4c43827fee2f20f2bf63
+run_name: skittish-wren-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124193021
+status: 3
+tags: []
+user_id: plgmaczynspwr

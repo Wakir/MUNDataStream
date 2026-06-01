@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/994c222d48df435bb6276bd4ffea32b6/artifacts
+end_time: 1779357400145
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 994c222d48df435bb6276bd4ffea32b6
+run_name: glamorous-owl-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779357287143
+status: 3
+tags: []
+user_id: plgmaczynspwr

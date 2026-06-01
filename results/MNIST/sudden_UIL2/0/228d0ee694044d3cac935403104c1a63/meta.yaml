@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/228d0ee694044d3cac935403104c1a63/artifacts
+end_time: 1780121095109
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 228d0ee694044d3cac935403104c1a63
+run_name: wistful-dolphin-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121060595
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/d0fec13f59e642bdb37ee31fa0b7babb/artifacts
+end_time: 1773258605172
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: d0fec13f59e642bdb37ee31fa0b7babb
+run_name: stately-jay-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258117417
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/72ba416f6c734a87bac4670e036081d2/artifacts
+end_time: 1780248309908
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 72ba416f6c734a87bac4670e036081d2
+run_name: skillful-fawn-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780248272931
+status: 3
+tags: []
+user_id: plgmaczynspwr

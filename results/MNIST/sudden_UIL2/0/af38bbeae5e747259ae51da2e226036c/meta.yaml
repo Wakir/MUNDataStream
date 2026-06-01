@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/af38bbeae5e747259ae51da2e226036c/artifacts
+end_time: 1780131694820
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: af38bbeae5e747259ae51da2e226036c
+run_name: magnificent-fish-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131660250
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/17d78fefdc3b4841958f9921d4546c37/artifacts
+end_time: 1779378989239
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 17d78fefdc3b4841958f9921d4546c37
+run_name: grandiose-hound-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779378856940
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/c37b89596f77489abcaa0524f2733030/artifacts
+end_time: 1780121302835
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: c37b89596f77489abcaa0524f2733030
+run_name: valuable-fish-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121268713
+status: 3
+tags: []
+user_id: plgmaczynspwr

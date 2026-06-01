@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/347d21eadb9e4e589384b5581f1c601d/artifacts
+end_time: 1773322134365
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 347d21eadb9e4e589384b5581f1c601d
+run_name: fun-owl-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773320940309
+status: 3
+tags: []
+user_id: root

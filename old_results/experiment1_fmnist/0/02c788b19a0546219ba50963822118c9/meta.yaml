@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/02c788b19a0546219ba50963822118c9/artifacts
+end_time: 1773278030246
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 02c788b19a0546219ba50963822118c9
+run_name: dapper-yak-828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773277301431
+status: 3
+tags: []
+user_id: root

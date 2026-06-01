@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/8c2eb4767f6246fa92917e2039ac070c/artifacts
+end_time: 1780117044374
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 8c2eb4767f6246fa92917e2039ac070c
+run_name: vaunted-mole-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117011686
+status: 3
+tags: []
+user_id: plgmaczynspwr

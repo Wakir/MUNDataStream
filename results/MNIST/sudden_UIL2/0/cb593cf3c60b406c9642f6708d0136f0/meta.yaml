@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/cb593cf3c60b406c9642f6708d0136f0/artifacts
+end_time: 1780125904286
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: cb593cf3c60b406c9642f6708d0136f0
+run_name: treasured-grub-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125870860
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b8bef16c712c4abc9cf2fa8872bd37ba/artifacts
+end_time: 1780140802545
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b8bef16c712c4abc9cf2fa8872bd37ba
+run_name: thoughtful-croc-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140768430
+status: 3
+tags: []
+user_id: plgmaczynspwr

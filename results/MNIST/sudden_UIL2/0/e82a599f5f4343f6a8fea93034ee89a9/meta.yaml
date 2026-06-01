@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e82a599f5f4343f6a8fea93034ee89a9/artifacts
+end_time: 1780127688402
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e82a599f5f4343f6a8fea93034ee89a9
+run_name: unruly-seal-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127654603
+status: 3
+tags: []
+user_id: plgmaczynspwr

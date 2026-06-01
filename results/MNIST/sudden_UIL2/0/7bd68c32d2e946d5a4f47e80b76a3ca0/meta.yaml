@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/7bd68c32d2e946d5a4f47e80b76a3ca0/artifacts
+end_time: 1780132826525
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 7bd68c32d2e946d5a4f47e80b76a3ca0
+run_name: youthful-goat-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132792455
+status: 3
+tags: []
+user_id: plgmaczynspwr

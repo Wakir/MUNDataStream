@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/b9c56ff576ee48de874b417b29fec644/artifacts
+end_time: 1780134253839
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: b9c56ff576ee48de874b417b29fec644
+run_name: masked-sow-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134219784
+status: 3
+tags: []
+user_id: plgmaczynspwr

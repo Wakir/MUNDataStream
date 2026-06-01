@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/8316b1964fa4452ba6ac30bfc6577f99/artifacts
+end_time: 1780136998512
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 8316b1964fa4452ba6ac30bfc6577f99
+run_name: unleashed-vole-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136962754
+status: 3
+tags: []
+user_id: plgmaczynspwr

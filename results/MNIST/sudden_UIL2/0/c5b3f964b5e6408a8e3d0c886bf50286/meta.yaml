@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/c5b3f964b5e6408a8e3d0c886bf50286/artifacts
+end_time: 1780139142374
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: c5b3f964b5e6408a8e3d0c886bf50286
+run_name: fearless-cow-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139107950
+status: 3
+tags: []
+user_id: plgmaczynspwr

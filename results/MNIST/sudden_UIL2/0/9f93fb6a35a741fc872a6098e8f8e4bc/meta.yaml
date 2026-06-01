@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9f93fb6a35a741fc872a6098e8f8e4bc/artifacts
+end_time: 1780109820373
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9f93fb6a35a741fc872a6098e8f8e4bc
+run_name: bemused-carp-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109788108
+status: 3
+tags: []
+user_id: plgmaczynspwr

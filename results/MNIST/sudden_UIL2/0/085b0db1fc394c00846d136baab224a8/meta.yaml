@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/085b0db1fc394c00846d136baab224a8/artifacts
+end_time: 1780125570984
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 085b0db1fc394c00846d136baab224a8
+run_name: carefree-mare-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125536358
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/b835de312b804b58914c735704be7a8c/artifacts
+end_time: 1780128216565
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: b835de312b804b58914c735704be7a8c
+run_name: glamorous-fowl-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128182913
+status: 3
+tags: []
+user_id: plgmaczynspwr

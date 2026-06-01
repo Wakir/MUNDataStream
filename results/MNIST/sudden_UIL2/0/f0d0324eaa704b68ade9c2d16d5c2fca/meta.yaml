@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/f0d0324eaa704b68ade9c2d16d5c2fca/artifacts
+end_time: 1780127722115
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: f0d0324eaa704b68ade9c2d16d5c2fca
+run_name: grandiose-dog-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127688407
+status: 3
+tags: []
+user_id: plgmaczynspwr

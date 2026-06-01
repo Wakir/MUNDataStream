@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/1afac182aafe42e3b91fc91aa9254a90/artifacts
+end_time: 1773317396377
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 1afac182aafe42e3b91fc91aa9254a90
+run_name: capable-toad-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316211577
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/fe7a5f49efd14ce98e976aaeef5b06ee/artifacts
+end_time: 1780125028373
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: fe7a5f49efd14ce98e976aaeef5b06ee
+run_name: awesome-wolf-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124994962
+status: 3
+tags: []
+user_id: plgmaczynspwr

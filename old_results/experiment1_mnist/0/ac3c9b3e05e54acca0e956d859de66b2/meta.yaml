@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/ac3c9b3e05e54acca0e956d859de66b2/artifacts
+end_time: 1773250340304
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: ac3c9b3e05e54acca0e956d859de66b2
+run_name: efficient-bee-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249841882
+status: 3
+tags: []
+user_id: root

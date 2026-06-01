@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/3fe1d82ee0c440718e2277e45ea35d9c/artifacts
+end_time: 1780110054741
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 3fe1d82ee0c440718e2277e45ea35d9c
+run_name: lyrical-crab-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110022131
+status: 3
+tags: []
+user_id: plgmaczynspwr

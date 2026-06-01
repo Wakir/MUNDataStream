@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/c0aaa2d9f19348ba8418d0dfbfb4b929/artifacts
+end_time: 1780250311058
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: c0aaa2d9f19348ba8418d0dfbfb4b929
+run_name: adorable-mare-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780250273710
+status: 3
+tags: []
+user_id: plgmaczynspwr

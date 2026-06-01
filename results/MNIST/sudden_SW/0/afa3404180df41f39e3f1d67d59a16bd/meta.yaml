@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/afa3404180df41f39e3f1d67d59a16bd/artifacts
+end_time: 1779421649792
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: afa3404180df41f39e3f1d67d59a16bd
+run_name: abrasive-goose-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779421487575
+status: 3
+tags: []
+user_id: plgmaczynspwr

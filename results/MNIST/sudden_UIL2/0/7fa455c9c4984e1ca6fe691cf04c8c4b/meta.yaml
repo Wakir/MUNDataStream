@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7fa455c9c4984e1ca6fe691cf04c8c4b/artifacts
+end_time: 1780139360091
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7fa455c9c4984e1ca6fe691cf04c8c4b
+run_name: zealous-yak-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139325893
+status: 3
+tags: []
+user_id: plgmaczynspwr

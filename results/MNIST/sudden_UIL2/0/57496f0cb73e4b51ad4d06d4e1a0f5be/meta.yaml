@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/57496f0cb73e4b51ad4d06d4e1a0f5be/artifacts
+end_time: 1780111003563
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 57496f0cb73e4b51ad4d06d4e1a0f5be
+run_name: stately-sloth-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110970151
+status: 3
+tags: []
+user_id: plgmaczynspwr

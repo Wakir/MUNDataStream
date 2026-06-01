@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/751f3f2f1d234756aa29b0ead757ff57/artifacts
+end_time: 1779395018217
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 751f3f2f1d234756aa29b0ead757ff57
+run_name: melodic-ant-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779394678885
+status: 3
+tags: []
+user_id: plgmaczynspwr

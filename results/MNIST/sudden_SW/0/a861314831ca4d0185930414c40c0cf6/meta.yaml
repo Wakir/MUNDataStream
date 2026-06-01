@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/a861314831ca4d0185930414c40c0cf6/artifacts
+end_time: 1779377192456
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: a861314831ca4d0185930414c40c0cf6
+run_name: upbeat-cub-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779376855323
+status: 3
+tags: []
+user_id: plgmaczynspwr

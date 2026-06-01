@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/61f840b1257c432bb32b0a6e48ac6ea8/artifacts
+end_time: 1780131348166
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 61f840b1257c432bb32b0a6e48ac6ea8
+run_name: charming-goat-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131313498
+status: 3
+tags: []
+user_id: plgmaczynspwr

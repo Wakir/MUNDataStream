@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/fcdba7cafdbe4df89cbbc8007350cd06/artifacts
+end_time: 1780120572854
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: fcdba7cafdbe4df89cbbc8007350cd06
+run_name: fearless-kite-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120539653
+status: 3
+tags: []
+user_id: plgmaczynspwr

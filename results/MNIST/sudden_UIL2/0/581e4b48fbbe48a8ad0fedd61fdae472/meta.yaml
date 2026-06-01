@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/581e4b48fbbe48a8ad0fedd61fdae472/artifacts
+end_time: 1780124827958
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 581e4b48fbbe48a8ad0fedd61fdae472
+run_name: masked-calf-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124794535
+status: 3
+tags: []
+user_id: plgmaczynspwr

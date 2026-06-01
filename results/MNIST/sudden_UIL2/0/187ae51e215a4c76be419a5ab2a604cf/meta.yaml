@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/187ae51e215a4c76be419a5ab2a604cf/artifacts
+end_time: 1780135172766
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 187ae51e215a4c76be419a5ab2a604cf
+run_name: delicate-mouse-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135138076
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/537b5423381b40e9bf5847d32d5aca6f/artifacts
+end_time: 1779434435590
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 537b5423381b40e9bf5847d32d5aca6f
+run_name: stately-mole-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779433943622
+status: 3
+tags: []
+user_id: plgmaczynspwr

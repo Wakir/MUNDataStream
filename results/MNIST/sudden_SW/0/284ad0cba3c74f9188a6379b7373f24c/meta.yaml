@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/284ad0cba3c74f9188a6379b7373f24c/artifacts
+end_time: 1779410742593
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 284ad0cba3c74f9188a6379b7373f24c
+run_name: fortunate-rat-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779410189004
+status: 3
+tags: []
+user_id: plgmaczynspwr

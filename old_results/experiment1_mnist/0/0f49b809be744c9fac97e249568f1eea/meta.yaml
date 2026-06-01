@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/0f49b809be744c9fac97e249568f1eea/artifacts
+end_time: 1773254022545
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 0f49b809be744c9fac97e249568f1eea
+run_name: bustling-grub-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253528369
+status: 3
+tags: []
+user_id: root

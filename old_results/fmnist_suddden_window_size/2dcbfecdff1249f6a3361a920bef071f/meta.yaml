@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/2dcbfecdff1249f6a3361a920bef071f/artifacts
+end_time: 1773299806722
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 2dcbfecdff1249f6a3361a920bef071f
+run_name: adorable-lark-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773298965764
+status: 3
+tags: []
+user_id: root

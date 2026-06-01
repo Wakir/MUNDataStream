@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/81cc177d2be2404da0801a8270b794ab/artifacts
+end_time: 1780125992754
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 81cc177d2be2404da0801a8270b794ab
+run_name: enthused-ram-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125959427
+status: 3
+tags: []
+user_id: plgmaczynspwr

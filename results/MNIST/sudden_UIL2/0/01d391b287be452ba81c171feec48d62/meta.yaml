@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/01d391b287be452ba81c171feec48d62/artifacts
+end_time: 1780114557046
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 01d391b287be452ba81c171feec48d62
+run_name: glamorous-skink-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114524344
+status: 3
+tags: []
+user_id: plgmaczynspwr

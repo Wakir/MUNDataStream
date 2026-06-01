@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/33745bb6f0b449c5adbde2471542c59d/artifacts
+end_time: 1780135206863
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 33745bb6f0b449c5adbde2471542c59d
+run_name: skillful-quail-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135172974
+status: 3
+tags: []
+user_id: plgmaczynspwr

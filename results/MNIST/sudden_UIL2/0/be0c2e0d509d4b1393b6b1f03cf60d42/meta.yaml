@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/be0c2e0d509d4b1393b6b1f03cf60d42/artifacts
+end_time: 1780137571170
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: be0c2e0d509d4b1393b6b1f03cf60d42
+run_name: painted-chimp-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137535559
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/68d8b36662074734938d113f21192faf/artifacts
+end_time: 1780115309070
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 68d8b36662074734938d113f21192faf
+run_name: enthused-bug-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115276320
+status: 3
+tags: []
+user_id: plgmaczynspwr

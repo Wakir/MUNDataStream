@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/45eea49763b9468ca1f79941fc17401a/artifacts
+end_time: 1773270782612
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 45eea49763b9468ca1f79941fc17401a
+run_name: rebellious-wren-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773270021701
+status: 3
+tags: []
+user_id: root

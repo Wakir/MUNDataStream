@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/f002e0ab114a4c8f89ce0013dd0a1318/artifacts
+end_time: 1780105984910
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: f002e0ab114a4c8f89ce0013dd0a1318
+run_name: vaunted-slug-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780105951328
+status: 3
+tags: []
+user_id: plgmaczynspwr

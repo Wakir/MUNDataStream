@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/40714271792047beb56fd71f2cb98ca0/artifacts
+end_time: 1780109330507
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 40714271792047beb56fd71f2cb98ca0
+run_name: dazzling-worm-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109297268
+status: 3
+tags: []
+user_id: plgmaczynspwr

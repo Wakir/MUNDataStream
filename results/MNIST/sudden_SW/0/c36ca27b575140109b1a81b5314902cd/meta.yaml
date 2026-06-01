@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/c36ca27b575140109b1a81b5314902cd/artifacts
+end_time: 1779486729216
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: c36ca27b575140109b1a81b5314902cd
+run_name: worried-seal-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779486513141
+status: 3
+tags: []
+user_id: plgmaczynspwr

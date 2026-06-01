@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/5b386b6b821747e1b8fb274eecc6042a/artifacts
+end_time: 1780133552526
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 5b386b6b821747e1b8fb274eecc6042a
+run_name: intelligent-carp-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133518329
+status: 3
+tags: []
+user_id: plgmaczynspwr

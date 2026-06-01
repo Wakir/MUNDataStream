@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/66385c44071d441e8cebeca702b188e7/artifacts
+end_time: 1780111070443
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 66385c44071d441e8cebeca702b188e7
+run_name: lyrical-wren-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111037161
+status: 3
+tags: []
+user_id: plgmaczynspwr

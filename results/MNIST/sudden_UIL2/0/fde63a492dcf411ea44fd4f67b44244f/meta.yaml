@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/fde63a492dcf411ea44fd4f67b44244f/artifacts
+end_time: 1780129159051
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: fde63a492dcf411ea44fd4f67b44244f
+run_name: treasured-elk-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129125330
+status: 3
+tags: []
+user_id: plgmaczynspwr

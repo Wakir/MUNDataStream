@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/7b28a7a1d28649b0bf42989c4cf6206a/artifacts
+end_time: 1773251036362
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 7b28a7a1d28649b0bf42989c4cf6206a
+run_name: tasteful-carp-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250524437
+status: 3
+tags: []
+user_id: root

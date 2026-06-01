@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/f891ab7fd3824b408285e3818fd285ef/artifacts
+end_time: 1780127375500
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: f891ab7fd3824b408285e3818fd285ef
+run_name: masked-yak-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127341941
+status: 3
+tags: []
+user_id: plgmaczynspwr

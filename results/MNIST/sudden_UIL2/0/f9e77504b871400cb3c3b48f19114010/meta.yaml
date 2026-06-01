@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f9e77504b871400cb3c3b48f19114010/artifacts
+end_time: 1780107035531
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f9e77504b871400cb3c3b48f19114010
+run_name: handsome-fish-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107002431
+status: 3
+tags: []
+user_id: plgmaczynspwr

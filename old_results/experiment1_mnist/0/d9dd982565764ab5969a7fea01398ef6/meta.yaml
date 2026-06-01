@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/d9dd982565764ab5969a7fea01398ef6/artifacts
+end_time: 1773256922900
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: d9dd982565764ab5969a7fea01398ef6
+run_name: salty-squid-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773256437546
+status: 3
+tags: []
+user_id: root

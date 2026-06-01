@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/235cc676b32846b1a8204eafed230db4/artifacts
+end_time: 1780120218394
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 235cc676b32846b1a8204eafed230db4
+run_name: vaunted-dove-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120185432
+status: 3
+tags: []
+user_id: plgmaczynspwr

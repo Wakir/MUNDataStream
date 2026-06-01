@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/21e37a448cfe4d9e977ebf8669b4a739/artifacts
+end_time: 1773284262339
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 21e37a448cfe4d9e977ebf8669b4a739
+run_name: nervous-worm-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773283537272
+status: 3
+tags: []
+user_id: root

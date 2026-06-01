@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/6d3cf4ac49da4aa3a3a48e4382ebe50b/artifacts
+end_time: 1780124267244
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 6d3cf4ac49da4aa3a3a48e4382ebe50b
+run_name: popular-fly-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124233935
+status: 3
+tags: []
+user_id: plgmaczynspwr

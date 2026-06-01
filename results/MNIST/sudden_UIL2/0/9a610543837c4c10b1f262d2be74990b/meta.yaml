@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/9a610543837c4c10b1f262d2be74990b/artifacts
+end_time: 1780123334885
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 9a610543837c4c10b1f262d2be74990b
+run_name: capable-pug-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123301630
+status: 3
+tags: []
+user_id: plgmaczynspwr

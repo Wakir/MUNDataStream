@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/726e460a1d244213bfb0e600b207fa63/artifacts
+end_time: 1780123561156
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 726e460a1d244213bfb0e600b207fa63
+run_name: bouncy-horse-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123527889
+status: 3
+tags: []
+user_id: plgmaczynspwr

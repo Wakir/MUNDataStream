@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/28bd9b466d8a40b4930b170bef3b1c7c/artifacts
+end_time: 1780266399024
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 28bd9b466d8a40b4930b170bef3b1c7c
+run_name: colorful-horse-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780266361597
+status: 3
+tags: []
+user_id: plgmaczynspwr

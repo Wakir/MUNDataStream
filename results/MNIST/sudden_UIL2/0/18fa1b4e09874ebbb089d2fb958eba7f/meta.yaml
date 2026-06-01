@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/18fa1b4e09874ebbb089d2fb958eba7f/artifacts
+end_time: 1780131948203
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 18fa1b4e09874ebbb089d2fb958eba7f
+run_name: funny-snipe-98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131914160
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/94cd435255c24c448cce418662ad382d/artifacts
+end_time: 1780116952688
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 94cd435255c24c448cce418662ad382d
+run_name: treasured-doe-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116920931
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/9dfc5d984fd846a2b8f3fe0429e0a9bf/artifacts
+end_time: 1780119017766
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 9dfc5d984fd846a2b8f3fe0429e0a9bf
+run_name: dazzling-lamb-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118984769
+status: 3
+tags: []
+user_id: plgmaczynspwr

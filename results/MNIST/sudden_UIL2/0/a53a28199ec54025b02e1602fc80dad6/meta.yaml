@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/a53a28199ec54025b02e1602fc80dad6/artifacts
+end_time: 1780106403273
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: a53a28199ec54025b02e1602fc80dad6
+run_name: skittish-horse-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780106370822
+status: 3
+tags: []
+user_id: plgmaczynspwr

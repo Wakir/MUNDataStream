@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/f8315669d4e54c619da3941b1dd073de/artifacts
+end_time: 1780124625190
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: f8315669d4e54c619da3941b1dd073de
+run_name: rebellious-flea-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124591870
+status: 3
+tags: []
+user_id: plgmaczynspwr

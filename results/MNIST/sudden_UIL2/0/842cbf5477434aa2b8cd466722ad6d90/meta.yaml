@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/842cbf5477434aa2b8cd466722ad6d90/artifacts
+end_time: 1780132250516
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 842cbf5477434aa2b8cd466722ad6d90
+run_name: auspicious-kite-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132216801
+status: 3
+tags: []
+user_id: plgmaczynspwr

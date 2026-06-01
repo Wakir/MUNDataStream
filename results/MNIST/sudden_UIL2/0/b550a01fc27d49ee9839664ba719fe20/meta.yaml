@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b550a01fc27d49ee9839664ba719fe20/artifacts
+end_time: 1780131230905
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b550a01fc27d49ee9839664ba719fe20
+run_name: righteous-shoat-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131197277
+status: 3
+tags: []
+user_id: plgmaczynspwr

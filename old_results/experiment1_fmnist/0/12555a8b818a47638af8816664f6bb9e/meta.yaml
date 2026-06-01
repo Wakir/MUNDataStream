@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/12555a8b818a47638af8816664f6bb9e/artifacts
+end_time: 1773277974467
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 12555a8b818a47638af8816664f6bb9e
+run_name: angry-loon-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773277208157
+status: 3
+tags: []
+user_id: root

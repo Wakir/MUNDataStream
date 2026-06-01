@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/bebcd490e8bd403c82b314d2dd9bc2e0/artifacts
+end_time: 1780137699678
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: bebcd490e8bd403c82b314d2dd9bc2e0
+run_name: enchanting-roo-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137665401
+status: 3
+tags: []
+user_id: plgmaczynspwr

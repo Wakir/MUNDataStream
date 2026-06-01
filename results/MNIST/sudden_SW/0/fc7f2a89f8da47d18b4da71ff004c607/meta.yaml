@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns406/355398581562290081/fc7f2a89f8da47d18b4da71ff004c607/artifacts
+end_time: 1779583750432
+entry_point_name: ''
+experiment_id: '355398581562290081'
+lifecycle_stage: active
+run_id: fc7f2a89f8da47d18b4da71ff004c607
+run_name: merciful-kite-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779583283230
+status: 3
+tags: []
+user_id: plgmaczynspwr

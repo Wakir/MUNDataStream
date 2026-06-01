@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns406/355398581562290081/89006772cafe42f094d1d9b105ed6f30/artifacts
+end_time: 1779587046465
+entry_point_name: ''
+experiment_id: '355398581562290081'
+lifecycle_stage: active
+run_id: 89006772cafe42f094d1d9b105ed6f30
+run_name: tasteful-bass-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779586583408
+status: 3
+tags: []
+user_id: plgmaczynspwr

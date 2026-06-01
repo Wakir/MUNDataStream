@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/fd7a1126e5c54a74a25bb6f19a02833d/artifacts
+end_time: 1773262978713
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: fd7a1126e5c54a74a25bb6f19a02833d
+run_name: abrasive-sloth-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262499341
+status: 3
+tags: []
+user_id: root

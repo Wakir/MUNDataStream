@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/83662ffaea70482d9089dc79b3310f21/artifacts
+end_time: 1780111974820
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 83662ffaea70482d9089dc79b3310f21
+run_name: melodic-stoat-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111941244
+status: 3
+tags: []
+user_id: plgmaczynspwr

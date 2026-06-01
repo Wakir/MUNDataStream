@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/35101fab09b742cca65079c9bbc8ed08/artifacts
+end_time: 1780117353453
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 35101fab09b742cca65079c9bbc8ed08
+run_name: thundering-asp-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117320685
+status: 3
+tags: []
+user_id: plgmaczynspwr

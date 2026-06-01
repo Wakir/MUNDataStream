@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/5d053894bf7c4480a6ea1cc7934b7b92/artifacts
+end_time: 1779430379127
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 5d053894bf7c4480a6ea1cc7934b7b92
+run_name: skittish-skunk-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779430053579
+status: 3
+tags: []
+user_id: plgmaczynspwr

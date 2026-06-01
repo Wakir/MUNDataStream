@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/d1a00f4ec0604ce3b67002d002862eed/artifacts
+end_time: 1780133608551
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: d1a00f4ec0604ce3b67002d002862eed
+run_name: zealous-roo-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133574654
+status: 3
+tags: []
+user_id: plgmaczynspwr

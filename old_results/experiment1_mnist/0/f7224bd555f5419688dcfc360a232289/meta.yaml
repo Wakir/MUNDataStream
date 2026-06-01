@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f7224bd555f5419688dcfc360a232289/artifacts
+end_time: 1773263991895
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f7224bd555f5419688dcfc360a232289
+run_name: charming-cow-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263513721
+status: 3
+tags: []
+user_id: root

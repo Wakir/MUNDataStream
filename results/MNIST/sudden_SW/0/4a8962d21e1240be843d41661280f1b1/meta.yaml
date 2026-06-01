@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/4a8962d21e1240be843d41661280f1b1/artifacts
+end_time: 1779372583337
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 4a8962d21e1240be843d41661280f1b1
+run_name: mercurial-rook-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779372293898
+status: 3
+tags: []
+user_id: plgmaczynspwr

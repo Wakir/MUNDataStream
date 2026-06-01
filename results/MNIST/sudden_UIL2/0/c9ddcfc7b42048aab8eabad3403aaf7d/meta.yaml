@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c9ddcfc7b42048aab8eabad3403aaf7d/artifacts
+end_time: 1780141859600
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c9ddcfc7b42048aab8eabad3403aaf7d
+run_name: loud-sloth-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141824837
+status: 3
+tags: []
+user_id: plgmaczynspwr

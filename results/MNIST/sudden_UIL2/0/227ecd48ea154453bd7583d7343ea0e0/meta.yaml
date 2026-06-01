@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/227ecd48ea154453bd7583d7343ea0e0/artifacts
+end_time: 1780126838439
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 227ecd48ea154453bd7583d7343ea0e0
+run_name: gregarious-elk-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126804923
+status: 3
+tags: []
+user_id: plgmaczynspwr

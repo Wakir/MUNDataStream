@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/44f29bc7fe5c47828df08a63e9365e62/artifacts
+end_time: 1779356318674
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 44f29bc7fe5c47828df08a63e9365e62
+run_name: unleashed-flea-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779356260062
+status: 3
+tags: []
+user_id: plgmaczynspwr

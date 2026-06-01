@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/223c1b43792c4e04bdbe2c95f5420b6b/artifacts
+end_time: 1779589662827
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 223c1b43792c4e04bdbe2c95f5420b6b
+run_name: casual-whale-35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779589251816
+status: 3
+tags: []
+user_id: plgmaczynspwr

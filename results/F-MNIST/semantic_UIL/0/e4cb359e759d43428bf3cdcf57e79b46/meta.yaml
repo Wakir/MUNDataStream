@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/e4cb359e759d43428bf3cdcf57e79b46/artifacts
+end_time: 1780278304716
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: e4cb359e759d43428bf3cdcf57e79b46
+run_name: skittish-doe-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780278253090
+status: 3
+tags: []
+user_id: plgmaczynspwr

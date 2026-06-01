@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/1edb79c36a264a2ea6a6cd87706c573e/artifacts
+end_time: 1780237612608
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 1edb79c36a264a2ea6a6cd87706c573e
+run_name: carefree-wasp-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780237578346
+status: 3
+tags: []
+user_id: plgmaczynspwr

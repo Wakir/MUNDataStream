@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/9e9abf2501be4f32a7aa6814fba23f02/artifacts
+end_time: 1780134441819
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 9e9abf2501be4f32a7aa6814fba23f02
+run_name: painted-foal-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134408031
+status: 3
+tags: []
+user_id: plgmaczynspwr

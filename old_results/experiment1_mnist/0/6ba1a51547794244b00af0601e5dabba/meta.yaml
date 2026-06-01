@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/6ba1a51547794244b00af0601e5dabba/artifacts
+end_time: 1773263434238
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 6ba1a51547794244b00af0601e5dabba
+run_name: honorable-shrike-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262959455
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/8c57eb6a27d64f1fba6f6e85c5e53a54/artifacts
+end_time: 1780142798249
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 8c57eb6a27d64f1fba6f6e85c5e53a54
+run_name: melodic-frog-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142763603
+status: 3
+tags: []
+user_id: plgmaczynspwr

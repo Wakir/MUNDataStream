@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f53fd274e3fd4a04a3fa5a8fce286651/artifacts
+end_time: 1780141271927
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f53fd274e3fd4a04a3fa5a8fce286651
+run_name: unequaled-fowl-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141236387
+status: 3
+tags: []
+user_id: plgmaczynspwr

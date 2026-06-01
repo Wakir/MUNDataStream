@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/cb8e31c117b14e12922d0a4b3f7344f3/artifacts
+end_time: 1780122071612
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: cb8e31c117b14e12922d0a4b3f7344f3
+run_name: monumental-goose-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122038487
+status: 3
+tags: []
+user_id: plgmaczynspwr

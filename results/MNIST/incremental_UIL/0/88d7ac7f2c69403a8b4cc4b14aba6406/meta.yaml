@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/88d7ac7f2c69403a8b4cc4b14aba6406/artifacts
+end_time: 1780238300902
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 88d7ac7f2c69403a8b4cc4b14aba6406
+run_name: suave-trout-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238266253
+status: 3
+tags: []
+user_id: plgmaczynspwr

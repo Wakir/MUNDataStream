@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/a05cfb20be59472c8a9b46432328a71c/artifacts
+end_time: 1780132318135
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: a05cfb20be59472c8a9b46432328a71c
+run_name: brawny-shrike-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132284292
+status: 3
+tags: []
+user_id: plgmaczynspwr

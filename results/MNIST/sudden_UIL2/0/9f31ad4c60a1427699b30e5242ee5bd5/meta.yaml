@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/9f31ad4c60a1427699b30e5242ee5bd5/artifacts
+end_time: 1780115852254
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 9f31ad4c60a1427699b30e5242ee5bd5
+run_name: dazzling-seal-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115818531
+status: 3
+tags: []
+user_id: plgmaczynspwr

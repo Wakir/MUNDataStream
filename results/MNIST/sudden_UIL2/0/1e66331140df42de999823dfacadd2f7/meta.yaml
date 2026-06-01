@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/1e66331140df42de999823dfacadd2f7/artifacts
+end_time: 1780107135104
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 1e66331140df42de999823dfacadd2f7
+run_name: overjoyed-gnat-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107101920
+status: 3
+tags: []
+user_id: plgmaczynspwr

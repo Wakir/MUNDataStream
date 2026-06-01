@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/8c770f77bca54ebeaa5a85dce9a79b2f/artifacts
+end_time: 1780131606365
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 8c770f77bca54ebeaa5a85dce9a79b2f
+run_name: fortunate-elk-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131571136
+status: 3
+tags: []
+user_id: plgmaczynspwr

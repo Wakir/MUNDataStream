@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/edb8414ea49446e3a538e6f3dd0db38c/artifacts
+end_time: 1779491343984
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: edb8414ea49446e3a538e6f3dd0db38c
+run_name: agreeable-shrew-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779490933042
+status: 3
+tags: []
+user_id: plgmaczynspwr

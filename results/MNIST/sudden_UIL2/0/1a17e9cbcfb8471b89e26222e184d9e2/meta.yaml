@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/1a17e9cbcfb8471b89e26222e184d9e2/artifacts
+end_time: 1780138887603
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 1a17e9cbcfb8471b89e26222e184d9e2
+run_name: flawless-carp-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138852061
+status: 3
+tags: []
+user_id: plgmaczynspwr

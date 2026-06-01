@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/d524b79bcebb4a58991668b2f4c5462f/artifacts
+end_time: 1780121308780
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: d524b79bcebb4a58991668b2f4c5462f
+run_name: bouncy-quail-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121275715
+status: 3
+tags: []
+user_id: plgmaczynspwr

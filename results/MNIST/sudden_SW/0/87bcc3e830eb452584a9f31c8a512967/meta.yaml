@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/87bcc3e830eb452584a9f31c8a512967/artifacts
+end_time: 1779593459054
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: 87bcc3e830eb452584a9f31c8a512967
+run_name: redolent-swan-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779592944622
+status: 3
+tags: []
+user_id: plgmaczynspwr

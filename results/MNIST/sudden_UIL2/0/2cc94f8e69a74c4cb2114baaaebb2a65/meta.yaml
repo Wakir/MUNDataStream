@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/2cc94f8e69a74c4cb2114baaaebb2a65/artifacts
+end_time: 1780132596354
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 2cc94f8e69a74c4cb2114baaaebb2a65
+run_name: able-sloth-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132562236
+status: 3
+tags: []
+user_id: plgmaczynspwr

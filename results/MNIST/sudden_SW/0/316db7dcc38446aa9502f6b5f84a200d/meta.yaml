@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns406/355398581562290081/316db7dcc38446aa9502f6b5f84a200d/artifacts
+end_time: 1779584214445
+entry_point_name: ''
+experiment_id: '355398581562290081'
+lifecycle_stage: active
+run_id: 316db7dcc38446aa9502f6b5f84a200d
+run_name: glamorous-smelt-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779583750435
+status: 3
+tags: []
+user_id: plgmaczynspwr

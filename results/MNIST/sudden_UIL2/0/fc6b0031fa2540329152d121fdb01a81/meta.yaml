@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/fc6b0031fa2540329152d121fdb01a81/artifacts
+end_time: 1780140494654
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: fc6b0031fa2540329152d121fdb01a81
+run_name: agreeable-grouse-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140460508
+status: 3
+tags: []
+user_id: plgmaczynspwr

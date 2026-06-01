@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/3ed41e3fa95843f3aedcfa1cb6dcae27/artifacts
+end_time: 1780113693938
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 3ed41e3fa95843f3aedcfa1cb6dcae27
+run_name: mysterious-pig-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113661383
+status: 3
+tags: []
+user_id: plgmaczynspwr

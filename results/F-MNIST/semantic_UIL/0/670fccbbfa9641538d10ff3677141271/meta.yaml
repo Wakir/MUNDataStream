@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/670fccbbfa9641538d10ff3677141271/artifacts
+end_time: 1780273741523
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 670fccbbfa9641538d10ff3677141271
+run_name: calm-fly-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273688480
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/352bbcb88b8e45c98a255a3235e056ea/artifacts
+end_time: 1780125235984
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 352bbcb88b8e45c98a255a3235e056ea
+run_name: flawless-tern-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125202660
+status: 3
+tags: []
+user_id: plgmaczynspwr

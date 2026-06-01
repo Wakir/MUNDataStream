@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/bd822fc547b64fb488eca53dfaa3b713/artifacts
+end_time: 1773265957051
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: bd822fc547b64fb488eca53dfaa3b713
+run_name: bold-skink-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265491347
+status: 3
+tags: []
+user_id: root

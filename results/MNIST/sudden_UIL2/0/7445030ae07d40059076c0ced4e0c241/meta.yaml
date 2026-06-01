@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/7445030ae07d40059076c0ced4e0c241/artifacts
+end_time: 1780132758485
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 7445030ae07d40059076c0ced4e0c241
+run_name: colorful-fawn-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132724668
+status: 3
+tags: []
+user_id: plgmaczynspwr

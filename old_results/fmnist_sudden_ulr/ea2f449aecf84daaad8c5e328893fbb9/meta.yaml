@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/ea2f449aecf84daaad8c5e328893fbb9/artifacts
+end_time: 1773314295382
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: ea2f449aecf84daaad8c5e328893fbb9
+run_name: flawless-stoat-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773313505202
+status: 3
+tags: []
+user_id: root

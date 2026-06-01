@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/a48e7d520d4c4c6995e977f517f1ab10/artifacts
+end_time: 1780117977809
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: a48e7d520d4c4c6995e977f517f1ab10
+run_name: charming-midge-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117944136
+status: 3
+tags: []
+user_id: plgmaczynspwr

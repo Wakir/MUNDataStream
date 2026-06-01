@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/0634b8f063fd48e2aa562311fb8159c4/artifacts
+end_time: 1780119130157
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 0634b8f063fd48e2aa562311fb8159c4
+run_name: powerful-koi-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119097209
+status: 3
+tags: []
+user_id: plgmaczynspwr

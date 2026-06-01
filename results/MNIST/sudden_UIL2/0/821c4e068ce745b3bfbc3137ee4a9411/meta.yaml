@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/821c4e068ce745b3bfbc3137ee4a9411/artifacts
+end_time: 1780113775701
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 821c4e068ce745b3bfbc3137ee4a9411
+run_name: luxuriant-rat-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113743235
+status: 3
+tags: []
+user_id: plgmaczynspwr

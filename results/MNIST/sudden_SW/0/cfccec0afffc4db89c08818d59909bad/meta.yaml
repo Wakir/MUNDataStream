@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/cfccec0afffc4db89c08818d59909bad/artifacts
+end_time: 1779360502705
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: cfccec0afffc4db89c08818d59909bad
+run_name: worried-tern-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779360335124
+status: 3
+tags: []
+user_id: plgmaczynspwr

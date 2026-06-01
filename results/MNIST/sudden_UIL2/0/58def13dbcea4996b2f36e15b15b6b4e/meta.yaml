@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/58def13dbcea4996b2f36e15b15b6b4e/artifacts
+end_time: 1780129701327
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 58def13dbcea4996b2f36e15b15b6b4e
+run_name: rumbling-hog-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129667440
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b315b65da8e5403a91476f022ee5085a/artifacts
+end_time: 1780117386242
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b315b65da8e5403a91476f022ee5085a
+run_name: sneaky-cat-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117353457
+status: 3
+tags: []
+user_id: plgmaczynspwr

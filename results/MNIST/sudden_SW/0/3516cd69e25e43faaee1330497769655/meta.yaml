@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/3516cd69e25e43faaee1330497769655/artifacts
+end_time: 1779422491005
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 3516cd69e25e43faaee1330497769655
+run_name: charming-squid-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779422327402
+status: 3
+tags: []
+user_id: plgmaczynspwr

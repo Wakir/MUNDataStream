@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/241887b396ea45bf9fd5e556a6a178ca/artifacts
+end_time: 1779595063101
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 241887b396ea45bf9fd5e556a6a178ca
+run_name: kindly-mule-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779594644509
+status: 3
+tags: []
+user_id: plgmaczynspwr

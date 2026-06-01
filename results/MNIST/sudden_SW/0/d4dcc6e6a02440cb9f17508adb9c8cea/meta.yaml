@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/d4dcc6e6a02440cb9f17508adb9c8cea/artifacts
+end_time: 1779590484546
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: d4dcc6e6a02440cb9f17508adb9c8cea
+run_name: painted-sloth-631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779590073130
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/0997f3bacbc649a39b7d9b9d31454eaa/artifacts
+end_time: 1780121438926
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 0997f3bacbc649a39b7d9b9d31454eaa
+run_name: righteous-chimp-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121404996
+status: 3
+tags: []
+user_id: plgmaczynspwr

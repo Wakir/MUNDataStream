@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/721e2f3b4db54995a3d39b8d9490da1e/artifacts
+end_time: 1779421974229
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 721e2f3b4db54995a3d39b8d9490da1e
+run_name: nervous-squid-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779421811958
+status: 3
+tags: []
+user_id: plgmaczynspwr

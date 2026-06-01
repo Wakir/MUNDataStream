@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/bc35b112c9194985b0e43f4baeaca606/artifacts
+end_time: 1773262305334
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: bc35b112c9194985b0e43f4baeaca606
+run_name: bedecked-crow-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261501824
+status: 3
+tags: []
+user_id: root

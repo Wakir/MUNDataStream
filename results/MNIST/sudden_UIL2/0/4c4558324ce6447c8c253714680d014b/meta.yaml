@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/4c4558324ce6447c8c253714680d014b/artifacts
+end_time: 1780117674110
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 4c4558324ce6447c8c253714680d014b
+run_name: monumental-fish-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117640260
+status: 3
+tags: []
+user_id: plgmaczynspwr

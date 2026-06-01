@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/ad8178d828344b1f83630e47d86be631/artifacts
+end_time: 1773286871201
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: ad8178d828344b1f83630e47d86be631
+run_name: gaudy-crane-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773286155718
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/d90d7e04e0624211b9235efd529e0aa1/artifacts
+end_time: 1780117517514
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: d90d7e04e0624211b9235efd529e0aa1
+run_name: vaunted-owl-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117484606
+status: 3
+tags: []
+user_id: plgmaczynspwr

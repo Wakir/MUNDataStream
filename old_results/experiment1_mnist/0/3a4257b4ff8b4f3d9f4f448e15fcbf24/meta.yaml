@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/3a4257b4ff8b4f3d9f4f448e15fcbf24/artifacts
+end_time: 1773258117381
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 3a4257b4ff8b4f3d9f4f448e15fcbf24
+run_name: upset-worm-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257629388
+status: 3
+tags: []
+user_id: root

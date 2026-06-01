@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/420f8eded5ca4d48a09cf5c97e76f9a3/artifacts
+end_time: 1780122662052
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 420f8eded5ca4d48a09cf5c97e76f9a3
+run_name: bemused-goose-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122628749
+status: 3
+tags: []
+user_id: plgmaczynspwr

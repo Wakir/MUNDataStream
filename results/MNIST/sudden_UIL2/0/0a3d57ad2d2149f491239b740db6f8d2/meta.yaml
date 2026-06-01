@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/0a3d57ad2d2149f491239b740db6f8d2/artifacts
+end_time: 1780119513463
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 0a3d57ad2d2149f491239b740db6f8d2
+run_name: rumbling-perch-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119480431
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/c39b9bbb15db49258dd1f738a49d0eff/artifacts
+end_time: 1779374890984
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: c39b9bbb15db49258dd1f738a49d0eff
+run_name: melodic-skunk-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779374602939
+status: 3
+tags: []
+user_id: plgmaczynspwr

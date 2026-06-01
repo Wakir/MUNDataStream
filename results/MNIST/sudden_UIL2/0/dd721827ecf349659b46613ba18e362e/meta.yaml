@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/dd721827ecf349659b46613ba18e362e/artifacts
+end_time: 1780132903265
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: dd721827ecf349659b46613ba18e362e
+run_name: blushing-cat-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132869178
+status: 3
+tags: []
+user_id: plgmaczynspwr

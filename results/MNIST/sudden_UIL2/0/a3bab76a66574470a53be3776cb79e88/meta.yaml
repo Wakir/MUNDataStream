@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a3bab76a66574470a53be3776cb79e88/artifacts
+end_time: 1780125530608
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a3bab76a66574470a53be3776cb79e88
+run_name: learned-mule-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125497155
+status: 3
+tags: []
+user_id: plgmaczynspwr

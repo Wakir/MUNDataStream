@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2dabdd6a8f8f4dcf948490e4dcceaa1d/artifacts
+end_time: 1780118939857
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2dabdd6a8f8f4dcf948490e4dcceaa1d
+run_name: resilient-skink-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118905733
+status: 3
+tags: []
+user_id: plgmaczynspwr

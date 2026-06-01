@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b9a74b09b4fa4802be888f42fc44dbc5/artifacts
+end_time: 1780114231249
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b9a74b09b4fa4802be888f42fc44dbc5
+run_name: gifted-hen-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114197586
+status: 3
+tags: []
+user_id: plgmaczynspwr

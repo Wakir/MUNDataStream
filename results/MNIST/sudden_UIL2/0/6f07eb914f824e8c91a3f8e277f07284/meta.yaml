@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/6f07eb914f824e8c91a3f8e277f07284/artifacts
+end_time: 1780133729935
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 6f07eb914f824e8c91a3f8e277f07284
+run_name: burly-cat-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133696168
+status: 3
+tags: []
+user_id: plgmaczynspwr

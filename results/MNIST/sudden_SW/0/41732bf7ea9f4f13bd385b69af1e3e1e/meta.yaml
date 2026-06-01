@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/41732bf7ea9f4f13bd385b69af1e3e1e/artifacts
+end_time: 1779593809641
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 41732bf7ea9f4f13bd385b69af1e3e1e
+run_name: blushing-gull-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779593391933
+status: 3
+tags: []
+user_id: plgmaczynspwr

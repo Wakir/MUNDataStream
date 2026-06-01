@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/3160ee6cce6043afa1131f3e9c246346/artifacts
+end_time: 1780124300571
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 3160ee6cce6043afa1131f3e9c246346
+run_name: enchanting-sloth-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124267249
+status: 3
+tags: []
+user_id: plgmaczynspwr

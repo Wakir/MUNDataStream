@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/42a4fb77ab9a41c1929c1e2972e96e84/artifacts
+end_time: 1773283684423
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 42a4fb77ab9a41c1929c1e2972e96e84
+run_name: painted-ape-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773282971884
+status: 3
+tags: []
+user_id: root

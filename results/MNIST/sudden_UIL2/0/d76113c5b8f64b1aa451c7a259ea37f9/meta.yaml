@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d76113c5b8f64b1aa451c7a259ea37f9/artifacts
+end_time: 1780114568516
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d76113c5b8f64b1aa451c7a259ea37f9
+run_name: aged-crab-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114534954
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/78f4ff302d3648e6b7cdc9bb20344340/artifacts
+end_time: 1780134026039
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 78f4ff302d3648e6b7cdc9bb20344340
+run_name: grandiose-shrike-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133990473
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/77db238683d042a792ed0a35a3dcae60/artifacts
+end_time: 1780107068776
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 77db238683d042a792ed0a35a3dcae60
+run_name: adorable-robin-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107035535
+status: 3
+tags: []
+user_id: plgmaczynspwr

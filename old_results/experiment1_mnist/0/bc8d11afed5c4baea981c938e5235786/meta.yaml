@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/bc8d11afed5c4baea981c938e5235786/artifacts
+end_time: 1773266066563
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: bc8d11afed5c4baea981c938e5235786
+run_name: victorious-zebra-457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265603596
+status: 3
+tags: []
+user_id: root

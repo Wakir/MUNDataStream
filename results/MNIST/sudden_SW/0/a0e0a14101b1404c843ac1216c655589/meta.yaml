@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/a0e0a14101b1404c843ac1216c655589/artifacts
+end_time: 1779415956613
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: a0e0a14101b1404c843ac1216c655589
+run_name: delightful-flea-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779415426270
+status: 3
+tags: []
+user_id: plgmaczynspwr

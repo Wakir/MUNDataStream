@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/8d0c8e29c837469e9ce0967b8707536c/artifacts
+end_time: 1773260464577
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 8d0c8e29c837469e9ce0967b8707536c
+run_name: masked-sow-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259978764
+status: 3
+tags: []
+user_id: root

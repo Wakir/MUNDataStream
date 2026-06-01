@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/e4ccb0d3201f467ebbe733f077ad9b9b/artifacts
+end_time: 1773270131968
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: e4ccb0d3201f467ebbe733f077ad9b9b
+run_name: lyrical-slug-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773269421753
+status: 3
+tags: []
+user_id: root

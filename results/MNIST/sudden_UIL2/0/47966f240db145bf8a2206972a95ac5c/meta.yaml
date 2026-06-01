@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/47966f240db145bf8a2206972a95ac5c/artifacts
+end_time: 1780109276617
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 47966f240db145bf8a2206972a95ac5c
+run_name: upbeat-dove-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109244304
+status: 3
+tags: []
+user_id: plgmaczynspwr

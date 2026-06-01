@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/1be8b0e80908464f91775a965f7ac058/artifacts
+end_time: 1780138980685
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 1be8b0e80908464f91775a965f7ac058
+run_name: valuable-mare-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138946093
+status: 3
+tags: []
+user_id: plgmaczynspwr

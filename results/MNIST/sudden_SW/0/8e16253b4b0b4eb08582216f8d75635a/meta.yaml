@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/8e16253b4b0b4eb08582216f8d75635a/artifacts
+end_time: 1779400316607
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 8e16253b4b0b4eb08582216f8d75635a
+run_name: amazing-wren-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779399859056
+status: 3
+tags: []
+user_id: plgmaczynspwr

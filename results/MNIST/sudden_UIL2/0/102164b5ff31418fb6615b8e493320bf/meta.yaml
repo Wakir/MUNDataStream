@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/102164b5ff31418fb6615b8e493320bf/artifacts
+end_time: 1780142379439
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 102164b5ff31418fb6615b8e493320bf
+run_name: treasured-zebra-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142343376
+status: 3
+tags: []
+user_id: plgmaczynspwr

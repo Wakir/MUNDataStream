@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/12bb2b4e65b24d5480b169c1a03247f1/artifacts
+end_time: 1779584618784
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: 12bb2b4e65b24d5480b169c1a03247f1
+run_name: able-crane-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779584161699
+status: 3
+tags: []
+user_id: plgmaczynspwr

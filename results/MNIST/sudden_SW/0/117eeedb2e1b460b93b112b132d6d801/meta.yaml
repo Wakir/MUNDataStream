@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/117eeedb2e1b460b93b112b132d6d801/artifacts
+end_time: 1779592140770
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 117eeedb2e1b460b93b112b132d6d801
+run_name: burly-shark-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591724946
+status: 3
+tags: []
+user_id: plgmaczynspwr

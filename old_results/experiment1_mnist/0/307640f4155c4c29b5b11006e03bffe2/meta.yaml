@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/307640f4155c4c29b5b11006e03bffe2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 307640f4155c4c29b5b11006e03bffe2
+run_name: able-mare-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249518925
+status: 1
+tags: []
+user_id: root

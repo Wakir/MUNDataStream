@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/6e2ca1cc46014ea19c4044d4ea1c1e92/artifacts
+end_time: 1780136177179
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 6e2ca1cc46014ea19c4044d4ea1c1e92
+run_name: bittersweet-pug-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136143179
+status: 3
+tags: []
+user_id: plgmaczynspwr

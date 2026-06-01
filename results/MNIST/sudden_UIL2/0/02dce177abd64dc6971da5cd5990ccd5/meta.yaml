@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/02dce177abd64dc6971da5cd5990ccd5/artifacts
+end_time: 1780242477258
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 02dce177abd64dc6971da5cd5990ccd5
+run_name: delicate-stoat-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242443296
+status: 3
+tags: []
+user_id: plgmaczynspwr

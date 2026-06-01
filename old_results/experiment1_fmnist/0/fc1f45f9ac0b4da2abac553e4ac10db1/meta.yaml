@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/fc1f45f9ac0b4da2abac553e4ac10db1/artifacts
+end_time: 1773264977250
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: fc1f45f9ac0b4da2abac553e4ac10db1
+run_name: handsome-squid-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264246660
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/0f2222de6af34e5ab2cbf6dd64890143/artifacts
+end_time: 1780123800559
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 0f2222de6af34e5ab2cbf6dd64890143
+run_name: rare-steed-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123767298
+status: 3
+tags: []
+user_id: plgmaczynspwr

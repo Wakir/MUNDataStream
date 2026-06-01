@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/0ebda3937c6544c48f3bc4860944a16f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 0ebda3937c6544c48f3bc4860944a16f
+run_name: adorable-stoat-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773249840836
+status: 1
+tags: []
+user_id: root

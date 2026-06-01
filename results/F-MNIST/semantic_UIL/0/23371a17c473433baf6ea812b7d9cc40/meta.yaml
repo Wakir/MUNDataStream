@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/23371a17c473433baf6ea812b7d9cc40/artifacts
+end_time: 1780271783681
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 23371a17c473433baf6ea812b7d9cc40
+run_name: dapper-toad-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780271734856
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/17ce9e747f794b0bb84bfc2058bb6f94/artifacts
+end_time: 1773259574692
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 17ce9e747f794b0bb84bfc2058bb6f94
+run_name: fun-quail-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259090085
+status: 3
+tags: []
+user_id: root

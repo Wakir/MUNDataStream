@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/a43dfd40af3e467cb154bca5db88e26d/artifacts
+end_time: 1773251532707
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: a43dfd40af3e467cb154bca5db88e26d
+run_name: useful-duck-629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251033062
+status: 3
+tags: []
+user_id: root

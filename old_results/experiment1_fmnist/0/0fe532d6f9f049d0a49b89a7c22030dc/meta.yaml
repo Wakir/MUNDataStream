@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/0fe532d6f9f049d0a49b89a7c22030dc/artifacts
+end_time: 1773283466424
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 0fe532d6f9f049d0a49b89a7c22030dc
+run_name: legendary-finch-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773282747824
+status: 3
+tags: []
+user_id: root

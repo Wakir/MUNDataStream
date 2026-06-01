@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/dad0fef9adf242e99faa37a8cf67b340/artifacts
+end_time: 1780243434792
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: dad0fef9adf242e99faa37a8cf67b340
+run_name: worried-finch-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780243400465
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/1a270693c2d34c559fb4c9c7f5ef970a/artifacts
+end_time: 1773315598521
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 1a270693c2d34c559fb4c9c7f5ef970a
+run_name: upset-mole-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773314308615
+status: 3
+tags: []
+user_id: root

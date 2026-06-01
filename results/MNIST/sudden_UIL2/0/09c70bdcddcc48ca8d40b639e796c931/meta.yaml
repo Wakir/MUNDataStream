@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/09c70bdcddcc48ca8d40b639e796c931/artifacts
+end_time: 1780110832817
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 09c70bdcddcc48ca8d40b639e796c931
+run_name: bold-ram-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110800405
+status: 3
+tags: []
+user_id: plgmaczynspwr

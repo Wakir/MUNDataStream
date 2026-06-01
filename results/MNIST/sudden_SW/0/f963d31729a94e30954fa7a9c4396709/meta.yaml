@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/f963d31729a94e30954fa7a9c4396709/artifacts
+end_time: 1779372872589
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: f963d31729a94e30954fa7a9c4396709
+run_name: youthful-colt-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779372583343
+status: 3
+tags: []
+user_id: plgmaczynspwr

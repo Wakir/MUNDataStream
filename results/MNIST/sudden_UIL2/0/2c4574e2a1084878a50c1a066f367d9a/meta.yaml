@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/2c4574e2a1084878a50c1a066f367d9a/artifacts
+end_time: 1780126335146
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 2c4574e2a1084878a50c1a066f367d9a
+run_name: angry-trout-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126301662
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/339c7351aacc435caa6d92359323d780/artifacts
+end_time: 1780109197447
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 339c7351aacc435caa6d92359323d780
+run_name: unleashed-croc-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109163922
+status: 3
+tags: []
+user_id: plgmaczynspwr

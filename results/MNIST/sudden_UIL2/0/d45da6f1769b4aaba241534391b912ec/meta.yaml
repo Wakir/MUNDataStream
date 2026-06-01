@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/d45da6f1769b4aaba241534391b912ec/artifacts
+end_time: 1780127654599
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: d45da6f1769b4aaba241534391b912ec
+run_name: grandiose-smelt-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127620918
+status: 3
+tags: []
+user_id: plgmaczynspwr

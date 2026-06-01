@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/d9516dd2d8094cd9a6d6fce5fa7b2d42/artifacts
+end_time: 1773279262798
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: d9516dd2d8094cd9a6d6fce5fa7b2d42
+run_name: bright-lark-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773278545466
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/f69f02d806114ea59352ebfb4a275b31/artifacts
+end_time: 1773310926350
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: f69f02d806114ea59352ebfb4a275b31
+run_name: defiant-mole-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773309625258
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns401/842381408063410304/6d6268cd9802436ca5a22f8b64523e83/artifacts
+end_time: 1779599551844
+entry_point_name: ''
+experiment_id: '842381408063410304'
+lifecycle_stage: active
+run_id: 6d6268cd9802436ca5a22f8b64523e83
+run_name: fearless-fly-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779598489018
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/4a33f86f8e9c405889dec4b1ffb13d6d/artifacts
+end_time: 1779370434989
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 4a33f86f8e9c405889dec4b1ffb13d6d
+run_name: industrious-worm-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779370150214
+status: 3
+tags: []
+user_id: plgmaczynspwr

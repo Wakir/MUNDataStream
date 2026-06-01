@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/33d4116628aa4c4a89ee1faabdb056a7/artifacts
+end_time: 1780122537416
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 33d4116628aa4c4a89ee1faabdb056a7
+run_name: caring-midge-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122503322
+status: 3
+tags: []
+user_id: plgmaczynspwr

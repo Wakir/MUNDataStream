@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/224dcfa4c2f84b1f9c15f998cdb4148f/artifacts
+end_time: 1779589000528
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: 224dcfa4c2f84b1f9c15f998cdb4148f
+run_name: silent-fish-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779588658421
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/d02201c765234338ba2b9d6419fed427/artifacts
+end_time: 1773315196338
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: d02201c765234338ba2b9d6419fed427
+run_name: secretive-flea-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773315193677
+status: 4
+tags: []
+user_id: root

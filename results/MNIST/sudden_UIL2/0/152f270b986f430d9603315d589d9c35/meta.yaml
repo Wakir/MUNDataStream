@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/152f270b986f430d9603315d589d9c35/artifacts
+end_time: 1780122863302
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 152f270b986f430d9603315d589d9c35
+run_name: rogue-owl-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122830034
+status: 3
+tags: []
+user_id: plgmaczynspwr

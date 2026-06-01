@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/7ece1d4030ac48baa2c926da4a928666/artifacts
+end_time: 1780133811966
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 7ece1d4030ac48baa2c926da4a928666
+run_name: enchanting-ram-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133778021
+status: 3
+tags: []
+user_id: plgmaczynspwr

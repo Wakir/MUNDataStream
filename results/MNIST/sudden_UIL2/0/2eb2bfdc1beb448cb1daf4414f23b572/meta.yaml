@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/2eb2bfdc1beb448cb1daf4414f23b572/artifacts
+end_time: 1780119888478
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 2eb2bfdc1beb448cb1daf4414f23b572
+run_name: handsome-pig-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119855591
+status: 3
+tags: []
+user_id: plgmaczynspwr

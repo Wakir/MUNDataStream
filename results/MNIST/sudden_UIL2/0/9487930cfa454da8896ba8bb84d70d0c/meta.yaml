@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/9487930cfa454da8896ba8bb84d70d0c/artifacts
+end_time: 1780143417593
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 9487930cfa454da8896ba8bb84d70d0c
+run_name: crawling-swan-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143386217
+status: 4
+tags: []
+user_id: plgmaczynspwr

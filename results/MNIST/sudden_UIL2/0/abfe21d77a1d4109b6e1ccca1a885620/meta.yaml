@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/abfe21d77a1d4109b6e1ccca1a885620/artifacts
+end_time: 1780108198654
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: abfe21d77a1d4109b6e1ccca1a885620
+run_name: wise-horse-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108165439
+status: 3
+tags: []
+user_id: plgmaczynspwr

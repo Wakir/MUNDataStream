@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/146c7039b0d044eabb73c41e6a4212e0/artifacts
+end_time: 1780118603068
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 146c7039b0d044eabb73c41e6a4212e0
+run_name: unruly-calf-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118570082
+status: 3
+tags: []
+user_id: plgmaczynspwr

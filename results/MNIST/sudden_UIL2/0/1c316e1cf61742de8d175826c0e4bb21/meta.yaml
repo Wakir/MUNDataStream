@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/1c316e1cf61742de8d175826c0e4bb21/artifacts
+end_time: 1780114501330
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 1c316e1cf61742de8d175826c0e4bb21
+run_name: treasured-fowl-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114467552
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/09326e0e7c16423b95b6175f4f352043/artifacts
+end_time: 1780134272288
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 09326e0e7c16423b95b6175f4f352043
+run_name: amazing-deer-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134238387
+status: 3
+tags: []
+user_id: plgmaczynspwr

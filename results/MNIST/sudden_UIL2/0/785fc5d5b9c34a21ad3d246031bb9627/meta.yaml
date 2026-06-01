@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/785fc5d5b9c34a21ad3d246031bb9627/artifacts
+end_time: 1780133234903
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 785fc5d5b9c34a21ad3d246031bb9627
+run_name: nebulous-dog-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133200828
+status: 3
+tags: []
+user_id: plgmaczynspwr

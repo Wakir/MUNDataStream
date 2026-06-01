@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/77689b4b15f548bcaf6ca4a57d0a0c6a/artifacts
+end_time: 1780116794214
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 77689b4b15f548bcaf6ca4a57d0a0c6a
+run_name: clumsy-gull-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116762436
+status: 3
+tags: []
+user_id: plgmaczynspwr

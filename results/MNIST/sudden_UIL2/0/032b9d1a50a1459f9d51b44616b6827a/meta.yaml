@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/032b9d1a50a1459f9d51b44616b6827a/artifacts
+end_time: 1780135279364
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 032b9d1a50a1459f9d51b44616b6827a
+run_name: debonair-carp-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135243475
+status: 3
+tags: []
+user_id: plgmaczynspwr

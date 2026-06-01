@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/24d37025f8fd46558be5804693c01840/artifacts
+end_time: 1773280642207
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 24d37025f8fd46558be5804693c01840
+run_name: loud-foal-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279904820
+status: 3
+tags: []
+user_id: root

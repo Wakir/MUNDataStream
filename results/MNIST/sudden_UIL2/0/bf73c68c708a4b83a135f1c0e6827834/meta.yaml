@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/bf73c68c708a4b83a135f1c0e6827834/artifacts
+end_time: 1780108855717
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: bf73c68c708a4b83a135f1c0e6827834
+run_name: sassy-dove-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108823413
+status: 3
+tags: []
+user_id: plgmaczynspwr

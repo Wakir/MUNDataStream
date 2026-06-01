@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/2b9053b828b64d54bdd3309b3b4fac18/artifacts
+end_time: 1779597224731
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: 2b9053b828b64d54bdd3309b3b4fac18
+run_name: clumsy-carp-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779596752539
+status: 3
+tags: []
+user_id: plgmaczynspwr

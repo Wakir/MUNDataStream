@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/8dc889ef6ca54e208b13dda3d1a535b3/artifacts
+end_time: 1773287115785
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 8dc889ef6ca54e208b13dda3d1a535b3
+run_name: calm-boar-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773286359992
+status: 3
+tags: []
+user_id: root

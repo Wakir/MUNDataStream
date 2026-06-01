@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/e6475cf521894993821e42595c4df8de/artifacts
+end_time: 1780121235143
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: e6475cf521894993821e42595c4df8de
+run_name: youthful-steed-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121201963
+status: 3
+tags: []
+user_id: plgmaczynspwr

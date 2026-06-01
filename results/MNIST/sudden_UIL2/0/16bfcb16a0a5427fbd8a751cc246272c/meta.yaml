@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/16bfcb16a0a5427fbd8a751cc246272c/artifacts
+end_time: 1780124125595
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 16bfcb16a0a5427fbd8a751cc246272c
+run_name: adventurous-dove-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124092491
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/2162e7f01d8f490ca9b9624a59a73161/artifacts
+end_time: 1780128616545
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 2162e7f01d8f490ca9b9624a59a73161
+run_name: zealous-panda-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128582034
+status: 3
+tags: []
+user_id: plgmaczynspwr

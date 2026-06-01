@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/be46d226179744afac03ae3666cc1e80/artifacts
+end_time: 1780125302741
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: be46d226179744afac03ae3666cc1e80
+run_name: overjoyed-stag-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125269342
+status: 3
+tags: []
+user_id: plgmaczynspwr

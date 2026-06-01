@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/58999c3802da4860b3eb38c92c23be0a/artifacts
+end_time: 1773264087529
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 58999c3802da4860b3eb38c92c23be0a
+run_name: handsome-stag-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263618934
+status: 3
+tags: []
+user_id: root

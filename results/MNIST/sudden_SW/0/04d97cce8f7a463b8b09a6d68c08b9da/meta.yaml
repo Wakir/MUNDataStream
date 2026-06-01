@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/04d97cce8f7a463b8b09a6d68c08b9da/artifacts
+end_time: 1779363611258
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 04d97cce8f7a463b8b09a6d68c08b9da
+run_name: caring-quail-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779363438800
+status: 3
+tags: []
+user_id: plgmaczynspwr

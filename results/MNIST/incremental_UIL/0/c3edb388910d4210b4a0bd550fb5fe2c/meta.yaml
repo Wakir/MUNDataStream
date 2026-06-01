@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/c3edb388910d4210b4a0bd550fb5fe2c/artifacts
+end_time: 1780248013548
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: c3edb388910d4210b4a0bd550fb5fe2c
+run_name: sassy-bear-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780247976517
+status: 3
+tags: []
+user_id: plgmaczynspwr

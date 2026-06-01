@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/9b8fe2992745485fa34fa718a46f6ffe/artifacts
+end_time: 1780268704331
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 9b8fe2992745485fa34fa718a46f6ffe
+run_name: nebulous-fawn-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268653529
+status: 3
+tags: []
+user_id: plgmaczynspwr

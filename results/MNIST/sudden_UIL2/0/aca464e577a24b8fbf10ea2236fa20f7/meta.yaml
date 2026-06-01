@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/aca464e577a24b8fbf10ea2236fa20f7/artifacts
+end_time: 1780240579834
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: aca464e577a24b8fbf10ea2236fa20f7
+run_name: redolent-finch-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240546538
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/7304b5e3f6d641e1a6d8e7011fc2f233/artifacts
+end_time: 1780116749796
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 7304b5e3f6d641e1a6d8e7011fc2f233
+run_name: shivering-yak-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116717136
+status: 3
+tags: []
+user_id: plgmaczynspwr

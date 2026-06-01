@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/d2a842b9a75f402682abde3fba72427d/artifacts
+end_time: 1779357976716
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: d2a842b9a75f402682abde3fba72427d
+run_name: selective-stag-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779357864177
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e7b9e33ae25d4535a3d97bd718a03009/artifacts
+end_time: 1780114802355
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e7b9e33ae25d4535a3d97bd718a03009
+run_name: amazing-vole-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114769799
+status: 3
+tags: []
+user_id: plgmaczynspwr

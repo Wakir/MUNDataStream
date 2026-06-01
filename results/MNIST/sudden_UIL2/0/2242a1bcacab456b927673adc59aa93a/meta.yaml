@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/2242a1bcacab456b927673adc59aa93a/artifacts
+end_time: 1780128754871
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 2242a1bcacab456b927673adc59aa93a
+run_name: loud-mule-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128721223
+status: 3
+tags: []
+user_id: plgmaczynspwr

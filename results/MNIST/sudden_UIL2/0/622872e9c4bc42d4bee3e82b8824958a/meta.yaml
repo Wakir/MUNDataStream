@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/622872e9c4bc42d4bee3e82b8824958a/artifacts
+end_time: 1780236307375
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 622872e9c4bc42d4bee3e82b8824958a
+run_name: monumental-cub-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780236273689
+status: 3
+tags: []
+user_id: plgmaczynspwr

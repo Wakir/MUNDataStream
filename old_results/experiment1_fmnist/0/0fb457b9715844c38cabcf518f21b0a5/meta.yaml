@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/0fb457b9715844c38cabcf518f21b0a5/artifacts
+end_time: 1773285408766
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 0fb457b9715844c38cabcf518f21b0a5
+run_name: languid-fawn-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284700869
+status: 3
+tags: []
+user_id: root

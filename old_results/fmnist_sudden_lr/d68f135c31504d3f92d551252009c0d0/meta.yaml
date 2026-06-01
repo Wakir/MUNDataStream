@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/d68f135c31504d3f92d551252009c0d0/artifacts
+end_time: 1773316882670
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: d68f135c31504d3f92d551252009c0d0
+run_name: whimsical-cat-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773315594658
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/2df22d3c9a1f40bcb0621c84f28cc30c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 2df22d3c9a1f40bcb0621c84f28cc30c
+run_name: marvelous-rat-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779513573857
+status: 1
+tags: []
+user_id: plgmaczynspwr

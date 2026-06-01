@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/48565f478fe04f4b9b610c321a5fdf21/artifacts
+end_time: 1780136779730
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 48565f478fe04f4b9b610c321a5fdf21
+run_name: monumental-steed-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136744738
+status: 3
+tags: []
+user_id: plgmaczynspwr

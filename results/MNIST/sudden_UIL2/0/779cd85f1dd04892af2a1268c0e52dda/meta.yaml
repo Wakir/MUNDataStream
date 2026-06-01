@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/779cd85f1dd04892af2a1268c0e52dda/artifacts
+end_time: 1780124398665
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 779cd85f1dd04892af2a1268c0e52dda
+run_name: defiant-turtle-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124364486
+status: 3
+tags: []
+user_id: plgmaczynspwr

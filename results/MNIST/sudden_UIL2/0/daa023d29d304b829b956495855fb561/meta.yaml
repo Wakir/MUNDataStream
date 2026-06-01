@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/daa023d29d304b829b956495855fb561/artifacts
+end_time: 1780117572342
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: daa023d29d304b829b956495855fb561
+run_name: zealous-snipe-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117538660
+status: 3
+tags: []
+user_id: plgmaczynspwr

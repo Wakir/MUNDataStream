@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f57c395eecd646cda78e72c730ed0fdc/artifacts
+end_time: 1780115513816
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f57c395eecd646cda78e72c730ed0fdc
+run_name: handsome-ram-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115480101
+status: 3
+tags: []
+user_id: plgmaczynspwr

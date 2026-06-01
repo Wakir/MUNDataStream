@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/a79f7ae84c0d46ea84016c341283c05c/artifacts
+end_time: 1780117437422
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: a79f7ae84c0d46ea84016c341283c05c
+run_name: enchanting-goose-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117403607
+status: 3
+tags: []
+user_id: plgmaczynspwr

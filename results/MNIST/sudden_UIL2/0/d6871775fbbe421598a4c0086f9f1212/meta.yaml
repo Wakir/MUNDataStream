@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d6871775fbbe421598a4c0086f9f1212/artifacts
+end_time: 1780125916411
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d6871775fbbe421598a4c0086f9f1212
+run_name: invincible-shrew-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125882006
+status: 3
+tags: []
+user_id: plgmaczynspwr

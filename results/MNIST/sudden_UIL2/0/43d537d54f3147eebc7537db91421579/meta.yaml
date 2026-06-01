@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/43d537d54f3147eebc7537db91421579/artifacts
+end_time: 1780107567282
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 43d537d54f3147eebc7537db91421579
+run_name: enchanting-mare-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107534078
+status: 3
+tags: []
+user_id: plgmaczynspwr

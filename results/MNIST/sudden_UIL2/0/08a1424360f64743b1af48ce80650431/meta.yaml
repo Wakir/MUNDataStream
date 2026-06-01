@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/08a1424360f64743b1af48ce80650431/artifacts
+end_time: 1780112995703
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 08a1424360f64743b1af48ce80650431
+run_name: redolent-lark-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112963219
+status: 3
+tags: []
+user_id: plgmaczynspwr

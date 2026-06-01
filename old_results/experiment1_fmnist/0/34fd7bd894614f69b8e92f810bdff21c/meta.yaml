@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/34fd7bd894614f69b8e92f810bdff21c/artifacts
+end_time: 1773286528765
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 34fd7bd894614f69b8e92f810bdff21c
+run_name: useful-shark-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773285819137
+status: 3
+tags: []
+user_id: root

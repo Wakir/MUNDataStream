@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/9d9f8f5aa7534a00854a4cbf67e4eea1/artifacts
+end_time: 1780126104749
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 9d9f8f5aa7534a00854a4cbf67e4eea1
+run_name: grandiose-kite-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126071415
+status: 3
+tags: []
+user_id: plgmaczynspwr

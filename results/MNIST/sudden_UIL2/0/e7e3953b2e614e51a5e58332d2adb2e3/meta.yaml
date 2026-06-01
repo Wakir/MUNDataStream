@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e7e3953b2e614e51a5e58332d2adb2e3/artifacts
+end_time: 1780109535863
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e7e3953b2e614e51a5e58332d2adb2e3
+run_name: thundering-carp-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109503518
+status: 3
+tags: []
+user_id: plgmaczynspwr

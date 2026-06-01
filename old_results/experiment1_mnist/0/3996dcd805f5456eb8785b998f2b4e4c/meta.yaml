@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/3996dcd805f5456eb8785b998f2b4e4c/artifacts
+end_time: 1773254516512
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 3996dcd805f5456eb8785b998f2b4e4c
+run_name: inquisitive-jay-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254022579
+status: 3
+tags: []
+user_id: root

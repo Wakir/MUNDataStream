@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/10b4500ca7da4feebc02b036415eef5f/artifacts
+end_time: 1773260426513
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 10b4500ca7da4feebc02b036415eef5f
+run_name: clean-foal-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259942169
+status: 3
+tags: []
+user_id: root

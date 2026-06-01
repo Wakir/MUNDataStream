@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/de869ea2506b497183d6f15995e6d9fa/artifacts
+end_time: 1780117404596
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: de869ea2506b497183d6f15995e6d9fa
+run_name: dazzling-crow-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117371906
+status: 3
+tags: []
+user_id: plgmaczynspwr

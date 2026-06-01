@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/dc6ec1a49ccb415aa200f115871a727f/artifacts
+end_time: 1780136671081
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: dc6ec1a49ccb415aa200f115871a727f
+run_name: angry-elk-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136636833
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/836931d523f64caca34e6296a3898c3f/artifacts
+end_time: 1780108565123
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 836931d523f64caca34e6296a3898c3f
+run_name: unleashed-hog-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108532065
+status: 3
+tags: []
+user_id: plgmaczynspwr

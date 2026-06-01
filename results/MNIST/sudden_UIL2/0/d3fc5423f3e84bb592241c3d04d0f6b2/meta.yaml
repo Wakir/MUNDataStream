@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/d3fc5423f3e84bb592241c3d04d0f6b2/artifacts
+end_time: 1780131232208
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: d3fc5423f3e84bb592241c3d04d0f6b2
+run_name: likeable-goose-977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131198192
+status: 3
+tags: []
+user_id: plgmaczynspwr

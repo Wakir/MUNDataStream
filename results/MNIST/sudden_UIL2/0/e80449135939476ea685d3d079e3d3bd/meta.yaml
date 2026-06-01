@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/e80449135939476ea685d3d079e3d3bd/artifacts
+end_time: 1780112779980
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: e80449135939476ea685d3d079e3d3bd
+run_name: rogue-ray-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112746304
+status: 3
+tags: []
+user_id: plgmaczynspwr

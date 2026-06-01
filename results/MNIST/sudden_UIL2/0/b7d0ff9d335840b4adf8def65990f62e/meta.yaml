@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b7d0ff9d335840b4adf8def65990f62e/artifacts
+end_time: 1780138325928
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b7d0ff9d335840b4adf8def65990f62e
+run_name: worried-jay-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138290121
+status: 3
+tags: []
+user_id: plgmaczynspwr

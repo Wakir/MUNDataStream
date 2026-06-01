@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/bac051df7666423cbd5ebaef1b61e684/artifacts
+end_time: 1773261374825
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: bac051df7666423cbd5ebaef1b61e684
+run_name: unequaled-lark-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773260898348
+status: 3
+tags: []
+user_id: root

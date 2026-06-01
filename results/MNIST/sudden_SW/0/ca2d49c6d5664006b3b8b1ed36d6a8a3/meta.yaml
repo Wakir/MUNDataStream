@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/ca2d49c6d5664006b3b8b1ed36d6a8a3/artifacts
+end_time: 1779364045121
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: ca2d49c6d5664006b3b8b1ed36d6a8a3
+run_name: capable-wolf-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779363877724
+status: 3
+tags: []
+user_id: plgmaczynspwr

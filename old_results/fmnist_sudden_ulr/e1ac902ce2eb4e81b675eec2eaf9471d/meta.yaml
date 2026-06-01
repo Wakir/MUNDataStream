@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/e1ac902ce2eb4e81b675eec2eaf9471d/artifacts
+end_time: 1773313540463
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: e1ac902ce2eb4e81b675eec2eaf9471d
+run_name: awesome-bird-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312238011
+status: 3
+tags: []
+user_id: root

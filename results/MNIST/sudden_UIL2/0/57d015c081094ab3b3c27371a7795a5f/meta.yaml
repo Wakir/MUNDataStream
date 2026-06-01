@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/57d015c081094ab3b3c27371a7795a5f/artifacts
+end_time: 1780130621266
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 57d015c081094ab3b3c27371a7795a5f
+run_name: capable-perch-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130586717
+status: 3
+tags: []
+user_id: plgmaczynspwr

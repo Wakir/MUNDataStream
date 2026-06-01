@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/54dfb782d32f4511b1de4b8591c561ce/artifacts
+end_time: 1780111157292
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 54dfb782d32f4511b1de4b8591c561ce
+run_name: adaptable-vole-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111124884
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/53574d38d0a841cba4b8a1ef7a896b8a/artifacts
+end_time: 1780129646407
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 53574d38d0a841cba4b8a1ef7a896b8a
+run_name: luminous-fowl-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129611641
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/8ee64e60dbf146d4a8215b0bf77f6709/artifacts
+end_time: 1780120086333
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 8ee64e60dbf146d4a8215b0bf77f6709
+run_name: popular-rook-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120053387
+status: 3
+tags: []
+user_id: plgmaczynspwr

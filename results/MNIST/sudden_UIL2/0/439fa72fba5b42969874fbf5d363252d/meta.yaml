@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/439fa72fba5b42969874fbf5d363252d/artifacts
+end_time: 1780121997934
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 439fa72fba5b42969874fbf5d363252d
+run_name: resilient-eel-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121964807
+status: 3
+tags: []
+user_id: plgmaczynspwr

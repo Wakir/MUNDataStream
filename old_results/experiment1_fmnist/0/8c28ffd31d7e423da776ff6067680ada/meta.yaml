@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/8c28ffd31d7e423da776ff6067680ada/artifacts
+end_time: 1773285482915
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 8c28ffd31d7e423da776ff6067680ada
+run_name: charming-wasp-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773284766066
+status: 3
+tags: []
+user_id: root

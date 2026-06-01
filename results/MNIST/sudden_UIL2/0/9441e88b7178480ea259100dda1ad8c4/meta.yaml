@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/9441e88b7178480ea259100dda1ad8c4/artifacts
+end_time: 1780118833320
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 9441e88b7178480ea259100dda1ad8c4
+run_name: entertaining-eel-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118800436
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/bf71f50a27424ed49a3eb167742c5762/artifacts
+end_time: 1780121799017
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: bf71f50a27424ed49a3eb167742c5762
+run_name: vaunted-steed-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121765881
+status: 3
+tags: []
+user_id: plgmaczynspwr

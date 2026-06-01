@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/73058f23246343869dc5df780d8cd387/artifacts
+end_time: 1780132979088
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 73058f23246343869dc5df780d8cd387
+run_name: handsome-swan-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132944403
+status: 3
+tags: []
+user_id: plgmaczynspwr

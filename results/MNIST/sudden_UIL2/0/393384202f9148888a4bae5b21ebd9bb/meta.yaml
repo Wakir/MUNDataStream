@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/393384202f9148888a4bae5b21ebd9bb/artifacts
+end_time: 1780127080593
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 393384202f9148888a4bae5b21ebd9bb
+run_name: nimble-skunk-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127046758
+status: 3
+tags: []
+user_id: plgmaczynspwr

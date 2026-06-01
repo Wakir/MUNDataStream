@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/2ff97dc7270c4d978e8e2f0cbafc10b7/artifacts
+end_time: 1773303049110
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 2ff97dc7270c4d978e8e2f0cbafc10b7
+run_name: classy-toad-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773302249926
+status: 3
+tags: []
+user_id: root

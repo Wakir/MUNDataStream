@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/475fa309e2e14a30a1836f6453d2b149/artifacts
+end_time: 1780138145903
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 475fa309e2e14a30a1836f6453d2b149
+run_name: spiffy-smelt-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138111535
+status: 3
+tags: []
+user_id: plgmaczynspwr

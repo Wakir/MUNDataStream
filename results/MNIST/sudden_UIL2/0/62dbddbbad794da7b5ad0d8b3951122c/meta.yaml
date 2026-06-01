@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/62dbddbbad794da7b5ad0d8b3951122c/artifacts
+end_time: 1780140631541
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 62dbddbbad794da7b5ad0d8b3951122c
+run_name: casual-fly-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140597384
+status: 3
+tags: []
+user_id: plgmaczynspwr

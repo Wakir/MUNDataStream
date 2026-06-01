@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/1af6b2c2a1714af18b25a7a4f27d5947/artifacts
+end_time: 1773271032397
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 1af6b2c2a1714af18b25a7a4f27d5947
+run_name: caring-shark-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773270292898
+status: 3
+tags: []
+user_id: root

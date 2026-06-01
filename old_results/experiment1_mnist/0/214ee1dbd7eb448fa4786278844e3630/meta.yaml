@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/214ee1dbd7eb448fa4786278844e3630/artifacts
+end_time: 1773252673408
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 214ee1dbd7eb448fa4786278844e3630
+run_name: useful-ape-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252174970
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/f07356b063ae4e2d9a1924b3c41e69d8/artifacts
+end_time: 1780123207027
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: f07356b063ae4e2d9a1924b3c41e69d8
+run_name: melodic-newt-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123173104
+status: 3
+tags: []
+user_id: plgmaczynspwr

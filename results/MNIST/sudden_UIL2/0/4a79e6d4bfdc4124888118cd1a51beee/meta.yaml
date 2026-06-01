@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/4a79e6d4bfdc4124888118cd1a51beee/artifacts
+end_time: 1780140023754
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 4a79e6d4bfdc4124888118cd1a51beee
+run_name: receptive-swan-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139988149
+status: 3
+tags: []
+user_id: plgmaczynspwr

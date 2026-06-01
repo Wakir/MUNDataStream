@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/d098d7d368584ec4b1b3f239d1040889/artifacts
+end_time: 1779360708212
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: d098d7d368584ec4b1b3f239d1040889
+run_name: gentle-shad-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779360543440
+status: 3
+tags: []
+user_id: plgmaczynspwr

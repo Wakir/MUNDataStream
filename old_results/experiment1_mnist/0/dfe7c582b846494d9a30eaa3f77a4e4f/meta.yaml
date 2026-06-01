@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/dfe7c582b846494d9a30eaa3f77a4e4f/artifacts
+end_time: 1773266169860
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: dfe7c582b846494d9a30eaa3f77a4e4f
+run_name: hilarious-kit-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265704017
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/d5f156b06fda4041a1fcb110e5a70a15/artifacts
+end_time: 1773256676416
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: d5f156b06fda4041a1fcb110e5a70a15
+run_name: resilient-jay-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773256183741
+status: 3
+tags: []
+user_id: root

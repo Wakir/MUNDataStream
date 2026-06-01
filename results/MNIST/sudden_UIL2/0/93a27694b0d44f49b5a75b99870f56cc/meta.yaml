@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/93a27694b0d44f49b5a75b99870f56cc/artifacts
+end_time: 1780136677412
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 93a27694b0d44f49b5a75b99870f56cc
+run_name: zealous-shrike-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136641548
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/69ad9e747a4f4e84a2021fbcb7a96f6f/artifacts
+end_time: 1773263888030
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 69ad9e747a4f4e84a2021fbcb7a96f6f
+run_name: smiling-stag-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263413130
+status: 3
+tags: []
+user_id: root

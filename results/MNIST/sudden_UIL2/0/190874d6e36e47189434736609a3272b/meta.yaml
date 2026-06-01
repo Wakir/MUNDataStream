@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/190874d6e36e47189434736609a3272b/artifacts
+end_time: 1780119480644
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 190874d6e36e47189434736609a3272b
+run_name: mysterious-slug-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119447639
+status: 3
+tags: []
+user_id: plgmaczynspwr

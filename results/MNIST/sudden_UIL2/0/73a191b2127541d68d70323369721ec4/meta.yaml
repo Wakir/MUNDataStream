@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/73a191b2127541d68d70323369721ec4/artifacts
+end_time: 1780119018428
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 73a191b2127541d68d70323369721ec4
+run_name: receptive-dog-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118985337
+status: 3
+tags: []
+user_id: plgmaczynspwr

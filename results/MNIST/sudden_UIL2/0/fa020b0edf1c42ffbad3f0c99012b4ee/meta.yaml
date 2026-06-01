@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/fa020b0edf1c42ffbad3f0c99012b4ee/artifacts
+end_time: 1780125898979
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: fa020b0edf1c42ffbad3f0c99012b4ee
+run_name: shivering-shark-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125865447
+status: 3
+tags: []
+user_id: plgmaczynspwr

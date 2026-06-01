@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/658a0bd7181d47e5828536f07e97d273/artifacts
+end_time: 1779411297648
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 658a0bd7181d47e5828536f07e97d273
+run_name: luxuriant-grub-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779410742599
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/87a8cf3a27ae473887d8ec6001baecb3/artifacts
+end_time: 1779386789980
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 87a8cf3a27ae473887d8ec6001baecb3
+run_name: overjoyed-swan-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779386459774
+status: 3
+tags: []
+user_id: plgmaczynspwr

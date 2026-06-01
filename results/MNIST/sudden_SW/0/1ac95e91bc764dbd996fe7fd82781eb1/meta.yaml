@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/1ac95e91bc764dbd996fe7fd82781eb1/artifacts
+end_time: 1779356350685
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 1ac95e91bc764dbd996fe7fd82781eb1
+run_name: indecisive-flea-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779356291723
+status: 3
+tags: []
+user_id: plgmaczynspwr

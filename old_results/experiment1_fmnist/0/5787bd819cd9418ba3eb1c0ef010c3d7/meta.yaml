@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/5787bd819cd9418ba3eb1c0ef010c3d7/artifacts
+end_time: 1773287784128
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 5787bd819cd9418ba3eb1c0ef010c3d7
+run_name: colorful-grouse-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287071284
+status: 3
+tags: []
+user_id: root

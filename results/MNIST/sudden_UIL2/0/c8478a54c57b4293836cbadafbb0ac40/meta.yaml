@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/c8478a54c57b4293836cbadafbb0ac40/artifacts
+end_time: 1780108691360
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: c8478a54c57b4293836cbadafbb0ac40
+run_name: stately-goose-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108659242
+status: 3
+tags: []
+user_id: plgmaczynspwr

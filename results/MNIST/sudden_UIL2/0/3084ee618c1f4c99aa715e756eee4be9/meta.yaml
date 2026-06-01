@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/3084ee618c1f4c99aa715e756eee4be9/artifacts
+end_time: 1780118457639
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 3084ee618c1f4c99aa715e756eee4be9
+run_name: youthful-finch-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118424716
+status: 3
+tags: []
+user_id: plgmaczynspwr

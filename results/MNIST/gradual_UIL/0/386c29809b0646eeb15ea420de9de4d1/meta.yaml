@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/386c29809b0646eeb15ea420de9de4d1/artifacts
+end_time: 1780252629707
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 386c29809b0646eeb15ea420de9de4d1
+run_name: bouncy-tern-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780252592686
+status: 3
+tags: []
+user_id: plgmaczynspwr

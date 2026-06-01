@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/2c9e1cc8c06140ebac667d67aef5fa31/artifacts
+end_time: 1780130826924
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 2c9e1cc8c06140ebac667d67aef5fa31
+run_name: overjoyed-doe-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130793333
+status: 3
+tags: []
+user_id: plgmaczynspwr

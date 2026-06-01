@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/bc173ad15bed4d0c8e7931af11d6b5e9/artifacts
+end_time: 1780114280486
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: bc173ad15bed4d0c8e7931af11d6b5e9
+run_name: carefree-fish-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114247982
+status: 3
+tags: []
+user_id: plgmaczynspwr

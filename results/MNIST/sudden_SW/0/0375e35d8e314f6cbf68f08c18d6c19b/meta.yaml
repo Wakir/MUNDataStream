@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/0375e35d8e314f6cbf68f08c18d6c19b/artifacts
+end_time: 1779368450724
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 0375e35d8e314f6cbf68f08c18d6c19b
+run_name: spiffy-boar-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779368166538
+status: 3
+tags: []
+user_id: plgmaczynspwr

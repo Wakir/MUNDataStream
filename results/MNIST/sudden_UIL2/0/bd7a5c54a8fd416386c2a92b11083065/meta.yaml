@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/bd7a5c54a8fd416386c2a92b11083065/artifacts
+end_time: 1780126006180
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: bd7a5c54a8fd416386c2a92b11083065
+run_name: enchanting-perch-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125971977
+status: 3
+tags: []
+user_id: plgmaczynspwr

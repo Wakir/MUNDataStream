@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/4c56a7eec2114be69038b114a036fd7c/artifacts
+end_time: 1773259972846
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 4c56a7eec2114be69038b114a036fd7c
+run_name: welcoming-mare-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259492346
+status: 3
+tags: []
+user_id: root

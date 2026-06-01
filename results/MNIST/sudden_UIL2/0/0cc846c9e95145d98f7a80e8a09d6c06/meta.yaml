@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/0cc846c9e95145d98f7a80e8a09d6c06/artifacts
+end_time: 1780143057564
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 0cc846c9e95145d98f7a80e8a09d6c06
+run_name: masked-doe-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143022914
+status: 3
+tags: []
+user_id: plgmaczynspwr

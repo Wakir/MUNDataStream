@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/943b09639a924f28a6e86a6739bd7477/artifacts
+end_time: 1773265823581
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 943b09639a924f28a6e86a6739bd7477
+run_name: bouncy-chimp-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265350996
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/50ccdd6167154c0f9248d42da5cda8fd/artifacts
+end_time: 1780236468014
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 50ccdd6167154c0f9248d42da5cda8fd
+run_name: clumsy-mole-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780236435552
+status: 3
+tags: []
+user_id: plgmaczynspwr

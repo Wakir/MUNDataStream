@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/f40b8ea4f05a491f938bc52191ade5c1/artifacts
+end_time: 1780128837964
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: f40b8ea4f05a491f938bc52191ade5c1
+run_name: industrious-hen-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128804131
+status: 3
+tags: []
+user_id: plgmaczynspwr

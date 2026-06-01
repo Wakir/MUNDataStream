@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/c747768e0d7c414d910fb3cd2e87cdf9/artifacts
+end_time: 1773259399746
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: c747768e0d7c414d910fb3cd2e87cdf9
+run_name: judicious-ray-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258915221
+status: 3
+tags: []
+user_id: root

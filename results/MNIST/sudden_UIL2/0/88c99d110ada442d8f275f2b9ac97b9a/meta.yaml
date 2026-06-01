@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/88c99d110ada442d8f275f2b9ac97b9a/artifacts
+end_time: 1780127364118
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 88c99d110ada442d8f275f2b9ac97b9a
+run_name: grandiose-doe-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127330586
+status: 3
+tags: []
+user_id: plgmaczynspwr

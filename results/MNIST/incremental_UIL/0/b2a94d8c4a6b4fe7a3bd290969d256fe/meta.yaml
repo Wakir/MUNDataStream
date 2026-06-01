@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/b2a94d8c4a6b4fe7a3bd290969d256fe/artifacts
+end_time: 1780243710774
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: b2a94d8c4a6b4fe7a3bd290969d256fe
+run_name: righteous-roo-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780243675387
+status: 3
+tags: []
+user_id: plgmaczynspwr

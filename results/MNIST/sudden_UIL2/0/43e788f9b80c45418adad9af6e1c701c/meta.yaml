@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/43e788f9b80c45418adad9af6e1c701c/artifacts
+end_time: 1780127263579
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 43e788f9b80c45418adad9af6e1c701c
+run_name: hilarious-moth-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127230008
+status: 3
+tags: []
+user_id: plgmaczynspwr

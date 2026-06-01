@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/3d7ea5ee38c24639979dbea8ed631cc0/artifacts
+end_time: 1780142623210
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 3d7ea5ee38c24639979dbea8ed631cc0
+run_name: big-ram-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142588967
+status: 3
+tags: []
+user_id: plgmaczynspwr

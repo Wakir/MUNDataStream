@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/1ac0779558a74c7dbd19a6b514e51db9/artifacts
+end_time: 1780112243454
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 1ac0779558a74c7dbd19a6b514e51db9
+run_name: whimsical-snipe-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112209939
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/5582b4b07e2248b5a269500ea63adf07/artifacts
+end_time: 1773281775829
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 5582b4b07e2248b5a269500ea63adf07
+run_name: bittersweet-cow-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281017236
+status: 3
+tags: []
+user_id: root

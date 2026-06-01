@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/9c6baf273b374cf4899ece87864a8ca1/artifacts
+end_time: 1780252740751
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 9c6baf273b374cf4899ece87864a8ca1
+run_name: grandiose-perch-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780252703747
+status: 3
+tags: []
+user_id: plgmaczynspwr

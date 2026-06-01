@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/24a20ebdfcde4824aed6560b80f47f90/artifacts
+end_time: 1780134510917
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 24a20ebdfcde4824aed6560b80f47f90
+run_name: sedate-snipe-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134476380
+status: 3
+tags: []
+user_id: plgmaczynspwr

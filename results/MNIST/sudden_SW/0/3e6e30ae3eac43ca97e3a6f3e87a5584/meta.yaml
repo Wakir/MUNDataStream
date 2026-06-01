@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns403/285668788200463062/3e6e30ae3eac43ca97e3a6f3e87a5584/artifacts
+end_time: 1779601894290
+entry_point_name: ''
+experiment_id: '285668788200463062'
+lifecycle_stage: active
+run_id: 3e6e30ae3eac43ca97e3a6f3e87a5584
+run_name: funny-bee-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779600342844
+status: 3
+tags: []
+user_id: plgmaczynspwr

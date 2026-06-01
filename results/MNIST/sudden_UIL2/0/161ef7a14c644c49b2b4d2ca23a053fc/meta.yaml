@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/161ef7a14c644c49b2b4d2ca23a053fc/artifacts
+end_time: 1780141249873
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 161ef7a14c644c49b2b4d2ca23a053fc
+run_name: nervous-worm-719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141214265
+status: 3
+tags: []
+user_id: plgmaczynspwr

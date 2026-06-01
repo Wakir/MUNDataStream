@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/8be62eb91004493e81b17a7932dbdd18/artifacts
+end_time: 1773310923952
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 8be62eb91004493e81b17a7932dbdd18
+run_name: delicate-newt-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773309621800
+status: 3
+tags: []
+user_id: root

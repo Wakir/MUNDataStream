@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/b5adf9782c6c4d3faade52c826120c24/artifacts
+end_time: 1773255234622
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: b5adf9782c6c4d3faade52c826120c24
+run_name: zealous-perch-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254734460
+status: 3
+tags: []
+user_id: root

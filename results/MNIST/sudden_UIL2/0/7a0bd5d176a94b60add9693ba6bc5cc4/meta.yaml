@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/7a0bd5d176a94b60add9693ba6bc5cc4/artifacts
+end_time: 1780112646151
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 7a0bd5d176a94b60add9693ba6bc5cc4
+run_name: brawny-stork-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112612627
+status: 3
+tags: []
+user_id: plgmaczynspwr

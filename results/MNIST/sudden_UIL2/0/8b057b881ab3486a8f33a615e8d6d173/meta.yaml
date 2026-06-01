@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/8b057b881ab3486a8f33a615e8d6d173/artifacts
+end_time: 1780143154298
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 8b057b881ab3486a8f33a615e8d6d173
+run_name: suave-gnat-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143118628
+status: 3
+tags: []
+user_id: plgmaczynspwr

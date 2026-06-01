@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/404344ea3aa24140acb640a929d90c71/artifacts
+end_time: 1780133689179
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 404344ea3aa24140acb640a929d90c71
+run_name: burly-steed-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133655039
+status: 3
+tags: []
+user_id: plgmaczynspwr

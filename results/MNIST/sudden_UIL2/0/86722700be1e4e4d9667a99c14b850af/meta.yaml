@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/86722700be1e4e4d9667a99c14b850af/artifacts
+end_time: 1780133289561
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 86722700be1e4e4d9667a99c14b850af
+run_name: handsome-bee-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133255623
+status: 3
+tags: []
+user_id: plgmaczynspwr

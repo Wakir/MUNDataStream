@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/a226d864087f43e1b9c5f68fa11467c9/artifacts
+end_time: 1773318175291
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: a226d864087f43e1b9c5f68fa11467c9
+run_name: mercurial-moose-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316886926
+status: 3
+tags: []
+user_id: root

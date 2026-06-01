@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/f626701fc30945bd813159ac3b464a10/artifacts
+end_time: 1780114508666
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: f626701fc30945bd813159ac3b464a10
+run_name: monumental-gull-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114476099
+status: 3
+tags: []
+user_id: plgmaczynspwr

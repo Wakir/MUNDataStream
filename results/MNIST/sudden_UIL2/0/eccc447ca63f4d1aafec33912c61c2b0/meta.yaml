@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/eccc447ca63f4d1aafec33912c61c2b0/artifacts
+end_time: 1780116698219
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: eccc447ca63f4d1aafec33912c61c2b0
+run_name: beautiful-duck-153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116664275
+status: 3
+tags: []
+user_id: plgmaczynspwr

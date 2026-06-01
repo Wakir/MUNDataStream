@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/41e22234ac6e47cf8fe2993b210516e3/artifacts
+end_time: 1780140191690
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 41e22234ac6e47cf8fe2993b210516e3
+run_name: inquisitive-seal-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140155376
+status: 3
+tags: []
+user_id: plgmaczynspwr

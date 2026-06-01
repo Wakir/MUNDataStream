@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/99d15ff606604aa592493f0987d4f1e6/artifacts
+end_time: 1773277605251
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 99d15ff606604aa592493f0987d4f1e6
+run_name: adorable-donkey-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773276870525
+status: 3
+tags: []
+user_id: root

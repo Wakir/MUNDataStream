@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/7265e528710b456396e9aeee2af3e165/artifacts
+end_time: 1780126759460
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 7265e528710b456396e9aeee2af3e165
+run_name: mercurial-fawn-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126725293
+status: 3
+tags: []
+user_id: plgmaczynspwr

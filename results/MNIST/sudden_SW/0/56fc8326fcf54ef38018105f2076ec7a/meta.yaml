@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns403/285668788200463062/56fc8326fcf54ef38018105f2076ec7a/artifacts
+end_time: 1779586481195
+entry_point_name: ''
+experiment_id: '285668788200463062'
+lifecycle_stage: active
+run_id: 56fc8326fcf54ef38018105f2076ec7a
+run_name: caring-goat-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779584933031
+status: 3
+tags: []
+user_id: plgmaczynspwr

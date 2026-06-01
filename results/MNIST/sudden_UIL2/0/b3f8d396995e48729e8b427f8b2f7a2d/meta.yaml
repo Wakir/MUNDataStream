@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b3f8d396995e48729e8b427f8b2f7a2d/artifacts
+end_time: 1780140255268
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b3f8d396995e48729e8b427f8b2f7a2d
+run_name: hilarious-snipe-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140218834
+status: 3
+tags: []
+user_id: plgmaczynspwr

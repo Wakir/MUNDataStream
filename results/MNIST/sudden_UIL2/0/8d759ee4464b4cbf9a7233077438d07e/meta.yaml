@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/8d759ee4464b4cbf9a7233077438d07e/artifacts
+end_time: 1780137535552
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 8d759ee4464b4cbf9a7233077438d07e
+run_name: glamorous-crane-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137499955
+status: 3
+tags: []
+user_id: plgmaczynspwr

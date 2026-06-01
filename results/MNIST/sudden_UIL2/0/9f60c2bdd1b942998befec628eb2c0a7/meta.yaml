@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/9f60c2bdd1b942998befec628eb2c0a7/artifacts
+end_time: 1780106918417
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 9f60c2bdd1b942998befec628eb2c0a7
+run_name: fortunate-sponge-542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780106886191
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/9b2920cb272541bba8114cbcfbf756d7/artifacts
+end_time: 1773257460890
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 9b2920cb272541bba8114cbcfbf756d7
+run_name: dazzling-stoat-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773256971861
+status: 3
+tags: []
+user_id: root

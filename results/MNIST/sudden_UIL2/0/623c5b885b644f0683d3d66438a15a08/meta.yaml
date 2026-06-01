@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/623c5b885b644f0683d3d66438a15a08/artifacts
+end_time: 1780131500433
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 623c5b885b644f0683d3d66438a15a08
+run_name: bedecked-bear-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131466563
+status: 3
+tags: []
+user_id: plgmaczynspwr

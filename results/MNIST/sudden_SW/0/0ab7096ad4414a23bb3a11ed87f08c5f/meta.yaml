@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/0ab7096ad4414a23bb3a11ed87f08c5f/artifacts
+end_time: 1779411014253
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 0ab7096ad4414a23bb3a11ed87f08c5f
+run_name: languid-bass-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779410487628
+status: 3
+tags: []
+user_id: plgmaczynspwr

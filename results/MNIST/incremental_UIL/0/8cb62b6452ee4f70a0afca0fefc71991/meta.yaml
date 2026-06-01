@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/8cb62b6452ee4f70a0afca0fefc71991/artifacts
+end_time: 1780241334677
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 8cb62b6452ee4f70a0afca0fefc71991
+run_name: hilarious-cat-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241292185
+status: 3
+tags: []
+user_id: plgmaczynspwr

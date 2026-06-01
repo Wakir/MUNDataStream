@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/b8d3ab5cb9bd4945851649dfcf0b7e37/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: b8d3ab5cb9bd4945851649dfcf0b7e37
+run_name: luxuriant-fly-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780236858072
+status: 1
+tags: []
+user_id: plgmaczynspwr

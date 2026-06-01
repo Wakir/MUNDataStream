@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/56ff988030c6422ca575ec007b955484/artifacts
+end_time: 1779373447009
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 56ff988030c6422ca575ec007b955484
+run_name: auspicious-cod-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779373159503
+status: 3
+tags: []
+user_id: plgmaczynspwr

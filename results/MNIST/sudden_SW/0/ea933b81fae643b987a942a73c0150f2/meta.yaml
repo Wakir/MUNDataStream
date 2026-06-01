@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/ea933b81fae643b987a942a73c0150f2/artifacts
+end_time: 1779383701674
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: ea933b81fae643b987a942a73c0150f2
+run_name: debonair-yak-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779383480333
+status: 3
+tags: []
+user_id: plgmaczynspwr

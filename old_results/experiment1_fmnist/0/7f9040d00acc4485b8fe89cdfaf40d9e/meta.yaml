@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/7f9040d00acc4485b8fe89cdfaf40d9e/artifacts
+end_time: 1773293786994
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 7f9040d00acc4485b8fe89cdfaf40d9e
+run_name: unleashed-shark-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773293051991
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e4fafa395f59465593d51ec9a11bad53/artifacts
+end_time: 1780131573552
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e4fafa395f59465593d51ec9a11bad53
+run_name: bouncy-panda-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131539747
+status: 3
+tags: []
+user_id: plgmaczynspwr

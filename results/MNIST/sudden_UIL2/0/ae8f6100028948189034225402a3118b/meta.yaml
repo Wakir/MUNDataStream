@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/ae8f6100028948189034225402a3118b/artifacts
+end_time: 1780240180143
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: ae8f6100028948189034225402a3118b
+run_name: wistful-skink-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240146907
+status: 3
+tags: []
+user_id: plgmaczynspwr

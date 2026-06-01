@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9ee6a5fafa3b4be086ed3007f2343066/artifacts
+end_time: 1780112378945
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9ee6a5fafa3b4be086ed3007f2343066
+run_name: chill-frog-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112346519
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f1d344129b8245e89670d4263b3fcd43/artifacts
+end_time: 1780131430746
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f1d344129b8245e89670d4263b3fcd43
+run_name: stylish-whale-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131395662
+status: 3
+tags: []
+user_id: plgmaczynspwr

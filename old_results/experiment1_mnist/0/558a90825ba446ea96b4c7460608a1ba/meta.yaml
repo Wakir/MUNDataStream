@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/558a90825ba446ea96b4c7460608a1ba/artifacts
+end_time: 1773253528320
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 558a90825ba446ea96b4c7460608a1ba
+run_name: bittersweet-pug-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253030867
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/425a093edafd4ed78274231c7ca33e30/artifacts
+end_time: 1780123395987
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 425a093edafd4ed78274231c7ca33e30
+run_name: fearless-mole-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123361746
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/cd1973d96f844a86b0e314f7530a44fc/artifacts
+end_time: 1780116141283
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: cd1973d96f844a86b0e314f7530a44fc
+run_name: incongruous-vole-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116108621
+status: 3
+tags: []
+user_id: plgmaczynspwr

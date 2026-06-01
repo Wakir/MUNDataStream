@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/4cbeca7ad847427d8ca4380ab6ba0148/artifacts
+end_time: 1780135547264
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 4cbeca7ad847427d8ca4380ab6ba0148
+run_name: lyrical-calf-897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135513216
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/be19a4af7fe346c4bc47330d1bf52d36/artifacts
+end_time: 1773269601196
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: be19a4af7fe346c4bc47330d1bf52d36
+run_name: lyrical-lamb-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268857464
+status: 3
+tags: []
+user_id: root

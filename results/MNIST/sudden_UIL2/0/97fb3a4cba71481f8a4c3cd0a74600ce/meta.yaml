@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/97fb3a4cba71481f8a4c3cd0a74600ce/artifacts
+end_time: 1780118951796
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 97fb3a4cba71481f8a4c3cd0a74600ce
+run_name: powerful-carp-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118918770
+status: 3
+tags: []
+user_id: plgmaczynspwr

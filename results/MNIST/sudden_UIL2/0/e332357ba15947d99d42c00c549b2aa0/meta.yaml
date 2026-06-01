@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e332357ba15947d99d42c00c549b2aa0/artifacts
+end_time: 1780125191991
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e332357ba15947d99d42c00c549b2aa0
+run_name: defiant-bug-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125158671
+status: 3
+tags: []
+user_id: plgmaczynspwr

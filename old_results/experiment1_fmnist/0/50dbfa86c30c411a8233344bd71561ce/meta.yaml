@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/50dbfa86c30c411a8233344bd71561ce/artifacts
+end_time: 1773275500872
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 50dbfa86c30c411a8233344bd71561ce
+run_name: traveling-rook-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773274758858
+status: 3
+tags: []
+user_id: root

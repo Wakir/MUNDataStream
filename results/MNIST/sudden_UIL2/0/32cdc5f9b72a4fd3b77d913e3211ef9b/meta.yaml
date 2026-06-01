@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/32cdc5f9b72a4fd3b77d913e3211ef9b/artifacts
+end_time: 1780140768369
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 32cdc5f9b72a4fd3b77d913e3211ef9b
+run_name: salty-grouse-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140732293
+status: 3
+tags: []
+user_id: plgmaczynspwr

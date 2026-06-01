@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/74c741647e0f4402a4020ea7d5fde741/artifacts
+end_time: 1773307102043
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 74c741647e0f4402a4020ea7d5fde741
+run_name: melodic-deer-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773306299678
+status: 3
+tags: []
+user_id: root

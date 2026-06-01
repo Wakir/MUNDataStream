@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/d14b8a1a1acc489096283d03e09c0ef1/artifacts
+end_time: 1780136126814
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: d14b8a1a1acc489096283d03e09c0ef1
+run_name: big-vole-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136092763
+status: 3
+tags: []
+user_id: plgmaczynspwr

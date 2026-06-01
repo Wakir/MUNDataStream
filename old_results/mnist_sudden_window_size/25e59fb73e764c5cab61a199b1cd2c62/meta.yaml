@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/25e59fb73e764c5cab61a199b1cd2c62/artifacts
+end_time: 1773316018639
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 25e59fb73e764c5cab61a199b1cd2c62
+run_name: lyrical-hog-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316018156
+status: 4
+tags: []
+user_id: root

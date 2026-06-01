@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/652724939092415161/d24eedc30294456dbc6f8fee6c3480e7/artifacts
+end_time: 1773314237744
+entry_point_name: ''
+experiment_id: '652724939092415161'
+lifecycle_stage: active
+run_id: d24eedc30294456dbc6f8fee6c3480e7
+run_name: shivering-pug-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312030039
+status: 3
+tags: []
+user_id: root

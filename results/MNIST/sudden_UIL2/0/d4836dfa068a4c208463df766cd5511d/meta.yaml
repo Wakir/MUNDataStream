@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d4836dfa068a4c208463df766cd5511d/artifacts
+end_time: 1780119829170
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d4836dfa068a4c208463df766cd5511d
+run_name: welcoming-kit-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119794763
+status: 3
+tags: []
+user_id: plgmaczynspwr

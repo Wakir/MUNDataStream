@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/4333d27bb9014766b5392982ed880271/artifacts
+end_time: 1780121701717
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 4333d27bb9014766b5392982ed880271
+run_name: delicate-penguin-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121668542
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/d5008514786f462989863117b2cfa8f5/artifacts
+end_time: 1780128161839
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: d5008514786f462989863117b2cfa8f5
+run_name: suave-smelt-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128127888
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/80c893337d6646d3b8489dc0251f10c2/artifacts
+end_time: 1773322045036
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 80c893337d6646d3b8489dc0251f10c2
+run_name: ambitious-turtle-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773320865623
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/1fd4a1820ac74d7391c97788bc58df5f/artifacts
+end_time: 1780121782867
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 1fd4a1820ac74d7391c97788bc58df5f
+run_name: lyrical-goose-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121748743
+status: 3
+tags: []
+user_id: plgmaczynspwr

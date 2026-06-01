@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d230c630a75443b184b4516cca697841/artifacts
+end_time: 1780116867319
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d230c630a75443b184b4516cca697841
+run_name: merciful-steed-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116833582
+status: 3
+tags: []
+user_id: plgmaczynspwr

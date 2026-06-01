@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/7639afb6277d42f0893581cf52f86b08/artifacts
+end_time: 1780106602692
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 7639afb6277d42f0893581cf52f86b08
+run_name: handsome-frog-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780106569387
+status: 3
+tags: []
+user_id: plgmaczynspwr

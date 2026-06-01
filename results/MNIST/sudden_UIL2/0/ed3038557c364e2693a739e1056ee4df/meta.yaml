@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/ed3038557c364e2693a739e1056ee4df/artifacts
+end_time: 1780138438261
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: ed3038557c364e2693a739e1056ee4df
+run_name: upset-asp-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138403813
+status: 3
+tags: []
+user_id: plgmaczynspwr

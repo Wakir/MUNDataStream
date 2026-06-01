@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/139c2f94dbab4ca986f4f07a00e2fb74/artifacts
+end_time: 1780282776104
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 139c2f94dbab4ca986f4f07a00e2fb74
+run_name: painted-ant-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780282729203
+status: 3
+tags: []
+user_id: plgmaczynspwr

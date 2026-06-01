@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/2e3f94dba082468c8b08c672afc8aa46/artifacts
+end_time: 1780124192051
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 2e3f94dba082468c8b08c672afc8aa46
+run_name: amazing-smelt-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124158749
+status: 3
+tags: []
+user_id: plgmaczynspwr

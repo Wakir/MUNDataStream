@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/4637aae9360b4a5b9ea342879ff8f254/artifacts
+end_time: 1780121507032
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 4637aae9360b4a5b9ea342879ff8f254
+run_name: rare-kit-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121473030
+status: 3
+tags: []
+user_id: plgmaczynspwr

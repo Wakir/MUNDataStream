@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/7761d22d8c794c1fbf3158d1c1108ac0/artifacts
+end_time: 1773294739842
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 7761d22d8c794c1fbf3158d1c1108ac0
+run_name: nebulous-shad-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773294046514
+status: 3
+tags: []
+user_id: root

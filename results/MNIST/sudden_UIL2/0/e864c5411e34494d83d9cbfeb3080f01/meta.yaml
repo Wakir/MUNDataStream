@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/e864c5411e34494d83d9cbfeb3080f01/artifacts
+end_time: 1780119008424
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: e864c5411e34494d83d9cbfeb3080f01
+run_name: monumental-hound-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118974148
+status: 3
+tags: []
+user_id: plgmaczynspwr

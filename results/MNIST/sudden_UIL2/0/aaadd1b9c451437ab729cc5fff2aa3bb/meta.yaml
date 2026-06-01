@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/aaadd1b9c451437ab729cc5fff2aa3bb/artifacts
+end_time: 1780110770124
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: aaadd1b9c451437ab729cc5fff2aa3bb
+run_name: masked-shoat-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110736563
+status: 3
+tags: []
+user_id: plgmaczynspwr

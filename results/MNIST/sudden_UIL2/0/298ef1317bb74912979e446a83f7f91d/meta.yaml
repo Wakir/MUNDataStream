@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/298ef1317bb74912979e446a83f7f91d/artifacts
+end_time: 1780127947368
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 298ef1317bb74912979e446a83f7f91d
+run_name: amusing-bee-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127913709
+status: 3
+tags: []
+user_id: plgmaczynspwr

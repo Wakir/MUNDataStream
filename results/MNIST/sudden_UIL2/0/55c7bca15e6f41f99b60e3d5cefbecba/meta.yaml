@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/55c7bca15e6f41f99b60e3d5cefbecba/artifacts
+end_time: 1780110919754
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 55c7bca15e6f41f99b60e3d5cefbecba
+run_name: shivering-moose-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110887411
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/01706776909d40faa4b7a8490330468c/artifacts
+end_time: 1780117287893
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 01706776909d40faa4b7a8490330468c
+run_name: capricious-whale-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117255088
+status: 3
+tags: []
+user_id: plgmaczynspwr

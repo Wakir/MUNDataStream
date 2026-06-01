@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/715a94a3ca2b419e95318a826f642989/artifacts
+end_time: 1780133380024
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 715a94a3ca2b419e95318a826f642989
+run_name: incongruous-crab-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133344387
+status: 3
+tags: []
+user_id: plgmaczynspwr

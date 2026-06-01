@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/9786e1dd32fc450bb46dde2d547eb184/artifacts
+end_time: 1780237432109
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 9786e1dd32fc450bb46dde2d547eb184
+run_name: painted-mole-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780237399140
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/fa3e7bb352dd4bccbbee410fbde2d798/artifacts
+end_time: 1780123967250
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: fa3e7bb352dd4bccbbee410fbde2d798
+run_name: enchanting-finch-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123933963
+status: 3
+tags: []
+user_id: plgmaczynspwr

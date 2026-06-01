@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2e1ffdd73222429cb5f5f4f965d45cec/artifacts
+end_time: 1780118461845
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2e1ffdd73222429cb5f5f4f965d45cec
+run_name: bald-mare-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118427895
+status: 3
+tags: []
+user_id: plgmaczynspwr

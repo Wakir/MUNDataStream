@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6947f092b8ee48d6869d82d73b00e4af/artifacts
+end_time: 1780134311943
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6947f092b8ee48d6869d82d73b00e4af
+run_name: wise-cub-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134276007
+status: 3
+tags: []
+user_id: plgmaczynspwr

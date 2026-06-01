@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/f553d83883a0419db310ea85ccdd29a4/artifacts
+end_time: 1773319796725
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: f553d83883a0419db310ea85ccdd29a4
+run_name: serious-horse-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773318617652
+status: 3
+tags: []
+user_id: root

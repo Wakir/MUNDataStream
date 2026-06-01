@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/ad99efeb1a754797a38e7046caa36d56/artifacts
+end_time: 1780118952350
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: ad99efeb1a754797a38e7046caa36d56
+run_name: casual-zebra-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118919391
+status: 3
+tags: []
+user_id: plgmaczynspwr

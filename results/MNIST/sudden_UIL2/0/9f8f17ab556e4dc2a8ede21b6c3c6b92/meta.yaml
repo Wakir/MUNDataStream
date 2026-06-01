@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9f8f17ab556e4dc2a8ede21b6c3c6b92/artifacts
+end_time: 1780138489173
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9f8f17ab556e4dc2a8ede21b6c3c6b92
+run_name: rare-stork-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138454861
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/5ac36f54bc7d4faebfaeb9caabdb8abe/artifacts
+end_time: 1773266973693
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 5ac36f54bc7d4faebfaeb9caabdb8abe
+run_name: angry-doe-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266209712
+status: 3
+tags: []
+user_id: root

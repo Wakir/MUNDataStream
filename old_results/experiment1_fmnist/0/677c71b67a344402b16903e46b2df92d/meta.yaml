@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/677c71b67a344402b16903e46b2df92d/artifacts
+end_time: 1773282783888
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 677c71b67a344402b16903e46b2df92d
+run_name: carefree-fawn-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773282078301
+status: 3
+tags: []
+user_id: root

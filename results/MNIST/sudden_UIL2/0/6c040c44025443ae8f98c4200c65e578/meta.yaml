@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/6c040c44025443ae8f98c4200c65e578/artifacts
+end_time: 1780128775655
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 6c040c44025443ae8f98c4200c65e578
+run_name: painted-snake-326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128741949
+status: 3
+tags: []
+user_id: plgmaczynspwr

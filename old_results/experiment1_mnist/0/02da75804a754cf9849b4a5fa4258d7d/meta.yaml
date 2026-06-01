@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/02da75804a754cf9849b4a5fa4258d7d/artifacts
+end_time: 1773257676510
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 02da75804a754cf9849b4a5fa4258d7d
+run_name: capricious-fowl-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257185686
+status: 3
+tags: []
+user_id: root

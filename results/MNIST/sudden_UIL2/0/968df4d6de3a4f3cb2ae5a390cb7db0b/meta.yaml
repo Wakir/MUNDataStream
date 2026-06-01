@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/968df4d6de3a4f3cb2ae5a390cb7db0b/artifacts
+end_time: 1780116599513
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 968df4d6de3a4f3cb2ae5a390cb7db0b
+run_name: upset-sloth-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116566807
+status: 3
+tags: []
+user_id: plgmaczynspwr

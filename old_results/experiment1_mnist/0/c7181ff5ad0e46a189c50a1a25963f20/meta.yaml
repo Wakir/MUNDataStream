@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/c7181ff5ad0e46a189c50a1a25963f20/artifacts
+end_time: 1773262321098
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: c7181ff5ad0e46a189c50a1a25963f20
+run_name: adaptable-crab-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261847943
+status: 3
+tags: []
+user_id: root

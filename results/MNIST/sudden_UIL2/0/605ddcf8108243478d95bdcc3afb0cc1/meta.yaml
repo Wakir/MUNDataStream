@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/605ddcf8108243478d95bdcc3afb0cc1/artifacts
+end_time: 1780127136541
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 605ddcf8108243478d95bdcc3afb0cc1
+run_name: selective-steed-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127102136
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/22119bf5f8cc44c9a0cf75aebf4ebf58/artifacts
+end_time: 1780112378262
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 22119bf5f8cc44c9a0cf75aebf4ebf58
+run_name: sedate-hog-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112344794
+status: 3
+tags: []
+user_id: plgmaczynspwr

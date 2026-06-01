@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e7fde62a1abb42efb20da8e25ba0397b/artifacts
+end_time: 1780120449202
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e7fde62a1abb42efb20da8e25ba0397b
+run_name: trusting-bass-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120416188
+status: 3
+tags: []
+user_id: plgmaczynspwr

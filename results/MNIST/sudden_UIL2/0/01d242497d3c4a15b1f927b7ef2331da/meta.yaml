@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/01d242497d3c4a15b1f927b7ef2331da/artifacts
+end_time: 1780115389622
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 01d242497d3c4a15b1f927b7ef2331da
+run_name: bedecked-hare-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115356980
+status: 3
+tags: []
+user_id: plgmaczynspwr

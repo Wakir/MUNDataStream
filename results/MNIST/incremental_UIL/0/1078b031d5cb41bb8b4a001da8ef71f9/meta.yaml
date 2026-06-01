@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/1078b031d5cb41bb8b4a001da8ef71f9/artifacts
+end_time: 1780240085967
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 1078b031d5cb41bb8b4a001da8ef71f9
+run_name: caring-grouse-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240049992
+status: 3
+tags: []
+user_id: plgmaczynspwr

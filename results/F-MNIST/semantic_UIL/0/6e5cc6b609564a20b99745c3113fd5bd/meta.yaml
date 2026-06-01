@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/6e5cc6b609564a20b99745c3113fd5bd/artifacts
+end_time: 1780278673078
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 6e5cc6b609564a20b99745c3113fd5bd
+run_name: traveling-shad-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780278620741
+status: 3
+tags: []
+user_id: plgmaczynspwr

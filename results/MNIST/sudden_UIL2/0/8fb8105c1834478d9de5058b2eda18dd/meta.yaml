@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/8fb8105c1834478d9de5058b2eda18dd/artifacts
+end_time: 1780138849044
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 8fb8105c1834478d9de5058b2eda18dd
+run_name: judicious-sloth-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138815076
+status: 3
+tags: []
+user_id: plgmaczynspwr

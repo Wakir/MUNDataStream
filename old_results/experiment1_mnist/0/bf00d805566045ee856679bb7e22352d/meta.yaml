@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/bf00d805566045ee856679bb7e22352d/artifacts
+end_time: 1773252702458
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: bf00d805566045ee856679bb7e22352d
+run_name: silent-snake-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252200703
+status: 3
+tags: []
+user_id: root

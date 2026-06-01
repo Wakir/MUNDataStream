@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/8a2ffb5d0d8e4b53b65f3bc50b0a32c6/artifacts
+end_time: 1773262769312
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 8a2ffb5d0d8e4b53b65f3bc50b0a32c6
+run_name: salty-mink-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262293752
+status: 3
+tags: []
+user_id: root

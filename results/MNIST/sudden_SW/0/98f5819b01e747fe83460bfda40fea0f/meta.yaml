@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/98f5819b01e747fe83460bfda40fea0f/artifacts
+end_time: 1779359665774
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 98f5819b01e747fe83460bfda40fea0f
+run_name: sincere-foal-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779359554671
+status: 3
+tags: []
+user_id: plgmaczynspwr

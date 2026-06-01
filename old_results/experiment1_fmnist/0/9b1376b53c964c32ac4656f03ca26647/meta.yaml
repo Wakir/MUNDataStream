@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/9b1376b53c964c32ac4656f03ca26647/artifacts
+end_time: 1773287894627
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 9b1376b53c964c32ac4656f03ca26647
+run_name: charming-frog-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287139912
+status: 3
+tags: []
+user_id: root

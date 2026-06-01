@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/5d6a63aec6f84a738d4e021bdd6cbfab/artifacts
+end_time: 1773302861615
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 5d6a63aec6f84a738d4e021bdd6cbfab
+run_name: abundant-gull-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773302096425
+status: 3
+tags: []
+user_id: root

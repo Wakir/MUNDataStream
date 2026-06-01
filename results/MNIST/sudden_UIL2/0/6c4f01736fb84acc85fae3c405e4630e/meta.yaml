@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/6c4f01736fb84acc85fae3c405e4630e/artifacts
+end_time: 1780112476394
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 6c4f01736fb84acc85fae3c405e4630e
+run_name: adorable-boar-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112443750
+status: 3
+tags: []
+user_id: plgmaczynspwr

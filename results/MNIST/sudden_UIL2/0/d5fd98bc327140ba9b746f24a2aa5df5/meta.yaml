@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d5fd98bc327140ba9b746f24a2aa5df5/artifacts
+end_time: 1780116088502
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d5fd98bc327140ba9b746f24a2aa5df5
+run_name: placid-horse-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116054698
+status: 3
+tags: []
+user_id: plgmaczynspwr

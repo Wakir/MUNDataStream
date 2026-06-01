@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/3cd775b6ef724120852f904ccedfe2fb/artifacts
+end_time: 1773287878652
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 3cd775b6ef724120852f904ccedfe2fb
+run_name: funny-cod-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287152405
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/4073c8bf9d7041f0b121f0833509ee44/artifacts
+end_time: 1780138392794
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 4073c8bf9d7041f0b121f0833509ee44
+run_name: rebellious-fly-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138358349
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/4a652bda165a411b8554db550e85e1d6/artifacts
+end_time: 1773314280612
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 4a652bda165a411b8554db550e85e1d6
+run_name: resilient-stoat-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773313475723
+status: 3
+tags: []
+user_id: root

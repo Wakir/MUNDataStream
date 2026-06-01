@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e4a13ac5829840b595763b8f404cb303/artifacts
+end_time: 1780126460946
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e4a13ac5829840b595763b8f404cb303
+run_name: luxuriant-hog-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126427590
+status: 3
+tags: []
+user_id: plgmaczynspwr

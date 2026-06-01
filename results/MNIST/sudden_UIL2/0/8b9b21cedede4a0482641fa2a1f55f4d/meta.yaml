@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/8b9b21cedede4a0482641fa2a1f55f4d/artifacts
+end_time: 1780141837649
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 8b9b21cedede4a0482641fa2a1f55f4d
+run_name: grandiose-steed-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141802059
+status: 3
+tags: []
+user_id: plgmaczynspwr

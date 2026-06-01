@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/eab059d2ccb4439c956f0109ed824c39/artifacts
+end_time: 1780143400232
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: eab059d2ccb4439c956f0109ed824c39
+run_name: vaunted-quail-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143369914
+status: 4
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7488ee47fce14a758b48d3312137b89d/artifacts
+end_time: 1780114737107
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7488ee47fce14a758b48d3312137b89d
+run_name: secretive-mole-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114704458
+status: 3
+tags: []
+user_id: plgmaczynspwr

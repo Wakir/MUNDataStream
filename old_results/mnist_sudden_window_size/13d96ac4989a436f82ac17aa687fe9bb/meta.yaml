@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/13d96ac4989a436f82ac17aa687fe9bb/artifacts
+end_time: 1773319714672
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 13d96ac4989a436f82ac17aa687fe9bb
+run_name: bouncy-croc-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773318551804
+status: 3
+tags: []
+user_id: root

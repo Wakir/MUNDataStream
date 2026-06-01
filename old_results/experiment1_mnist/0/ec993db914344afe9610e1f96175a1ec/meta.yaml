@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/ec993db914344afe9610e1f96175a1ec/artifacts
+end_time: 1773264297799
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: ec993db914344afe9610e1f96175a1ec
+run_name: redolent-robin-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263822573
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/39c6576c4a1a494e99a0ff1b235b6b6f/artifacts
+end_time: 1780135660865
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 39c6576c4a1a494e99a0ff1b235b6b6f
+run_name: thundering-crab-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135626008
+status: 3
+tags: []
+user_id: plgmaczynspwr

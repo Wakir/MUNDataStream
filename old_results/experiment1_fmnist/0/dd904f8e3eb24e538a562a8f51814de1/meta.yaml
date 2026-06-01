@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/dd904f8e3eb24e538a562a8f51814de1/artifacts
+end_time: 1773292948167
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: dd904f8e3eb24e538a562a8f51814de1
+run_name: serious-perch-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773292241928
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/1dbd4e4fc92040a78aa98c32ba3d2bd2/artifacts
+end_time: 1780139949423
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 1dbd4e4fc92040a78aa98c32ba3d2bd2
+run_name: bemused-elk-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139914943
+status: 3
+tags: []
+user_id: plgmaczynspwr

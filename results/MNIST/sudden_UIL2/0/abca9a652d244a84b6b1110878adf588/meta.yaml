@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/abca9a652d244a84b6b1110878adf588/artifacts
+end_time: 1780107534074
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: abca9a652d244a84b6b1110878adf588
+run_name: luminous-kit-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107500936
+status: 3
+tags: []
+user_id: plgmaczynspwr

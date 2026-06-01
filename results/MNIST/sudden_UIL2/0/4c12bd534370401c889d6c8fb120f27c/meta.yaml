@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/4c12bd534370401c889d6c8fb120f27c/artifacts
+end_time: 1780116189868
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 4c12bd534370401c889d6c8fb120f27c
+run_name: abrasive-koi-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116156029
+status: 3
+tags: []
+user_id: plgmaczynspwr

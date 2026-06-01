@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/07a7d1eed8f645dd8463f77411d2839a/artifacts
+end_time: 1780122197041
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 07a7d1eed8f645dd8463f77411d2839a
+run_name: mysterious-wolf-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122163904
+status: 3
+tags: []
+user_id: plgmaczynspwr

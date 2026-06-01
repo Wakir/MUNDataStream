@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/f2c326962589423e899a11300244cf26/artifacts
+end_time: 1779423642498
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: f2c326962589423e899a11300244cf26
+run_name: efficient-ray-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779423477901
+status: 3
+tags: []
+user_id: plgmaczynspwr

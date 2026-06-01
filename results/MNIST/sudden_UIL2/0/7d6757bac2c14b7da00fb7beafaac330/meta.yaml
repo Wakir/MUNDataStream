@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/7d6757bac2c14b7da00fb7beafaac330/artifacts
+end_time: 1780113960814
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 7d6757bac2c14b7da00fb7beafaac330
+run_name: loud-mare-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113927074
+status: 3
+tags: []
+user_id: plgmaczynspwr

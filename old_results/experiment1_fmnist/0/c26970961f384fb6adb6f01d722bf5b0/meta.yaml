@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/c26970961f384fb6adb6f01d722bf5b0/artifacts
+end_time: 1773271772936
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: c26970961f384fb6adb6f01d722bf5b0
+run_name: efficient-ram-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773271032427
+status: 3
+tags: []
+user_id: root

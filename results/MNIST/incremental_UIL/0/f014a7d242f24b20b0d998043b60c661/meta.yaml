@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/f014a7d242f24b20b0d998043b60c661/artifacts
+end_time: 1780246528801
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: f014a7d242f24b20b0d998043b60c661
+run_name: handsome-calf-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780246491907
+status: 3
+tags: []
+user_id: plgmaczynspwr

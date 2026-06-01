@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/16a4d9137cc4455d807313c53d56e773/artifacts
+end_time: 1780239683558
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 16a4d9137cc4455d807313c53d56e773
+run_name: treasured-rat-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780239650485
+status: 3
+tags: []
+user_id: plgmaczynspwr

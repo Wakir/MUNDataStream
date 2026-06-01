@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/4e1abd361b954d179bedd81b7249a80c/artifacts
+end_time: 1779583651287
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 4e1abd361b954d179bedd81b7249a80c
+run_name: melodic-rook-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779581874815
+status: 3
+tags: []
+user_id: plgmaczynspwr

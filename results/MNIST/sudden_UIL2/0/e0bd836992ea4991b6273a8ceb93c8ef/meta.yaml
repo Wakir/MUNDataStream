@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e0bd836992ea4991b6273a8ceb93c8ef/artifacts
+end_time: 1780128472447
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e0bd836992ea4991b6273a8ceb93c8ef
+run_name: enchanting-ant-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128438874
+status: 3
+tags: []
+user_id: plgmaczynspwr

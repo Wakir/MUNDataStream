@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/ff49a026167749749727c7d768991170/artifacts
+end_time: 1780122171104
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: ff49a026167749749727c7d768991170
+run_name: carefree-vole-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122137955
+status: 3
+tags: []
+user_id: plgmaczynspwr

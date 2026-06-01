@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/8c29ca8c76934700829aa4a4a868ed8c/artifacts
+end_time: 1780115341837
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 8c29ca8c76934700829aa4a4a868ed8c
+run_name: welcoming-vole-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115309075
+status: 3
+tags: []
+user_id: plgmaczynspwr

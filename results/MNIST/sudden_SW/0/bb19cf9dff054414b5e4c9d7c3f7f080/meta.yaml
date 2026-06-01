@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/bb19cf9dff054414b5e4c9d7c3f7f080/artifacts
+end_time: 1779595333690
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: bb19cf9dff054414b5e4c9d7c3f7f080
+run_name: bittersweet-elk-503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779594861773
+status: 3
+tags: []
+user_id: plgmaczynspwr

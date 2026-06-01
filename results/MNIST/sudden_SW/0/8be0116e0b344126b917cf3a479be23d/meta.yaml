@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/8be0116e0b344126b917cf3a479be23d/artifacts
+end_time: 1779378333606
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 8be0116e0b344126b917cf3a479be23d
+run_name: bright-gnu-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779378201652
+status: 3
+tags: []
+user_id: plgmaczynspwr

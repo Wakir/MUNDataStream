@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/dcf00aa7b3104eb1ac5dba844d24f574/artifacts
+end_time: 1780127274825
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: dcf00aa7b3104eb1ac5dba844d24f574
+run_name: invincible-hound-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127241046
+status: 3
+tags: []
+user_id: plgmaczynspwr

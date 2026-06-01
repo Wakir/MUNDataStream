@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/f8aaa1ce0d5e46e7bb0d81a118aceefb/artifacts
+end_time: 1780240812223
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: f8aaa1ce0d5e46e7bb0d81a118aceefb
+run_name: calm-hare-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240779092
+status: 3
+tags: []
+user_id: plgmaczynspwr

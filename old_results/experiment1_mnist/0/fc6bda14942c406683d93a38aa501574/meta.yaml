@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/fc6bda14942c406683d93a38aa501574/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: fc6bda14942c406683d93a38aa501574
+run_name: popular-horse-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773245213170
+status: 1
+tags: []
+user_id: root

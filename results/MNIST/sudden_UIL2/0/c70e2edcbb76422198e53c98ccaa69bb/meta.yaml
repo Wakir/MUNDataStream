@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c70e2edcbb76422198e53c98ccaa69bb/artifacts
+end_time: 1780141720399
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c70e2edcbb76422198e53c98ccaa69bb
+run_name: inquisitive-fowl-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141685764
+status: 3
+tags: []
+user_id: plgmaczynspwr

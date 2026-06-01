@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/e0d41c039a004b62ad40fd38569c24eb/artifacts
+end_time: 1780134918411
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: e0d41c039a004b62ad40fd38569c24eb
+run_name: mercurial-steed-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134884200
+status: 3
+tags: []
+user_id: plgmaczynspwr

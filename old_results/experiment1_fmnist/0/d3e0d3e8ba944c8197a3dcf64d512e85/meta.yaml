@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/d3e0d3e8ba944c8197a3dcf64d512e85/artifacts
+end_time: 1773289334578
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: d3e0d3e8ba944c8197a3dcf64d512e85
+run_name: abundant-shad-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773288605250
+status: 3
+tags: []
+user_id: root

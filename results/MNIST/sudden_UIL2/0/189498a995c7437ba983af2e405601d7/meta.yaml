@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/189498a995c7437ba983af2e405601d7/artifacts
+end_time: 1780139581906
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 189498a995c7437ba983af2e405601d7
+run_name: nervous-smelt-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139545926
+status: 3
+tags: []
+user_id: plgmaczynspwr

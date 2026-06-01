@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/893212d2ecd44683b8b3a3b1cc6b0464/artifacts
+end_time: 1773266149453
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 893212d2ecd44683b8b3a3b1cc6b0464
+run_name: stylish-kite-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265405226
+status: 3
+tags: []
+user_id: root

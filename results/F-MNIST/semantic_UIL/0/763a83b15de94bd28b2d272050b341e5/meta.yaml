@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/763a83b15de94bd28b2d272050b341e5/artifacts
+end_time: 1780267097887
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 763a83b15de94bd28b2d272050b341e5
+run_name: placid-moose-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267059356
+status: 3
+tags: []
+user_id: plgmaczynspwr

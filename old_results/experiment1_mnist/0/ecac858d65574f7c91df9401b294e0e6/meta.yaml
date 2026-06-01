@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/ecac858d65574f7c91df9401b294e0e6/artifacts
+end_time: 1773267084604
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: ecac858d65574f7c91df9401b294e0e6
+run_name: welcoming-shark-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266635588
+status: 3
+tags: []
+user_id: root

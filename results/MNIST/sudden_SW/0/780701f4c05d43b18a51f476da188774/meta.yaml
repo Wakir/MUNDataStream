@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/780701f4c05d43b18a51f476da188774/artifacts
+end_time: 1779421508643
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 780701f4c05d43b18a51f476da188774
+run_name: amusing-grouse-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779421345490
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/5beb6e1b815446279b22aa3f29a336d0/artifacts
+end_time: 1780115480097
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 5beb6e1b815446279b22aa3f29a336d0
+run_name: gaudy-chimp-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115446278
+status: 3
+tags: []
+user_id: plgmaczynspwr

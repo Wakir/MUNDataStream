@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/e6f3125f44e947b59f9011e1c3bc0cfc/artifacts
+end_time: 1780130891502
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: e6f3125f44e947b59f9011e1c3bc0cfc
+run_name: welcoming-cub-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130857482
+status: 3
+tags: []
+user_id: plgmaczynspwr

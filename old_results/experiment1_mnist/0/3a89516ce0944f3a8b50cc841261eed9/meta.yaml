@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/3a89516ce0944f3a8b50cc841261eed9/artifacts
+end_time: 1773252712849
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 3a89516ce0944f3a8b50cc841261eed9
+run_name: amazing-stork-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252208016
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/8703732d7ad8421bb3c7ac6805fb6160/artifacts
+end_time: 1779358089236
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 8703732d7ad8421bb3c7ac6805fb6160
+run_name: capable-duck-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779357976720
+status: 3
+tags: []
+user_id: plgmaczynspwr

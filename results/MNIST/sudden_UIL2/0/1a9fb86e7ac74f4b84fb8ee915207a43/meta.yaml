@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/1a9fb86e7ac74f4b84fb8ee915207a43/artifacts
+end_time: 1780135751538
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 1a9fb86e7ac74f4b84fb8ee915207a43
+run_name: unleashed-moose-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135717461
+status: 3
+tags: []
+user_id: plgmaczynspwr

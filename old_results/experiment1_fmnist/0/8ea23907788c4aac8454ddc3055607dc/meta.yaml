@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/8ea23907788c4aac8454ddc3055607dc/artifacts
+end_time: 1773288440944
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 8ea23907788c4aac8454ddc3055607dc
+run_name: illustrious-gnat-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773287742509
+status: 3
+tags: []
+user_id: root

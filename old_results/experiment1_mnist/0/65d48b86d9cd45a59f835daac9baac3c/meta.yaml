@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/65d48b86d9cd45a59f835daac9baac3c/artifacts
+end_time: 1773252200653
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 65d48b86d9cd45a59f835daac9baac3c
+run_name: skittish-flea-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251697925
+status: 3
+tags: []
+user_id: root

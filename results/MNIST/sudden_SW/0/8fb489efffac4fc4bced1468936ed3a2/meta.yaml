@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns401/842381408063410304/8fb489efffac4fc4bced1468936ed3a2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '842381408063410304'
+lifecycle_stage: active
+run_id: 8fb489efffac4fc4bced1468936ed3a2
+run_name: capricious-elk-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779603766388
+status: 1
+tags: []
+user_id: plgmaczynspwr

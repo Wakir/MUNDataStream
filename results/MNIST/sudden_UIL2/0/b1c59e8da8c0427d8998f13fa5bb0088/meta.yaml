@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/b1c59e8da8c0427d8998f13fa5bb0088/artifacts
+end_time: 1780140038975
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: b1c59e8da8c0427d8998f13fa5bb0088
+run_name: righteous-shrike-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140004136
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/26e2e4f91f0f4425b028c0002238cbb4/artifacts
+end_time: 1773313513435
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 26e2e4f91f0f4425b028c0002238cbb4
+run_name: bemused-penguin-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312216572
+status: 3
+tags: []
+user_id: root

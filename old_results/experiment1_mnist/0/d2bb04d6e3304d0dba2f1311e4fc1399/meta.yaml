@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/d2bb04d6e3304d0dba2f1311e4fc1399/artifacts
+end_time: 1773253505600
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: d2bb04d6e3304d0dba2f1311e4fc1399
+run_name: able-fawn-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253008034
+status: 3
+tags: []
+user_id: root

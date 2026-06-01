@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/caefa01f1bb6446084254230478c46a0/artifacts
+end_time: 1779406623865
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: caefa01f1bb6446084254230478c46a0
+run_name: fortunate-chimp-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779406173982
+status: 3
+tags: []
+user_id: plgmaczynspwr

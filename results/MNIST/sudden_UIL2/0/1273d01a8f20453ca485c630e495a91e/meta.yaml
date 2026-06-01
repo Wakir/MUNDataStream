@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/1273d01a8f20453ca485c630e495a91e/artifacts
+end_time: 1780117175106
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 1273d01a8f20453ca485c630e495a91e
+run_name: clumsy-snail-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117142439
+status: 3
+tags: []
+user_id: plgmaczynspwr

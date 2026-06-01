@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/7bbf0e0be9054a1bb9ab520b91b75ca5/artifacts
+end_time: 1780130493544
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 7bbf0e0be9054a1bb9ab520b91b75ca5
+run_name: worried-lynx-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130459797
+status: 3
+tags: []
+user_id: plgmaczynspwr

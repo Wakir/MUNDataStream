@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/76ad9cab6fac4cf288c31460a315373f/artifacts
+end_time: 1773318207814
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 76ad9cab6fac4cf288c31460a315373f
+run_name: beautiful-crab-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316931837
+status: 3
+tags: []
+user_id: root

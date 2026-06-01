@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/464683705ea64e2fabec05fbc17de975/artifacts
+end_time: 1780115291686
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 464683705ea64e2fabec05fbc17de975
+run_name: zealous-calf-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115258773
+status: 3
+tags: []
+user_id: plgmaczynspwr

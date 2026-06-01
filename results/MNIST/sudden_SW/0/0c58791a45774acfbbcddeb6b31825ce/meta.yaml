@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/0c58791a45774acfbbcddeb6b31825ce/artifacts
+end_time: 1779420415833
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 0c58791a45774acfbbcddeb6b31825ce
+run_name: sedate-kit-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779420239362
+status: 3
+tags: []
+user_id: plgmaczynspwr

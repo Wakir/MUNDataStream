@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/ef84f6d9af424dbc966c109bade46e22/artifacts
+end_time: 1773280427723
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: ef84f6d9af424dbc966c109bade46e22
+run_name: dashing-mare-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279702690
+status: 3
+tags: []
+user_id: root

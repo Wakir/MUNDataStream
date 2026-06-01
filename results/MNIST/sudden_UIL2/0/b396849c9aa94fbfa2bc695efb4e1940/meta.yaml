@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b396849c9aa94fbfa2bc695efb4e1940/artifacts
+end_time: 1780123913982
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b396849c9aa94fbfa2bc695efb4e1940
+run_name: gregarious-goose-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123879422
+status: 3
+tags: []
+user_id: plgmaczynspwr

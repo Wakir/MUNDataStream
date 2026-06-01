@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/77de4d86b17f45c59780473fae855bf9/artifacts
+end_time: 1780121371121
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 77de4d86b17f45c59780473fae855bf9
+run_name: orderly-mule-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121336888
+status: 3
+tags: []
+user_id: plgmaczynspwr

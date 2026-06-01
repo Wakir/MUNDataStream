@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/66ae7a752aa54ca39f7d75fcb11e71b7/artifacts
+end_time: 1780135995009
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 66ae7a752aa54ca39f7d75fcb11e71b7
+run_name: bustling-perch-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135959325
+status: 3
+tags: []
+user_id: plgmaczynspwr

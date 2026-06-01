@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/b6a55719638049ef9aa21cee428c093c/artifacts
+end_time: 1779601794046
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: b6a55719638049ef9aa21cee428c093c
+run_name: abrasive-seal-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779601370860
+status: 3
+tags: []
+user_id: plgmaczynspwr

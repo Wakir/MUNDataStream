@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/aa927dc648b04631999c24c26f7fcf87/artifacts
+end_time: 1773290991988
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: aa927dc648b04631999c24c26f7fcf87
+run_name: illustrious-lamb-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773290268276
+status: 3
+tags: []
+user_id: root

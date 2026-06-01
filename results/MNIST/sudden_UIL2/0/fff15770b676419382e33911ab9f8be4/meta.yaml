@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/fff15770b676419382e33911ab9f8be4/artifacts
+end_time: 1780140524211
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: fff15770b676419382e33911ab9f8be4
+run_name: magnificent-bird-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140489573
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/caf16bb735024a81a4aee64cc2ef6e4e/artifacts
+end_time: 1780125770308
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: caf16bb735024a81a4aee64cc2ef6e4e
+run_name: smiling-skink-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125736840
+status: 3
+tags: []
+user_id: plgmaczynspwr

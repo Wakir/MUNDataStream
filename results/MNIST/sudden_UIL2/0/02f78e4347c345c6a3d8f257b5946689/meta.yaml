@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/02f78e4347c345c6a3d8f257b5946689/artifacts
+end_time: 1780110208244
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 02f78e4347c345c6a3d8f257b5946689
+run_name: efficient-mole-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110175829
+status: 3
+tags: []
+user_id: plgmaczynspwr

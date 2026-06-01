@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/60e6f034b44847c6a9a1703072aa4205/artifacts
+end_time: 1779592077177
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: 60e6f034b44847c6a9a1703072aa4205
+run_name: big-snake-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591734207
+status: 3
+tags: []
+user_id: plgmaczynspwr

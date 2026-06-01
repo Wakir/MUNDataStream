@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/1b01854d9a934da385ee1f4b33bd1da1/artifacts
+end_time: 1780240047578
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 1b01854d9a934da385ee1f4b33bd1da1
+run_name: gaudy-pig-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240014400
+status: 3
+tags: []
+user_id: plgmaczynspwr

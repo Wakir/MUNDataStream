@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/38bd5b5b7f4f4ce3ab3c4e86e2e77ca3/artifacts
+end_time: 1780134151753
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 38bd5b5b7f4f4ce3ab3c4e86e2e77ca3
+run_name: beautiful-calf-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134117748
+status: 3
+tags: []
+user_id: plgmaczynspwr

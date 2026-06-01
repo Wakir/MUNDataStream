@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c8fd055fc59e4fa3ad638214991d02da/artifacts
+end_time: 1780116984330
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c8fd055fc59e4fa3ad638214991d02da
+run_name: stately-penguin-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116952692
+status: 3
+tags: []
+user_id: plgmaczynspwr

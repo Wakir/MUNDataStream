@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/68606f7f1fc4449ba32f44421b74e711/artifacts
+end_time: 1780128270872
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 68606f7f1fc4449ba32f44421b74e711
+run_name: glamorous-chimp-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128237297
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/a9d13c25f7344ad89f838cd81dc9d032/artifacts
+end_time: 1773258623071
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: a9d13c25f7344ad89f838cd81dc9d032
+run_name: nebulous-kite-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258134539
+status: 3
+tags: []
+user_id: root

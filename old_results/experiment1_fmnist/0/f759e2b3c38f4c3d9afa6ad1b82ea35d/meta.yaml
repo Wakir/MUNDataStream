@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/f759e2b3c38f4c3d9afa6ad1b82ea35d/artifacts
+end_time: 1773274032767
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: f759e2b3c38f4c3d9afa6ad1b82ea35d
+run_name: placid-mule-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273297915
+status: 3
+tags: []
+user_id: root

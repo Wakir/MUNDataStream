@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/c2f6aebfc1bb4edab4af3976b01061a4/artifacts
+end_time: 1780132376717
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: c2f6aebfc1bb4edab4af3976b01061a4
+run_name: peaceful-vole-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132342744
+status: 3
+tags: []
+user_id: plgmaczynspwr

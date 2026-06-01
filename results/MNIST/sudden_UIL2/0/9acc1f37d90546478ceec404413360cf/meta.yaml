@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/9acc1f37d90546478ceec404413360cf/artifacts
+end_time: 1780139361419
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 9acc1f37d90546478ceec404413360cf
+run_name: treasured-fish-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139326809
+status: 3
+tags: []
+user_id: plgmaczynspwr

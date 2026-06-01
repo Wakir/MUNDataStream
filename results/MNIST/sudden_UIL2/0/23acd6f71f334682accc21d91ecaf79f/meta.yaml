@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/23acd6f71f334682accc21d91ecaf79f/artifacts
+end_time: 1780131129986
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 23acd6f71f334682accc21d91ecaf79f
+run_name: thoughtful-cat-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131096336
+status: 3
+tags: []
+user_id: plgmaczynspwr

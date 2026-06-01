@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/0518abca3b884ce587ff82718541b688/artifacts
+end_time: 1779376425948
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 0518abca3b884ce587ff82718541b688
+run_name: luxuriant-mouse-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779376145041
+status: 3
+tags: []
+user_id: plgmaczynspwr

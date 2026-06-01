@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/b09893e959f84626a545980bd7809185/artifacts
+end_time: 1773256134266
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: b09893e959f84626a545980bd7809185
+run_name: funny-cat-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255644240
+status: 3
+tags: []
+user_id: root

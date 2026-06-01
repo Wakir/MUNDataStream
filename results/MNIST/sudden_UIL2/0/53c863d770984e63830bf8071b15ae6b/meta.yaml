@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/53c863d770984e63830bf8071b15ae6b/artifacts
+end_time: 1780141665504
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 53c863d770984e63830bf8071b15ae6b
+run_name: flawless-owl-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141629546
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/24697be709564690818683cf32fa0229/artifacts
+end_time: 1780120638739
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 24697be709564690818683cf32fa0229
+run_name: charming-boar-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120605672
+status: 3
+tags: []
+user_id: plgmaczynspwr

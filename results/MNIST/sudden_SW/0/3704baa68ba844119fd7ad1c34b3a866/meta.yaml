@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/3704baa68ba844119fd7ad1c34b3a866/artifacts
+end_time: 1779424949389
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 3704baa68ba844119fd7ad1c34b3a866
+run_name: defiant-boar-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779424625830
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/4879426380634bbd8d9181b805db88cb/artifacts
+end_time: 1780132701341
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 4879426380634bbd8d9181b805db88cb
+run_name: abrasive-finch-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132666695
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/b344718806a241d09cf044c3dfe5fdff/artifacts
+end_time: 1780110984432
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: b344718806a241d09cf044c3dfe5fdff
+run_name: aged-moth-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110952060
+status: 3
+tags: []
+user_id: plgmaczynspwr

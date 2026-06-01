@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/07100189b5da4b7887eeeeae0f7478f6/artifacts
+end_time: 1780117273891
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 07100189b5da4b7887eeeeae0f7478f6
+run_name: sedate-wolf-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117239196
+status: 3
+tags: []
+user_id: plgmaczynspwr

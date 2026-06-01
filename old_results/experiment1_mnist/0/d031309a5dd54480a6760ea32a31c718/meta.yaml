@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/d031309a5dd54480a6760ea32a31c718/artifacts
+end_time: 1773255981272
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: d031309a5dd54480a6760ea32a31c718
+run_name: lyrical-deer-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255491038
+status: 3
+tags: []
+user_id: root

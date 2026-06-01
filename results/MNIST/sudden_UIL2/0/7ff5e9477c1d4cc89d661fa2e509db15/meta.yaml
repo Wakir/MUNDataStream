@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7ff5e9477c1d4cc89d661fa2e509db15/artifacts
+end_time: 1780118010994
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7ff5e9477c1d4cc89d661fa2e509db15
+run_name: melodic-crow-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117978139
+status: 3
+tags: []
+user_id: plgmaczynspwr

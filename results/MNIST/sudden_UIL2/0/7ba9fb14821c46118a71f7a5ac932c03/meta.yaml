@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/7ba9fb14821c46118a71f7a5ac932c03/artifacts
+end_time: 1780111762087
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 7ba9fb14821c46118a71f7a5ac932c03
+run_name: big-conch-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111729614
+status: 3
+tags: []
+user_id: plgmaczynspwr

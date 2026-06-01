@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/5bf2dd3cc360441c9962804a2097046a/artifacts
+end_time: 1779598842457
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 5bf2dd3cc360441c9962804a2097046a
+run_name: illustrious-toad-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779598422105
+status: 3
+tags: []
+user_id: plgmaczynspwr

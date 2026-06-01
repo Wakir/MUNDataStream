@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/bede9f28d4e14c89ae8df1271e14863d/artifacts
+end_time: 1779477549552
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: bede9f28d4e14c89ae8df1271e14863d
+run_name: unleashed-whale-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779476663754
+status: 3
+tags: []
+user_id: plgmaczynspwr

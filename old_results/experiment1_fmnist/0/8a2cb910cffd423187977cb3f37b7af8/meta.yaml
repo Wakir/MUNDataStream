@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/8a2cb910cffd423187977cb3f37b7af8/artifacts
+end_time: 1773280511917
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 8a2cb910cffd423187977cb3f37b7af8
+run_name: bald-hen-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279793059
+status: 3
+tags: []
+user_id: root

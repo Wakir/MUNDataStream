@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/f01a7c90f5b44bd592f87f96143815c7/artifacts
+end_time: 1773322089922
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: f01a7c90f5b44bd592f87f96143815c7
+run_name: upbeat-fish-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773320903485
+status: 3
+tags: []
+user_id: root

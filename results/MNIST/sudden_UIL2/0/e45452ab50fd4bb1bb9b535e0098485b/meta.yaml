@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e45452ab50fd4bb1bb9b535e0098485b/artifacts
+end_time: 1780137530101
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e45452ab50fd4bb1bb9b535e0098485b
+run_name: bedecked-gnat-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137495899
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/5fd06502d0d04495815ab44fc17a69cf/artifacts
+end_time: 1780125292124
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 5fd06502d0d04495815ab44fc17a69cf
+run_name: mercurial-smelt-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125258728
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/cf655060e40646599ce7bd437e16ef50/artifacts
+end_time: 1780123615282
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: cf655060e40646599ce7bd437e16ef50
+run_name: thundering-rook-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123581274
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns401/842381408063410304/8ab434e31bbc45509a3ea9f2cf943d28/artifacts
+end_time: 1779592963519
+entry_point_name: ''
+experiment_id: '842381408063410304'
+lifecycle_stage: active
+run_id: 8ab434e31bbc45509a3ea9f2cf943d28
+run_name: whimsical-perch-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779591857536
+status: 3
+tags: []
+user_id: plgmaczynspwr

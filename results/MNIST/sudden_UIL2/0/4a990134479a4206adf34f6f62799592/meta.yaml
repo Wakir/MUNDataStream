@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/4a990134479a4206adf34f6f62799592/artifacts
+end_time: 1780123844931
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 4a990134479a4206adf34f6f62799592
+run_name: bedecked-gnu-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123810342
+status: 3
+tags: []
+user_id: plgmaczynspwr

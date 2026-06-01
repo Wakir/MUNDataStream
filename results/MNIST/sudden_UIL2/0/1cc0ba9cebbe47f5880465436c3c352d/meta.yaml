@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/1cc0ba9cebbe47f5880465436c3c352d/artifacts
+end_time: 1780111546977
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 1cc0ba9cebbe47f5880465436c3c352d
+run_name: dapper-swan-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111514413
+status: 3
+tags: []
+user_id: plgmaczynspwr

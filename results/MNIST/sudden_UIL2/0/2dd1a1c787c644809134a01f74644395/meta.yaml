@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2dd1a1c787c644809134a01f74644395/artifacts
+end_time: 1780119111476
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2dd1a1c787c644809134a01f74644395
+run_name: sedate-fly-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119077102
+status: 3
+tags: []
+user_id: plgmaczynspwr

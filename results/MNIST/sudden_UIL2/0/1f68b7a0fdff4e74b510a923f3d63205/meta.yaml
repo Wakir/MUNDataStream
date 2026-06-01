@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/1f68b7a0fdff4e74b510a923f3d63205/artifacts
+end_time: 1780134065642
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 1f68b7a0fdff4e74b510a923f3d63205
+run_name: vaunted-kite-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134031482
+status: 3
+tags: []
+user_id: plgmaczynspwr

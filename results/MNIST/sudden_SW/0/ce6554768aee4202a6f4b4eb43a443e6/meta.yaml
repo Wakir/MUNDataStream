@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/ce6554768aee4202a6f4b4eb43a443e6/artifacts
+end_time: 1779389790910
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: ce6554768aee4202a6f4b4eb43a443e6
+run_name: gaudy-squid-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779389413705
+status: 3
+tags: []
+user_id: plgmaczynspwr

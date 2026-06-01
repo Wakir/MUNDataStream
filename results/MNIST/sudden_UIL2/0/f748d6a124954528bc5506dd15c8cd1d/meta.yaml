@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f748d6a124954528bc5506dd15c8cd1d/artifacts
+end_time: 1780126159366
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f748d6a124954528bc5506dd15c8cd1d
+run_name: selective-zebra-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126124402
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/36e3dc7b5d3c46db9213649b3a8dd81e/artifacts
+end_time: 1779389946294
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 36e3dc7b5d3c46db9213649b3a8dd81e
+run_name: silent-ox-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779389607638
+status: 3
+tags: []
+user_id: plgmaczynspwr

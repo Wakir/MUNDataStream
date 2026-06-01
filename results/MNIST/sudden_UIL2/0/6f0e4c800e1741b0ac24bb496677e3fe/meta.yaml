@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/6f0e4c800e1741b0ac24bb496677e3fe/artifacts
+end_time: 1780110887407
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 6f0e4c800e1741b0ac24bb496677e3fe
+run_name: fortunate-dog-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110855022
+status: 3
+tags: []
+user_id: plgmaczynspwr

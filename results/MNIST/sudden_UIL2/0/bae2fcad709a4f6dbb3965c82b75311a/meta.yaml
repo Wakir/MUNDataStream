@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/bae2fcad709a4f6dbb3965c82b75311a/artifacts
+end_time: 1780108047172
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: bae2fcad709a4f6dbb3965c82b75311a
+run_name: enchanting-pig-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108014891
+status: 3
+tags: []
+user_id: plgmaczynspwr

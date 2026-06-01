@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/8591cddae9a04ab9b39782d1348e6fa7/artifacts
+end_time: 1773252510582
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 8591cddae9a04ab9b39782d1348e6fa7
+run_name: enchanting-dog-850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773252012922
+status: 3
+tags: []
+user_id: root

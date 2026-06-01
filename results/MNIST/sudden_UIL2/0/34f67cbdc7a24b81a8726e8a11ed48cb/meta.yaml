@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/34f67cbdc7a24b81a8726e8a11ed48cb/artifacts
+end_time: 1780124460182
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 34f67cbdc7a24b81a8726e8a11ed48cb
+run_name: monumental-ape-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124426688
+status: 3
+tags: []
+user_id: plgmaczynspwr

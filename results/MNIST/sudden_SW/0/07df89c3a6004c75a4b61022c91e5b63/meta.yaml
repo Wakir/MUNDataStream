@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/07df89c3a6004c75a4b61022c91e5b63/artifacts
+end_time: 1779420678383
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 07df89c3a6004c75a4b61022c91e5b63
+run_name: salty-rook-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779420516433
+status: 3
+tags: []
+user_id: plgmaczynspwr

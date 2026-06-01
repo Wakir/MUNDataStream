@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/898aae14a99c4abfb5df80f5da55366f/artifacts
+end_time: 1780272449931
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 898aae14a99c4abfb5df80f5da55366f
+run_name: abrasive-mole-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780272401031
+status: 3
+tags: []
+user_id: plgmaczynspwr

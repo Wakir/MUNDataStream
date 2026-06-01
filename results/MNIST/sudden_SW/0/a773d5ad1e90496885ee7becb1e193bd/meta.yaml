@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns403/285668788200463062/a773d5ad1e90496885ee7becb1e193bd/artifacts
+end_time: 1779584933027
+entry_point_name: ''
+experiment_id: '285668788200463062'
+lifecycle_stage: active
+run_id: a773d5ad1e90496885ee7becb1e193bd
+run_name: gentle-frog-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779583380431
+status: 3
+tags: []
+user_id: plgmaczynspwr

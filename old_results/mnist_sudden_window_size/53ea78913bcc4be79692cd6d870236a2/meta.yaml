@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/53ea78913bcc4be79692cd6d870236a2/artifacts
+end_time: 1773324427981
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 53ea78913bcc4be79692cd6d870236a2
+run_name: bustling-gnat-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323266540
+status: 3
+tags: []
+user_id: root

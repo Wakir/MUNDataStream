@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/c10cd50cebfb46a78548ce7d2e6f5592/artifacts
+end_time: 1780122370298
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: c10cd50cebfb46a78548ce7d2e6f5592
+run_name: overjoyed-skink-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122337126
+status: 3
+tags: []
+user_id: plgmaczynspwr

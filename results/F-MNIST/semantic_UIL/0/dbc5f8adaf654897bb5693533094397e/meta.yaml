@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/dbc5f8adaf654897bb5693533094397e/artifacts
+end_time: 1780273069573
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: dbc5f8adaf654897bb5693533094397e
+run_name: industrious-dog-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273019891
+status: 3
+tags: []
+user_id: plgmaczynspwr

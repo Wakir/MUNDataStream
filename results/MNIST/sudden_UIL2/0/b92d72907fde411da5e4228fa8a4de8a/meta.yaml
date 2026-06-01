@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/b92d72907fde411da5e4228fa8a4de8a/artifacts
+end_time: 1780143285218
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: b92d72907fde411da5e4228fa8a4de8a
+run_name: shivering-vole-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143250549
+status: 3
+tags: []
+user_id: plgmaczynspwr

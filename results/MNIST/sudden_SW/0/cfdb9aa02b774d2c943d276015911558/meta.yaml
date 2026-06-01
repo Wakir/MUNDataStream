@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/cfdb9aa02b774d2c943d276015911558/artifacts
+end_time: 1779373738613
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: cfdb9aa02b774d2c943d276015911558
+run_name: resilient-quail-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779373447015
+status: 3
+tags: []
+user_id: plgmaczynspwr

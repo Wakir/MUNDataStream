@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/46743a3219f040c2b1dabdd41be2e4eb/artifacts
+end_time: 1780140662817
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 46743a3219f040c2b1dabdd41be2e4eb
+run_name: calm-cub-500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140628123
+status: 3
+tags: []
+user_id: plgmaczynspwr

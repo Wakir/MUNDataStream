@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/f720b9974ce54647b688e332104c04f3/artifacts
+end_time: 1779357965305
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: f720b9974ce54647b688e332104c04f3
+run_name: adorable-duck-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779357852390
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/a9990af14f6e492aaec7ea0a83f9d770/artifacts
+end_time: 1780241546327
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: a9990af14f6e492aaec7ea0a83f9d770
+run_name: bright-smelt-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241512839
+status: 3
+tags: []
+user_id: plgmaczynspwr

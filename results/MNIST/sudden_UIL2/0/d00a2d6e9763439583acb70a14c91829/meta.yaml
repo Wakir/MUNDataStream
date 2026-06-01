@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/d00a2d6e9763439583acb70a14c91829/artifacts
+end_time: 1780139762868
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: d00a2d6e9763439583acb70a14c91829
+run_name: adorable-skunk-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139728356
+status: 3
+tags: []
+user_id: plgmaczynspwr

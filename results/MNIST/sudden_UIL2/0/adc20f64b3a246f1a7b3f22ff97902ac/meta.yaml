@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/adc20f64b3a246f1a7b3f22ff97902ac/artifacts
+end_time: 1780136820267
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: adc20f64b3a246f1a7b3f22ff97902ac
+run_name: carefree-ram-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136784652
+status: 3
+tags: []
+user_id: plgmaczynspwr

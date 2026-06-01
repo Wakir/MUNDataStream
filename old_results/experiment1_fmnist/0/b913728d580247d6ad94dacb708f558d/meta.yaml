@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/b913728d580247d6ad94dacb708f558d/artifacts
+end_time: 1773292307902
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: b913728d580247d6ad94dacb708f558d
+run_name: adorable-hog-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773291576496
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f8ae0b06104644abae82316cc81804b8/artifacts
+end_time: 1780118427890
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f8ae0b06104644abae82316cc81804b8
+run_name: charming-vole-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118393573
+status: 3
+tags: []
+user_id: plgmaczynspwr

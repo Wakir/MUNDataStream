@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/ffd6dc1f9cd94242825f0c59854be1d7/artifacts
+end_time: 1780136425260
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: ffd6dc1f9cd94242825f0c59854be1d7
+run_name: dazzling-robin-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136389616
+status: 3
+tags: []
+user_id: plgmaczynspwr

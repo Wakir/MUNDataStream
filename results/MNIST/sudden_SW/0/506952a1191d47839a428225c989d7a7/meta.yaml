@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/506952a1191d47839a428225c989d7a7/artifacts
+end_time: 1779420529746
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 506952a1191d47839a428225c989d7a7
+run_name: luminous-stoat-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779420366933
+status: 3
+tags: []
+user_id: plgmaczynspwr

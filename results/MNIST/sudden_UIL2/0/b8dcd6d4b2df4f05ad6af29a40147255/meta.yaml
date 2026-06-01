@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b8dcd6d4b2df4f05ad6af29a40147255/artifacts
+end_time: 1780112344788
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b8dcd6d4b2df4f05ad6af29a40147255
+run_name: youthful-crane-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112311119
+status: 3
+tags: []
+user_id: plgmaczynspwr

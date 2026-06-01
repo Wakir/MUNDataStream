@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/657a97c7d1864f4c996edabebc82131f/artifacts
+end_time: 1779422157201
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 657a97c7d1864f4c996edabebc82131f
+run_name: monumental-worm-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779421986475
+status: 3
+tags: []
+user_id: plgmaczynspwr

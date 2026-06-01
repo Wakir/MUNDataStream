@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/c3443f197303471ca6ba58715d94da82/artifacts
+end_time: 1779378502229
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: c3443f197303471ca6ba58715d94da82
+run_name: shivering-loon-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779378391437
+status: 3
+tags: []
+user_id: plgmaczynspwr

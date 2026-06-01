@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/b74f08b8a3d4488a85c042415ca74dee/artifacts
+end_time: 1780114068631
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: b74f08b8a3d4488a85c042415ca74dee
+run_name: flawless-dog-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114036050
+status: 3
+tags: []
+user_id: plgmaczynspwr

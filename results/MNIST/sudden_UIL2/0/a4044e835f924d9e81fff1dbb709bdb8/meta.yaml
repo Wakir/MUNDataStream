@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/a4044e835f924d9e81fff1dbb709bdb8/artifacts
+end_time: 1780129347923
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: a4044e835f924d9e81fff1dbb709bdb8
+run_name: shivering-carp-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129314274
+status: 3
+tags: []
+user_id: plgmaczynspwr

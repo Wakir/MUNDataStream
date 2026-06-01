@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/abfdc6ebce5143b39bc1c2049c547b83/artifacts
+end_time: 1780128409673
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: abfdc6ebce5143b39bc1c2049c547b83
+run_name: enchanting-quail-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128375184
+status: 3
+tags: []
+user_id: plgmaczynspwr

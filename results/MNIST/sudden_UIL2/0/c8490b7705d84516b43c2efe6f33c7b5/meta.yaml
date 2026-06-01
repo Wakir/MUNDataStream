@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/c8490b7705d84516b43c2efe6f33c7b5/artifacts
+end_time: 1780106113426
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: c8490b7705d84516b43c2efe6f33c7b5
+run_name: gifted-steed-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780106081328
+status: 3
+tags: []
+user_id: plgmaczynspwr

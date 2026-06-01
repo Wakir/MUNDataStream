@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/5b2c3a24aaef4408bcf1da2ad95383e5/artifacts
+end_time: 1773256471417
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 5b2c3a24aaef4408bcf1da2ad95383e5
+run_name: omniscient-colt-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255981305
+status: 3
+tags: []
+user_id: root

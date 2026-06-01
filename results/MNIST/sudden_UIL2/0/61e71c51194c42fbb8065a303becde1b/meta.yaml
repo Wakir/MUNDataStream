@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/61e71c51194c42fbb8065a303becde1b/artifacts
+end_time: 1780116062767
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 61e71c51194c42fbb8065a303becde1b
+run_name: likeable-deer-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116029827
+status: 3
+tags: []
+user_id: plgmaczynspwr

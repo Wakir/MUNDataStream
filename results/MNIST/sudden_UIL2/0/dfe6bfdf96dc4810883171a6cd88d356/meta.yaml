@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/dfe6bfdf96dc4810883171a6cd88d356/artifacts
+end_time: 1780112075588
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: dfe6bfdf96dc4810883171a6cd88d356
+run_name: rogue-frog-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112042117
+status: 3
+tags: []
+user_id: plgmaczynspwr

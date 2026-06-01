@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/41efe85fc50e45c7ac31ca8332535d98/artifacts
+end_time: 1780105873275
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 41efe85fc50e45c7ac31ca8332535d98
+run_name: gregarious-robin-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780105840196
+status: 3
+tags: []
+user_id: plgmaczynspwr

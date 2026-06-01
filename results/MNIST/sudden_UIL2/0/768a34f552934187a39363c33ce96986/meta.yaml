@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/768a34f552934187a39363c33ce96986/artifacts
+end_time: 1780121436000
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 768a34f552934187a39363c33ce96986
+run_name: charming-moth-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121402833
+status: 3
+tags: []
+user_id: plgmaczynspwr

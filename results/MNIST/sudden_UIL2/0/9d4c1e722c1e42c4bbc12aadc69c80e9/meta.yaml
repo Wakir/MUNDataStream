@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/9d4c1e722c1e42c4bbc12aadc69c80e9/artifacts
+end_time: 1780127587204
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 9d4c1e722c1e42c4bbc12aadc69c80e9
+run_name: upbeat-asp-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127553452
+status: 3
+tags: []
+user_id: plgmaczynspwr

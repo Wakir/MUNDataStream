@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/7f0c12b0152c447597a2f1003f602c43/artifacts
+end_time: 1780128002200
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 7f0c12b0152c447597a2f1003f602c43
+run_name: adventurous-mole-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127968594
+status: 3
+tags: []
+user_id: plgmaczynspwr

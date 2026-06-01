@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/fcd33d62ef5e4f0791972c906e1a35ed/artifacts
+end_time: 1780135922337
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: fcd33d62ef5e4f0791972c906e1a35ed
+run_name: whimsical-duck-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135888226
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/172abcdad9f04174aba9bca2d229d77a/artifacts
+end_time: 1773255149054
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 172abcdad9f04174aba9bca2d229d77a
+run_name: rare-shad-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254656153
+status: 3
+tags: []
+user_id: root

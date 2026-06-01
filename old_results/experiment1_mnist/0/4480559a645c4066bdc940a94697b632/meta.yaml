@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/4480559a645c4066bdc940a94697b632/artifacts
+end_time: 1773265720323
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 4480559a645c4066bdc940a94697b632
+run_name: flawless-cod-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265248409
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9e87211febc84418995106efa82d38c4/artifacts
+end_time: 1780133313090
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9e87211febc84418995106efa82d38c4
+run_name: rebellious-pig-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133278888
+status: 3
+tags: []
+user_id: plgmaczynspwr

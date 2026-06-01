@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/685d253984554fff919593f72df48524/artifacts
+end_time: 1780134819274
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 685d253984554fff919593f72df48524
+run_name: worried-skunk-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134785044
+status: 3
+tags: []
+user_id: plgmaczynspwr

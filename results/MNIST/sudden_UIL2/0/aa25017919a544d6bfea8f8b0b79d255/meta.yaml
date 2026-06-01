@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/aa25017919a544d6bfea8f8b0b79d255/artifacts
+end_time: 1780141095881
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: aa25017919a544d6bfea8f8b0b79d255
+run_name: judicious-rook-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141060900
+status: 3
+tags: []
+user_id: plgmaczynspwr

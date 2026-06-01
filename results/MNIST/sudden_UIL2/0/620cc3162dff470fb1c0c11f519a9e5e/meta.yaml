@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/620cc3162dff470fb1c0c11f519a9e5e/artifacts
+end_time: 1780136945038
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 620cc3162dff470fb1c0c11f519a9e5e
+run_name: exultant-calf-547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136910781
+status: 3
+tags: []
+user_id: plgmaczynspwr

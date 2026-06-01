@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/88c15ffd87174a769d76f345eacba0c3/artifacts
+end_time: 1780134969150
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 88c15ffd87174a769d76f345eacba0c3
+run_name: handsome-wolf-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134935115
+status: 3
+tags: []
+user_id: plgmaczynspwr

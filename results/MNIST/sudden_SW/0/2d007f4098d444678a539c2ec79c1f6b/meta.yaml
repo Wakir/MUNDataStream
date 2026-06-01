@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/2d007f4098d444678a539c2ec79c1f6b/artifacts
+end_time: 1779373310143
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 2d007f4098d444678a539c2ec79c1f6b
+run_name: charming-bee-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779373027370
+status: 3
+tags: []
+user_id: plgmaczynspwr

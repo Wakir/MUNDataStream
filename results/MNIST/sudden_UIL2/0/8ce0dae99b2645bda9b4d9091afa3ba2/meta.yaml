@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/8ce0dae99b2645bda9b4d9091afa3ba2/artifacts
+end_time: 1780121301419
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 8ce0dae99b2645bda9b4d9091afa3ba2
+run_name: sassy-perch-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121268292
+status: 3
+tags: []
+user_id: plgmaczynspwr

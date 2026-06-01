@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/bcec58f9fbe74156ba4d895b7b8c9404/artifacts
+end_time: 1780140697516
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: bcec58f9fbe74156ba4d895b7b8c9404
+run_name: gifted-dolphin-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140662822
+status: 3
+tags: []
+user_id: plgmaczynspwr

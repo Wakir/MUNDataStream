@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/d169df9ac4ea4ac4a98a5b6bc5cdd434/artifacts
+end_time: 1773260972750
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: d169df9ac4ea4ac4a98a5b6bc5cdd434
+run_name: gregarious-moth-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773260493335
+status: 3
+tags: []
+user_id: root

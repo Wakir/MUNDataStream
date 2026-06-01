@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/a66d2261a206487dacaa0b1d6967f370/artifacts
+end_time: 1779355724572
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: a66d2261a206487dacaa0b1d6967f370
+run_name: zealous-goat-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779355662603
+status: 3
+tags: []
+user_id: plgmaczynspwr

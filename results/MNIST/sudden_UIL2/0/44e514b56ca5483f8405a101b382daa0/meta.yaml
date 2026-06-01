@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/44e514b56ca5483f8405a101b382daa0/artifacts
+end_time: 1780122565108
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 44e514b56ca5483f8405a101b382daa0
+run_name: upset-fish-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122531685
+status: 3
+tags: []
+user_id: plgmaczynspwr

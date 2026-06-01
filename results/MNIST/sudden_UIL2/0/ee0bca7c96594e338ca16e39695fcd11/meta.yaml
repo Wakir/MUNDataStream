@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/ee0bca7c96594e338ca16e39695fcd11/artifacts
+end_time: 1780108098950
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: ee0bca7c96594e338ca16e39695fcd11
+run_name: mercurial-lynx-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108065587
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/e3adedb1dd9842b298159aca138ed851/artifacts
+end_time: 1773255107067
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: e3adedb1dd9842b298159aca138ed851
+run_name: gaudy-lynx-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254617708
+status: 3
+tags: []
+user_id: root

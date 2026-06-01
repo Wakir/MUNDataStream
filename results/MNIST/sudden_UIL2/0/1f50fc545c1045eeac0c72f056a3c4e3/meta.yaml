@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/1f50fc545c1045eeac0c72f056a3c4e3/artifacts
+end_time: 1780140047868
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 1f50fc545c1045eeac0c72f056a3c4e3
+run_name: thundering-deer-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140012062
+status: 3
+tags: []
+user_id: plgmaczynspwr

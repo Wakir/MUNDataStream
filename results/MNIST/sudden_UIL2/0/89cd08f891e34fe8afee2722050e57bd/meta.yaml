@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/89cd08f891e34fe8afee2722050e57bd/artifacts
+end_time: 1780131300272
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 89cd08f891e34fe8afee2722050e57bd
+run_name: awesome-croc-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131266248
+status: 3
+tags: []
+user_id: plgmaczynspwr

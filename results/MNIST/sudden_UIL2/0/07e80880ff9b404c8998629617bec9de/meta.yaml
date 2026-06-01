@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/07e80880ff9b404c8998629617bec9de/artifacts
+end_time: 1780137905676
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 07e80880ff9b404c8998629617bec9de
+run_name: big-hog-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137871118
+status: 3
+tags: []
+user_id: plgmaczynspwr

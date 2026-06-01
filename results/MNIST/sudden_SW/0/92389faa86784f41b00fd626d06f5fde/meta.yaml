@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/92389faa86784f41b00fd626d06f5fde/artifacts
+end_time: 1779593918735
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: 92389faa86784f41b00fd626d06f5fde
+run_name: redolent-dog-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779593446711
+status: 3
+tags: []
+user_id: plgmaczynspwr

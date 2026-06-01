@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/21fd9f8bccb1434999c6886086e6c219/artifacts
+end_time: 1773266430947
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 21fd9f8bccb1434999c6886086e6c219
+run_name: polite-sow-956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265957698
+status: 3
+tags: []
+user_id: root

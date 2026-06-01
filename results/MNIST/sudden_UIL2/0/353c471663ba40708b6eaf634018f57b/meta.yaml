@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/353c471663ba40708b6eaf634018f57b/artifacts
+end_time: 1780130155052
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 353c471663ba40708b6eaf634018f57b
+run_name: traveling-goat-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130121522
+status: 3
+tags: []
+user_id: plgmaczynspwr

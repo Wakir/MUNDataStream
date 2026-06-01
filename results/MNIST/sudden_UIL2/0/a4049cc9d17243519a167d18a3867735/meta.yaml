@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a4049cc9d17243519a167d18a3867735/artifacts
+end_time: 1780114328846
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a4049cc9d17243519a167d18a3867735
+run_name: overjoyed-sheep-862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114296312
+status: 3
+tags: []
+user_id: plgmaczynspwr

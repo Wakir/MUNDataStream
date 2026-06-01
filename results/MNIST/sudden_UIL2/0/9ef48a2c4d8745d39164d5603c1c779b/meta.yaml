@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9ef48a2c4d8745d39164d5603c1c779b/artifacts
+end_time: 1780112087129
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9ef48a2c4d8745d39164d5603c1c779b
+run_name: adorable-midge-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112054707
+status: 3
+tags: []
+user_id: plgmaczynspwr

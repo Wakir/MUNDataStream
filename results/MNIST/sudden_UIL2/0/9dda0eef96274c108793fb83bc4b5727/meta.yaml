@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9dda0eef96274c108793fb83bc4b5727/artifacts
+end_time: 1780116356991
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9dda0eef96274c108793fb83bc4b5727
+run_name: bedecked-conch-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780116324382
+status: 3
+tags: []
+user_id: plgmaczynspwr

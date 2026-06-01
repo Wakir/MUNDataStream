@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/652724939092415161/7298b2b40cca448b83c57c3c7d58d33d/artifacts
+end_time: 1773314243615
+entry_point_name: ''
+experiment_id: '652724939092415161'
+lifecycle_stage: active
+run_id: 7298b2b40cca448b83c57c3c7d58d33d
+run_name: legendary-fawn-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773312030934
+status: 3
+tags: []
+user_id: root

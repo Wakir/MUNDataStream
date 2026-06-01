@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/99ab5dcdf1fe422ebbe6f8f39364ddfb/artifacts
+end_time: 1780141442409
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 99ab5dcdf1fe422ebbe6f8f39364ddfb
+run_name: painted-lynx-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141407556
+status: 3
+tags: []
+user_id: plgmaczynspwr

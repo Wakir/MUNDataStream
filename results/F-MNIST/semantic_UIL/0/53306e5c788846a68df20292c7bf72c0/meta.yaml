@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/53306e5c788846a68df20292c7bf72c0/artifacts
+end_time: 1780274882269
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 53306e5c788846a68df20292c7bf72c0
+run_name: polite-snake-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780274830304
+status: 3
+tags: []
+user_id: plgmaczynspwr

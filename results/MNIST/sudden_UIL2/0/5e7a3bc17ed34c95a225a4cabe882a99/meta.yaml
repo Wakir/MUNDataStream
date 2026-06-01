@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/5e7a3bc17ed34c95a225a4cabe882a99/artifacts
+end_time: 1780114393949
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 5e7a3bc17ed34c95a225a4cabe882a99
+run_name: traveling-chimp-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114361403
+status: 3
+tags: []
+user_id: plgmaczynspwr

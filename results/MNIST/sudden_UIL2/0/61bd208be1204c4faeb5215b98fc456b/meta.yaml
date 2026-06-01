@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/61bd208be1204c4faeb5215b98fc456b/artifacts
+end_time: 1780140184762
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 61bd208be1204c4faeb5215b98fc456b
+run_name: stylish-bear-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140150695
+status: 3
+tags: []
+user_id: plgmaczynspwr

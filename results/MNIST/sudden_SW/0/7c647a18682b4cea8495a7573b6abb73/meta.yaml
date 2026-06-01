@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/7c647a18682b4cea8495a7573b6abb73/artifacts
+end_time: 1779378672506
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 7c647a18682b4cea8495a7573b6abb73
+run_name: glamorous-midge-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779378558022
+status: 3
+tags: []
+user_id: plgmaczynspwr

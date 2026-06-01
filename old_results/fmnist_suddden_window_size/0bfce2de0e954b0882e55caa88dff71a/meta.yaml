@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/0bfce2de0e954b0882e55caa88dff71a/artifacts
+end_time: 1773299793859
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 0bfce2de0e954b0882e55caa88dff71a
+run_name: receptive-mule-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773298959309
+status: 3
+tags: []
+user_id: root

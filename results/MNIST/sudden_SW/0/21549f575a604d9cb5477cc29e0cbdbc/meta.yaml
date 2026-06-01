@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/21549f575a604d9cb5477cc29e0cbdbc/artifacts
+end_time: 1779590897202
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 21549f575a604d9cb5477cc29e0cbdbc
+run_name: masked-loon-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779590484550
+status: 3
+tags: []
+user_id: plgmaczynspwr

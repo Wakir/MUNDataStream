@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/e0e085f670524e4ca7eacc8f2250a831/artifacts
+end_time: 1773273057531
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: e0e085f670524e4ca7eacc8f2250a831
+run_name: spiffy-snipe-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773272298889
+status: 3
+tags: []
+user_id: root

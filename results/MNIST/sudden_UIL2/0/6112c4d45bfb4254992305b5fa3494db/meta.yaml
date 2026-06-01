@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6112c4d45bfb4254992305b5fa3494db/artifacts
+end_time: 1780132451658
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6112c4d45bfb4254992305b5fa3494db
+run_name: respected-fly-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132415924
+status: 3
+tags: []
+user_id: plgmaczynspwr

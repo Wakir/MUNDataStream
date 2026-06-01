@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/46d8db780d9a442ca8af9a90ba04d9e6/artifacts
+end_time: 1773265703977
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 46d8db780d9a442ca8af9a90ba04d9e6
+run_name: nebulous-ant-693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265234833
+status: 3
+tags: []
+user_id: root

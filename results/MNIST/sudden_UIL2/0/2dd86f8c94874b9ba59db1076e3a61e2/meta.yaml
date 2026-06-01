@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2dd86f8c94874b9ba59db1076e3a61e2/artifacts
+end_time: 1780120820504
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2dd86f8c94874b9ba59db1076e3a61e2
+run_name: welcoming-steed-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120786379
+status: 3
+tags: []
+user_id: plgmaczynspwr

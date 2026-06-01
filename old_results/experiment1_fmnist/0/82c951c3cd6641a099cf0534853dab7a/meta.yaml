@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/82c951c3cd6641a099cf0534853dab7a/artifacts
+end_time: 1773263096496
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 82c951c3cd6641a099cf0534853dab7a
+run_name: capable-bat-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262305772
+status: 3
+tags: []
+user_id: root

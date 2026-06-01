@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b339c8fff8f24a7d9320093ff875911a/artifacts
+end_time: 1780131641761
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b339c8fff8f24a7d9320093ff875911a
+run_name: luminous-horse-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131606370
+status: 3
+tags: []
+user_id: plgmaczynspwr

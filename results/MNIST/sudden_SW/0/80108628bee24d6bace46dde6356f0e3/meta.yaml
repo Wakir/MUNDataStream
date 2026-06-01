@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns404/799992997669648535/80108628bee24d6bace46dde6356f0e3/artifacts
+end_time: 1779600948938
+entry_point_name: ''
+experiment_id: '799992997669648535'
+lifecycle_stage: active
+run_id: 80108628bee24d6bace46dde6356f0e3
+run_name: rebellious-steed-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779600526806
+status: 3
+tags: []
+user_id: plgmaczynspwr

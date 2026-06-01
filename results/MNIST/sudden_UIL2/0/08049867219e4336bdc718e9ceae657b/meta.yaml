@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/08049867219e4336bdc718e9ceae657b/artifacts
+end_time: 1780130206131
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 08049867219e4336bdc718e9ceae657b
+run_name: rumbling-ape-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130171571
+status: 3
+tags: []
+user_id: plgmaczynspwr

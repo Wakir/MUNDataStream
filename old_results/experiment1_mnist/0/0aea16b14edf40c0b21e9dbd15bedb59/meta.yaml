@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/0aea16b14edf40c0b21e9dbd15bedb59/artifacts
+end_time: 1773266192546
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 0aea16b14edf40c0b21e9dbd15bedb59
+run_name: magnificent-tern-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265725690
+status: 3
+tags: []
+user_id: root

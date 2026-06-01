@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/1cfd4551f3b64d50bdb12f99eca24552/artifacts
+end_time: 1780123933959
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 1cfd4551f3b64d50bdb12f99eca24552
+run_name: thoughtful-frog-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123900461
+status: 3
+tags: []
+user_id: plgmaczynspwr

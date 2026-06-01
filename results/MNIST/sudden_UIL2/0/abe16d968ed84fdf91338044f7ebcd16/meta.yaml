@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/abe16d968ed84fdf91338044f7ebcd16/artifacts
+end_time: 1780136007391
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: abe16d968ed84fdf91338044f7ebcd16
+run_name: sassy-skink-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135973493
+status: 3
+tags: []
+user_id: plgmaczynspwr

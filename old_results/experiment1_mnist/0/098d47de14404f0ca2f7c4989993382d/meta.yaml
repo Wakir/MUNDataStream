@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/098d47de14404f0ca2f7c4989993382d/artifacts
+end_time: 1773258436684
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 098d47de14404f0ca2f7c4989993382d
+run_name: resilient-fox-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257950884
+status: 3
+tags: []
+user_id: root

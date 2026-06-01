@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/4683f3b4fdd74f82b45174b14987c8ee/artifacts
+end_time: 1780117437315
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 4683f3b4fdd74f82b45174b14987c8ee
+run_name: bouncy-midge-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117404600
+status: 3
+tags: []
+user_id: plgmaczynspwr

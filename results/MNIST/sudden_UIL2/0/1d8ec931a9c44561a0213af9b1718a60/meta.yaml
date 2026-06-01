@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/1d8ec931a9c44561a0213af9b1718a60/artifacts
+end_time: 1780122153301
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 1d8ec931a9c44561a0213af9b1718a60
+run_name: traveling-kite-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122119278
+status: 3
+tags: []
+user_id: plgmaczynspwr

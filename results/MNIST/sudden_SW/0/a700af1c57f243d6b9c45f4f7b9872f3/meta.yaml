@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/a700af1c57f243d6b9c45f4f7b9872f3/artifacts
+end_time: 1779585077297
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: a700af1c57f243d6b9c45f4f7b9872f3
+run_name: youthful-ox-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779584618788
+status: 3
+tags: []
+user_id: plgmaczynspwr

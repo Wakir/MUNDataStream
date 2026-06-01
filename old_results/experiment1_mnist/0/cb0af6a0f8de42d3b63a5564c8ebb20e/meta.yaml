@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/cb0af6a0f8de42d3b63a5564c8ebb20e/artifacts
+end_time: 1773265248361
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: cb0af6a0f8de42d3b63a5564c8ebb20e
+run_name: fearless-moth-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773264773104
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/68edcbf9b1b34f29814d3f5cde41790b/artifacts
+end_time: 1773272304987
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 68edcbf9b1b34f29814d3f5cde41790b
+run_name: stately-gnat-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773271545419
+status: 3
+tags: []
+user_id: root

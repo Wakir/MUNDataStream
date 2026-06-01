@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/547721c840e541f4afe1cd270e86538e/artifacts
+end_time: 1779372128690
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 547721c840e541f4afe1cd270e86538e
+run_name: spiffy-moose-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779371795180
+status: 3
+tags: []
+user_id: plgmaczynspwr

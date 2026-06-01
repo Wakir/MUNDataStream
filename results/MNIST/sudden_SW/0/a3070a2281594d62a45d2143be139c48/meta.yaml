@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/a3070a2281594d62a45d2143be139c48/artifacts
+end_time: 1779392070729
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: a3070a2281594d62a45d2143be139c48
+run_name: clumsy-lamb-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779391738716
+status: 3
+tags: []
+user_id: plgmaczynspwr

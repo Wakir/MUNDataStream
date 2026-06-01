@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/4628d988bc3b491b8dd53b0ed0091127/artifacts
+end_time: 1780110669848
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 4628d988bc3b491b8dd53b0ed0091127
+run_name: treasured-foal-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110636323
+status: 3
+tags: []
+user_id: plgmaczynspwr

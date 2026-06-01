@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/589b536ff3e34aaaa4ef82bc39c24de2/artifacts
+end_time: 1773306892850
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 589b536ff3e34aaaa4ef82bc39c24de2
+run_name: skittish-mule-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773306119338
+status: 3
+tags: []
+user_id: root

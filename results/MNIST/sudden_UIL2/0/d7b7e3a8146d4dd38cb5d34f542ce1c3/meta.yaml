@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/d7b7e3a8146d4dd38cb5d34f542ce1c3/artifacts
+end_time: 1780120374184
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: d7b7e3a8146d4dd38cb5d34f542ce1c3
+run_name: defiant-rat-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120340863
+status: 3
+tags: []
+user_id: plgmaczynspwr

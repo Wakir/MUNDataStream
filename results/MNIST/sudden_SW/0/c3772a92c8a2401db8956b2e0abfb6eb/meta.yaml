@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/c3772a92c8a2401db8956b2e0abfb6eb/artifacts
+end_time: 1779397475571
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: c3772a92c8a2401db8956b2e0abfb6eb
+run_name: smiling-swan-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779396948359
+status: 3
+tags: []
+user_id: plgmaczynspwr

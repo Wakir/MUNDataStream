@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7b6fb8867faa42b5b6bdffca5e994907/artifacts
+end_time: 1780126608540
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7b6fb8867faa42b5b6bdffca5e994907
+run_name: handsome-hawk-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126574852
+status: 3
+tags: []
+user_id: plgmaczynspwr

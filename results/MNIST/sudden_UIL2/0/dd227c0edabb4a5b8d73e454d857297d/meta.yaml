@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/dd227c0edabb4a5b8d73e454d857297d/artifacts
+end_time: 1780143300403
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: dd227c0edabb4a5b8d73e454d857297d
+run_name: resilient-dog-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143265684
+status: 3
+tags: []
+user_id: plgmaczynspwr

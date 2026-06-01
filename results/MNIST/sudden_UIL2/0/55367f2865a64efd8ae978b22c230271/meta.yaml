@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/55367f2865a64efd8ae978b22c230271/artifacts
+end_time: 1780131606948
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 55367f2865a64efd8ae978b22c230271
+run_name: flawless-sheep-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131572843
+status: 3
+tags: []
+user_id: plgmaczynspwr

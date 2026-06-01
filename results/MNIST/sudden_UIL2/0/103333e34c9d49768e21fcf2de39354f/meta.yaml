@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/103333e34c9d49768e21fcf2de39354f/artifacts
+end_time: 1780108014888
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 103333e34c9d49768e21fcf2de39354f
+run_name: flawless-cod-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107982639
+status: 3
+tags: []
+user_id: plgmaczynspwr

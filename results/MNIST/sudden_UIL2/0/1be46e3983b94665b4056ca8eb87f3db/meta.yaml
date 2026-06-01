@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/1be46e3983b94665b4056ca8eb87f3db/artifacts
+end_time: 1780127899293
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 1be46e3983b94665b4056ca8eb87f3db
+run_name: suave-bee-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127864492
+status: 3
+tags: []
+user_id: plgmaczynspwr

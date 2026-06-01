@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/6ae94881d27e4cde9fc63f4f61fc6f8d/artifacts
+end_time: 1780133396162
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 6ae94881d27e4cde9fc63f4f61fc6f8d
+run_name: tasteful-bird-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133361383
+status: 3
+tags: []
+user_id: plgmaczynspwr

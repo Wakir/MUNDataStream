@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/63446d7312e54015a924b18cdd958f56/artifacts
+end_time: 1780271395421
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 63446d7312e54015a924b18cdd958f56
+run_name: fortunate-bass-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780271346553
+status: 3
+tags: []
+user_id: plgmaczynspwr

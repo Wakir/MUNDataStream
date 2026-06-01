@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/9c66a249a62e4c4a9f51eb333857faa3/artifacts
+end_time: 1780138254502
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 9c66a249a62e4c4a9f51eb333857faa3
+run_name: mysterious-goat-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138219366
+status: 3
+tags: []
+user_id: plgmaczynspwr

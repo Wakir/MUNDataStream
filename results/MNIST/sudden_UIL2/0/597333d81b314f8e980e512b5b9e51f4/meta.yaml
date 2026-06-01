@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/597333d81b314f8e980e512b5b9e51f4/artifacts
+end_time: 1780142726547
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 597333d81b314f8e980e512b5b9e51f4
+run_name: mercurial-shrike-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142692249
+status: 3
+tags: []
+user_id: plgmaczynspwr

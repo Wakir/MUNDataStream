@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/373fe0190cdd40d8bf27deface994164/artifacts
+end_time: 1780138970448
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 373fe0190cdd40d8bf27deface994164
+run_name: flawless-snail-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138936103
+status: 3
+tags: []
+user_id: plgmaczynspwr

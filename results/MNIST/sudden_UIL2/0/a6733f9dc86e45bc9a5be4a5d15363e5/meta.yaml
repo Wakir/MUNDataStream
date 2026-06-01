@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/a6733f9dc86e45bc9a5be4a5d15363e5/artifacts
+end_time: 1780123051699
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: a6733f9dc86e45bc9a5be4a5d15363e5
+run_name: handsome-shrike-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123017217
+status: 3
+tags: []
+user_id: plgmaczynspwr

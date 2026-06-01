@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7e87057520a54e12b10b7e260c70ee82/artifacts
+end_time: 1780113791770
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7e87057520a54e12b10b7e260c70ee82
+run_name: indecisive-worm-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113759182
+status: 3
+tags: []
+user_id: plgmaczynspwr

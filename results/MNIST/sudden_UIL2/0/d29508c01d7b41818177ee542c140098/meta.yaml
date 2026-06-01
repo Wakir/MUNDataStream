@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/d29508c01d7b41818177ee542c140098/artifacts
+end_time: 1780133278883
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: d29508c01d7b41818177ee542c140098
+run_name: awesome-bee-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133244719
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/98188dc9cfde4015adfb6145be43e102/artifacts
+end_time: 1773316902442
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 98188dc9cfde4015adfb6145be43e102
+run_name: gregarious-stoat-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773315603294
+status: 3
+tags: []
+user_id: root

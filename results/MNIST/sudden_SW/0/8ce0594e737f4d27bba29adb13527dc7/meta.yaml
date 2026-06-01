@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/8ce0594e737f4d27bba29adb13527dc7/artifacts
+end_time: 1779585929919
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: 8ce0594e737f4d27bba29adb13527dc7
+run_name: wistful-horse-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779585592307
+status: 3
+tags: []
+user_id: plgmaczynspwr

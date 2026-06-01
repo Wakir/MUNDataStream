@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/4e7b8ecb2ed344a78a4b8c4472d2a894/artifacts
+end_time: 1780108627102
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 4e7b8ecb2ed344a78a4b8c4472d2a894
+run_name: indecisive-fly-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108593364
+status: 3
+tags: []
+user_id: plgmaczynspwr

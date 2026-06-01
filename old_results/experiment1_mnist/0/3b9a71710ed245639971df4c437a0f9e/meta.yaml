@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/3b9a71710ed245639971df4c437a0f9e/artifacts
+end_time: 1773266268903
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 3b9a71710ed245639971df4c437a0f9e
+run_name: intrigued-croc-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265800042
+status: 3
+tags: []
+user_id: root

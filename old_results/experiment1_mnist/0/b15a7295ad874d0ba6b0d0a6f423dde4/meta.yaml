@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/b15a7295ad874d0ba6b0d0a6f423dde4/artifacts
+end_time: 1773254011718
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: b15a7295ad874d0ba6b0d0a6f423dde4
+run_name: amazing-rat-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253517066
+status: 3
+tags: []
+user_id: root

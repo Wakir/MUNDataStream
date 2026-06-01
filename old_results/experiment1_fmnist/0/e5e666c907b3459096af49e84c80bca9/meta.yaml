@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/e5e666c907b3459096af49e84c80bca9/artifacts
+end_time: 1773295178073
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: e5e666c907b3459096af49e84c80bca9
+run_name: dazzling-cod-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773294505656
+status: 3
+tags: []
+user_id: root

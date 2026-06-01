@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/781139827609876224/be1da2086c3746deb5da7212c1542488/artifacts
+end_time: 1773324826781
+entry_point_name: ''
+experiment_id: '781139827609876224'
+lifecycle_stage: active
+run_id: be1da2086c3746deb5da7212c1542488
+run_name: mysterious-vole-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773323989234
+status: 3
+tags: []
+user_id: root

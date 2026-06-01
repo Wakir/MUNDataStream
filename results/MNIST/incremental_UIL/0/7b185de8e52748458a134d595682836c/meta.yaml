@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/7b185de8e52748458a134d595682836c/artifacts
+end_time: 1780249100638
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 7b185de8e52748458a134d595682836c
+run_name: nebulous-dolphin-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780249063941
+status: 3
+tags: []
+user_id: plgmaczynspwr

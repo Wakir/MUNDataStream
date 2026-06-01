@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/fe9d8ceda75048b8a47b027aba44bd05/artifacts
+end_time: 1780141234449
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: fe9d8ceda75048b8a47b027aba44bd05
+run_name: enthused-sloth-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141199874
+status: 3
+tags: []
+user_id: plgmaczynspwr

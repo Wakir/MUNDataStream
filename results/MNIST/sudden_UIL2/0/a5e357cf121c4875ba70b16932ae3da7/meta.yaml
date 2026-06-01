@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/a5e357cf121c4875ba70b16932ae3da7/artifacts
+end_time: 1780143350150
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: a5e357cf121c4875ba70b16932ae3da7
+run_name: unequaled-crab-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780143313858
+status: 3
+tags: []
+user_id: plgmaczynspwr

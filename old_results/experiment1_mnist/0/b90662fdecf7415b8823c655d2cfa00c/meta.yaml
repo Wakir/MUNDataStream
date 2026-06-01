@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/b90662fdecf7415b8823c655d2cfa00c/artifacts
+end_time: 1773263909319
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: b90662fdecf7415b8823c655d2cfa00c
+run_name: charming-wren-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263434278
+status: 3
+tags: []
+user_id: root

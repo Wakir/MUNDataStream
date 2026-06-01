@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/cab20e27c3ad433a93e4ae3ac3005cae/artifacts
+end_time: 1780142606079
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: cab20e27c3ad433a93e4ae3ac3005cae
+run_name: calm-hog-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142571420
+status: 3
+tags: []
+user_id: plgmaczynspwr

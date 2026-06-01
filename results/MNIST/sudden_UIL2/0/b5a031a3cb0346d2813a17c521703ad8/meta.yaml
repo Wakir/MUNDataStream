@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b5a031a3cb0346d2813a17c521703ad8/artifacts
+end_time: 1780136279682
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b5a031a3cb0346d2813a17c521703ad8
+run_name: flawless-colt-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136245249
+status: 3
+tags: []
+user_id: plgmaczynspwr

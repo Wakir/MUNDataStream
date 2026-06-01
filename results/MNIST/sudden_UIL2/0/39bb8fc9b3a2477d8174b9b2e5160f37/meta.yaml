@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/39bb8fc9b3a2477d8174b9b2e5160f37/artifacts
+end_time: 1780141773437
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 39bb8fc9b3a2477d8174b9b2e5160f37
+run_name: capable-snipe-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141738847
+status: 3
+tags: []
+user_id: plgmaczynspwr

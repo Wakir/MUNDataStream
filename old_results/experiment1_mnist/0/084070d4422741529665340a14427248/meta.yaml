@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/084070d4422741529665340a14427248/artifacts
+end_time: 1773251187582
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 084070d4422741529665340a14427248
+run_name: able-midge-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773250683562
+status: 3
+tags: []
+user_id: root

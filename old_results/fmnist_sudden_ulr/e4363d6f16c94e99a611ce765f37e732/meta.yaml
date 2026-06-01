@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/e4363d6f16c94e99a611ce765f37e732/artifacts
+end_time: 1773312217957
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: e4363d6f16c94e99a611ce765f37e732
+run_name: illustrious-gull-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773310924462
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/c11ab47ef7a1461f9900f099032d6d87/artifacts
+end_time: 1780129681117
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: c11ab47ef7a1461f9900f099032d6d87
+run_name: worried-hog-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129646412
+status: 3
+tags: []
+user_id: plgmaczynspwr

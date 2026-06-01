@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/bc6c7bd7a5cc447bb0b25c2d19ed07dd/artifacts
+end_time: 1773258081015
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: bc6c7bd7a5cc447bb0b25c2d19ed07dd
+run_name: blushing-carp-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257595113
+status: 3
+tags: []
+user_id: root

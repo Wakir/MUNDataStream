@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/aca641c60a564b4a822486900fdc769a/artifacts
+end_time: 1780110184311
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: aca641c60a564b4a822486900fdc769a
+run_name: polite-steed-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110151929
+status: 3
+tags: []
+user_id: plgmaczynspwr

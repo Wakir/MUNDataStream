@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/969172b8144743b59ed6a0ae70bde502/artifacts
+end_time: 1780141880260
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 969172b8144743b59ed6a0ae70bde502
+run_name: angry-hen-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141845915
+status: 3
+tags: []
+user_id: plgmaczynspwr

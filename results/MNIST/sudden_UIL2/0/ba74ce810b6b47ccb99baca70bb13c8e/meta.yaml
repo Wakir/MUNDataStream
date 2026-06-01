@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/ba74ce810b6b47ccb99baca70bb13c8e/artifacts
+end_time: 1780138254974
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: ba74ce810b6b47ccb99baca70bb13c8e
+run_name: resilient-whale-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138220491
+status: 3
+tags: []
+user_id: plgmaczynspwr

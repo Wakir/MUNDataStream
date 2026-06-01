@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns401/842381408063410304/9bf6dc8153a84fa3b3997f880d20a927/artifacts
+end_time: 1779597393810
+entry_point_name: ''
+experiment_id: '842381408063410304'
+lifecycle_stage: active
+run_id: 9bf6dc8153a84fa3b3997f880d20a927
+run_name: kindly-shoat-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779596285474
+status: 3
+tags: []
+user_id: plgmaczynspwr

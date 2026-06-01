@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/162c794d4b6f4c01833375c7401fb6e7/artifacts
+end_time: 1773276950352
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 162c794d4b6f4c01833375c7401fb6e7
+run_name: nimble-panda-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773276208231
+status: 3
+tags: []
+user_id: root

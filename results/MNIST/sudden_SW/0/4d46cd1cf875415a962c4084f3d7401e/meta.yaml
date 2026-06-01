@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/4d46cd1cf875415a962c4084f3d7401e/artifacts
+end_time: 1779409639433
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 4d46cd1cf875415a962c4084f3d7401e
+run_name: hilarious-calf-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779409089984
+status: 3
+tags: []
+user_id: plgmaczynspwr

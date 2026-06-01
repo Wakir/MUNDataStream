@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/156fe636a4c74894acb46252a452b5ca/artifacts
+end_time: 1780123426626
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 156fe636a4c74894acb46252a452b5ca
+run_name: luxuriant-bee-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123393375
+status: 3
+tags: []
+user_id: plgmaczynspwr

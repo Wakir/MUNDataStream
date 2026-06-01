@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/7af10bd5f69f4e6c854bc7db8266f96a/artifacts
+end_time: 1780112612623
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 7af10bd5f69f4e6c854bc7db8266f96a
+run_name: popular-stork-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112579234
+status: 3
+tags: []
+user_id: plgmaczynspwr

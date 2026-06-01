@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/958f52fde49a46ecbc2503d91103d888/artifacts
+end_time: 1780241311325
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 958f52fde49a46ecbc2503d91103d888
+run_name: stately-hog-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241277990
+status: 3
+tags: []
+user_id: plgmaczynspwr

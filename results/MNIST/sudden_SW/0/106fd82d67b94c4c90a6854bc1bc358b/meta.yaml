@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns403/285668788200463062/106fd82d67b94c4c90a6854bc1bc358b/artifacts
+end_time: 1779595701577
+entry_point_name: ''
+experiment_id: '285668788200463062'
+lifecycle_stage: active
+run_id: 106fd82d67b94c4c90a6854bc1bc358b
+run_name: adaptable-whale-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779594158156
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns405/425941568025687666/5f1bf255d4a74be3bd1fcf40e9d8fbf0/artifacts
+end_time: 1779598167914
+entry_point_name: ''
+experiment_id: '425941568025687666'
+lifecycle_stage: active
+run_id: 5f1bf255d4a74be3bd1fcf40e9d8fbf0
+run_name: rebellious-moose-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779597696621
+status: 3
+tags: []
+user_id: plgmaczynspwr

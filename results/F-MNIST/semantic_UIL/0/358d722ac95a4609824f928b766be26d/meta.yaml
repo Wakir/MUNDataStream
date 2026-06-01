@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/358d722ac95a4609824f928b766be26d/artifacts
+end_time: 1780284078890
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 358d722ac95a4609824f928b766be26d
+run_name: capable-mole-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780284022239
+status: 3
+tags: []
+user_id: plgmaczynspwr

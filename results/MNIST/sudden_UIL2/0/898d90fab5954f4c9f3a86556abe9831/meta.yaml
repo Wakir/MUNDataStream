@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/898d90fab5954f4c9f3a86556abe9831/artifacts
+end_time: 1780115378105
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 898d90fab5954f4c9f3a86556abe9831
+run_name: silent-stag-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115344059
+status: 3
+tags: []
+user_id: plgmaczynspwr

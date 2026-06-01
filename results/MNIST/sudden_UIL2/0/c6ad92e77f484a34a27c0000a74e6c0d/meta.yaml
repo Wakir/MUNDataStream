@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/c6ad92e77f484a34a27c0000a74e6c0d/artifacts
+end_time: 1780141565454
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: c6ad92e77f484a34a27c0000a74e6c0d
+run_name: defiant-asp-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141530827
+status: 3
+tags: []
+user_id: plgmaczynspwr

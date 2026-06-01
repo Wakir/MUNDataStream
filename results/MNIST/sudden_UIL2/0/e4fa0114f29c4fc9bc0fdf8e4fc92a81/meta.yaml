@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/e4fa0114f29c4fc9bc0fdf8e4fc92a81/artifacts
+end_time: 1780123983090
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: e4fa0114f29c4fc9bc0fdf8e4fc92a81
+run_name: rogue-tern-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123948401
+status: 3
+tags: []
+user_id: plgmaczynspwr

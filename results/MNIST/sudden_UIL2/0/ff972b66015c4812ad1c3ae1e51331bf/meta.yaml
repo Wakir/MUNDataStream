@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/ff972b66015c4812ad1c3ae1e51331bf/artifacts
+end_time: 1780134859827
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: ff972b66015c4812ad1c3ae1e51331bf
+run_name: nervous-shad-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134824971
+status: 3
+tags: []
+user_id: plgmaczynspwr

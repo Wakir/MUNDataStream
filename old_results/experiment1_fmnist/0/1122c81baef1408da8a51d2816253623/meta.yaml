@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/1122c81baef1408da8a51d2816253623/artifacts
+end_time: 1773276012858
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 1122c81baef1408da8a51d2816253623
+run_name: victorious-shoat-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773275273794
+status: 3
+tags: []
+user_id: root

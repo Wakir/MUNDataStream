@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/6d5e31a417d943bf9d09a6f71ffdffdd/artifacts
+end_time: 1773261470698
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 6d5e31a417d943bf9d09a6f71ffdffdd
+run_name: peaceful-crow-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261469339
+status: 4
+tags: []
+user_id: root

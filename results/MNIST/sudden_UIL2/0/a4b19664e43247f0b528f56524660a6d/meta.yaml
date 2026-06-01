@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/a4b19664e43247f0b528f56524660a6d/artifacts
+end_time: 1780131336690
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: a4b19664e43247f0b528f56524660a6d
+run_name: receptive-mole-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131302963
+status: 3
+tags: []
+user_id: plgmaczynspwr

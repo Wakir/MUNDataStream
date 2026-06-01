@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/bc9bc1e5c2da4eaca824fbbf2f329e9e/artifacts
+end_time: 1780133344380
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: bc9bc1e5c2da4eaca824fbbf2f329e9e
+run_name: upbeat-hen-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133308525
+status: 3
+tags: []
+user_id: plgmaczynspwr

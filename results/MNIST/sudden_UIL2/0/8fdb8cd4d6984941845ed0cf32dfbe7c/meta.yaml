@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/8fdb8cd4d6984941845ed0cf32dfbe7c/artifacts
+end_time: 1780131360384
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 8fdb8cd4d6984941845ed0cf32dfbe7c
+run_name: rare-fawn-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131324883
+status: 3
+tags: []
+user_id: plgmaczynspwr

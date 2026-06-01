@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/0b6437a9303848cf86fcd85c569969bf/artifacts
+end_time: 1780139087220
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 0b6437a9303848cf86fcd85c569969bf
+run_name: hilarious-snail-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139053225
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/b1a1f3b2e6494577889167db0b480a98/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: b1a1f3b2e6494577889167db0b480a98
+run_name: clean-loon-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316069828
+status: 1
+tags: []
+user_id: root

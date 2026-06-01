@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/284d575a3e8b4e68b9f3a222fdfb3872/artifacts
+end_time: 1779421345485
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 284d575a3e8b4e68b9f3a222fdfb3872
+run_name: sedate-conch-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779421182321
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/482b5e02d9d143349ed23f21f1d3b7e5/artifacts
+end_time: 1780126382364
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 482b5e02d9d143349ed23f21f1d3b7e5
+run_name: suave-zebra-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126348098
+status: 3
+tags: []
+user_id: plgmaczynspwr

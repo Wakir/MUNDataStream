@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/63e126e0f5474492bf3ec1c01e55d830/artifacts
+end_time: 1780139617571
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 63e126e0f5474492bf3ec1c01e55d830
+run_name: intelligent-fly-163
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139581911
+status: 3
+tags: []
+user_id: plgmaczynspwr

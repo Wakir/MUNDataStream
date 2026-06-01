@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2d0d7a68e68b45c5b3fe85da62428c45/artifacts
+end_time: 1780122400725
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2d0d7a68e68b45c5b3fe85da62428c45
+run_name: carefree-fly-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122366316
+status: 3
+tags: []
+user_id: plgmaczynspwr

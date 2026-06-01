@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/77d7fa5dfcc2429f9647e9474ef94315/artifacts
+end_time: 1779357295418
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 77d7fa5dfcc2429f9647e9474ef94315
+run_name: treasured-shrimp-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779357180256
+status: 3
+tags: []
+user_id: plgmaczynspwr

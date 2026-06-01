@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/6748b745f9784d61a57f38f8dce0e155/artifacts
+end_time: 1773267136444
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 6748b745f9784d61a57f38f8dce0e155
+run_name: handsome-perch-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266714131
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns402/341924990387261327/926efffd80b84ea0b6ee1d72d64bfd7d/artifacts
+end_time: 1779594621856
+entry_point_name: ''
+experiment_id: '341924990387261327'
+lifecycle_stage: active
+run_id: 926efffd80b84ea0b6ee1d72d64bfd7d
+run_name: colorful-bat-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779593306483
+status: 3
+tags: []
+user_id: plgmaczynspwr

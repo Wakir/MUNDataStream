@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/ee7094938c154c0fa884e243b8daf256/artifacts
+end_time: 1780129616925
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: ee7094938c154c0fa884e243b8daf256
+run_name: illustrious-snake-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129583356
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/ee26142d7212433b8f8f1e99ceb788a2/artifacts
+end_time: 1779369258590
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: ee26142d7212433b8f8f1e99ceb788a2
+run_name: grandiose-lynx-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779369029247
+status: 3
+tags: []
+user_id: plgmaczynspwr

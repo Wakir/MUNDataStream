@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns401/842381408063410304/6d120b37e3ab4878b98e230e5b02ce64/artifacts
+end_time: 1779601676116
+entry_point_name: ''
+experiment_id: '842381408063410304'
+lifecycle_stage: active
+run_id: 6d120b37e3ab4878b98e230e5b02ce64
+run_name: adorable-stork-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779600613468
+status: 3
+tags: []
+user_id: plgmaczynspwr

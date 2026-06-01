@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/7a39feca0cc548afa45ed4b92da69616/artifacts
+end_time: 1780124465891
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 7a39feca0cc548afa45ed4b92da69616
+run_name: mysterious-bear-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124431570
+status: 3
+tags: []
+user_id: plgmaczynspwr

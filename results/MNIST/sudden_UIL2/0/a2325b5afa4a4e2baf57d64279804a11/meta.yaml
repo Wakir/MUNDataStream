@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a2325b5afa4a4e2baf57d64279804a11/artifacts
+end_time: 1780124694151
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a2325b5afa4a4e2baf57d64279804a11
+run_name: popular-mink-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124660747
+status: 3
+tags: []
+user_id: plgmaczynspwr

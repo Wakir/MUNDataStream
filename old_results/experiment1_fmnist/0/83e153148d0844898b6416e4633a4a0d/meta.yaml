@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/83e153148d0844898b6416e4633a4a0d/artifacts
+end_time: 1773274121694
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 83e153148d0844898b6416e4633a4a0d
+run_name: loud-robin-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273349172
+status: 3
+tags: []
+user_id: root

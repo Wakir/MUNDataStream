@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/fb6330f7924c4971a9b90302aeb937ce/artifacts
+end_time: 1780113726550
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: fb6330f7924c4971a9b90302aeb937ce
+run_name: defiant-goat-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113693944
+status: 3
+tags: []
+user_id: plgmaczynspwr

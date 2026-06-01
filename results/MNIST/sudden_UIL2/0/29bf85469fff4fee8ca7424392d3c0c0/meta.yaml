@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/29bf85469fff4fee8ca7424392d3c0c0/artifacts
+end_time: 1780107500932
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 29bf85469fff4fee8ca7424392d3c0c0
+run_name: blushing-bear-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107467672
+status: 3
+tags: []
+user_id: plgmaczynspwr

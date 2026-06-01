@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/6c4686efe1534e02815dcd81378cdb22/artifacts
+end_time: 1780139465245
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 6c4686efe1534e02815dcd81378cdb22
+run_name: exultant-moth-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139430633
+status: 3
+tags: []
+user_id: plgmaczynspwr

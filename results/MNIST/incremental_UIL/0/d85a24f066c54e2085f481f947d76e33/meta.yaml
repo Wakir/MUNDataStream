@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/d85a24f066c54e2085f481f947d76e33/artifacts
+end_time: 1780248917604
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: d85a24f066c54e2085f481f947d76e33
+run_name: gifted-dog-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780248881214
+status: 3
+tags: []
+user_id: plgmaczynspwr

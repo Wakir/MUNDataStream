@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/2429ad4bf7fe47e89614e7bdd25a9485/artifacts
+end_time: 1773255971575
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 2429ad4bf7fe47e89614e7bdd25a9485
+run_name: wise-fowl-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255480396
+status: 3
+tags: []
+user_id: root

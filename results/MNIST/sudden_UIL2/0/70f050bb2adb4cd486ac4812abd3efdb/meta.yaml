@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/70f050bb2adb4cd486ac4812abd3efdb/artifacts
+end_time: 1780238360470
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 70f050bb2adb4cd486ac4812abd3efdb
+run_name: aged-vole-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238327322
+status: 3
+tags: []
+user_id: plgmaczynspwr

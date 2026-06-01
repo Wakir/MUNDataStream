@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/ef8f1caebe75419d8a2b9306de0db083/artifacts
+end_time: 1779356273893
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: ef8f1caebe75419d8a2b9306de0db083
+run_name: polite-turtle-8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779356212775
+status: 3
+tags: []
+user_id: plgmaczynspwr

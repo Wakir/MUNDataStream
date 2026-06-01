@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/6a7919e7799342e2911c7213c8b1d994/artifacts
+end_time: 1773251697874
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 6a7919e7799342e2911c7213c8b1d994
+run_name: abrasive-fish-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773251194464
+status: 3
+tags: []
+user_id: root

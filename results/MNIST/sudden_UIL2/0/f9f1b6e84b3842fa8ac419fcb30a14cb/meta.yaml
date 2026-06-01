@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/f9f1b6e84b3842fa8ac419fcb30a14cb/artifacts
+end_time: 1780118325535
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: f9f1b6e84b3842fa8ac419fcb30a14cb
+run_name: bustling-loon-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118291540
+status: 3
+tags: []
+user_id: plgmaczynspwr

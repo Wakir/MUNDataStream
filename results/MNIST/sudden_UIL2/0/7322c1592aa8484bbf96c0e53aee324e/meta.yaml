@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/7322c1592aa8484bbf96c0e53aee324e/artifacts
+end_time: 1780108338366
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 7322c1592aa8484bbf96c0e53aee324e
+run_name: vaunted-bass-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108306059
+status: 3
+tags: []
+user_id: plgmaczynspwr

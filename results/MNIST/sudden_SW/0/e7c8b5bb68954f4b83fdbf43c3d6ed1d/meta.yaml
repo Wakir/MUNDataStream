@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/e7c8b5bb68954f4b83fdbf43c3d6ed1d/artifacts
+end_time: 1779459570835
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: e7c8b5bb68954f4b83fdbf43c3d6ed1d
+run_name: bright-perch-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779458878222
+status: 3
+tags: []
+user_id: plgmaczynspwr

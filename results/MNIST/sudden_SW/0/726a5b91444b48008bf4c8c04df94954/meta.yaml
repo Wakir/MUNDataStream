@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/726a5b91444b48008bf4c8c04df94954/artifacts
+end_time: 1779358982229
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 726a5b91444b48008bf4c8c04df94954
+run_name: peaceful-conch-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779358869286
+status: 3
+tags: []
+user_id: plgmaczynspwr

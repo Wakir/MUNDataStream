@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/625adadd91d64c608f74cc45a5c15884/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 625adadd91d64c608f74cc45a5c15884
+run_name: capricious-carp-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773245211743
+status: 1
+tags: []
+user_id: root

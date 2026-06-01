@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/826a3293994a4417917e32e2a10abf6e/artifacts
+end_time: 1779372419824
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 826a3293994a4417917e32e2a10abf6e
+run_name: orderly-goose-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779372063804
+status: 3
+tags: []
+user_id: plgmaczynspwr

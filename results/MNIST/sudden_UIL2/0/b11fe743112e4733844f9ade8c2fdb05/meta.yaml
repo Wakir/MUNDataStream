@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b11fe743112e4733844f9ade8c2fdb05/artifacts
+end_time: 1780118800432
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b11fe743112e4733844f9ade8c2fdb05
+run_name: whimsical-dog-634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118767537
+status: 3
+tags: []
+user_id: plgmaczynspwr

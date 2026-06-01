@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/da87b51cd12a41f8aeaf04e4ab7b20f6/artifacts
+end_time: 1773265681230
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: da87b51cd12a41f8aeaf04e4ab7b20f6
+run_name: handsome-pig-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773265209699
+status: 3
+tags: []
+user_id: root

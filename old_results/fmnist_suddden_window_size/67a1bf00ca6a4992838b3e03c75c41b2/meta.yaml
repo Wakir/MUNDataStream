@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/67a1bf00ca6a4992838b3e03c75c41b2/artifacts
+end_time: 1773306676538
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: 67a1bf00ca6a4992838b3e03c75c41b2
+run_name: treasured-pig-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773305907064
+status: 3
+tags: []
+user_id: root

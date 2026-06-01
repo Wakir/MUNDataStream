@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/86a1c96ea8cd461d9abe36fb8238b0ed/artifacts
+end_time: 1779360159020
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 86a1c96ea8cd461d9abe36fb8238b0ed
+run_name: fearless-stoat-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779360038299
+status: 3
+tags: []
+user_id: plgmaczynspwr

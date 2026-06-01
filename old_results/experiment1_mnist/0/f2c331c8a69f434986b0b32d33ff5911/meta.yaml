@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f2c331c8a69f434986b0b32d33ff5911/artifacts
+end_time: 1773262120139
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f2c331c8a69f434986b0b32d33ff5911
+run_name: serious-snipe-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261636893
+status: 3
+tags: []
+user_id: root

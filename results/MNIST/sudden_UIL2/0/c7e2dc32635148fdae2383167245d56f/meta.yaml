@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/c7e2dc32635148fdae2383167245d56f/artifacts
+end_time: 1780118918766
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: c7e2dc32635148fdae2383167245d56f
+run_name: salty-perch-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118885562
+status: 3
+tags: []
+user_id: plgmaczynspwr

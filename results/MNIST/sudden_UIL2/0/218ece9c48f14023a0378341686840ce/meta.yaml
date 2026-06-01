@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/218ece9c48f14023a0378341686840ce/artifacts
+end_time: 1780124727550
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 218ece9c48f14023a0378341686840ce
+run_name: youthful-shad-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124694155
+status: 3
+tags: []
+user_id: plgmaczynspwr

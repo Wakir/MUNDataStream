@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9712b80470c748a6a4ac74ee902e4d0d/artifacts
+end_time: 1780113580377
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9712b80470c748a6a4ac74ee902e4d0d
+run_name: upbeat-calf-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113547843
+status: 3
+tags: []
+user_id: plgmaczynspwr

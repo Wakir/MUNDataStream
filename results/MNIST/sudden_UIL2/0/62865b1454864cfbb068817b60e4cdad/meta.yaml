@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/62865b1454864cfbb068817b60e4cdad/artifacts
+end_time: 1780138704129
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 62865b1454864cfbb068817b60e4cdad
+run_name: masked-bird-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138669606
+status: 3
+tags: []
+user_id: plgmaczynspwr

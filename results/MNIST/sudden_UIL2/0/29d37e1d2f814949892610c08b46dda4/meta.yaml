@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/29d37e1d2f814949892610c08b46dda4/artifacts
+end_time: 1780130527204
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 29d37e1d2f814949892610c08b46dda4
+run_name: upbeat-kite-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130493548
+status: 3
+tags: []
+user_id: plgmaczynspwr

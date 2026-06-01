@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/90fcbf34af8149b2aefd76b880244166/artifacts
+end_time: 1780248954045
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 90fcbf34af8149b2aefd76b880244166
+run_name: youthful-quail-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780248917608
+status: 3
+tags: []
+user_id: plgmaczynspwr

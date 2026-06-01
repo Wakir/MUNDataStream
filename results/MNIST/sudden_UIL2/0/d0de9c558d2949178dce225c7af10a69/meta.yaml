@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/d0de9c558d2949178dce225c7af10a69/artifacts
+end_time: 1780108884528
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: d0de9c558d2949178dce225c7af10a69
+run_name: peaceful-shad-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108852352
+status: 3
+tags: []
+user_id: plgmaczynspwr

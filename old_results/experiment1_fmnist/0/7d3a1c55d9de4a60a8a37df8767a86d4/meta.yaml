@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/7d3a1c55d9de4a60a8a37df8767a86d4/artifacts
+end_time: 1773267595928
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 7d3a1c55d9de4a60a8a37df8767a86d4
+run_name: invincible-mare-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266853619
+status: 3
+tags: []
+user_id: root

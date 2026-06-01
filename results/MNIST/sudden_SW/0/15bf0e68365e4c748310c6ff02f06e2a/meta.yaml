@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/15bf0e68365e4c748310c6ff02f06e2a/artifacts
+end_time: 1779487376507
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 15bf0e68365e4c748310c6ff02f06e2a
+run_name: adaptable-moth-640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779487162389
+status: 3
+tags: []
+user_id: plgmaczynspwr

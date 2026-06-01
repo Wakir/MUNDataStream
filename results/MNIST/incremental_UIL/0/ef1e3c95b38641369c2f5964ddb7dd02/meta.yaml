@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/ef1e3c95b38641369c2f5964ddb7dd02/artifacts
+end_time: 1780245051298
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: ef1e3c95b38641369c2f5964ddb7dd02
+run_name: invincible-roo-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780245015698
+status: 3
+tags: []
+user_id: plgmaczynspwr

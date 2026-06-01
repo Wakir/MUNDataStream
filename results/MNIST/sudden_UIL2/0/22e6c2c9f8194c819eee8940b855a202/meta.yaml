@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/22e6c2c9f8194c819eee8940b855a202/artifacts
+end_time: 1780123127279
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 22e6c2c9f8194c819eee8940b855a202
+run_name: blushing-shoat-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123093970
+status: 3
+tags: []
+user_id: plgmaczynspwr

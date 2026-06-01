@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/70e9524399f64a8f9c58520835fc4726/artifacts
+end_time: 1780129687811
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 70e9524399f64a8f9c58520835fc4726
+run_name: nosy-seal-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129653218
+status: 3
+tags: []
+user_id: plgmaczynspwr

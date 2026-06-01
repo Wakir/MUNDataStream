@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/91fcdba129a34980970f1bd79b98a2b1/artifacts
+end_time: 1780273795117
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 91fcdba129a34980970f1bd79b98a2b1
+run_name: gregarious-skink-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273741530
+status: 3
+tags: []
+user_id: plgmaczynspwr

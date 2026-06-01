@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/68b964470d0f48cdadfadfa8116f55f4/artifacts
+end_time: 1773258046343
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 68b964470d0f48cdadfadfa8116f55f4
+run_name: casual-shrimp-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773257562188
+status: 3
+tags: []
+user_id: root

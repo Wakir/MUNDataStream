@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns406/355398581562290081/a03c039609bd47acab9ad5407ef2f41a/artifacts
+end_time: 1779596861741
+entry_point_name: ''
+experiment_id: '355398581562290081'
+lifecycle_stage: active
+run_id: a03c039609bd47acab9ad5407ef2f41a
+run_name: entertaining-hog-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779595929318
+status: 3
+tags: []
+user_id: plgmaczynspwr

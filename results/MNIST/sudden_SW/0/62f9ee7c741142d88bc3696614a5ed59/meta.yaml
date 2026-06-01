@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/62f9ee7c741142d88bc3696614a5ed59/artifacts
+end_time: 1779359321320
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 62f9ee7c741142d88bc3696614a5ed59
+run_name: casual-shoat-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779359208329
+status: 3
+tags: []
+user_id: plgmaczynspwr

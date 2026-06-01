@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/5d3f10d1ae9c478785065088df88e4ca/artifacts
+end_time: 1780115898831
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 5d3f10d1ae9c478785065088df88e4ca
+run_name: auspicious-goose-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780115866114
+status: 3
+tags: []
+user_id: plgmaczynspwr

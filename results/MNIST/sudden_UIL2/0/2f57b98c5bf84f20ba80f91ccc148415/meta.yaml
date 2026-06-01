@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/2f57b98c5bf84f20ba80f91ccc148415/artifacts
+end_time: 1780113043043
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 2f57b98c5bf84f20ba80f91ccc148415
+run_name: capricious-dog-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113010513
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/4d1f567d8f1c4c5e9ab0a713fef815e6/artifacts
+end_time: 1780108920392
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 4d1f567d8f1c4c5e9ab0a713fef815e6
+run_name: zealous-shoat-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108888047
+status: 3
+tags: []
+user_id: plgmaczynspwr

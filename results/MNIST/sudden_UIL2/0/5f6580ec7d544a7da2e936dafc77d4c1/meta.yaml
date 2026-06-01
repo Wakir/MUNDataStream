@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/5f6580ec7d544a7da2e936dafc77d4c1/artifacts
+end_time: 1780138351825
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 5f6580ec7d544a7da2e936dafc77d4c1
+run_name: suave-ray-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138317546
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6d37673c4ee54f8ebe9aa027d02904f9/artifacts
+end_time: 1780118666177
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6d37673c4ee54f8ebe9aa027d02904f9
+run_name: unleashed-horse-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118632261
+status: 3
+tags: []
+user_id: plgmaczynspwr

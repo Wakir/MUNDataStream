@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/3ebf7475e1d541d4b1b984b748c8dbb6/artifacts
+end_time: 1780137028930
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 3ebf7475e1d541d4b1b984b748c8dbb6
+run_name: carefree-steed-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136994768
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/98483078e1ac40b99652a086cf5debec/artifacts
+end_time: 1779581953416
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: 98483078e1ac40b99652a086cf5debec
+run_name: amusing-loon-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779581781800
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/2aa9dd1f78114287aeb9edf7f3f91f32/artifacts
+end_time: 1780123326818
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 2aa9dd1f78114287aeb9edf7f3f91f32
+run_name: flawless-doe-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123293587
+status: 3
+tags: []
+user_id: plgmaczynspwr

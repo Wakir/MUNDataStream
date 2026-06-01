@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/1d740b0d05354467af935b0ca5f0e622/artifacts
+end_time: 1780114639002
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 1d740b0d05354467af935b0ca5f0e622
+run_name: bedecked-calf-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114606383
+status: 3
+tags: []
+user_id: plgmaczynspwr

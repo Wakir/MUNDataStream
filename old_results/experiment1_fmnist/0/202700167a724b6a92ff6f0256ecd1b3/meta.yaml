@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/202700167a724b6a92ff6f0256ecd1b3/artifacts
+end_time: 1773274531914
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 202700167a724b6a92ff6f0256ecd1b3
+run_name: indecisive-croc-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273789749
+status: 3
+tags: []
+user_id: root

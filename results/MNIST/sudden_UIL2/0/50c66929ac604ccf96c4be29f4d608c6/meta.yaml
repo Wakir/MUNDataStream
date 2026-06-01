@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/50c66929ac604ccf96c4be29f4d608c6/artifacts
+end_time: 1780118529658
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 50c66929ac604ccf96c4be29f4d608c6
+run_name: peaceful-mole-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118495721
+status: 3
+tags: []
+user_id: plgmaczynspwr

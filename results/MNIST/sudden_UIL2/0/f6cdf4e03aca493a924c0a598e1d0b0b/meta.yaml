@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/f6cdf4e03aca493a924c0a598e1d0b0b/artifacts
+end_time: 1780120746374
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: f6cdf4e03aca493a924c0a598e1d0b0b
+run_name: amazing-chimp-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120713304
+status: 3
+tags: []
+user_id: plgmaczynspwr

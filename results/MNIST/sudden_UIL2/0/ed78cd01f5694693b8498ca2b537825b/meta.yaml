@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/ed78cd01f5694693b8498ca2b537825b/artifacts
+end_time: 1780125731522
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: ed78cd01f5694693b8498ca2b537825b
+run_name: invincible-swan-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125698047
+status: 3
+tags: []
+user_id: plgmaczynspwr

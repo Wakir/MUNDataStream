@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/dd8f15883b7246138112e80b2a8fe333/artifacts
+end_time: 1780142596931
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: dd8f15883b7246138112e80b2a8fe333
+run_name: unleashed-donkey-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142561073
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/ea1e2065be714cb6bf02b867423914c9/artifacts
+end_time: 1780122133732
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: ea1e2065be714cb6bf02b867423914c9
+run_name: blushing-doe-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122100623
+status: 3
+tags: []
+user_id: plgmaczynspwr

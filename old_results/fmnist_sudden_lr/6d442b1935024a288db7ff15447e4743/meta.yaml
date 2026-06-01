@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/805141331734350883/6d442b1935024a288db7ff15447e4743/artifacts
+end_time: 1773318171537
+entry_point_name: ''
+experiment_id: '805141331734350883'
+lifecycle_stage: active
+run_id: 6d442b1935024a288db7ff15447e4743
+run_name: illustrious-worm-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773316882723
+status: 3
+tags: []
+user_id: root

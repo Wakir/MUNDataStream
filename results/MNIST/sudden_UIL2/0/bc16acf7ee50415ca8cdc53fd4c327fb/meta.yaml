@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/bc16acf7ee50415ca8cdc53fd4c327fb/artifacts
+end_time: 1780139671605
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: bc16acf7ee50415ca8cdc53fd4c327fb
+run_name: secretive-cod-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139636955
+status: 3
+tags: []
+user_id: plgmaczynspwr

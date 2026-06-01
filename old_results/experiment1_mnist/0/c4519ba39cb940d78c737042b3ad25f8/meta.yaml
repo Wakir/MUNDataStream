@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/c4519ba39cb940d78c737042b3ad25f8/artifacts
+end_time: 1773263240988
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: c4519ba39cb940d78c737042b3ad25f8
+run_name: stylish-crane-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262766443
+status: 3
+tags: []
+user_id: root

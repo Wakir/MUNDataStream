@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/852189f2ad8448a9bf41d8a68fb67a7c/artifacts
+end_time: 1780139452608
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 852189f2ad8448a9bf41d8a68fb67a7c
+run_name: invincible-quail-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139418205
+status: 3
+tags: []
+user_id: plgmaczynspwr

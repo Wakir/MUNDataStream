@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/b3f6835c834c40ffb91076999ceb318f/artifacts
+end_time: 1780107466569
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: b3f6835c834c40ffb91076999ceb318f
+run_name: adaptable-fowl-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107434344
+status: 3
+tags: []
+user_id: plgmaczynspwr

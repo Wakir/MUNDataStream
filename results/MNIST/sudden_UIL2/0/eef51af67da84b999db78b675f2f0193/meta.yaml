@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/eef51af67da84b999db78b675f2f0193/artifacts
+end_time: 1780142640809
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: eef51af67da84b999db78b675f2f0193
+run_name: bemused-grub-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142606084
+status: 3
+tags: []
+user_id: plgmaczynspwr

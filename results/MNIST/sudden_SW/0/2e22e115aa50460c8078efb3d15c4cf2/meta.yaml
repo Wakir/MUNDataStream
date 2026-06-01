@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/2e22e115aa50460c8078efb3d15c4cf2/artifacts
+end_time: 1779423148254
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 2e22e115aa50460c8078efb3d15c4cf2
+run_name: receptive-gnu-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779422984002
+status: 3
+tags: []
+user_id: plgmaczynspwr

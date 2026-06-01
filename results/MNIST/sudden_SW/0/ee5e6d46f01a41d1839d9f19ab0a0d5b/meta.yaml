@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/ee5e6d46f01a41d1839d9f19ab0a0d5b/artifacts
+end_time: 1779359106000
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: ee5e6d46f01a41d1839d9f19ab0a0d5b
+run_name: learned-bat-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779358993510
+status: 3
+tags: []
+user_id: plgmaczynspwr

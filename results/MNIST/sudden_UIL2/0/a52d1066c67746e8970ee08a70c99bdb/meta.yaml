@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/a52d1066c67746e8970ee08a70c99bdb/artifacts
+end_time: 1780130392467
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: a52d1066c67746e8970ee08a70c99bdb
+run_name: charming-robin-363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130358796
+status: 3
+tags: []
+user_id: plgmaczynspwr

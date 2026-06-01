@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/41d2b0f129654f3b8a684439d5f85a3e/artifacts
+end_time: 1779371457669
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 41d2b0f129654f3b8a684439d5f85a3e
+run_name: secretive-seal-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779371118132
+status: 3
+tags: []
+user_id: plgmaczynspwr

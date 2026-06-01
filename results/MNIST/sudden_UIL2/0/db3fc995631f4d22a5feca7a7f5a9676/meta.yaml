@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/db3fc995631f4d22a5feca7a7f5a9676/artifacts
+end_time: 1780132216796
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: db3fc995631f4d22a5feca7a7f5a9676
+run_name: suave-bat-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132183059
+status: 3
+tags: []
+user_id: plgmaczynspwr

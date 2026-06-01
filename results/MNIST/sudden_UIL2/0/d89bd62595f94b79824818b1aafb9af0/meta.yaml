@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/d89bd62595f94b79824818b1aafb9af0/artifacts
+end_time: 1780135990493
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: d89bd62595f94b79824818b1aafb9af0
+run_name: unruly-panda-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135956379
+status: 3
+tags: []
+user_id: plgmaczynspwr

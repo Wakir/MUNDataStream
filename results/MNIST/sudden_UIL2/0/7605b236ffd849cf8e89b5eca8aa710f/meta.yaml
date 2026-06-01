@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/7605b236ffd849cf8e89b5eca8aa710f/artifacts
+end_time: 1780140237657
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 7605b236ffd849cf8e89b5eca8aa710f
+run_name: powerful-hound-159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140202057
+status: 3
+tags: []
+user_id: plgmaczynspwr

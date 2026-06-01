@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/b3964a0d43814f25a3a45ecddf5171bd/artifacts
+end_time: 1779409960638
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: b3964a0d43814f25a3a45ecddf5171bd
+run_name: capable-chimp-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779409433728
+status: 3
+tags: []
+user_id: plgmaczynspwr

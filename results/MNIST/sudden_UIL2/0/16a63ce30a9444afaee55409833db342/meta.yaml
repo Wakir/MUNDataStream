@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/16a63ce30a9444afaee55409833db342/artifacts
+end_time: 1780126603534
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 16a63ce30a9444afaee55409833db342
+run_name: caring-doe-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126570008
+status: 3
+tags: []
+user_id: plgmaczynspwr

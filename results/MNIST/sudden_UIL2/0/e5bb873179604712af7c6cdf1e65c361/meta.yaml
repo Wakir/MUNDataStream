@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/e5bb873179604712af7c6cdf1e65c361/artifacts
+end_time: 1780139257605
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: e5bb873179604712af7c6cdf1e65c361
+run_name: salty-sheep-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139222990
+status: 3
+tags: []
+user_id: plgmaczynspwr

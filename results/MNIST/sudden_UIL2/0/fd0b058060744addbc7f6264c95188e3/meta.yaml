@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/fd0b058060744addbc7f6264c95188e3/artifacts
+end_time: 1780125322609
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: fd0b058060744addbc7f6264c95188e3
+run_name: worried-cod-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125288491
+status: 3
+tags: []
+user_id: plgmaczynspwr

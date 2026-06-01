@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/a16be95724a64ff4b7e9312d43a7c9ff/artifacts
+end_time: 1780127620155
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: a16be95724a64ff4b7e9312d43a7c9ff
+run_name: burly-skunk-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127584784
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/d18e42e9bbb84ec392aab50b5cac767c/artifacts
+end_time: 1780131436545
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: d18e42e9bbb84ec392aab50b5cac767c
+run_name: intrigued-bass-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131402450
+status: 3
+tags: []
+user_id: plgmaczynspwr

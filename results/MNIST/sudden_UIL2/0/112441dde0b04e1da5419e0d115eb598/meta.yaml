@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/112441dde0b04e1da5419e0d115eb598/artifacts
+end_time: 1780112983327
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 112441dde0b04e1da5419e0d115eb598
+run_name: omniscient-zebra-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112949474
+status: 3
+tags: []
+user_id: plgmaczynspwr

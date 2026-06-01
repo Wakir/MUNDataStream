@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/8a33194106564d6d953e9e982b1b4043/artifacts
+end_time: 1779498849638
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 8a33194106564d6d953e9e982b1b4043
+run_name: omniscient-deer-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779498241476
+status: 3
+tags: []
+user_id: plgmaczynspwr

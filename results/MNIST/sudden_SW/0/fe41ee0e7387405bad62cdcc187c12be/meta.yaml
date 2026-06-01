@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/fe41ee0e7387405bad62cdcc187c12be/artifacts
+end_time: 1779362708803
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: fe41ee0e7387405bad62cdcc187c12be
+run_name: bittersweet-swan-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779362541972
+status: 3
+tags: []
+user_id: plgmaczynspwr

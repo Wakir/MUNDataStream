@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/dc62cc9e5764440f91cddcc9d1d28681/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: dc62cc9e5764440f91cddcc9d1d28681
+run_name: skillful-crane-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773268615149
+status: 1
+tags: []
+user_id: root

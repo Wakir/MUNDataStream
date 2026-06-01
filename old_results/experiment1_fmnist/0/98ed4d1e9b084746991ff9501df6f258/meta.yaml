@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/98ed4d1e9b084746991ff9501df6f258/artifacts
+end_time: 1773280165633
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 98ed4d1e9b084746991ff9501df6f258
+run_name: bemused-stag-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773279471911
+status: 3
+tags: []
+user_id: root

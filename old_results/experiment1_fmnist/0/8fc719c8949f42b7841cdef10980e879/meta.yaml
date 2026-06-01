@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/8fc719c8949f42b7841cdef10980e879/artifacts
+end_time: 1773263860182
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 8fc719c8949f42b7841cdef10980e879
+run_name: dashing-hare-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773263090059
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/d8271bb437d44f8cbf224e06f5e4abb6/artifacts
+end_time: 1780113859630
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: d8271bb437d44f8cbf224e06f5e4abb6
+run_name: learned-mare-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113826064
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/717688fca72a49c09c3a89993ebd2930/artifacts
+end_time: 1780131567789
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 717688fca72a49c09c3a89993ebd2930
+run_name: delicate-ox-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131534245
+status: 3
+tags: []
+user_id: plgmaczynspwr

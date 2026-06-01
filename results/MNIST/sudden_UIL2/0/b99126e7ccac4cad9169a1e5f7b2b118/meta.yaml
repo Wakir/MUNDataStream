@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/b99126e7ccac4cad9169a1e5f7b2b118/artifacts
+end_time: 1780139401255
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: b99126e7ccac4cad9169a1e5f7b2b118
+run_name: handsome-lamb-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780139365568
+status: 3
+tags: []
+user_id: plgmaczynspwr

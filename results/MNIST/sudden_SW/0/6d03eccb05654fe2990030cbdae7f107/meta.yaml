@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns400/895885212331762572/6d03eccb05654fe2990030cbdae7f107/artifacts
+end_time: 1779592944617
+entry_point_name: ''
+experiment_id: '895885212331762572'
+lifecycle_stage: active
+run_id: 6d03eccb05654fe2990030cbdae7f107
+run_name: aged-fly-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779592425911
+status: 3
+tags: []
+user_id: plgmaczynspwr

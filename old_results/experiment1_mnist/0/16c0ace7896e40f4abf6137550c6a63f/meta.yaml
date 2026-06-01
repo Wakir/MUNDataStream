@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/16c0ace7896e40f4abf6137550c6a63f/artifacts
+end_time: 1773258566674
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 16c0ace7896e40f4abf6137550c6a63f
+run_name: selective-steed-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773258081051
+status: 3
+tags: []
+user_id: root

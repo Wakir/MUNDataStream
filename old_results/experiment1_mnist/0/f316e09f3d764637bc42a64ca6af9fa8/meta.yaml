@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f316e09f3d764637bc42a64ca6af9fa8/artifacts
+end_time: 1773260927023
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f316e09f3d764637bc42a64ca6af9fa8
+run_name: efficient-panda-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773260449929
+status: 3
+tags: []
+user_id: root

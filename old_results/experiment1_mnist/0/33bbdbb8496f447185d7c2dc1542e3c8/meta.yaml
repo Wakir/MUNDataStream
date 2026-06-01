@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/33bbdbb8496f447185d7c2dc1542e3c8/artifacts
+end_time: 1773253716006
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 33bbdbb8496f447185d7c2dc1542e3c8
+run_name: indecisive-slug-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773253214625
+status: 3
+tags: []
+user_id: root

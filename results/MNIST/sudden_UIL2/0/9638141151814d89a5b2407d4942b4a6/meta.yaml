@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/9638141151814d89a5b2407d4942b4a6/artifacts
+end_time: 1780118769510
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 9638141151814d89a5b2407d4942b4a6
+run_name: worried-boar-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118734906
+status: 3
+tags: []
+user_id: plgmaczynspwr

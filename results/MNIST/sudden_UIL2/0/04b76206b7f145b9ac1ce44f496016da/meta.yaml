@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/04b76206b7f145b9ac1ce44f496016da/artifacts
+end_time: 1780131534240
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 04b76206b7f145b9ac1ce44f496016da
+run_name: handsome-fowl-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131500438
+status: 3
+tags: []
+user_id: plgmaczynspwr

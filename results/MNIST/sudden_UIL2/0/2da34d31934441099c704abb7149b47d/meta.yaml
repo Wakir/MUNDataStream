@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/2da34d31934441099c704abb7149b47d/artifacts
+end_time: 1780125054356
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 2da34d31934441099c704abb7149b47d
+run_name: intrigued-mare-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125019676
+status: 3
+tags: []
+user_id: plgmaczynspwr

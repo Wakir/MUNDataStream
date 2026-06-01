@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/48e4025e065749a2bbf06aec09a1d47e/artifacts
+end_time: 1773267316849
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: 48e4025e065749a2bbf06aec09a1d47e
+run_name: rumbling-quail-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773266570890
+status: 3
+tags: []
+user_id: root

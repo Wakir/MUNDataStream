@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/04dbdfb5041b4bb8bc6e4d1808386825/artifacts
+end_time: 1780111470641
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 04dbdfb5041b4bb8bc6e4d1808386825
+run_name: burly-smelt-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780111438276
+status: 3
+tags: []
+user_id: plgmaczynspwr

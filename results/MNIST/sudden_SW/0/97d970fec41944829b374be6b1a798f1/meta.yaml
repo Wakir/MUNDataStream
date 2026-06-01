@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/97d970fec41944829b374be6b1a798f1/artifacts
+end_time: 1779453997228
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 97d970fec41944829b374be6b1a798f1
+run_name: amazing-newt-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779453312692
+status: 3
+tags: []
+user_id: plgmaczynspwr

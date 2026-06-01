@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/27136d0da9c54429905630c90a05c9f5/artifacts
+end_time: 1773270994931
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 27136d0da9c54429905630c90a05c9f5
+run_name: persistent-crane-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773270224946
+status: 3
+tags: []
+user_id: root

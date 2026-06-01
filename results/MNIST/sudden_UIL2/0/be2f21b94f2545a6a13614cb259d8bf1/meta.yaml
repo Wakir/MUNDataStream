@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/be2f21b94f2545a6a13614cb259d8bf1/artifacts
+end_time: 1780140975304
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: be2f21b94f2545a6a13614cb259d8bf1
+run_name: fearless-bee-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140940619
+status: 3
+tags: []
+user_id: plgmaczynspwr

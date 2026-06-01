@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f6a3c13399b6496ba040366391483338/artifacts
+end_time: 1773254677862
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f6a3c13399b6496ba040366391483338
+run_name: lyrical-yak-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254183330
+status: 3
+tags: []
+user_id: root

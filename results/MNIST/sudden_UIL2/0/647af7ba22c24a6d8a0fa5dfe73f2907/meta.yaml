@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/647af7ba22c24a6d8a0fa5dfe73f2907/artifacts
+end_time: 1780134696863
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 647af7ba22c24a6d8a0fa5dfe73f2907
+run_name: adventurous-bass-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134662859
+status: 3
+tags: []
+user_id: plgmaczynspwr

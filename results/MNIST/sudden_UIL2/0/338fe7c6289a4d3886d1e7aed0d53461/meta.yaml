@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/338fe7c6289a4d3886d1e7aed0d53461/artifacts
+end_time: 1780119645980
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 338fe7c6289a4d3886d1e7aed0d53461
+run_name: trusting-skink-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119612951
+status: 3
+tags: []
+user_id: plgmaczynspwr

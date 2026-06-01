@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/e59f57ac9bfc4debbe0b5b0c2b0b4da7/artifacts
+end_time: 1780118871782
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: e59f57ac9bfc4debbe0b5b0c2b0b4da7
+run_name: abundant-shrew-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118837696
+status: 3
+tags: []
+user_id: plgmaczynspwr

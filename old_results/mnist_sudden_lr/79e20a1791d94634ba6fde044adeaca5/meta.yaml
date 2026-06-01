@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/951286562057381247/79e20a1791d94634ba6fde044adeaca5/artifacts
+end_time: 1773322259729
+entry_point_name: ''
+experiment_id: '951286562057381247'
+lifecycle_stage: active
+run_id: 79e20a1791d94634ba6fde044adeaca5
+run_name: bright-gull-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773321107315
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/268b18be9f6c41c6a23b7adfd2f1af5a/artifacts
+end_time: 1780107234936
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 268b18be9f6c41c6a23b7adfd2f1af5a
+run_name: omniscient-kite-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780107201610
+status: 3
+tags: []
+user_id: plgmaczynspwr

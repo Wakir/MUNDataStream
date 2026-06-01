@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/1068121d308f49feb06a2427edda25d7/artifacts
+end_time: 1773260457494
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 1068121d308f49feb06a2427edda25d7
+run_name: welcoming-trout-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773259972310
+status: 3
+tags: []
+user_id: root

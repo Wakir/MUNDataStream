@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/55ab1f0ff33e4a51add5a4f2b2d5e6d6/artifacts
+end_time: 1780141629541
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 55ab1f0ff33e4a51add5a4f2b2d5e6d6
+run_name: defiant-crane-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141593924
+status: 3
+tags: []
+user_id: plgmaczynspwr

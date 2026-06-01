@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/f206e0a82ca4467d8880c14eb73709c1/artifacts
+end_time: 1779374493856
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: f206e0a82ca4467d8880c14eb73709c1
+run_name: nebulous-bass-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779374157942
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/e75f52a564894e65ab1f1e9bfc91cb1b/artifacts
+end_time: 1773287585474
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: e75f52a564894e65ab1f1e9bfc91cb1b
+run_name: rumbling-tern-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773286871241
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/9a34a23391f04edf9379b85c48485aef/artifacts
+end_time: 1780247791479
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 9a34a23391f04edf9379b85c48485aef
+run_name: salty-mule-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780247754546
+status: 3
+tags: []
+user_id: plgmaczynspwr

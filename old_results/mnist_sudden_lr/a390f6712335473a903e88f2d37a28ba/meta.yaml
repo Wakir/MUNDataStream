@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/951286562057381247/a390f6712335473a903e88f2d37a28ba/artifacts
+end_time: 1773319944054
+entry_point_name: ''
+experiment_id: '951286562057381247'
+lifecycle_stage: active
+run_id: a390f6712335473a903e88f2d37a28ba
+run_name: flawless-turtle-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773318763338
+status: 3
+tags: []
+user_id: root

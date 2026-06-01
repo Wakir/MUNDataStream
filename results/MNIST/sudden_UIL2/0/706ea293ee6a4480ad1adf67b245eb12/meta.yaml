@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/706ea293ee6a4480ad1adf67b245eb12/artifacts
+end_time: 1780126972491
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 706ea293ee6a4480ad1adf67b245eb12
+run_name: beautiful-stag-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126938937
+status: 3
+tags: []
+user_id: plgmaczynspwr

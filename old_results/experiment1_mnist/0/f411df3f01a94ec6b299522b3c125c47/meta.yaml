@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/f411df3f01a94ec6b299522b3c125c47/artifacts
+end_time: 1773263086916
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: f411df3f01a94ec6b299522b3c125c47
+run_name: colorful-crane-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773262603495
+status: 3
+tags: []
+user_id: root

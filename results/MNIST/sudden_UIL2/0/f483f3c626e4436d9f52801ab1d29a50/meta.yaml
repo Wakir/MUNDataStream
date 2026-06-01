@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/f483f3c626e4436d9f52801ab1d29a50/artifacts
+end_time: 1780135835055
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: f483f3c626e4436d9f52801ab1d29a50
+run_name: nervous-shrike-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135800194
+status: 3
+tags: []
+user_id: plgmaczynspwr

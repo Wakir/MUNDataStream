@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/a8a02a05371f4cf7a80385e6fe27f395/artifacts
+end_time: 1780114410914
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: a8a02a05371f4cf7a80385e6fe27f395
+run_name: wistful-moth-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114378307
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/b4e57aea869447be941041121049db15/artifacts
+end_time: 1780122830030
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: b4e57aea869447be941041121049db15
+run_name: enchanting-bat-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122796827
+status: 3
+tags: []
+user_id: plgmaczynspwr

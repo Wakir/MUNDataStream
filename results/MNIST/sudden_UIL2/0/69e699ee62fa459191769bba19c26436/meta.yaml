@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/69e699ee62fa459191769bba19c26436/artifacts
+end_time: 1780130087978
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 69e699ee62fa459191769bba19c26436
+run_name: resilient-fish-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130054446
+status: 3
+tags: []
+user_id: plgmaczynspwr

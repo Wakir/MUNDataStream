@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/de92e20b56ad46589c3b0fa48250904d/artifacts
+end_time: 1780270761461
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: de92e20b56ad46589c3b0fa48250904d
+run_name: peaceful-worm-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780270712861
+status: 3
+tags: []
+user_id: plgmaczynspwr

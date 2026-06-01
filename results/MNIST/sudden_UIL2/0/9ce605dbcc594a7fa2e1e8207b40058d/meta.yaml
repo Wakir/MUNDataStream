@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/9ce605dbcc594a7fa2e1e8207b40058d/artifacts
+end_time: 1780141704165
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 9ce605dbcc594a7fa2e1e8207b40058d
+run_name: enchanting-hog-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780141669503
+status: 3
+tags: []
+user_id: plgmaczynspwr

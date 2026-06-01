@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/c393b8c2b7b94231bc6fa82fe5cc4e7a/artifacts
+end_time: 1780133415676
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: c393b8c2b7b94231bc6fa82fe5cc4e7a
+run_name: unequaled-roo-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133381481
+status: 3
+tags: []
+user_id: plgmaczynspwr

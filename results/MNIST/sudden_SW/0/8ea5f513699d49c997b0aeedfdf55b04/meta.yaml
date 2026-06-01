@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/8ea5f513699d49c997b0aeedfdf55b04/artifacts
+end_time: 1779361589043
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 8ea5f513699d49c997b0aeedfdf55b04
+run_name: painted-crab-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779361408664
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/ee6f117c31c745509e7d770b9b3b985f/artifacts
+end_time: 1780118564177
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: ee6f117c31c745509e7d770b9b3b985f
+run_name: able-fox-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118529662
+status: 3
+tags: []
+user_id: plgmaczynspwr

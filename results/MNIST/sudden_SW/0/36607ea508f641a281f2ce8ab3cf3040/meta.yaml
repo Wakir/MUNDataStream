@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/36607ea508f641a281f2ce8ab3cf3040/artifacts
+end_time: 1779421469814
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: 36607ea508f641a281f2ce8ab3cf3040
+run_name: delicate-stork-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779421297414
+status: 3
+tags: []
+user_id: plgmaczynspwr

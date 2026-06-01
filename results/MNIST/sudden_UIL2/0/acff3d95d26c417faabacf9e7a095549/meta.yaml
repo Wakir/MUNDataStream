@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/acff3d95d26c417faabacf9e7a095549/artifacts
+end_time: 1780127039546
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: acff3d95d26c417faabacf9e7a095549
+run_name: bouncy-bat-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780127006029
+status: 3
+tags: []
+user_id: plgmaczynspwr

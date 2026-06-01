@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/885792326427390832/d0623b7467994774bce0f31634342d91/artifacts
+end_time: 1773305492216
+entry_point_name: ''
+experiment_id: '885792326427390832'
+lifecycle_stage: active
+run_id: d0623b7467994774bce0f31634342d91
+run_name: bedecked-grouse-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773304681810
+status: 3
+tags: []
+user_id: root

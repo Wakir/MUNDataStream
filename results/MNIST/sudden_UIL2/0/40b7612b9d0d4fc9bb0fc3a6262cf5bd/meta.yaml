@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/40b7612b9d0d4fc9bb0fc3a6262cf5bd/artifacts
+end_time: 1780124861404
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 40b7612b9d0d4fc9bb0fc3a6262cf5bd
+run_name: hilarious-finch-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124827962
+status: 3
+tags: []
+user_id: plgmaczynspwr

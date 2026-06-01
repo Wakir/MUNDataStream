@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/4a0e10f2719f434985dda14f9b5ca2f8/artifacts
+end_time: 1779407858797
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 4a0e10f2719f434985dda14f9b5ca2f8
+run_name: carefree-skunk-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779407333041
+status: 3
+tags: []
+user_id: plgmaczynspwr

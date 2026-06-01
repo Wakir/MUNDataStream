@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/865612534885903594/6b8dd92e5d5548cdb46202d1a4b47001/artifacts
+end_time: 1773321023950
+entry_point_name: ''
+experiment_id: '865612534885903594'
+lifecycle_stage: active
+run_id: 6b8dd92e5d5548cdb46202d1a4b47001
+run_name: delicate-duck-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773319810901
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6749f040e70d4e84b3d9ed6b0aa515b7/artifacts
+end_time: 1780107002427
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6749f040e70d4e84b3d9ed6b0aa515b7
+run_name: unequaled-grouse-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780106969043
+status: 3
+tags: []
+user_id: plgmaczynspwr

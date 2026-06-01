@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6906e1bbee1245c99e2e38a8cd6d64d4/artifacts
+end_time: 1780123464451
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6906e1bbee1245c99e2e38a8cd6d64d4
+run_name: nervous-mule-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123430232
+status: 3
+tags: []
+user_id: plgmaczynspwr

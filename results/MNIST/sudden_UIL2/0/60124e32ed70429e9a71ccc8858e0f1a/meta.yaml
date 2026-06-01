@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/60124e32ed70429e9a71ccc8858e0f1a/artifacts
+end_time: 1780138289300
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 60124e32ed70429e9a71ccc8858e0f1a
+run_name: painted-fly-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138254978
+status: 3
+tags: []
+user_id: plgmaczynspwr

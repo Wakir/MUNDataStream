@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/8cccc7df45f141f98c63d9e2e07fd441/artifacts
+end_time: 1780133202000
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 8cccc7df45f141f98c63d9e2e07fd441
+run_name: polite-dolphin-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133165744
+status: 3
+tags: []
+user_id: plgmaczynspwr

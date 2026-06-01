@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/6580f00c950f486d8c0b255574d74956/artifacts
+end_time: 1780109082342
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 6580f00c950f486d8c0b255574d74956
+run_name: beautiful-rat-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109049970
+status: 3
+tags: []
+user_id: plgmaczynspwr

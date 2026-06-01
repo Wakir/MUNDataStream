@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/29d05bc89c07477f9e5fe292928418b0/artifacts
+end_time: 1780129905257
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 29d05bc89c07477f9e5fe292928418b0
+run_name: caring-ape-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129871288
+status: 3
+tags: []
+user_id: plgmaczynspwr

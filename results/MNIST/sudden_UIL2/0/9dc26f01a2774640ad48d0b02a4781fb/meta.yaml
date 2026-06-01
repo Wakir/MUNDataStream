@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/9dc26f01a2774640ad48d0b02a4781fb/artifacts
+end_time: 1780117700149
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 9dc26f01a2774640ad48d0b02a4781fb
+run_name: hilarious-koi-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117667150
+status: 3
+tags: []
+user_id: plgmaczynspwr

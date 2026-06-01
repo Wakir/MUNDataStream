@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/29cc7c8d7353446294c2d58c55fa87e1/artifacts
+end_time: 1773262418520
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 29cc7c8d7353446294c2d58c55fa87e1
+run_name: casual-grub-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773261941664
+status: 3
+tags: []
+user_id: root

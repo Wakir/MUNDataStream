@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/11a367e8f390420298daa5d6236c1b82/artifacts
+end_time: 1773254715348
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 11a367e8f390420298daa5d6236c1b82
+run_name: blushing-panda-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254217464
+status: 3
+tags: []
+user_id: root

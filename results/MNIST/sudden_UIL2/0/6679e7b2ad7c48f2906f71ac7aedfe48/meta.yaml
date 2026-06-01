@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/6679e7b2ad7c48f2906f71ac7aedfe48/artifacts
+end_time: 1780114443496
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 6679e7b2ad7c48f2906f71ac7aedfe48
+run_name: dapper-mole-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114410918
+status: 3
+tags: []
+user_id: plgmaczynspwr

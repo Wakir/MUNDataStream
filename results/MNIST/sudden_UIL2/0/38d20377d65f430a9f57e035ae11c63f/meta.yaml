@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/38d20377d65f430a9f57e035ae11c63f/artifacts
+end_time: 1780108726473
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 38d20377d65f430a9f57e035ae11c63f
+run_name: silent-dog-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780108693910
+status: 3
+tags: []
+user_id: plgmaczynspwr

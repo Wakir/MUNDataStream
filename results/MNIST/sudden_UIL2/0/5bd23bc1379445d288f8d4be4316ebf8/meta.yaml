@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/5bd23bc1379445d288f8d4be4316ebf8/artifacts
+end_time: 1780134266741
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 5bd23bc1379445d288f8d4be4316ebf8
+run_name: gifted-mink-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134231968
+status: 3
+tags: []
+user_id: plgmaczynspwr

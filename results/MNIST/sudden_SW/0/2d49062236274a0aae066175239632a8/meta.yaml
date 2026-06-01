@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/2d49062236274a0aae066175239632a8/artifacts
+end_time: 1779358313819
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 2d49062236274a0aae066175239632a8
+run_name: glamorous-mink-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779358201591
+status: 3
+tags: []
+user_id: plgmaczynspwr

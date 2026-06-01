@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a882d08179994cdeb89de8e28f9e4ddf/artifacts
+end_time: 1780137048048
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a882d08179994cdeb89de8e28f9e4ddf
+run_name: agreeable-bass-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780137013752
+status: 3
+tags: []
+user_id: plgmaczynspwr

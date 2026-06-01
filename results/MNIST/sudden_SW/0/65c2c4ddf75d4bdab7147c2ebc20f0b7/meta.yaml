@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/65c2c4ddf75d4bdab7147c2ebc20f0b7/artifacts
+end_time: 1779363210394
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 65c2c4ddf75d4bdab7147c2ebc20f0b7
+run_name: unleashed-mouse-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779363044095
+status: 3
+tags: []
+user_id: plgmaczynspwr

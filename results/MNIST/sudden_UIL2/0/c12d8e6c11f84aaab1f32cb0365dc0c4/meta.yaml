@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/c12d8e6c11f84aaab1f32cb0365dc0c4/artifacts
+end_time: 1780120825412
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: c12d8e6c11f84aaab1f32cb0365dc0c4
+run_name: bald-pig-726
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120791360
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/eb857fafcf594189914b45b2a7c2824f/artifacts
+end_time: 1779362876412
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: eb857fafcf594189914b45b2a7c2824f
+run_name: gifted-trout-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779362708807
+status: 3
+tags: []
+user_id: plgmaczynspwr

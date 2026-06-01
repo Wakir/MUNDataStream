@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/6215ad169854498796f3d1e761206b5c/artifacts
+end_time: 1780140444129
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 6215ad169854498796f3d1e761206b5c
+run_name: capable-goat-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140407923
+status: 3
+tags: []
+user_id: plgmaczynspwr

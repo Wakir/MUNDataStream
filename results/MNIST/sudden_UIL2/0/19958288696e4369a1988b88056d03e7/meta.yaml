@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/19958288696e4369a1988b88056d03e7/artifacts
+end_time: 1780135888222
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 19958288696e4369a1988b88056d03e7
+run_name: bustling-hawk-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135854148
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/c0d052ee3c804b82909780e062a9be3e/artifacts
+end_time: 1773267943952
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: c0d052ee3c804b82909780e062a9be3e
+run_name: abrasive-quail-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773267200837
+status: 3
+tags: []
+user_id: root

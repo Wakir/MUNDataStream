@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns515/379819268168871128/6beb014162624da6bf2b3495a5619471/artifacts
+end_time: 1780136415707
+entry_point_name: ''
+experiment_id: '379819268168871128'
+lifecycle_stage: active
+run_id: 6beb014162624da6bf2b3495a5619471
+run_name: stylish-deer-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780136381812
+status: 3
+tags: []
+user_id: plgmaczynspwr

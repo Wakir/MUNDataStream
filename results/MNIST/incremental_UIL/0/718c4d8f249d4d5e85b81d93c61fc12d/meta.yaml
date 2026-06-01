@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/718c4d8f249d4d5e85b81d93c61fc12d/artifacts
+end_time: 1780238506538
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 718c4d8f249d4d5e85b81d93c61fc12d
+run_name: righteous-eel-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238472299
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/6290ba35db3c48088e85f75789abb9fb/artifacts
+end_time: 1780131302959
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 6290ba35db3c48088e85f75789abb9fb
+run_name: suave-shoat-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131269215
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/52816a20005e44f9bfadaa2dcccd45de/artifacts
+end_time: 1780238757878
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 52816a20005e44f9bfadaa2dcccd45de
+run_name: rare-doe-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238724902
+status: 3
+tags: []
+user_id: plgmaczynspwr

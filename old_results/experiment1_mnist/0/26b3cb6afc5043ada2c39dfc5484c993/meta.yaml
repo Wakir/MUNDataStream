@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs/382214112253506520/26b3cb6afc5043ada2c39dfc5484c993/artifacts
+end_time: 1773255172291
+entry_point_name: ''
+experiment_id: '382214112253506520'
+lifecycle_stage: active
+run_id: 26b3cb6afc5043ada2c39dfc5484c993
+run_name: likeable-horse-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773254677908
+status: 3
+tags: []
+user_id: root

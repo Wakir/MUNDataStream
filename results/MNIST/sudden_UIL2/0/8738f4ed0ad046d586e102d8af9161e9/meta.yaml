@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns517/764558295886299718/8738f4ed0ad046d586e102d8af9161e9/artifacts
+end_time: 1780142659460
+entry_point_name: ''
+experiment_id: '764558295886299718'
+lifecycle_stage: active
+run_id: 8738f4ed0ad046d586e102d8af9161e9
+run_name: polite-snipe-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780142624622
+status: 3
+tags: []
+user_id: plgmaczynspwr

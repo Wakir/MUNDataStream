@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns518/136592421410952180/79f97263a9b14d2a81ea0acbb74a649f/artifacts
+end_time: 1780133048526
+entry_point_name: ''
+experiment_id: '136592421410952180'
+lifecycle_stage: active
+run_id: 79f97263a9b14d2a81ea0acbb74a649f
+run_name: resilient-zebra-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780133013749
+status: 3
+tags: []
+user_id: plgmaczynspwr

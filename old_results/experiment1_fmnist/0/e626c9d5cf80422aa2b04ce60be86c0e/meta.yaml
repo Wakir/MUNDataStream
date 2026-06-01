@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/915299191210141273/e626c9d5cf80422aa2b04ce60be86c0e/artifacts
+end_time: 1773282262424
+entry_point_name: ''
+experiment_id: '915299191210141273'
+lifecycle_stage: active
+run_id: e626c9d5cf80422aa2b04ce60be86c0e
+run_name: capricious-mule-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773281559206
+status: 3
+tags: []
+user_id: root

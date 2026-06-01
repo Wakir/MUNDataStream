@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/915032625154962509/62e6789b5c7b45cfa980e8935829e115/artifacts
+end_time: 1773255989360
+entry_point_name: ''
+experiment_id: '915032625154962509'
+lifecycle_stage: active
+run_id: 62e6789b5c7b45cfa980e8935829e115
+run_name: caring-stoat-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773255496970
+status: 3
+tags: []
+user_id: root

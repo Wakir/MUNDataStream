@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/fd81bb2848ec437fa09929aa78a29775/artifacts
+end_time: 1780131922696
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: fd81bb2848ec437fa09929aa78a29775
+run_name: colorful-roo-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131887770
+status: 3
+tags: []
+user_id: plgmaczynspwr

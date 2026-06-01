@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/4e15b590cd7146a99b2b1ff6f2d815db/artifacts
+end_time: 1780124812686
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 4e15b590cd7146a99b2b1ff6f2d815db
+run_name: skittish-bird-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780124778461
+status: 3
+tags: []
+user_id: plgmaczynspwr

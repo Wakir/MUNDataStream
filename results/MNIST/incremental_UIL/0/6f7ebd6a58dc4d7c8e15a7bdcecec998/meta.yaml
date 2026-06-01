@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/6f7ebd6a58dc4d7c8e15a7bdcecec998/artifacts
+end_time: 1780250461951
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 6f7ebd6a58dc4d7c8e15a7bdcecec998
+run_name: incongruous-tern-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780250423953
+status: 3
+tags: []
+user_id: plgmaczynspwr

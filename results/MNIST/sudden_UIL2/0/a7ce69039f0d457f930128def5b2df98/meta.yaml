@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/a7ce69039f0d457f930128def5b2df98/artifacts
+end_time: 1780128855888
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: a7ce69039f0d457f930128def5b2df98
+run_name: blushing-lynx-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128822231
+status: 3
+tags: []
+user_id: plgmaczynspwr

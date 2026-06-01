@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/2d385d7852a2444f95776094ddd4caf7/artifacts
+end_time: 1780119117674
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 2d385d7852a2444f95776094ddd4caf7
+run_name: unleashed-shad-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119084410
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns514/366412610477593199/971b338e51904e7387348ab1c37b695b/artifacts
+end_time: 1780140875942
+entry_point_name: ''
+experiment_id: '366412610477593199'
+lifecycle_stage: active
+run_id: 971b338e51904e7387348ab1c37b695b
+run_name: brawny-boar-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140840171
+status: 3
+tags: []
+user_id: plgmaczynspwr

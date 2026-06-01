@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs2.0/140703615045363024/87cbeaba92c046cc9d537a495353468f/artifacts
+end_time: 1773273973059
+entry_point_name: ''
+experiment_id: '140703615045363024'
+lifecycle_stage: active
+run_id: 87cbeaba92c046cc9d537a495353468f
+run_name: gaudy-worm-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773273228464
+status: 3
+tags: []
+user_id: root

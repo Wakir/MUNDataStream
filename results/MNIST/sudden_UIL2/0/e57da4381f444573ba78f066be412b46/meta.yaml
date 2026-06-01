@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/e57da4381f444573ba78f066be412b46/artifacts
+end_time: 1780110240666
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: e57da4381f444573ba78f066be412b46
+run_name: nervous-ray-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780110208248
+status: 3
+tags: []
+user_id: plgmaczynspwr

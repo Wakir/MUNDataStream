@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns516/799594351647873299/928dbdb00f9b44bb950ea266b16d91cc/artifacts
+end_time: 1780138454856
+entry_point_name: ''
+experiment_id: '799594351647873299'
+lifecycle_stage: active
+run_id: 928dbdb00f9b44bb950ea266b16d91cc
+run_name: monumental-mouse-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780138420536
+status: 3
+tags: []
+user_id: plgmaczynspwr

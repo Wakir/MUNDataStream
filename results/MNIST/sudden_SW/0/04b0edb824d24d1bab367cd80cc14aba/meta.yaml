@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns304/396328895011264860/04b0edb824d24d1bab367cd80cc14aba/artifacts
+end_time: 1779361370048
+entry_point_name: ''
+experiment_id: '396328895011264860'
+lifecycle_stage: active
+run_id: 04b0edb824d24d1bab367cd80cc14aba
+run_name: welcoming-ant-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779361204143
+status: 3
+tags: []
+user_id: plgmaczynspwr

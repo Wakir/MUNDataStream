@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns306/575068436964977106/b3f41949e9ec4cf8815b40cd2e186642/artifacts
+end_time: 1779405270362
+entry_point_name: ''
+experiment_id: '575068436964977106'
+lifecycle_stage: active
+run_id: b3f41949e9ec4cf8815b40cd2e186642
+run_name: glamorous-jay-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779404825539
+status: 3
+tags: []
+user_id: plgmaczynspwr
