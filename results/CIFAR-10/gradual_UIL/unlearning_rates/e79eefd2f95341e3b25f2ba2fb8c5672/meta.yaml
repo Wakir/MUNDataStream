@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/e79eefd2f95341e3b25f2ba2fb8c5672/artifacts
+end_time: 1780563676147
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: e79eefd2f95341e3b25f2ba2fb8c5672
+run_name: omniscient-sloth-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780563638404
+status: 3
+tags: []
+user_id: plgmaczynspwr

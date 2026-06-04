@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/8f1e2757d91d4d4aa838f6c1562cbcfe/artifacts
+end_time: 1780546316030
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 8f1e2757d91d4d4aa838f6c1562cbcfe
+run_name: thundering-yak-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546272610
+status: 3
+tags: []
+user_id: plgmaczynspwr

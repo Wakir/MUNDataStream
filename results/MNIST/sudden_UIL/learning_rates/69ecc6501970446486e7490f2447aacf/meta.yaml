@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/69ecc6501970446486e7490f2447aacf/artifacts
+end_time: 1780118054520
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 69ecc6501970446486e7490f2447aacf
+run_name: bedecked-elk-250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118017852
+status: 3
+tags: []
+user_id: plgmaczynspwr

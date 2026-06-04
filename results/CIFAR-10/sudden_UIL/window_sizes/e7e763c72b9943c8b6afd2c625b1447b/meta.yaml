@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/e7e763c72b9943c8b6afd2c625b1447b/artifacts
+end_time: 1780506160737
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: e7e763c72b9943c8b6afd2c625b1447b
+run_name: bittersweet-perch-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506123871
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/679efdff4c224c8d8e7d00a4e330f574/artifacts
+end_time: 1780119810519
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 679efdff4c224c8d8e7d00a4e330f574
+run_name: fun-tern-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119773044
+status: 3
+tags: []
+user_id: plgmaczynspwr

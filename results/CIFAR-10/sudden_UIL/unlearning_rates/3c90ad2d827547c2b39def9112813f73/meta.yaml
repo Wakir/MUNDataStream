@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/3c90ad2d827547c2b39def9112813f73/artifacts
+end_time: 1780524377004
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 3c90ad2d827547c2b39def9112813f73
+run_name: beautiful-carp-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524338805
+status: 3
+tags: []
+user_id: plgmaczynspwr

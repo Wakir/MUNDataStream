@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/aafaba34061b4886a88db7d3cb92748f/artifacts
+end_time: 1780275613625
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: aafaba34061b4886a88db7d3cb92748f
+run_name: bald-bear-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780275561239
+status: 3
+tags: []
+user_id: plgmaczynspwr

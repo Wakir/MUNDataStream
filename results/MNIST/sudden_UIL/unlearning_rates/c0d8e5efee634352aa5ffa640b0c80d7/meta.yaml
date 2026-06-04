@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/c0d8e5efee634352aa5ffa640b0c80d7/artifacts
+end_time: 1780118127916
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: c0d8e5efee634352aa5ffa640b0c80d7
+run_name: gentle-lynx-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118091204
+status: 3
+tags: []
+user_id: plgmaczynspwr

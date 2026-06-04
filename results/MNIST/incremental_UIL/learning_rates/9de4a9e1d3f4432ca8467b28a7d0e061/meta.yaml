@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/9de4a9e1d3f4432ca8467b28a7d0e061/artifacts
+end_time: 1780243503272
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 9de4a9e1d3f4432ca8467b28a7d0e061
+run_name: able-steed-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780243468922
+status: 3
+tags: []
+user_id: plgmaczynspwr

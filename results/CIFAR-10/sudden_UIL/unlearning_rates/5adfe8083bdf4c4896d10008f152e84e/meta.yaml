@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/5adfe8083bdf4c4896d10008f152e84e/artifacts
+end_time: 1780526818809
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 5adfe8083bdf4c4896d10008f152e84e
+run_name: exultant-crane-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526780449
+status: 3
+tags: []
+user_id: plgmaczynspwr

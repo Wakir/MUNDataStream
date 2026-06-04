@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/1fdaa595182a4912a2747468756f415f/artifacts
+end_time: 1780566648822
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 1fdaa595182a4912a2747468756f415f
+run_name: sassy-wolf-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566610803
+status: 3
+tags: []
+user_id: plgmaczynspwr

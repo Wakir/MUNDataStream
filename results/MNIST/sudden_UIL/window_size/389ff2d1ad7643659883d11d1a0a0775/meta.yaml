@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/389ff2d1ad7643659883d11d1a0a0775/artifacts
+end_time: 1780242078912
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 389ff2d1ad7643659883d11d1a0a0775
+run_name: persistent-skink-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242046436
+status: 3
+tags: []
+user_id: plgmaczynspwr

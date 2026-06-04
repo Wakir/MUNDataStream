@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/9d96c45d483841988ff60cc9c0595626/artifacts
+end_time: 1780554350119
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 9d96c45d483841988ff60cc9c0595626
+run_name: gentle-chimp-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554303586
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/6fc71cd8bfa54084bc07c5246ab52222/artifacts
+end_time: 1780389293820
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 6fc71cd8bfa54084bc07c5246ab52222
+run_name: masked-owl-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780387731463
+status: 3
+tags: []
+user_id: plgmaczynspwr

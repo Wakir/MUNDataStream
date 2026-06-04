@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/116840a8fdc54f6b9a51f652854da3e5/artifacts
+end_time: 1780544363326
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 116840a8fdc54f6b9a51f652854da3e5
+run_name: clumsy-flea-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544326022
+status: 3
+tags: []
+user_id: plgmaczynspwr

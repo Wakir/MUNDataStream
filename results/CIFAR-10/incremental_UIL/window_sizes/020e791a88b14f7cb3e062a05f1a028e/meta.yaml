@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/020e791a88b14f7cb3e062a05f1a028e/artifacts
+end_time: 1780528355470
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 020e791a88b14f7cb3e062a05f1a028e
+run_name: welcoming-owl-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528319098
+status: 3
+tags: []
+user_id: plgmaczynspwr

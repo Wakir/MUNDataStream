@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/13c1bf3bf5464c829f6a14e46cf291bb/artifacts
+end_time: 1780398444802
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 13c1bf3bf5464c829f6a14e46cf291bb
+run_name: aged-kite-578
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780397538382
+status: 3
+tags: []
+user_id: plgmaczynspwr

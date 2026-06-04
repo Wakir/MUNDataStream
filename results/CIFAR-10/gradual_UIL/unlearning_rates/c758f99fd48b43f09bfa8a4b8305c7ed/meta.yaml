@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/c758f99fd48b43f09bfa8a4b8305c7ed/artifacts
+end_time: 1780562916140
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: c758f99fd48b43f09bfa8a4b8305c7ed
+run_name: trusting-bird-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562878214
+status: 3
+tags: []
+user_id: plgmaczynspwr

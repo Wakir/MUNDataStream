@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/29e84b459c69481bad3811b8e4b14b8a/artifacts
+end_time: 1780241216309
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 29e84b459c69481bad3811b8e4b14b8a
+run_name: thundering-frog-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241178706
+status: 3
+tags: []
+user_id: plgmaczynspwr

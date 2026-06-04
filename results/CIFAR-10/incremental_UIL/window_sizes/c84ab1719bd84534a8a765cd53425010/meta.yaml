@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/c84ab1719bd84534a8a765cd53425010/artifacts
+end_time: 1780542209067
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: c84ab1719bd84534a8a765cd53425010
+run_name: treasured-sloth-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542164725
+status: 3
+tags: []
+user_id: plgmaczynspwr

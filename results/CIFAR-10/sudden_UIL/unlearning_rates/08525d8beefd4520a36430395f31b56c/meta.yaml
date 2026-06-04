@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/08525d8beefd4520a36430395f31b56c/artifacts
+end_time: 1780525031234
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 08525d8beefd4520a36430395f31b56c
+run_name: fearless-frog-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524992646
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/95ae30eeda954fea8dfdd1ec380925b8/artifacts
+end_time: 1780114035178
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 95ae30eeda954fea8dfdd1ec380925b8
+run_name: sedate-elk-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113996417
+status: 3
+tags: []
+user_id: plgmaczynspwr

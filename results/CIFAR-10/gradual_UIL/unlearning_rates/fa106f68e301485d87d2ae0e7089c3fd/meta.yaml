@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/fa106f68e301485d87d2ae0e7089c3fd/artifacts
+end_time: 1780564665189
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: fa106f68e301485d87d2ae0e7089c3fd
+run_name: rumbling-hare-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564627194
+status: 3
+tags: []
+user_id: plgmaczynspwr

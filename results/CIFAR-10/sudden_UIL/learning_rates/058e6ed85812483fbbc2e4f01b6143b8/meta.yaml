@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/058e6ed85812483fbbc2e4f01b6143b8/artifacts
+end_time: 1780548244658
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 058e6ed85812483fbbc2e4f01b6143b8
+run_name: masked-zebra-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548207039
+status: 3
+tags: []
+user_id: plgmaczynspwr

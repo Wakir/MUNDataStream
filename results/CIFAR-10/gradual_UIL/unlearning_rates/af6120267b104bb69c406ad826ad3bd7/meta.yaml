@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/af6120267b104bb69c406ad826ad3bd7/artifacts
+end_time: 1780563600459
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: af6120267b104bb69c406ad826ad3bd7
+run_name: spiffy-mare-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780563562530
+status: 3
+tags: []
+user_id: plgmaczynspwr

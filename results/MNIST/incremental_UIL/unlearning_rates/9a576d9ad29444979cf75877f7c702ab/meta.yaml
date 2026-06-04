@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/9a576d9ad29444979cf75877f7c702ab/artifacts
+end_time: 1780242157596
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 9a576d9ad29444979cf75877f7c702ab
+run_name: upbeat-sloth-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242116059
+status: 3
+tags: []
+user_id: plgmaczynspwr

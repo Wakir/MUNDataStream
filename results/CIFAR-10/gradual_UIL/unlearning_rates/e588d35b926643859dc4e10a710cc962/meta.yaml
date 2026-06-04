@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/e588d35b926643859dc4e10a710cc962/artifacts
+end_time: 1780563029963
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: e588d35b926643859dc4e10a710cc962
+run_name: polite-wren-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562992034
+status: 3
+tags: []
+user_id: plgmaczynspwr

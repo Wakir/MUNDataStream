@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/1664b4c6d3f1413f8709ed1fd18d2ea4/artifacts
+end_time: 1780095080265
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 1664b4c6d3f1413f8709ed1fd18d2ea4
+run_name: gaudy-ram-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780095044093
+status: 3
+tags: []
+user_id: plgmaczynspwr

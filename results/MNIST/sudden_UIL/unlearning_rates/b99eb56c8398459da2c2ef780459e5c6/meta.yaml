@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/b99eb56c8398459da2c2ef780459e5c6/artifacts
+end_time: 1780125637484
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: b99eb56c8398459da2c2ef780459e5c6
+run_name: rebellious-midge-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125599577
+status: 3
+tags: []
+user_id: plgmaczynspwr

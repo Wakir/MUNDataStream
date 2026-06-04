@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/920a00f53f904d31a80339faefd8395f/artifacts
+end_time: 1780544238768
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 920a00f53f904d31a80339faefd8395f
+run_name: skittish-fox-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544194064
+status: 3
+tags: []
+user_id: plgmaczynspwr

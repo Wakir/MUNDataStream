@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/b1e5a92e214d4491b5befb90e9cadb14/artifacts
+end_time: 1780549301559
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: b1e5a92e214d4491b5befb90e9cadb14
+run_name: salty-conch-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549257732
+status: 3
+tags: []
+user_id: plgmaczynspwr

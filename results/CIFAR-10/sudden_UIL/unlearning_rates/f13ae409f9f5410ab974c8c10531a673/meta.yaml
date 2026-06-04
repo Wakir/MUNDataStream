@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/f13ae409f9f5410ab974c8c10531a673/artifacts
+end_time: 1780523916602
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: f13ae409f9f5410ab974c8c10531a673
+run_name: merciful-asp-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523877940
+status: 3
+tags: []
+user_id: plgmaczynspwr

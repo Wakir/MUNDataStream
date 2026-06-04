@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/f86532ae6c6f43d2a80948fc44947c7f/artifacts
+end_time: 1780563372352
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: f86532ae6c6f43d2a80948fc44947c7f
+run_name: flawless-jay-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780563334395
+status: 3
+tags: []
+user_id: plgmaczynspwr

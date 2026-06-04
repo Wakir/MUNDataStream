@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/837750957206831540/fb2558b8e09349d782bc0747a2bd3dc3/artifacts
+end_time: 1780072728235
+entry_point_name: ''
+experiment_id: '837750957206831540'
+lifecycle_stage: active
+run_id: fb2558b8e09349d782bc0747a2bd3dc3
+run_name: thundering-hog-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780072694858
+status: 3
+tags: []
+user_id: plgmaczynspwr

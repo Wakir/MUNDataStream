@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/d536ff88a4ff4b5eb4693ea2fde24b35/artifacts
+end_time: 1780566495841
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: d536ff88a4ff4b5eb4693ea2fde24b35
+run_name: charming-ape-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566457587
+status: 3
+tags: []
+user_id: plgmaczynspwr

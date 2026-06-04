@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/47bbd22956954474930f5e9d3f182365/artifacts
+end_time: 1780554675204
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 47bbd22956954474930f5e9d3f182365
+run_name: omniscient-calf-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554627281
+status: 3
+tags: []
+user_id: plgmaczynspwr

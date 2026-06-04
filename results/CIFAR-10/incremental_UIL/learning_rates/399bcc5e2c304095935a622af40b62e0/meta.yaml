@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/399bcc5e2c304095935a622af40b62e0/artifacts
+end_time: 1780546153086
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 399bcc5e2c304095935a622af40b62e0
+run_name: victorious-colt-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546109711
+status: 3
+tags: []
+user_id: plgmaczynspwr

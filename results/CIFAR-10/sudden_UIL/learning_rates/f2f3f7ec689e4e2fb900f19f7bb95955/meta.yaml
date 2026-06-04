@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/f2f3f7ec689e4e2fb900f19f7bb95955/artifacts
+end_time: 1780544437946
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: f2f3f7ec689e4e2fb900f19f7bb95955
+run_name: receptive-zebra-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544400679
+status: 3
+tags: []
+user_id: plgmaczynspwr

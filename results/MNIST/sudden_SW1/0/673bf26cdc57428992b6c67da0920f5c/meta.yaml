@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/673bf26cdc57428992b6c67da0920f5c/artifacts
+end_time: 1780279097116
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 673bf26cdc57428992b6c67da0920f5c
+run_name: dazzling-smelt-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780277135846
+status: 3
+tags: []
+user_id: plgmaczynspwr

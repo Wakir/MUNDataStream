@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/d04fe43972134a6ca7630daa398cc9df/artifacts
+end_time: 1780543951811
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: d04fe43972134a6ca7630daa398cc9df
+run_name: delightful-bass-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543914555
+status: 3
+tags: []
+user_id: plgmaczynspwr

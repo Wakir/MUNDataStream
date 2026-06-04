@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/b80d6e38a0bc4c73a376b5ccc1b72f66/artifacts
+end_time: 1780564245451
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: b80d6e38a0bc4c73a376b5ccc1b72f66
+run_name: resilient-grouse-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564207353
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/8152986420204a0d899e0caed81bd923/artifacts
+end_time: 1780544462293
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 8152986420204a0d899e0caed81bd923
+run_name: abrasive-rook-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544417309
+status: 3
+tags: []
+user_id: plgmaczynspwr

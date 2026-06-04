@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/a0eee117c59a46a891d580f08b83e7c4/artifacts
+end_time: 1780132756973
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: a0eee117c59a46a891d580f08b83e7c4
+run_name: rogue-squirrel-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132717813
+status: 3
+tags: []
+user_id: plgmaczynspwr

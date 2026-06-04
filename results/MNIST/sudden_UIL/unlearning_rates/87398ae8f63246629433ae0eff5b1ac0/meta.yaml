@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/87398ae8f63246629433ae0eff5b1ac0/artifacts
+end_time: 1780112561186
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 87398ae8f63246629433ae0eff5b1ac0
+run_name: sedate-fish-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780112523661
+status: 3
+tags: []
+user_id: plgmaczynspwr

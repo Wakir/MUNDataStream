@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/30cb5075314c42909797eb6a8b58090c/artifacts
+end_time: 1780525070921
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 30cb5075314c42909797eb6a8b58090c
+run_name: silent-cub-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525031238
+status: 3
+tags: []
+user_id: plgmaczynspwr

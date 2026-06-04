@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/c5fb68de82bd481da8ad622b291a0263/artifacts
+end_time: 1780562302329
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: c5fb68de82bd481da8ad622b291a0263
+run_name: thundering-gull-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562264241
+status: 3
+tags: []
+user_id: plgmaczynspwr

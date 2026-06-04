@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/e3447cbf60a3449aa4a14075cdc67b46/artifacts
+end_time: 1780547103355
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: e3447cbf60a3449aa4a14075cdc67b46
+run_name: capricious-snipe-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547065777
+status: 3
+tags: []
+user_id: plgmaczynspwr

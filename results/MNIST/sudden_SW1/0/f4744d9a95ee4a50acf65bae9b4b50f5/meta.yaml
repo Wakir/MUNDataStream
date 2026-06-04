@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/f4744d9a95ee4a50acf65bae9b4b50f5/artifacts
+end_time: 1780288381074
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: f4744d9a95ee4a50acf65bae9b4b50f5
+run_name: sedate-fowl-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780285940260
+status: 3
+tags: []
+user_id: plgmaczynspwr

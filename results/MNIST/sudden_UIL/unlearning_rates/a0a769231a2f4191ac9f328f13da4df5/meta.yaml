@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/a0a769231a2f4191ac9f328f13da4df5/artifacts
+end_time: 1780130457868
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: a0a769231a2f4191ac9f328f13da4df5
+run_name: luminous-stork-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780130419674
+status: 3
+tags: []
+user_id: plgmaczynspwr

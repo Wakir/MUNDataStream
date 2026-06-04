@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/47cb06c9b8a3402797b7dbd0a3a3f6bd/artifacts
+end_time: 1780525466383
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 47cb06c9b8a3402797b7dbd0a3a3f6bd
+run_name: popular-snake-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525427433
+status: 3
+tags: []
+user_id: plgmaczynspwr

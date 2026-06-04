@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/09e5308ab0b34580b4bc1e5505a2ce03/artifacts
+end_time: 1780506556777
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 09e5308ab0b34580b4bc1e5505a2ce03
+run_name: dapper-cub-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506521336
+status: 3
+tags: []
+user_id: plgmaczynspwr

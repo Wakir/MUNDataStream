@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/98df4d2d3e1540f8bf64dfda382b9d91/artifacts
+end_time: 1780245862875
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 98df4d2d3e1540f8bf64dfda382b9d91
+run_name: abundant-sow-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780245825019
+status: 3
+tags: []
+user_id: plgmaczynspwr

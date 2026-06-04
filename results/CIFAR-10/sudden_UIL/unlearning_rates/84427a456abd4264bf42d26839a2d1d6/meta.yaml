@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/84427a456abd4264bf42d26839a2d1d6/artifacts
+end_time: 1780525850337
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 84427a456abd4264bf42d26839a2d1d6
+run_name: monumental-quail-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525811461
+status: 3
+tags: []
+user_id: plgmaczynspwr

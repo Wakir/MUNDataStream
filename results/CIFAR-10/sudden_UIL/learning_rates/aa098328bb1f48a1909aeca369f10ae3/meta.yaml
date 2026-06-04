@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/aa098328bb1f48a1909aeca369f10ae3/artifacts
+end_time: 1780527955308
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: aa098328bb1f48a1909aeca369f10ae3
+run_name: adaptable-bear-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527914932
+status: 3
+tags: []
+user_id: plgmaczynspwr

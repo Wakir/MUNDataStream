@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/8d2ecdbc6151416caf5deed8481062fb/artifacts
+end_time: 1780551797355
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 8d2ecdbc6151416caf5deed8481062fb
+run_name: useful-stork-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551751367
+status: 3
+tags: []
+user_id: plgmaczynspwr

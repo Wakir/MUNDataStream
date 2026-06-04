@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/841b1de7e77545ab9033f78d2b6bbf70/artifacts
+end_time: 1780277719947
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 841b1de7e77545ab9033f78d2b6bbf70
+run_name: abundant-duck-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780277663337
+status: 3
+tags: []
+user_id: plgmaczynspwr

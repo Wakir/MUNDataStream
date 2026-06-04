@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/3c43246aff064759b6de0b3c428fab6e/artifacts
+end_time: 1780547861713
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 3c43246aff064759b6de0b3c428fab6e
+run_name: masked-pig-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547818679
+status: 3
+tags: []
+user_id: plgmaczynspwr

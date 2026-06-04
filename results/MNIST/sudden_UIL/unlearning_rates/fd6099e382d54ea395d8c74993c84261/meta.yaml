@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/fd6099e382d54ea395d8c74993c84261/artifacts
+end_time: 1780241613438
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: fd6099e382d54ea395d8c74993c84261
+run_name: angry-tern-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241579752
+status: 3
+tags: []
+user_id: plgmaczynspwr

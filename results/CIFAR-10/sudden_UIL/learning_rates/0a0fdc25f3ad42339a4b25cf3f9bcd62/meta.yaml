@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/0a0fdc25f3ad42339a4b25cf3f9bcd62/artifacts
+end_time: 1780546163686
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 0a0fdc25f3ad42339a4b25cf3f9bcd62
+run_name: skillful-goose-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546126222
+status: 3
+tags: []
+user_id: plgmaczynspwr

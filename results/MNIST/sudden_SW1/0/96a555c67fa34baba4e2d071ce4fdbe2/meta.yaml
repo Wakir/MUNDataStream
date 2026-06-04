@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/96a555c67fa34baba4e2d071ce4fdbe2/artifacts
+end_time: 1780269775728
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 96a555c67fa34baba4e2d071ce4fdbe2
+run_name: calm-robin-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268774408
+status: 3
+tags: []
+user_id: plgmaczynspwr

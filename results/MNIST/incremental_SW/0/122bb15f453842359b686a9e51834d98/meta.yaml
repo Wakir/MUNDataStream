@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/122bb15f453842359b686a9e51834d98/artifacts
+end_time: 1780366271919
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 122bb15f453842359b686a9e51834d98
+run_name: colorful-hound-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780365926793
+status: 3
+tags: []
+user_id: plgmaczynspwr

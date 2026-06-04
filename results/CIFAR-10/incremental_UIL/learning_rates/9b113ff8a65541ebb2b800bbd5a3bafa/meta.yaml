@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/9b113ff8a65541ebb2b800bbd5a3bafa/artifacts
+end_time: 1780546285220
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 9b113ff8a65541ebb2b800bbd5a3bafa
+run_name: fortunate-colt-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546239907
+status: 3
+tags: []
+user_id: plgmaczynspwr

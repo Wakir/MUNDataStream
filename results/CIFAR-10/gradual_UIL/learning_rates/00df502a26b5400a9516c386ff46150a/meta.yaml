@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/00df502a26b5400a9516c386ff46150a/artifacts
+end_time: 1780546015010
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 00df502a26b5400a9516c386ff46150a
+run_name: thundering-swan-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545972139
+status: 3
+tags: []
+user_id: plgmaczynspwr

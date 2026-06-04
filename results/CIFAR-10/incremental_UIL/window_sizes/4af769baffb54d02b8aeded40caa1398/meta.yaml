@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/4af769baffb54d02b8aeded40caa1398/artifacts
+end_time: 1780528501822
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 4af769baffb54d02b8aeded40caa1398
+run_name: silent-conch-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528465172
+status: 3
+tags: []
+user_id: plgmaczynspwr

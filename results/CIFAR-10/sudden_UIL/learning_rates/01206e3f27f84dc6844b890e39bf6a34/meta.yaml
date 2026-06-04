@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/01206e3f27f84dc6844b890e39bf6a34/artifacts
+end_time: 1780547781734
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 01206e3f27f84dc6844b890e39bf6a34
+run_name: overjoyed-pig-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547744186
+status: 3
+tags: []
+user_id: plgmaczynspwr

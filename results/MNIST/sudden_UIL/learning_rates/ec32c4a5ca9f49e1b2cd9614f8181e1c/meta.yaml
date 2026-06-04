@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/ec32c4a5ca9f49e1b2cd9614f8181e1c/artifacts
+end_time: 1780237630680
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: ec32c4a5ca9f49e1b2cd9614f8181e1c
+run_name: skittish-cow-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780237597531
+status: 3
+tags: []
+user_id: plgmaczynspwr

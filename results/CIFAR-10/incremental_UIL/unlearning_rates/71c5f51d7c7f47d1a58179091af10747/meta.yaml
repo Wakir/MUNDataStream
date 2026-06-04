@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/71c5f51d7c7f47d1a58179091af10747/artifacts
+end_time: 1780551934748
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 71c5f51d7c7f47d1a58179091af10747
+run_name: rumbling-sheep-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551887138
+status: 3
+tags: []
+user_id: plgmaczynspwr

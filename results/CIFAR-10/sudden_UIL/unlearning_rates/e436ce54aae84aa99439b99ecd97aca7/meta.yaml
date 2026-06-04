@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/e436ce54aae84aa99439b99ecd97aca7/artifacts
+end_time: 1780526123150
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: e436ce54aae84aa99439b99ecd97aca7
+run_name: silent-mule-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526085066
+status: 3
+tags: []
+user_id: plgmaczynspwr

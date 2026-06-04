@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/cc012f0757d24fdb944dd81070b18317/artifacts
+end_time: 1780518734035
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: cc012f0757d24fdb944dd81070b18317
+run_name: whimsical-shrike-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518696695
+status: 3
+tags: []
+user_id: plgmaczynspwr

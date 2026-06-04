@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/65b6b9f7dbe448e0aba555f651b1205f/artifacts
+end_time: 1780549553117
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 65b6b9f7dbe448e0aba555f651b1205f
+run_name: carefree-hawk-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549512050
+status: 3
+tags: []
+user_id: plgmaczynspwr

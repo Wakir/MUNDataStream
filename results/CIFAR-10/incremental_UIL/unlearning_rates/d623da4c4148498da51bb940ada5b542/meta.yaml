@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/d623da4c4148498da51bb940ada5b542/artifacts
+end_time: 1780555885751
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: d623da4c4148498da51bb940ada5b542
+run_name: calm-toad-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555840916
+status: 3
+tags: []
+user_id: plgmaczynspwr

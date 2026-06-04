@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/7d5b629750c54a81a850d701c18d3dff/artifacts
+end_time: 1780564512652
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 7d5b629750c54a81a850d701c18d3dff
+run_name: sedate-wren-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564474391
+status: 3
+tags: []
+user_id: plgmaczynspwr

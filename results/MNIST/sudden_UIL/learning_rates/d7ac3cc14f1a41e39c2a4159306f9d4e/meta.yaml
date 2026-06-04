@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/d7ac3cc14f1a41e39c2a4159306f9d4e/artifacts
+end_time: 1780238724898
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: d7ac3cc14f1a41e39c2a4159306f9d4e
+run_name: smiling-boar-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238691932
+status: 3
+tags: []
+user_id: plgmaczynspwr

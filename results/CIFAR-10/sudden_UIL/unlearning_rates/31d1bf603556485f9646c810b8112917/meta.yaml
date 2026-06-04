@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/31d1bf603556485f9646c810b8112917/artifacts
+end_time: 1780521999718
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 31d1bf603556485f9646c810b8112917
+run_name: upbeat-grouse-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780521960876
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/09ee5d1018a64c58a2cb3ee45a354420/artifacts
+end_time: 1780549738641
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 09ee5d1018a64c58a2cb3ee45a354420
+run_name: persistent-moth-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549693165
+status: 3
+tags: []
+user_id: plgmaczynspwr

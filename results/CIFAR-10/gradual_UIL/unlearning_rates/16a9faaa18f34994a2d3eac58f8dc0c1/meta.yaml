@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/16a9faaa18f34994a2d3eac58f8dc0c1/artifacts
+end_time: 1780565314366
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 16a9faaa18f34994a2d3eac58f8dc0c1
+run_name: victorious-horse-43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780565276038
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/b2077a29db624656829a17f9a9e8b86e/artifacts
+end_time: 1780562953983
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: b2077a29db624656829a17f9a9e8b86e
+run_name: peaceful-steed-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562916144
+status: 3
+tags: []
+user_id: plgmaczynspwr

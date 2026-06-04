@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/94bb0ff72e0c407b817d81681f7f88ef/artifacts
+end_time: 1780294699779
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 94bb0ff72e0c407b817d81681f7f88ef
+run_name: skittish-dolphin-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780293347719
+status: 3
+tags: []
+user_id: plgmaczynspwr

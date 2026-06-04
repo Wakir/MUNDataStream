@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/06338f9853334f9dad9cddfef41a4dfe/artifacts
+end_time: 1780238954063
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 06338f9853334f9dad9cddfef41a4dfe
+run_name: colorful-mouse-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238919694
+status: 3
+tags: []
+user_id: plgmaczynspwr

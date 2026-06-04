@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/d2a9d56783fa49eeaa9c0349dc989240/artifacts
+end_time: 1780545500490
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: d2a9d56783fa49eeaa9c0349dc989240
+run_name: resilient-robin-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545460349
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/6a4368d5d2394deab75ce00116759a89/artifacts
+end_time: 1780245380960
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 6a4368d5d2394deab75ce00116759a89
+run_name: stately-goat-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780245344203
+status: 3
+tags: []
+user_id: plgmaczynspwr

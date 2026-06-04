@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/ad46bf6fe38045a6b89cac2209cf8a66/artifacts
+end_time: 1780542769561
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: ad46bf6fe38045a6b89cac2209cf8a66
+run_name: nebulous-skink-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542728580
+status: 3
+tags: []
+user_id: plgmaczynspwr

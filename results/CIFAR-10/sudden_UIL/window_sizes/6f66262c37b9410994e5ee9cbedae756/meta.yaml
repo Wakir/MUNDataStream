@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/6f66262c37b9410994e5ee9cbedae756/artifacts
+end_time: 1780506485924
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 6f66262c37b9410994e5ee9cbedae756
+run_name: resilient-seal-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506450725
+status: 3
+tags: []
+user_id: plgmaczynspwr

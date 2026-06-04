@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/75754e8c28f540dfb700109f4b6c946b/artifacts
+end_time: 1780238559130
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 75754e8c28f540dfb700109f4b6c946b
+run_name: nervous-mink-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238525799
+status: 3
+tags: []
+user_id: plgmaczynspwr

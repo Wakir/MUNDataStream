@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/f64d78eade344edd8012c96e2491f29d/artifacts
+end_time: 1780548899825
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: f64d78eade344edd8012c96e2491f29d
+run_name: tasteful-snail-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548854375
+status: 3
+tags: []
+user_id: plgmaczynspwr

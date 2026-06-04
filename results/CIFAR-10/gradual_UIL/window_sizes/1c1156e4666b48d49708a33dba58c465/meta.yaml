@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/1c1156e4666b48d49708a33dba58c465/artifacts
+end_time: 1780517406567
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 1c1156e4666b48d49708a33dba58c465
+run_name: capable-robin-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517370295
+status: 3
+tags: []
+user_id: plgmaczynspwr

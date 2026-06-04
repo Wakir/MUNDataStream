@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/a4be261835bb4624a32c5be0f175481a/artifacts
+end_time: 1780244481286
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: a4be261835bb4624a32c5be0f175481a
+run_name: blushing-penguin-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780244445747
+status: 3
+tags: []
+user_id: plgmaczynspwr

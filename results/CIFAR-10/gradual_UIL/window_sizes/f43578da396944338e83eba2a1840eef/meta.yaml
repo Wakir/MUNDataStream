@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/f43578da396944338e83eba2a1840eef/artifacts
+end_time: 1780518585456
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: f43578da396944338e83eba2a1840eef
+run_name: bemused-dog-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518548692
+status: 3
+tags: []
+user_id: plgmaczynspwr

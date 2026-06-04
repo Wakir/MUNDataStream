@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/560e769488ba4a2a9056a6ab25f831ea/artifacts
+end_time: 1780506914996
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 560e769488ba4a2a9056a6ab25f831ea
+run_name: dazzling-bass-556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506878804
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/222245ac7f4e42019321ea9576100279/artifacts
+end_time: 1780548125866
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 222245ac7f4e42019321ea9576100279
+run_name: charming-shoat-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548080177
+status: 3
+tags: []
+user_id: plgmaczynspwr

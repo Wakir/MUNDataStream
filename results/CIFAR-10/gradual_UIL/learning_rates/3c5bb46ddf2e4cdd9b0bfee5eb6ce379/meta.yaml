@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/3c5bb46ddf2e4cdd9b0bfee5eb6ce379/artifacts
+end_time: 1780523449889
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 3c5bb46ddf2e4cdd9b0bfee5eb6ce379
+run_name: capable-bird-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523409556
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/b0838f8cd9354a77a11f7e4508f44f76/artifacts
+end_time: 1780545193755
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: b0838f8cd9354a77a11f7e4508f44f76
+run_name: exultant-fowl-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545156609
+status: 3
+tags: []
+user_id: plgmaczynspwr

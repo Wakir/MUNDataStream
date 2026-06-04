@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/e472db1c5e9a4c7cb2867af83da461ba/artifacts
+end_time: 1780268774403
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: e472db1c5e9a4c7cb2867af83da461ba
+run_name: nosy-fly-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267776499
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/e696b67df9754897bc1b2b43e8245a21/artifacts
+end_time: 1780395715834
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: e696b67df9754897bc1b2b43e8245a21
+run_name: merciful-dog-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780394805607
+status: 3
+tags: []
+user_id: plgmaczynspwr

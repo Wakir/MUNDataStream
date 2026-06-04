@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/d0eb97543ea6404ca12b09fe1d141722/artifacts
+end_time: 1780117797102
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: d0eb97543ea6404ca12b09fe1d141722
+run_name: rumbling-dove-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117760359
+status: 3
+tags: []
+user_id: plgmaczynspwr

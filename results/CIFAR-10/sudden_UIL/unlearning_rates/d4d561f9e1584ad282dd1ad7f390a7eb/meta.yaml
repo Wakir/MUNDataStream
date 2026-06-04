@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/d4d561f9e1584ad282dd1ad7f390a7eb/artifacts
+end_time: 1780525228137
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: d4d561f9e1584ad282dd1ad7f390a7eb
+run_name: gifted-mule-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525188644
+status: 3
+tags: []
+user_id: plgmaczynspwr

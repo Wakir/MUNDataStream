@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/6c93ec4e21e14a9dbd70d7f835af50de/artifacts
+end_time: 1780073207121
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 6c93ec4e21e14a9dbd70d7f835af50de
+run_name: flawless-whale-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780073171492
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/6593bd0e01494c4a84700ac3cc86512e/artifacts
+end_time: 1780382112781
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 6593bd0e01494c4a84700ac3cc86512e
+run_name: fearless-eel-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780381487807
+status: 3
+tags: []
+user_id: plgmaczynspwr

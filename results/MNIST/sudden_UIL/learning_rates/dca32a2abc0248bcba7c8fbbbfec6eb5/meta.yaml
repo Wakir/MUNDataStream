@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/dca32a2abc0248bcba7c8fbbbfec6eb5/artifacts
+end_time: 1780119398652
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: dca32a2abc0248bcba7c8fbbbfec6eb5
+run_name: tasteful-dog-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119361137
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/e73f7d18706e48ff9e1ab6f771841497/artifacts
+end_time: 1780550511090
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: e73f7d18706e48ff9e1ab6f771841497
+run_name: treasured-dog-996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550466051
+status: 3
+tags: []
+user_id: plgmaczynspwr

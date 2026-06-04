@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/64915b7c03e64a5ba651ae86145cd21e/artifacts
+end_time: 1780527836508
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 64915b7c03e64a5ba651ae86145cd21e
+run_name: salty-deer-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527797325
+status: 3
+tags: []
+user_id: plgmaczynspwr

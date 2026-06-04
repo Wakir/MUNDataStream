@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/452ec0861b6f4b41a42860eeb4e0c58b/artifacts
+end_time: 1780562418981
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 452ec0861b6f4b41a42860eeb4e0c58b
+run_name: incongruous-fowl-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562378240
+status: 3
+tags: []
+user_id: plgmaczynspwr

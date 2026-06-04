@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/128c447f6bfb46c0b55ffc8fba2518a7/artifacts
+end_time: 1780374823643
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 128c447f6bfb46c0b55ffc8fba2518a7
+run_name: abrasive-smelt-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780373261796
+status: 3
+tags: []
+user_id: plgmaczynspwr

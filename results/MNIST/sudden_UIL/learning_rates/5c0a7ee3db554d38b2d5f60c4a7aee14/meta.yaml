@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/5c0a7ee3db554d38b2d5f60c4a7aee14/artifacts
+end_time: 1780119436143
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 5c0a7ee3db554d38b2d5f60c4a7aee14
+run_name: peaceful-gnu-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119398657
+status: 3
+tags: []
+user_id: plgmaczynspwr

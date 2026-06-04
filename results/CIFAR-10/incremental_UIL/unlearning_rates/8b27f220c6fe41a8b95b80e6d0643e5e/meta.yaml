@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/8b27f220c6fe41a8b95b80e6d0643e5e/artifacts
+end_time: 1780553750780
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 8b27f220c6fe41a8b95b80e6d0643e5e
+run_name: awesome-squirrel-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553704671
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/9692da4936a74b2f9daab296a968399e/artifacts
+end_time: 1780366176629
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 9692da4936a74b2f9daab296a968399e
+run_name: auspicious-mule-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780365840920
+status: 3
+tags: []
+user_id: plgmaczynspwr

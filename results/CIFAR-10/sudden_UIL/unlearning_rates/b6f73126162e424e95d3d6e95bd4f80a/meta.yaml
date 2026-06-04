@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/b6f73126162e424e95d3d6e95bd4f80a/artifacts
+end_time: 1780524605492
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: b6f73126162e424e95d3d6e95bd4f80a
+run_name: upbeat-dolphin-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524566351
+status: 3
+tags: []
+user_id: plgmaczynspwr

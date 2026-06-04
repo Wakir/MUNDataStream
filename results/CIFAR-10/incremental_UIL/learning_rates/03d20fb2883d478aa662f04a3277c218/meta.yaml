@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/03d20fb2883d478aa662f04a3277c218/artifacts
+end_time: 1780543886118
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 03d20fb2883d478aa662f04a3277c218
+run_name: bald-smelt-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543841254
+status: 3
+tags: []
+user_id: plgmaczynspwr

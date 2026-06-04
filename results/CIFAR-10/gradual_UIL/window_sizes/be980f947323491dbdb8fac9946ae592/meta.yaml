@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/be980f947323491dbdb8fac9946ae592/artifacts
+end_time: 1780517921845
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: be980f947323491dbdb8fac9946ae592
+run_name: melodic-finch-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517884700
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/9c4a3d638bc04971b0e5a834034b8525/artifacts
+end_time: 1780549646236
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 9c4a3d638bc04971b0e5a834034b8525
+run_name: carefree-smelt-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549594552
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/d3fef6b117a74024a840700b663943bd/artifacts
+end_time: 1780119660754
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: d3fef6b117a74024a840700b663943bd
+run_name: delightful-horse-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119623331
+status: 3
+tags: []
+user_id: plgmaczynspwr

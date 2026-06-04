@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/5ca857ca5a7a40f4a23fff6b16cb5ecb/artifacts
+end_time: 1780555432198
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 5ca857ca5a7a40f4a23fff6b16cb5ecb
+run_name: valuable-hare-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555388830
+status: 3
+tags: []
+user_id: plgmaczynspwr

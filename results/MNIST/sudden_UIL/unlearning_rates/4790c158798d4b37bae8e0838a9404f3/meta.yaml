@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/4790c158798d4b37bae8e0838a9404f3/artifacts
+end_time: 1780125535592
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 4790c158798d4b37bae8e0838a9404f3
+run_name: suave-frog-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780125498334
+status: 3
+tags: []
+user_id: plgmaczynspwr

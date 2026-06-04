@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/9f410404f564465b90ad25380b625df6/artifacts
+end_time: 1780543914551
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 9f410404f564465b90ad25380b625df6
+run_name: abundant-owl-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543877271
+status: 3
+tags: []
+user_id: plgmaczynspwr

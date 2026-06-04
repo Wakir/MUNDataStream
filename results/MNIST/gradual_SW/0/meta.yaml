@@ -1,0 +1,8 @@
+artifact_location: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405
+creation_time: 1780266249660
+experiment_id: '102073786106845405'
+last_update_time: 1780266249660
+lifecycle_stage: active
+name: MNIST_GradualDrift_WindowSize_Unlearning
+trace_location: null
+workspace: default

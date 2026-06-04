@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/84f33cfc3c624ece84902f6c59d44253/artifacts
+end_time: 1780377118061
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 84f33cfc3c624ece84902f6c59d44253
+run_name: marvelous-lamb-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780376764463
+status: 3
+tags: []
+user_id: plgmaczynspwr

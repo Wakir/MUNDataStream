@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/fb8615dc93c44d619d92b3914b232abd/artifacts
+end_time: 1780549784188
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: fb8615dc93c44d619d92b3914b232abd
+run_name: sedate-penguin-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549738647
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/cafa4c4c60f84d0d800fb81308c7c550/artifacts
+end_time: 1780545717764
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: cafa4c4c60f84d0d800fb81308c7c550
+run_name: defiant-rook-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545667883
+status: 3
+tags: []
+user_id: plgmaczynspwr

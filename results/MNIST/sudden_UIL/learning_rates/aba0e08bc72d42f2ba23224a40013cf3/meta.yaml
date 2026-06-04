@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/aba0e08bc72d42f2ba23224a40013cf3/artifacts
+end_time: 1780117576349
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: aba0e08bc72d42f2ba23224a40013cf3
+run_name: grandiose-horse-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117539644
+status: 3
+tags: []
+user_id: plgmaczynspwr

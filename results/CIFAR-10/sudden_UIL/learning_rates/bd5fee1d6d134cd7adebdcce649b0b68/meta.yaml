@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/bd5fee1d6d134cd7adebdcce649b0b68/artifacts
+end_time: 1780545603503
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: bd5fee1d6d134cd7adebdcce649b0b68
+run_name: traveling-ape-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545566214
+status: 3
+tags: []
+user_id: plgmaczynspwr

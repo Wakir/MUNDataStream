@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/e97b875850094a3c9c6c84dce808547f/artifacts
+end_time: 1780553013294
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: e97b875850094a3c9c6c84dce808547f
+run_name: blushing-rook-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552968187
+status: 3
+tags: []
+user_id: plgmaczynspwr

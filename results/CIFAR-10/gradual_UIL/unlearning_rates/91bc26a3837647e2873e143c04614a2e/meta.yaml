@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/91bc26a3837647e2873e143c04614a2e/artifacts
+end_time: 1780565808965
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 91bc26a3837647e2873e143c04614a2e
+run_name: hilarious-hare-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780565771150
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/0d6388b76882478e88ed218eed3a6787/artifacts
+end_time: 1780282034301
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 0d6388b76882478e88ed218eed3a6787
+run_name: big-croc-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780281984787
+status: 3
+tags: []
+user_id: plgmaczynspwr

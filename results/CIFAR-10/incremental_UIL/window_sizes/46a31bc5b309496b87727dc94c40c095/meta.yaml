@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/46a31bc5b309496b87727dc94c40c095/artifacts
+end_time: 1780542296248
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 46a31bc5b309496b87727dc94c40c095
+run_name: painted-bug-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542253172
+status: 3
+tags: []
+user_id: plgmaczynspwr

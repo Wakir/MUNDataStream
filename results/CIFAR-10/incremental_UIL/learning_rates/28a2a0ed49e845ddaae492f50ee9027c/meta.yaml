@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/28a2a0ed49e845ddaae492f50ee9027c/artifacts
+end_time: 1780544016933
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 28a2a0ed49e845ddaae492f50ee9027c
+run_name: traveling-panda-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543974393
+status: 3
+tags: []
+user_id: plgmaczynspwr

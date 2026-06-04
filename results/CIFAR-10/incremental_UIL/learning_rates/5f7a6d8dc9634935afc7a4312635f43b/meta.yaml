@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/5f7a6d8dc9634935afc7a4312635f43b/artifacts
+end_time: 1780548444159
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 5f7a6d8dc9634935afc7a4312635f43b
+run_name: charming-fowl-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548395895
+status: 3
+tags: []
+user_id: plgmaczynspwr

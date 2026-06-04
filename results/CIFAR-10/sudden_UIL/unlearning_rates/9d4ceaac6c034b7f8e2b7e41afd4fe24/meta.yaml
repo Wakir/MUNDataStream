@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/9d4ceaac6c034b7f8e2b7e41afd4fe24/artifacts
+end_time: 1780527251154
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 9d4ceaac6c034b7f8e2b7e41afd4fe24
+run_name: wise-ray-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527211627
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/e4fb9ecb10934071a9d9bc97d2f2155f/artifacts
+end_time: 1780543575963
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: e4fb9ecb10934071a9d9bc97d2f2155f
+run_name: burly-midge-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543534207
+status: 3
+tags: []
+user_id: plgmaczynspwr

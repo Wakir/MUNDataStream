@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/abf72153ea2c48d597b8b341faad79d5/artifacts
+end_time: 1780524106871
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: abf72153ea2c48d597b8b341faad79d5
+run_name: painted-skunk-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524068986
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/8d35cc49f2db438bbf9c8145db3406cf/artifacts
+end_time: 1780528428415
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 8d35cc49f2db438bbf9c8145db3406cf
+run_name: clean-bird-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528391910
+status: 3
+tags: []
+user_id: plgmaczynspwr

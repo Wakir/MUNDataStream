@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/a1dafa32b87d434fbb9fefc9a1ea6833/artifacts
+end_time: 1780119767905
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: a1dafa32b87d434fbb9fefc9a1ea6833
+run_name: mercurial-moose-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119728324
+status: 3
+tags: []
+user_id: plgmaczynspwr

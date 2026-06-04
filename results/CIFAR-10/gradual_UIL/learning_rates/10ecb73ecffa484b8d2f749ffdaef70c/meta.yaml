@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/10ecb73ecffa484b8d2f749ffdaef70c/artifacts
+end_time: 1780526324612
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 10ecb73ecffa484b8d2f749ffdaef70c
+run_name: sneaky-snipe-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526286007
+status: 3
+tags: []
+user_id: plgmaczynspwr

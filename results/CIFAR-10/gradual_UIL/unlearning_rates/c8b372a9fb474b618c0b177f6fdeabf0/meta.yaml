@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/c8b372a9fb474b618c0b177f6fdeabf0/artifacts
+end_time: 1780567266232
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: c8b372a9fb474b618c0b177f6fdeabf0
+run_name: victorious-snake-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780567221538
+status: 3
+tags: []
+user_id: plgmaczynspwr

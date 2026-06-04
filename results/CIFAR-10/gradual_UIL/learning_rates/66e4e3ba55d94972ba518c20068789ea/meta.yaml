@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/66e4e3ba55d94972ba518c20068789ea/artifacts
+end_time: 1780524457916
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 66e4e3ba55d94972ba518c20068789ea
+run_name: mysterious-stork-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524419240
+status: 3
+tags: []
+user_id: plgmaczynspwr

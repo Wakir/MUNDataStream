@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/e7477fee869644f492cf3431bdc1bae9/artifacts
+end_time: 1780563182379
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: e7477fee869644f492cf3431bdc1bae9
+run_name: fearless-deer-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780563144096
+status: 3
+tags: []
+user_id: plgmaczynspwr

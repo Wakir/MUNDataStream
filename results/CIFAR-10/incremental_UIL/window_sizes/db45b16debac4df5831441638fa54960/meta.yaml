@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/db45b16debac4df5831441638fa54960/artifacts
+end_time: 1780542854941
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: db45b16debac4df5831441638fa54960
+run_name: delicate-skunk-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542812949
+status: 3
+tags: []
+user_id: plgmaczynspwr

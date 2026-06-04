@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/c3a6faaca0044844b9684020271d8ff8/artifacts
+end_time: 1780119970876
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: c3a6faaca0044844b9684020271d8ff8
+run_name: learned-foal-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119933909
+status: 3
+tags: []
+user_id: plgmaczynspwr

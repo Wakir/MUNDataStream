@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/cd43fb1ba10b443fbfb184a73f99ed62/artifacts
+end_time: 1780517996708
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: cd43fb1ba10b443fbfb184a73f99ed62
+run_name: gifted-perch-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517959255
+status: 3
+tags: []
+user_id: plgmaczynspwr

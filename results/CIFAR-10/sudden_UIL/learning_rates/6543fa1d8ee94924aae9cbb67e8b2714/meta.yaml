@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/6543fa1d8ee94924aae9cbb67e8b2714/artifacts
+end_time: 1780544817875
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 6543fa1d8ee94924aae9cbb67e8b2714
+run_name: valuable-jay-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544779492
+status: 3
+tags: []
+user_id: plgmaczynspwr

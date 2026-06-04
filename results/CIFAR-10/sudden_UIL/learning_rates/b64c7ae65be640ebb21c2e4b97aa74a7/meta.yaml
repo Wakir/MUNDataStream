@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/b64c7ae65be640ebb21c2e4b97aa74a7/artifacts
+end_time: 1780548207035
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: b64c7ae65be640ebb21c2e4b97aa74a7
+run_name: fortunate-skunk-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548168324
+status: 3
+tags: []
+user_id: plgmaczynspwr

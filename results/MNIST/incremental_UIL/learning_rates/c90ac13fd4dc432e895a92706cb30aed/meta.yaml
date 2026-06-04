@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/c90ac13fd4dc432e895a92706cb30aed/artifacts
+end_time: 1780245087058
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: c90ac13fd4dc432e895a92706cb30aed
+run_name: sedate-goose-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780245051303
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/f0eeb18cd0c642938154c3189400adb8/artifacts
+end_time: 1780549873508
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: f0eeb18cd0c642938154c3189400adb8
+run_name: burly-pig-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549828896
+status: 3
+tags: []
+user_id: plgmaczynspwr

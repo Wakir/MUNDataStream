@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/2fa115d2c32d4f5781ccf91eb76dd7f9/artifacts
+end_time: 1780567380969
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 2fa115d2c32d4f5781ccf91eb76dd7f9
+run_name: mercurial-fly-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780567342971
+status: 3
+tags: []
+user_id: plgmaczynspwr

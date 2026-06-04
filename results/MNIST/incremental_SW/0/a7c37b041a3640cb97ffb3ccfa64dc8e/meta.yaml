@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/a7c37b041a3640cb97ffb3ccfa64dc8e/artifacts
+end_time: 1780387402036
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: a7c37b041a3640cb97ffb3ccfa64dc8e
+run_name: wistful-hen-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780386215498
+status: 3
+tags: []
+user_id: plgmaczynspwr

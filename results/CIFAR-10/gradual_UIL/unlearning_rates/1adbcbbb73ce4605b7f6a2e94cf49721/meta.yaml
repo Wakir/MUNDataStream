@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/1adbcbbb73ce4605b7f6a2e94cf49721/artifacts
+end_time: 1780564589036
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 1adbcbbb73ce4605b7f6a2e94cf49721
+run_name: bedecked-bird-53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564550846
+status: 3
+tags: []
+user_id: plgmaczynspwr

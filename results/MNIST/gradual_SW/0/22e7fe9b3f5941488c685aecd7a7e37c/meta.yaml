@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/22e7fe9b3f5941488c685aecd7a7e37c/artifacts
+end_time: 1780287406679
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 22e7fe9b3f5941488c685aecd7a7e37c
+run_name: enchanting-gull-219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780286922924
+status: 3
+tags: []
+user_id: plgmaczynspwr

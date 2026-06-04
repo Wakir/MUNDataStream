@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/63064e7566b3412faf96f381ae2f5e83/artifacts
+end_time: 1780549512043
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 63064e7566b3412faf96f381ae2f5e83
+run_name: trusting-pig-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549469555
+status: 3
+tags: []
+user_id: plgmaczynspwr

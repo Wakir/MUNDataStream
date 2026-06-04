@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/065ecd4b65054a8c9272360e2462ba0c/artifacts
+end_time: 1780383215774
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 065ecd4b65054a8c9272360e2462ba0c
+run_name: bustling-moose-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780382308465
+status: 3
+tags: []
+user_id: plgmaczynspwr

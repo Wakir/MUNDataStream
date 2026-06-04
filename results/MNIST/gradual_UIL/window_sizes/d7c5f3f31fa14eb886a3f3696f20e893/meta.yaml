@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/d7c5f3f31fa14eb886a3f3696f20e893/artifacts
+end_time: 1780244246878
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: d7c5f3f31fa14eb886a3f3696f20e893
+run_name: silent-penguin-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780244212461
+status: 3
+tags: []
+user_id: plgmaczynspwr

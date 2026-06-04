@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/c7e0e56afc864d2782a5d2a47937ef0a/artifacts
+end_time: 1780556668583
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: c7e0e56afc864d2782a5d2a47937ef0a
+run_name: dazzling-stork-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556623420
+status: 3
+tags: []
+user_id: plgmaczynspwr

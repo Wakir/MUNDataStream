@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/bc25fa8603a04e41a4f187079a3193b0/artifacts
+end_time: 1780546576670
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: bc25fa8603a04e41a4f187079a3193b0
+run_name: exultant-stoat-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546539148
+status: 3
+tags: []
+user_id: plgmaczynspwr

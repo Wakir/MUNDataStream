@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/d18807c544ed451ca730661b21ba3fa6/artifacts
+end_time: 1780397624681
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: d18807c544ed451ca730661b21ba3fa6
+run_name: angry-penguin-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780396665934
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/ad8687744eaf4791ada4596a0d05c409/artifacts
+end_time: 1780505614239
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: ad8687744eaf4791ada4596a0d05c409
+run_name: wise-dolphin-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780505578374
+status: 3
+tags: []
+user_id: plgmaczynspwr

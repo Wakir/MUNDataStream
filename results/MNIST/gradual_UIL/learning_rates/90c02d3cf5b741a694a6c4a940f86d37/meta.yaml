@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/90c02d3cf5b741a694a6c4a940f86d37/artifacts
+end_time: 1780254670482
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 90c02d3cf5b741a694a6c4a940f86d37
+run_name: adorable-pug-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780254633449
+status: 3
+tags: []
+user_id: plgmaczynspwr

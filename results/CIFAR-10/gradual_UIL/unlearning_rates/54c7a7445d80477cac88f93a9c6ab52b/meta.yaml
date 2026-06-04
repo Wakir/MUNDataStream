@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/54c7a7445d80477cac88f93a9c6ab52b/artifacts
+end_time: 1780564741242
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 54c7a7445d80477cac88f93a9c6ab52b
+run_name: invincible-grub-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564703169
+status: 3
+tags: []
+user_id: plgmaczynspwr

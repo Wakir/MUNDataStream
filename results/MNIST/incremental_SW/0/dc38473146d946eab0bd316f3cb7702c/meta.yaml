@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/dc38473146d946eab0bd316f3cb7702c/artifacts
+end_time: 1780397538377
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: dc38473146d946eab0bd316f3cb7702c
+run_name: merciful-sloth-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780396628538
+status: 3
+tags: []
+user_id: plgmaczynspwr

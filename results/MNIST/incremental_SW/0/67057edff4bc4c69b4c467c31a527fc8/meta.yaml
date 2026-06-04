@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/67057edff4bc4c69b4c467c31a527fc8/artifacts
+end_time: 1780380438821
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 67057edff4bc4c69b4c467c31a527fc8
+run_name: nebulous-koi-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780380096263
+status: 3
+tags: []
+user_id: plgmaczynspwr

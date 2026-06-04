@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/19f880c218124f0f9d6d1023e347b5c3/artifacts
+end_time: 1780120123026
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 19f880c218124f0f9d6d1023e347b5c3
+run_name: painted-snail-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120083565
+status: 3
+tags: []
+user_id: plgmaczynspwr

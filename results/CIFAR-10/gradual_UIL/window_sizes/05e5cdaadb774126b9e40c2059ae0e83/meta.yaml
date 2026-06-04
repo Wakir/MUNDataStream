@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/05e5cdaadb774126b9e40c2059ae0e83/artifacts
+end_time: 1780519072065
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 05e5cdaadb774126b9e40c2059ae0e83
+run_name: amazing-bear-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780519034114
+status: 3
+tags: []
+user_id: plgmaczynspwr

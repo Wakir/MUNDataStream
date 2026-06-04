@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/ea0d5e55d4ab4a388e8c5c13a905fa22/artifacts
+end_time: 1780556256993
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: ea0d5e55d4ab4a388e8c5c13a905fa22
+run_name: salty-midge-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556211698
+status: 3
+tags: []
+user_id: plgmaczynspwr

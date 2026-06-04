@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/2978bf841c8b4d6f9b4ad6ec1138c4bd/artifacts
+end_time: 1780519034110
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 2978bf841c8b4d6f9b4ad6ec1138c4bd
+run_name: exultant-colt-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518996267
+status: 3
+tags: []
+user_id: plgmaczynspwr

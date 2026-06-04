@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/30551e8104214df8bea1e05366077070/artifacts
+end_time: 1780506592354
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 30551e8104214df8bea1e05366077070
+run_name: mercurial-snail-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506556781
+status: 3
+tags: []
+user_id: plgmaczynspwr

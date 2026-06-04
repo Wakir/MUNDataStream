@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/4d0a6b33c0a74761be900334d1d2e1c2/artifacts
+end_time: 1780526866747
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 4d0a6b33c0a74761be900334d1d2e1c2
+run_name: industrious-koi-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526828085
+status: 3
+tags: []
+user_id: plgmaczynspwr

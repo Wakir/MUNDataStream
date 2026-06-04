@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/acb818631fc44ca78811b82ae41873ac/artifacts
+end_time: 1780282195820
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: acb818631fc44ca78811b82ae41873ac
+run_name: loud-vole-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780282141960
+status: 3
+tags: []
+user_id: plgmaczynspwr

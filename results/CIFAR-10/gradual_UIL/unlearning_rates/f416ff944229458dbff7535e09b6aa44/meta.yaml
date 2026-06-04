@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/f416ff944229458dbff7535e09b6aa44/artifacts
+end_time: 1780564474387
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: f416ff944229458dbff7535e09b6aa44
+run_name: whimsical-fowl-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564436206
+status: 3
+tags: []
+user_id: plgmaczynspwr

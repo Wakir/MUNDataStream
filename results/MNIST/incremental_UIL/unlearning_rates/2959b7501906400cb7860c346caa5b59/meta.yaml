@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/2959b7501906400cb7860c346caa5b59/artifacts
+end_time: 1780240409738
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 2959b7501906400cb7860c346caa5b59
+run_name: nervous-fish-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240373894
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/768fe30cf1d34784a81f32edc79d7e9a/artifacts
+end_time: 1780518291349
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 768fe30cf1d34784a81f32edc79d7e9a
+run_name: tasteful-bear-744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518255278
+status: 3
+tags: []
+user_id: plgmaczynspwr

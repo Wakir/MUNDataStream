@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/15d4c24f14f74fa39cbaa8a228ec9e7e/artifacts
+end_time: 1780362987655
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 15d4c24f14f74fa39cbaa8a228ec9e7e
+run_name: nervous-calf-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780362629233
+status: 3
+tags: []
+user_id: plgmaczynspwr

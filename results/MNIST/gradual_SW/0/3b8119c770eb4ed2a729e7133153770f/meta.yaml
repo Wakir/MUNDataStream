@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/3b8119c770eb4ed2a729e7133153770f/artifacts
+end_time: 1780395600543
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 3b8119c770eb4ed2a729e7133153770f
+run_name: gaudy-calf-597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780394702586
+status: 3
+tags: []
+user_id: plgmaczynspwr

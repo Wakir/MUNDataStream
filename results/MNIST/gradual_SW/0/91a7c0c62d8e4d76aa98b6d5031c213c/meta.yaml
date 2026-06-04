@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/91a7c0c62d8e4d76aa98b6d5031c213c/artifacts
+end_time: 1780269542578
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 91a7c0c62d8e4d76aa98b6d5031c213c
+run_name: youthful-dolphin-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268621789
+status: 3
+tags: []
+user_id: plgmaczynspwr

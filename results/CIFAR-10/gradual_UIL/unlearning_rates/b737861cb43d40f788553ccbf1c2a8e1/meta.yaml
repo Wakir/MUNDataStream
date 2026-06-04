@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/b737861cb43d40f788553ccbf1c2a8e1/artifacts
+end_time: 1780562685186
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: b737861cb43d40f788553ccbf1c2a8e1
+run_name: mysterious-snipe-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562647174
+status: 3
+tags: []
+user_id: plgmaczynspwr

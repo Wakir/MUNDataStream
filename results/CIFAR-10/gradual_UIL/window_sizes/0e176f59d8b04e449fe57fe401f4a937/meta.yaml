@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/0e176f59d8b04e449fe57fe401f4a937/artifacts
+end_time: 1780518996263
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 0e176f59d8b04e449fe57fe401f4a937
+run_name: mercurial-duck-922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518958671
+status: 3
+tags: []
+user_id: plgmaczynspwr

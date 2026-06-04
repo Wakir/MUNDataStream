@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/d8d0da70b11d45f1a0d311bb5ad7fc3e/artifacts
+end_time: 1780367252999
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: d8d0da70b11d45f1a0d311bb5ad7fc3e
+run_name: amusing-rook-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780366617460
+status: 3
+tags: []
+user_id: plgmaczynspwr

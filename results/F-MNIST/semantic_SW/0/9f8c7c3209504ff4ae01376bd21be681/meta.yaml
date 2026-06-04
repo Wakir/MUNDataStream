@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602_2/915626349192667294/9f8c7c3209504ff4ae01376bd21be681/artifacts
+end_time: 1780394156494
+entry_point_name: ''
+experiment_id: '915626349192667294'
+lifecycle_stage: active
+run_id: 9f8c7c3209504ff4ae01376bd21be681
+run_name: sneaky-dolphin-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780393769390
+status: 3
+tags: []
+user_id: plgmaczynspwr

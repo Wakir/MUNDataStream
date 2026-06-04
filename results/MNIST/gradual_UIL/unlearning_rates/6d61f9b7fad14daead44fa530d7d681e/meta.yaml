@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/6d61f9b7fad14daead44fa530d7d681e/artifacts
+end_time: 1780240444394
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 6d61f9b7fad14daead44fa530d7d681e
+run_name: secretive-wasp-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240410769
+status: 3
+tags: []
+user_id: plgmaczynspwr

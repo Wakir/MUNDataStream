@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/a9c37901ec5a47adbe4290a95d84e1ce/artifacts
+end_time: 1780266736337
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: a9c37901ec5a47adbe4290a95d84e1ce
+run_name: bustling-boar-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780266217753
+status: 3
+tags: []
+user_id: plgmaczynspwr

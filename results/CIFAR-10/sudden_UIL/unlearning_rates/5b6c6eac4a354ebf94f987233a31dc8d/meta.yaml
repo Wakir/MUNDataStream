@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/5b6c6eac4a354ebf94f987233a31dc8d/artifacts
+end_time: 1780527211623
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 5b6c6eac4a354ebf94f987233a31dc8d
+run_name: blushing-midge-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527171407
+status: 3
+tags: []
+user_id: plgmaczynspwr

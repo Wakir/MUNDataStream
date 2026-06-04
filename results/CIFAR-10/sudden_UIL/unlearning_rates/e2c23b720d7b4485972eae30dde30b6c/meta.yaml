@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/e2c23b720d7b4485972eae30dde30b6c/artifacts
+end_time: 1780526007419
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: e2c23b720d7b4485972eae30dde30b6c
+run_name: bittersweet-crow-805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525967434
+status: 3
+tags: []
+user_id: plgmaczynspwr

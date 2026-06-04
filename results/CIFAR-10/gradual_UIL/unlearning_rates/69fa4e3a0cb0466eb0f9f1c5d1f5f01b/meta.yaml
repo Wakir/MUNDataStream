@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/69fa4e3a0cb0466eb0f9f1c5d1f5f01b/artifacts
+end_time: 1780566457583
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 69fa4e3a0cb0466eb0f9f1c5d1f5f01b
+run_name: dazzling-goose-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566419281
+status: 3
+tags: []
+user_id: plgmaczynspwr

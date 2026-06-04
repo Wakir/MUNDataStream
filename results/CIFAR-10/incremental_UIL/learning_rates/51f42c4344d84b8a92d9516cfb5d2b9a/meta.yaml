@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/51f42c4344d84b8a92d9516cfb5d2b9a/artifacts
+end_time: 1780550239620
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 51f42c4344d84b8a92d9516cfb5d2b9a
+run_name: grandiose-bear-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550194129
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/95b3aba5d31142f9b44b094095b82c6b/artifacts
+end_time: 1780552609410
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 95b3aba5d31142f9b44b094095b82c6b
+run_name: stately-kite-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552565104
+status: 3
+tags: []
+user_id: plgmaczynspwr

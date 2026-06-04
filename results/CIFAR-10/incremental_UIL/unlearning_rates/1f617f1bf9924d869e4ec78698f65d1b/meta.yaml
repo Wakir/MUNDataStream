@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/1f617f1bf9924d869e4ec78698f65d1b/artifacts
+end_time: 1780550738482
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 1f617f1bf9924d869e4ec78698f65d1b
+run_name: stately-rook-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550690175
+status: 3
+tags: []
+user_id: plgmaczynspwr

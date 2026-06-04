@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/c9e96b18b1ce4dc58ed29241c3a7892f/artifacts
+end_time: 1780517699100
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: c9e96b18b1ce4dc58ed29241c3a7892f
+run_name: invincible-sow-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517662477
+status: 3
+tags: []
+user_id: plgmaczynspwr

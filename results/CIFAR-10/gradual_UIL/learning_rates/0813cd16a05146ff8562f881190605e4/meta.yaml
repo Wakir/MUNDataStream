@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/0813cd16a05146ff8562f881190605e4/artifacts
+end_time: 1780542348394
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 0813cd16a05146ff8562f881190605e4
+run_name: rebellious-bass-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542305835
+status: 3
+tags: []
+user_id: plgmaczynspwr

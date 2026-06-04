@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/a5921ebdc2e8437aa7bfebd8d014d644/artifacts
+end_time: 1780549964346
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: a5921ebdc2e8437aa7bfebd8d014d644
+run_name: painted-pig-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549919434
+status: 3
+tags: []
+user_id: plgmaczynspwr

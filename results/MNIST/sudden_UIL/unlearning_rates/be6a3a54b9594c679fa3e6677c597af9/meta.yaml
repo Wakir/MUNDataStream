@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/be6a3a54b9594c679fa3e6677c597af9/artifacts
+end_time: 1780126795017
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: be6a3a54b9594c679fa3e6677c597af9
+run_name: vaunted-stork-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126755167
+status: 3
+tags: []
+user_id: plgmaczynspwr

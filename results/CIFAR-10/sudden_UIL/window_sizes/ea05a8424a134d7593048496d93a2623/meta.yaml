@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/ea05a8424a134d7593048496d93a2623/artifacts
+end_time: 1780506663700
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: ea05a8424a134d7593048496d93a2623
+run_name: intelligent-dog-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506628118
+status: 3
+tags: []
+user_id: plgmaczynspwr

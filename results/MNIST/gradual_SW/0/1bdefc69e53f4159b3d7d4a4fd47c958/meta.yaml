@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/1bdefc69e53f4159b3d7d4a4fd47c958/artifacts
+end_time: 1780380216509
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 1bdefc69e53f4159b3d7d4a4fd47c958
+run_name: placid-shrike-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780379874240
+status: 3
+tags: []
+user_id: plgmaczynspwr

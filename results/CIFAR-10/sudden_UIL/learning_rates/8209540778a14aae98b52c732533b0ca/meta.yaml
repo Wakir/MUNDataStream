@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/8209540778a14aae98b52c732533b0ca/artifacts
+end_time: 1780544592274
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 8209540778a14aae98b52c732533b0ca
+run_name: classy-pig-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544549877
+status: 3
+tags: []
+user_id: plgmaczynspwr

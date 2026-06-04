@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/b3e7e3226d6d4807a5bbeb3e3db0a053/artifacts
+end_time: 1780316261093
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: b3e7e3226d6d4807a5bbeb3e3db0a053
+run_name: rebellious-croc-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780314907138
+status: 3
+tags: []
+user_id: plgmaczynspwr

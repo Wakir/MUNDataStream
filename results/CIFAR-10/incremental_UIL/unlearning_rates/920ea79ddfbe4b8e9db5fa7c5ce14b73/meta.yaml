@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/920ea79ddfbe4b8e9db5fa7c5ce14b73/artifacts
+end_time: 1780551315006
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 920ea79ddfbe4b8e9db5fa7c5ce14b73
+run_name: brawny-fish-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551274370
+status: 3
+tags: []
+user_id: plgmaczynspwr

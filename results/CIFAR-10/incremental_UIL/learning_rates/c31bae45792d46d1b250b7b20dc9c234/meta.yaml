@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/c31bae45792d46d1b250b7b20dc9c234/artifacts
+end_time: 1780546329105
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: c31bae45792d46d1b250b7b20dc9c234
+run_name: mercurial-frog-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546285227
+status: 3
+tags: []
+user_id: plgmaczynspwr

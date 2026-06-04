@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/6d6caacb3e534b1a8ad03fc07b66f37e/artifacts
+end_time: 1780548055619
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 6d6caacb3e534b1a8ad03fc07b66f37e
+run_name: persistent-dog-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548018019
+status: 3
+tags: []
+user_id: plgmaczynspwr

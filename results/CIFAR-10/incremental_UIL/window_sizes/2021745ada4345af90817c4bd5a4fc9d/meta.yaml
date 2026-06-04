@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/2021745ada4345af90817c4bd5a4fc9d/artifacts
+end_time: 1780543203118
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 2021745ada4345af90817c4bd5a4fc9d
+run_name: treasured-frog-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543158852
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/76165019faa641d7b4bf8de2fc5da485/artifacts
+end_time: 1780280304125
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 76165019faa641d7b4bf8de2fc5da485
+run_name: fearless-swan-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780280253093
+status: 3
+tags: []
+user_id: plgmaczynspwr

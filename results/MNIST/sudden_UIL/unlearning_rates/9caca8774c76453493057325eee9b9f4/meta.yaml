@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/9caca8774c76453493057325eee9b9f4/artifacts
+end_time: 1780113501383
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 9caca8774c76453493057325eee9b9f4
+run_name: able-shoat-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780113463776
+status: 3
+tags: []
+user_id: plgmaczynspwr

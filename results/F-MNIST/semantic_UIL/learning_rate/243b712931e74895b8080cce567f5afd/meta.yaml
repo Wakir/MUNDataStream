@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/243b712931e74895b8080cce567f5afd/artifacts
+end_time: 1780272815313
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 243b712931e74895b8080cce567f5afd
+run_name: invincible-carp-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780272761781
+status: 3
+tags: []
+user_id: plgmaczynspwr

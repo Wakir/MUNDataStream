@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/fdafeb619e8a44b086e817b776276d9a/artifacts
+end_time: 1780526625941
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: fdafeb619e8a44b086e817b776276d9a
+run_name: unleashed-turtle-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526587793
+status: 3
+tags: []
+user_id: plgmaczynspwr

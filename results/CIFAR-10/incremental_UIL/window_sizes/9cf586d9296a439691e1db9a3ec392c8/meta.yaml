@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/9cf586d9296a439691e1db9a3ec392c8/artifacts
+end_time: 1780528246816
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 9cf586d9296a439691e1db9a3ec392c8
+run_name: rumbling-penguin-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528210645
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/a08275be95214f08bb6ab584d59702dd/artifacts
+end_time: 1780565123458
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: a08275be95214f08bb6ab584d59702dd
+run_name: skillful-koi-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780565084674
+status: 3
+tags: []
+user_id: plgmaczynspwr

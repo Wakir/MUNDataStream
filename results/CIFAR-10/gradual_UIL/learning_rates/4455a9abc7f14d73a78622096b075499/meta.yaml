@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/4455a9abc7f14d73a78622096b075499/artifacts
+end_time: 1780546751328
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 4455a9abc7f14d73a78622096b075499
+run_name: crawling-bee-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546707929
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/4137d9a8af4d4558a550da2d1ffd3f2c/artifacts
+end_time: 1780548080170
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 4137d9a8af4d4558a550da2d1ffd3f2c
+run_name: thundering-dog-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548036794
+status: 3
+tags: []
+user_id: plgmaczynspwr

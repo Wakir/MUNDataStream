@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/a786f992ee0742a8b578095d5e89c89a/artifacts
+end_time: 1780121847113
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: a786f992ee0742a8b578095d5e89c89a
+run_name: upset-worm-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780121807945
+status: 3
+tags: []
+user_id: plgmaczynspwr

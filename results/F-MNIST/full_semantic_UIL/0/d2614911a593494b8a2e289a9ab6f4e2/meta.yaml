@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/d2614911a593494b8a2e289a9ab6f4e2/artifacts
+end_time: 1780283543479
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: d2614911a593494b8a2e289a9ab6f4e2
+run_name: rumbling-grouse-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780283487040
+status: 3
+tags: []
+user_id: plgmaczynspwr

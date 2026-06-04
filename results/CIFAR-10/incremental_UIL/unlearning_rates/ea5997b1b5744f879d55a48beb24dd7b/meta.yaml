@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/ea5997b1b5744f879d55a48beb24dd7b/artifacts
+end_time: 1780553842541
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: ea5997b1b5744f879d55a48beb24dd7b
+run_name: clean-rook-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553794785
+status: 3
+tags: []
+user_id: plgmaczynspwr

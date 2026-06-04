@@ -1,8 +1,0 @@
-artifact_location: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307
-creation_time: 1780266163782
-experiment_id: '410281458226398307'
-last_update_time: 1780266163782
-lifecycle_stage: active
-name: FashionMNIST_WindowSize
-trace_location: null
-workspace: default

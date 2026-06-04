@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/51719643e9e14e8a86430caff6c007b9/artifacts
+end_time: 1780524261813
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 51719643e9e14e8a86430caff6c007b9
+run_name: peaceful-wolf-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524223772
+status: 3
+tags: []
+user_id: plgmaczynspwr

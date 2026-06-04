@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/534e2e04ec9a40029a6d0b0d6ffdc390/artifacts
+end_time: 1780543494155
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 534e2e04ec9a40029a6d0b0d6ffdc390
+run_name: rare-moth-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543452561
+status: 3
+tags: []
+user_id: plgmaczynspwr

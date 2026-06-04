@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/66479dfea2f343b697fa83fff6f36524/artifacts
+end_time: 1780528066973
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 66479dfea2f343b697fa83fff6f36524
+run_name: melodic-kit-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528031269
+status: 3
+tags: []
+user_id: plgmaczynspwr

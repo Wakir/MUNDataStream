@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/81b14f6922b44f3d9e583c85d38c1b6f/artifacts
+end_time: 1780527603023
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 81b14f6922b44f3d9e583c85d38c1b6f
+run_name: gregarious-ray-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527565266
+status: 3
+tags: []
+user_id: plgmaczynspwr

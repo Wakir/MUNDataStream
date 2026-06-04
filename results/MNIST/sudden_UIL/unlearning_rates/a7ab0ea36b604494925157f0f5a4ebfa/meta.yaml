@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/a7ab0ea36b604494925157f0f5a4ebfa/artifacts
+end_time: 1780241479327
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: a7ab0ea36b604494925157f0f5a4ebfa
+run_name: dapper-stoat-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241445613
+status: 3
+tags: []
+user_id: plgmaczynspwr

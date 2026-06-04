@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/572776b96fdb4d088c16c8462f72ee37/artifacts
+end_time: 1780548209208
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 572776b96fdb4d088c16c8462f72ee37
+run_name: worried-moose-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548166997
+status: 3
+tags: []
+user_id: plgmaczynspwr

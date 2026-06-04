@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/9207074c064b440a88446adbef11a73d/artifacts
+end_time: 1780320328023
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 9207074c064b440a88446adbef11a73d
+run_name: spiffy-colt-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780318969658
+status: 3
+tags: []
+user_id: plgmaczynspwr

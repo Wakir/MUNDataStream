@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/5d03d3eb1bfe47f28a174e23565f7b3e/artifacts
+end_time: 1780547980237
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 5d03d3eb1bfe47f28a174e23565f7b3e
+run_name: righteous-wolf-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547942638
+status: 3
+tags: []
+user_id: plgmaczynspwr

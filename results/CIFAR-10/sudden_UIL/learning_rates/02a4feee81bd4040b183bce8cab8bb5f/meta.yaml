@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/02a4feee81bd4040b183bce8cab8bb5f/artifacts
+end_time: 1780544667115
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 02a4feee81bd4040b183bce8cab8bb5f
+run_name: bouncy-ox-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544629615
+status: 3
+tags: []
+user_id: plgmaczynspwr

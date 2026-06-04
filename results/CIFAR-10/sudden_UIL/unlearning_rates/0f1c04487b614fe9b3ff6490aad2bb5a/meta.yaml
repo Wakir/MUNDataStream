@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/0f1c04487b614fe9b3ff6490aad2bb5a/artifacts
+end_time: 1780526856419
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 0f1c04487b614fe9b3ff6490aad2bb5a
+run_name: abrasive-dog-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526818813
+status: 3
+tags: []
+user_id: plgmaczynspwr

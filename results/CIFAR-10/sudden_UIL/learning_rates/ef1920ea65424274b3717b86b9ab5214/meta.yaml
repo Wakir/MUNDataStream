@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/ef1920ea65424274b3717b86b9ab5214/artifacts
+end_time: 1780545007763
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: ef1920ea65424274b3717b86b9ab5214
+run_name: calm-worm-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544970653
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/848e247086934fa6a1837b0eb0d7dedd/artifacts
+end_time: 1780555978423
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 848e247086934fa6a1837b0eb0d7dedd
+run_name: upbeat-shark-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555932461
+status: 3
+tags: []
+user_id: plgmaczynspwr

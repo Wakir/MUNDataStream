@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/e801996f70b34fdfb5933a7aaa0c611d/artifacts
+end_time: 1780548349179
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: e801996f70b34fdfb5933a7aaa0c611d
+run_name: carefree-pig-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548304159
+status: 3
+tags: []
+user_id: plgmaczynspwr

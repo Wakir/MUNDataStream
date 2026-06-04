@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/faefc5f96ec74dd88221e9dbc7e8bc0e/artifacts
+end_time: 1780547331026
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: faefc5f96ec74dd88221e9dbc7e8bc0e
+run_name: lyrical-wasp-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547293499
+status: 3
+tags: []
+user_id: plgmaczynspwr

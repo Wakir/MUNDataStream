@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/ced021584e834bd6bb13981967566213/artifacts
+end_time: 1780119570924
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: ced021584e834bd6bb13981967566213
+run_name: caring-kit-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119532057
+status: 3
+tags: []
+user_id: plgmaczynspwr

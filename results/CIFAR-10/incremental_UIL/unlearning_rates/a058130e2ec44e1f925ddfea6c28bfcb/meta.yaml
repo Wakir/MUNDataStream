@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/a058130e2ec44e1f925ddfea6c28bfcb/artifacts
+end_time: 1780553977696
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: a058130e2ec44e1f925ddfea6c28bfcb
+run_name: intelligent-colt-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553932977
+status: 3
+tags: []
+user_id: plgmaczynspwr

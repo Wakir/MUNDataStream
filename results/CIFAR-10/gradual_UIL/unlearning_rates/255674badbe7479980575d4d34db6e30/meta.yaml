@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/255674badbe7479980575d4d34db6e30/artifacts
+end_time: 1780563068036
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 255674badbe7479980575d4d34db6e30
+run_name: stately-donkey-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780563029967
+status: 3
+tags: []
+user_id: plgmaczynspwr

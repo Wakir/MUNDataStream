@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/1dc2b1e2f3a147a793be3e7f2073fd46/artifacts
+end_time: 1780239882386
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 1dc2b1e2f3a147a793be3e7f2073fd46
+run_name: abundant-cow-82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780239849392
+status: 3
+tags: []
+user_id: plgmaczynspwr

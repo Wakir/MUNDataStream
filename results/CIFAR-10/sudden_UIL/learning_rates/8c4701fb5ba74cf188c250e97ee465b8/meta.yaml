@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/8c4701fb5ba74cf188c250e97ee465b8/artifacts
+end_time: 1780548733843
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 8c4701fb5ba74cf188c250e97ee465b8
+run_name: burly-fawn-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548696223
+status: 3
+tags: []
+user_id: plgmaczynspwr

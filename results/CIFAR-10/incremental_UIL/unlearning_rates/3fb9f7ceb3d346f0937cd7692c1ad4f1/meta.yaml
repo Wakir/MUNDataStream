@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/3fb9f7ceb3d346f0937cd7692c1ad4f1/artifacts
+end_time: 1780552743848
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 3fb9f7ceb3d346f0937cd7692c1ad4f1
+run_name: fun-flea-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552699522
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/d976072bca5d4ef290db7a2cdbdb103a/artifacts
+end_time: 1780282684272
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: d976072bca5d4ef290db7a2cdbdb103a
+run_name: vaunted-perch-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780282631669
+status: 3
+tags: []
+user_id: plgmaczynspwr

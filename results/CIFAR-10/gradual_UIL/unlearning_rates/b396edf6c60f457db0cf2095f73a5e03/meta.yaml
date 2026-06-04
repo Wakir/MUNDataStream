@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/b396edf6c60f457db0cf2095f73a5e03/artifacts
+end_time: 1780567683256
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: b396edf6c60f457db0cf2095f73a5e03
+run_name: bedecked-mare-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780567645605
+status: 3
+tags: []
+user_id: plgmaczynspwr

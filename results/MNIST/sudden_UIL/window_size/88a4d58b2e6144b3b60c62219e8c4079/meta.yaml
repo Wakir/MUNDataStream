@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/88a4d58b2e6144b3b60c62219e8c4079/artifacts
+end_time: 1780242144601
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 88a4d58b2e6144b3b60c62219e8c4079
+run_name: stately-crane-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242111737
+status: 3
+tags: []
+user_id: plgmaczynspwr

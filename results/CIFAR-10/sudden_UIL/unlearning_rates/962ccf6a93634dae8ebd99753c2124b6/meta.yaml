@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/962ccf6a93634dae8ebd99753c2124b6/artifacts
+end_time: 1780527565262
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 962ccf6a93634dae8ebd99753c2124b6
+run_name: legendary-hawk-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527527148
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/073ea5511e15402bb364a94762b13e66/artifacts
+end_time: 1780298660744
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 073ea5511e15402bb364a94762b13e66
+run_name: honorable-sloth-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780296905210
+status: 3
+tags: []
+user_id: plgmaczynspwr

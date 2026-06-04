@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/7e9ecf3edefe4fd585dcf56fda50c249/artifacts
+end_time: 1780288809519
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 7e9ecf3edefe4fd585dcf56fda50c249
+run_name: monumental-hog-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780287891471
+status: 3
+tags: []
+user_id: plgmaczynspwr

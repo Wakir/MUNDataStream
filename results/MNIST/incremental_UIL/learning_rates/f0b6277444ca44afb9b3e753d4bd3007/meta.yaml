@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/f0b6277444ca44afb9b3e753d4bd3007/artifacts
+end_time: 1780243745187
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: f0b6277444ca44afb9b3e753d4bd3007
+run_name: defiant-fly-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780243710778
+status: 3
+tags: []
+user_id: plgmaczynspwr

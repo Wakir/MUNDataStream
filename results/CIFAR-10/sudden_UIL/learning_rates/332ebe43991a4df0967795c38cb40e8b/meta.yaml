@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/332ebe43991a4df0967795c38cb40e8b/artifacts
+end_time: 1780547669079
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 332ebe43991a4df0967795c38cb40e8b
+run_name: painted-slug-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547631556
+status: 3
+tags: []
+user_id: plgmaczynspwr

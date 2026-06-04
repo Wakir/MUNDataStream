@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/cd43f137da1b4b46b17fd9951d2c5933/artifacts
+end_time: 1780505650573
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: cd43f137da1b4b46b17fd9951d2c5933
+run_name: selective-deer-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780505614243
+status: 3
+tags: []
+user_id: plgmaczynspwr

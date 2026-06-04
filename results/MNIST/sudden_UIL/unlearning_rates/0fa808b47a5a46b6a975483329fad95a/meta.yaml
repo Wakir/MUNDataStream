@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/0fa808b47a5a46b6a975483329fad95a/artifacts
+end_time: 1780131147517
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 0fa808b47a5a46b6a975483329fad95a
+run_name: colorful-mare-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780131109928
+status: 3
+tags: []
+user_id: plgmaczynspwr

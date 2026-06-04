@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/4d737d2262944622aff1b4a9f96c3bfe/artifacts
+end_time: 1780525149642
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 4d737d2262944622aff1b4a9f96c3bfe
+run_name: capable-fish-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525110371
+status: 3
+tags: []
+user_id: plgmaczynspwr

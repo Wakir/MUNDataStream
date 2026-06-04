@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/72f95264d9594b06b357a9163ce41447/artifacts
+end_time: 1780267677868
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 72f95264d9594b06b357a9163ce41447
+run_name: rebellious-conch-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267626983
+status: 3
+tags: []
+user_id: plgmaczynspwr

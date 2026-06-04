@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/8246ba4c909b4d2bbf8e4f4b39e1aace/artifacts
+end_time: 1780517083363
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 8246ba4c909b4d2bbf8e4f4b39e1aace
+run_name: capable-croc-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517045795
+status: 3
+tags: []
+user_id: plgmaczynspwr

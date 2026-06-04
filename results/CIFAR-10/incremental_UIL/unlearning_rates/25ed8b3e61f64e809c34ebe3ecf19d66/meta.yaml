@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/25ed8b3e61f64e809c34ebe3ecf19d66/artifacts
+end_time: 1780555388823
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 25ed8b3e61f64e809c34ebe3ecf19d66
+run_name: mysterious-snake-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555346919
+status: 3
+tags: []
+user_id: plgmaczynspwr

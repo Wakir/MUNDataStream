@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/afafdd77712247ed865163abc147443a/artifacts
+end_time: 1780306304497
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: afafdd77712247ed865163abc147443a
+run_name: rumbling-ox-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780303391749
+status: 3
+tags: []
+user_id: plgmaczynspwr

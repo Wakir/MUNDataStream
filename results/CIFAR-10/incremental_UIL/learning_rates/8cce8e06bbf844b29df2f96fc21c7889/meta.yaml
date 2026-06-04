@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/8cce8e06bbf844b29df2f96fc21c7889/artifacts
+end_time: 1780546024518
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 8cce8e06bbf844b29df2f96fc21c7889
+run_name: rumbling-lynx-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545980034
+status: 3
+tags: []
+user_id: plgmaczynspwr

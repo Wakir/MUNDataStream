@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/6cd93b7b57724615883fb54e7b8bbdf7/artifacts
+end_time: 1780248087837
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 6cd93b7b57724615883fb54e7b8bbdf7
+run_name: skillful-horse-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780248050829
+status: 3
+tags: []
+user_id: plgmaczynspwr

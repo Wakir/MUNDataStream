@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/89b429f0cca44e8580bc9ccbe38bb2c2/artifacts
+end_time: 1780380851697
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 89b429f0cca44e8580bc9ccbe38bb2c2
+run_name: upbeat-roo-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780380216515
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/b643647e591f4c6ead8191f1ec4fe5ce/artifacts
+end_time: 1780553276397
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: b643647e591f4c6ead8191f1ec4fe5ce
+run_name: gifted-sponge-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553232412
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/6f4e1622c39b4dcd84109cb0836f6103/artifacts
+end_time: 1780544779488
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 6f4e1622c39b4dcd84109cb0836f6103
+run_name: nosy-dolphin-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544741871
+status: 3
+tags: []
+user_id: plgmaczynspwr

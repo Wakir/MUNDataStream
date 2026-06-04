@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/7f6a11c1fff04cf7915554ff9e1894a2/artifacts
+end_time: 1780554950271
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 7f6a11c1fff04cf7915554ff9e1894a2
+run_name: likeable-seal-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554905438
+status: 3
+tags: []
+user_id: plgmaczynspwr

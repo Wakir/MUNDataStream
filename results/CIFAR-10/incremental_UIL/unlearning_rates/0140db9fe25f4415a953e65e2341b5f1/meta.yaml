@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/0140db9fe25f4415a953e65e2341b5f1/artifacts
+end_time: 1780554533838
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 0140db9fe25f4415a953e65e2341b5f1
+run_name: funny-penguin-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554488102
+status: 3
+tags: []
+user_id: plgmaczynspwr

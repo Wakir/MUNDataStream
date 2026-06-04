@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/5b296c99c287495cb7df3c4572473ee3/artifacts
+end_time: 1780547368520
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 5b296c99c287495cb7df3c4572473ee3
+run_name: shivering-bass-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547331031
+status: 3
+tags: []
+user_id: plgmaczynspwr

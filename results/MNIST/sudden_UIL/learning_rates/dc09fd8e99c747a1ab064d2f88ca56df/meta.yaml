@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/dc09fd8e99c747a1ab064d2f88ca56df/artifacts
+end_time: 1780117466103
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: dc09fd8e99c747a1ab064d2f88ca56df
+run_name: rogue-shrimp-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117429361
+status: 3
+tags: []
+user_id: plgmaczynspwr

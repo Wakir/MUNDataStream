@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/8dea0212ac3f4fc1a69bf885fd92c5fb/artifacts
+end_time: 1780545230787
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 8dea0212ac3f4fc1a69bf885fd92c5fb
+run_name: exultant-wren-807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545193759
+status: 3
+tags: []
+user_id: plgmaczynspwr

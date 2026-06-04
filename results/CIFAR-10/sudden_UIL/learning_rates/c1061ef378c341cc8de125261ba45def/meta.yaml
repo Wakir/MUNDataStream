@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/c1061ef378c341cc8de125261ba45def/artifacts
+end_time: 1780544176322
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: c1061ef378c341cc8de125261ba45def
+run_name: sedate-mule-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544138857
+status: 3
+tags: []
+user_id: plgmaczynspwr

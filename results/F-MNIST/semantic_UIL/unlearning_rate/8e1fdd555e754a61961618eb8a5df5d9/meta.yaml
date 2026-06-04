@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/8e1fdd555e754a61961618eb8a5df5d9/artifacts
+end_time: 1780279617524
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 8e1fdd555e754a61961618eb8a5df5d9
+run_name: bedecked-pig-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780279560839
+status: 3
+tags: []
+user_id: plgmaczynspwr

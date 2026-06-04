@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/96aada08c7364e40bf7e37507e66b59a/artifacts
+end_time: 1780528465168
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 96aada08c7364e40bf7e37507e66b59a
+run_name: resilient-stork-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528428418
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/74bb81edae564efe84130f58eaad25ff/artifacts
+end_time: 1780268388979
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 74bb81edae564efe84130f58eaad25ff
+run_name: carefree-hare-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267910582
+status: 3
+tags: []
+user_id: plgmaczynspwr

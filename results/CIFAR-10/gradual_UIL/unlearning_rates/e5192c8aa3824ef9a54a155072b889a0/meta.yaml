@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/e5192c8aa3824ef9a54a155072b889a0/artifacts
+end_time: 1780563751921
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: e5192c8aa3824ef9a54a155072b889a0
+run_name: brawny-stoat-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780563713963
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/043267dc29084764a9d0da69cff36573/artifacts
+end_time: 1780239419141
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 043267dc29084764a9d0da69cff36573
+run_name: thundering-elk-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780239385948
+status: 3
+tags: []
+user_id: plgmaczynspwr

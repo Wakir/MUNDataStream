@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/122088bc17da48a3b3100dd58c9ed13a/artifacts
+end_time: 1780544063692
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 122088bc17da48a3b3100dd58c9ed13a
+run_name: grandiose-rat-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544026242
+status: 3
+tags: []
+user_id: plgmaczynspwr

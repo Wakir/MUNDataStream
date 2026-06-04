@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/334ca1e8487e49f4bded535bcd391195/artifacts
+end_time: 1780544904812
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 334ca1e8487e49f4bded535bcd391195
+run_name: hilarious-wolf-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544859015
+status: 3
+tags: []
+user_id: plgmaczynspwr

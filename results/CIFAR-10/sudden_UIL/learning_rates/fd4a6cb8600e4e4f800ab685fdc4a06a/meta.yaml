@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/fd4a6cb8600e4e4f800ab685fdc4a06a/artifacts
+end_time: 1780543989067
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: fd4a6cb8600e4e4f800ab685fdc4a06a
+run_name: adaptable-rook-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543951815
+status: 3
+tags: []
+user_id: plgmaczynspwr

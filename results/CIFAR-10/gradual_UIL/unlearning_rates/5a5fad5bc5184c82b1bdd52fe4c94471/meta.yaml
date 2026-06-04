@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/5a5fad5bc5184c82b1bdd52fe4c94471/artifacts
+end_time: 1780567645601
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 5a5fad5bc5184c82b1bdd52fe4c94471
+run_name: bright-newt-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780567607958
+status: 3
+tags: []
+user_id: plgmaczynspwr

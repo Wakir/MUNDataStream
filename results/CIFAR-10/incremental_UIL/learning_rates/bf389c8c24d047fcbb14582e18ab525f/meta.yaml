@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/bf389c8c24d047fcbb14582e18ab525f/artifacts
+end_time: 1780544326934
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: bf389c8c24d047fcbb14582e18ab525f
+run_name: salty-foal-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544283519
+status: 3
+tags: []
+user_id: plgmaczynspwr

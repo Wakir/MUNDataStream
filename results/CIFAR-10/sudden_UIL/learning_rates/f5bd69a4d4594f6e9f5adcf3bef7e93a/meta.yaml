@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/f5bd69a4d4594f6e9f5adcf3bef7e93a/artifacts
+end_time: 1780545417587
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: f5bd69a4d4594f6e9f5adcf3bef7e93a
+run_name: suave-hawk-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545379649
+status: 3
+tags: []
+user_id: plgmaczynspwr

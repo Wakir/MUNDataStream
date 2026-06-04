@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/4f7731a8c6a742ab921c321fbf0aeff3/artifacts
+end_time: 1780254484818
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 4f7731a8c6a742ab921c321fbf0aeff3
+run_name: angry-snipe-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780254447410
+status: 3
+tags: []
+user_id: plgmaczynspwr

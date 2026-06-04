@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/a6c265f7868b4903889fb3cb56f09252/artifacts
+end_time: 1780240592707
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: a6c265f7868b4903889fb3cb56f09252
+run_name: rumbling-smelt-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240557025
+status: 3
+tags: []
+user_id: plgmaczynspwr

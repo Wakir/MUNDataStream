@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/0300fcd49f3348f28b28460d2fbb36ec/artifacts
+end_time: 1780239700934
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 0300fcd49f3348f28b28460d2fbb36ec
+run_name: burly-wolf-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780239666861
+status: 3
+tags: []
+user_id: plgmaczynspwr

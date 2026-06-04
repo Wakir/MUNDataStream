@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns505/630048256928556876/9115a13e92854a16bc774958ee8e3663/artifacts
+end_time: 1780268048143
+entry_point_name: ''
+experiment_id: '630048256928556876'
+lifecycle_stage: active
+run_id: 9115a13e92854a16bc774958ee8e3663
+run_name: rebellious-ram-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268012528
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/42ba58734e594dcfb28869404b47086e/artifacts
+end_time: 1780545454803
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 42ba58734e594dcfb28869404b47086e
+run_name: delicate-lamb-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545417591
+status: 3
+tags: []
+user_id: plgmaczynspwr

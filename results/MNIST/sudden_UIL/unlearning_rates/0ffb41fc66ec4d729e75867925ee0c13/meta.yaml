@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/0ffb41fc66ec4d729e75867925ee0c13/artifacts
+end_time: 1780122828937
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 0ffb41fc66ec4d729e75867925ee0c13
+run_name: melodic-shrew-93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780122789702
+status: 3
+tags: []
+user_id: plgmaczynspwr

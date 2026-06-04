@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/3919fe0101fa4e789f2d80035bb2f579/artifacts
+end_time: 1780557039609
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 3919fe0101fa4e789f2d80035bb2f579
+run_name: serious-shrike-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556994035
+status: 3
+tags: []
+user_id: plgmaczynspwr

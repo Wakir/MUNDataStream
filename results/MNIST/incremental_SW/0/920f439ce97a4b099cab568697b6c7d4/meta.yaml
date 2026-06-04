@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/920f439ce97a4b099cab568697b6c7d4/artifacts
+end_time: 1780399350026
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 920f439ce97a4b099cab568697b6c7d4
+run_name: sedate-skunk-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780398444808
+status: 4
+tags: []
+user_id: plgmaczynspwr

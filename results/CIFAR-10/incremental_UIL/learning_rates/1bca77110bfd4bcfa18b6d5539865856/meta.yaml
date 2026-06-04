@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/1bca77110bfd4bcfa18b6d5539865856/artifacts
+end_time: 1780545083778
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 1bca77110bfd4bcfa18b6d5539865856
+run_name: fearless-bass-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545040439
+status: 3
+tags: []
+user_id: plgmaczynspwr

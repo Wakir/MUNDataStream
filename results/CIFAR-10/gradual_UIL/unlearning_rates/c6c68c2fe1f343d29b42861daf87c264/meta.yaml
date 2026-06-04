@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/c6c68c2fe1f343d29b42861daf87c264/artifacts
+end_time: 1780565960947
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: c6c68c2fe1f343d29b42861daf87c264
+run_name: learned-cod-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780565922918
+status: 3
+tags: []
+user_id: plgmaczynspwr

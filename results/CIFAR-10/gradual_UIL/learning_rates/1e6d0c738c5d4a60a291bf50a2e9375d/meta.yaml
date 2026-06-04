@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/1e6d0c738c5d4a60a291bf50a2e9375d/artifacts
+end_time: 1780546925555
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 1e6d0c738c5d4a60a291bf50a2e9375d
+run_name: resilient-panda-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546880626
+status: 3
+tags: []
+user_id: plgmaczynspwr

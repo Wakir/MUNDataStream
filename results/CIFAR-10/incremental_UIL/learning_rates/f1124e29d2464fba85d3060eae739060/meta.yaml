@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/f1124e29d2464fba85d3060eae739060/artifacts
+end_time: 1780547340272
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: f1124e29d2464fba85d3060eae739060
+run_name: bittersweet-lark-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547293647
+status: 3
+tags: []
+user_id: plgmaczynspwr

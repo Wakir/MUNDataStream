@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/faea3e9b5c1049b986e1d6dd11f95b5e/artifacts
+end_time: 1780522937689
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: faea3e9b5c1049b986e1d6dd11f95b5e
+run_name: fearless-grub-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780522898268
+status: 3
+tags: []
+user_id: plgmaczynspwr

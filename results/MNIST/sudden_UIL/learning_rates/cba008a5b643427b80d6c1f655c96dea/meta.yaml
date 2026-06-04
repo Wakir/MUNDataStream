@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/cba008a5b643427b80d6c1f655c96dea/artifacts
+end_time: 1780117723609
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: cba008a5b643427b80d6c1f655c96dea
+run_name: bold-foal-352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117686879
+status: 3
+tags: []
+user_id: plgmaczynspwr

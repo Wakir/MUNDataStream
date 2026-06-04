@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/809262a446ae4403af94a19fcf80e857/artifacts
+end_time: 1780524415547
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 809262a446ae4403af94a19fcf80e857
+run_name: overjoyed-bass-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524377008
+status: 3
+tags: []
+user_id: plgmaczynspwr

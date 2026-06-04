@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/b1d8a58ac5534975b31f1f81dd921261/artifacts
+end_time: 1780546196864
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: b1d8a58ac5534975b31f1f81dd921261
+run_name: defiant-mouse-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546153093
+status: 3
+tags: []
+user_id: plgmaczynspwr

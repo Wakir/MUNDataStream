@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/c877d0158301479984fe2fea6ca885e7/artifacts
+end_time: 1780507096821
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: c877d0158301479984fe2fea6ca885e7
+run_name: chill-bass-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780507060380
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/8d446783aef446afb6bb5074f0a74bb8/artifacts
+end_time: 1780280097176
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 8d446783aef446afb6bb5074f0a74bb8
+run_name: stately-finch-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780280047444
+status: 3
+tags: []
+user_id: plgmaczynspwr

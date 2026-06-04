@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/27e2c3484404462c84f59f65d8d7f94b/artifacts
+end_time: 1780522978437
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 27e2c3484404462c84f59f65d8d7f94b
+run_name: glamorous-calf-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780522939380
+status: 3
+tags: []
+user_id: plgmaczynspwr

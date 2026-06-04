@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/18454f9597534734b29cb451417baf8f/artifacts
+end_time: 1780123676736
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 18454f9597534734b29cb451417baf8f
+run_name: shivering-moth-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123639537
+status: 3
+tags: []
+user_id: plgmaczynspwr

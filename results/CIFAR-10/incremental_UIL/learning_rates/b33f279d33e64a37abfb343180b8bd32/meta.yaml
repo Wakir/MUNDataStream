@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/b33f279d33e64a37abfb343180b8bd32/artifacts
+end_time: 1780546895825
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: b33f279d33e64a37abfb343180b8bd32
+run_name: gentle-croc-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546853319
+status: 3
+tags: []
+user_id: plgmaczynspwr

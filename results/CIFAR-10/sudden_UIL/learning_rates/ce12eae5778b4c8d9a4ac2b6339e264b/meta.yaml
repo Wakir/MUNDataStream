@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/ce12eae5778b4c8d9a4ac2b6339e264b/artifacts
+end_time: 1780546013763
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: ce12eae5778b4c8d9a4ac2b6339e264b
+run_name: respected-lynx-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545976516
+status: 3
+tags: []
+user_id: plgmaczynspwr

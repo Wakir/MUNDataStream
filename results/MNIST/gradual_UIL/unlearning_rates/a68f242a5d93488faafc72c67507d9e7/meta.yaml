@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/a68f242a5d93488faafc72c67507d9e7/artifacts
+end_time: 1780242210878
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: a68f242a5d93488faafc72c67507d9e7
+run_name: loud-bee-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242175195
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/e908bdf8316545f780e0d51b763f7bef/artifacts
+end_time: 1780246047553
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: e908bdf8316545f780e0d51b763f7bef
+run_name: worried-mare-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780246010672
+status: 3
+tags: []
+user_id: plgmaczynspwr

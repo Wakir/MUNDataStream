@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/ff802db0e58c4f3ba530ea19cb89bd81/artifacts
+end_time: 1780552565097
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: ff802db0e58c4f3ba530ea19cb89bd81
+run_name: carefree-panda-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552518705
+status: 3
+tags: []
+user_id: plgmaczynspwr

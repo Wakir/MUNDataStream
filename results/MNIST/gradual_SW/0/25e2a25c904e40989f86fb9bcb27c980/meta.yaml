@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/25e2a25c904e40989f86fb9bcb27c980/artifacts
+end_time: 1780306745049
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 25e2a25c904e40989f86fb9bcb27c980
+run_name: intrigued-bee-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780304516124
+status: 3
+tags: []
+user_id: plgmaczynspwr

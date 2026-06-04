@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/1e44095eab234eeba76dbb26751dcba2/artifacts
+end_time: 1780543754445
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 1e44095eab234eeba76dbb26751dcba2
+run_name: intelligent-mink-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543703767
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/66969c6461e84ba595c4985ef62adf57/artifacts
+end_time: 1780269839133
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 66969c6461e84ba595c4985ef62adf57
+run_name: rare-dove-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780269790980
+status: 3
+tags: []
+user_id: plgmaczynspwr

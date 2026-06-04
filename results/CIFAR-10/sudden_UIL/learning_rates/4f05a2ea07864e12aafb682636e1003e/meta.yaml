@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/4f05a2ea07864e12aafb682636e1003e/artifacts
+end_time: 1780547744182
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 4f05a2ea07864e12aafb682636e1003e
+run_name: gifted-gnat-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547706680
+status: 3
+tags: []
+user_id: plgmaczynspwr

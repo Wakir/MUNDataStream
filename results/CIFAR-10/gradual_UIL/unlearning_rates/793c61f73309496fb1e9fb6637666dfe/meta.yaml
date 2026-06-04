@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/793c61f73309496fb1e9fb6637666dfe/artifacts
+end_time: 1780562878210
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 793c61f73309496fb1e9fb6637666dfe
+run_name: tasteful-shad-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562840439
+status: 3
+tags: []
+user_id: plgmaczynspwr

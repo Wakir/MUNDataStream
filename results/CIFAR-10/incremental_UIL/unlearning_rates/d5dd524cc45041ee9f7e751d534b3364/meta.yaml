@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/d5dd524cc45041ee9f7e751d534b3364/artifacts
+end_time: 1780552067571
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: d5dd524cc45041ee9f7e751d534b3364
+run_name: mysterious-bass-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552022477
+status: 3
+tags: []
+user_id: plgmaczynspwr

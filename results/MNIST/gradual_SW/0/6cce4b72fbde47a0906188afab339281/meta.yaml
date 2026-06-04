@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/6cce4b72fbde47a0906188afab339281/artifacts
+end_time: 1780287891465
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 6cce4b72fbde47a0906188afab339281
+run_name: intrigued-hen-29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780287406683
+status: 3
+tags: []
+user_id: plgmaczynspwr

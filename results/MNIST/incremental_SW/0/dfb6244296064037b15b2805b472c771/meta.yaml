@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/dfb6244296064037b15b2805b472c771/artifacts
+end_time: 1780390044936
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: dfb6244296064037b15b2805b472c771
+run_name: bedecked-wolf-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780388580951
+status: 3
+tags: []
+user_id: plgmaczynspwr

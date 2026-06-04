@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/f8fad483df9e4f139d60303b1077c54e/artifacts
+end_time: 1780546238840
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: f8fad483df9e4f139d60303b1077c54e
+run_name: youthful-shrike-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546201207
+status: 3
+tags: []
+user_id: plgmaczynspwr

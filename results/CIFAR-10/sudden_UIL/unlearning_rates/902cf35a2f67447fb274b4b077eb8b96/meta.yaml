@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/902cf35a2f67447fb274b4b077eb8b96/artifacts
+end_time: 1780525889460
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 902cf35a2f67447fb274b4b077eb8b96
+run_name: bouncy-dove-592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525850341
+status: 3
+tags: []
+user_id: plgmaczynspwr

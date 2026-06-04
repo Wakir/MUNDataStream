@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/83d9dbe1adbd4e7ab2e09d55e608fbce/artifacts
+end_time: 1780245973772
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 83d9dbe1adbd4e7ab2e09d55e608fbce
+run_name: upset-goose-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780245936884
+status: 3
+tags: []
+user_id: plgmaczynspwr

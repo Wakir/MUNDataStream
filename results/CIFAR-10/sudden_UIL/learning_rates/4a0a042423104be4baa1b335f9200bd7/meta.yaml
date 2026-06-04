@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/4a0a042423104be4baa1b335f9200bd7/artifacts
+end_time: 1780547902819
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 4a0a042423104be4baa1b335f9200bd7
+run_name: luminous-squirrel-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547858545
+status: 3
+tags: []
+user_id: plgmaczynspwr

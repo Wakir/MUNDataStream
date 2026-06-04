@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/35b2c03a73c244a1acc078978d269427/artifacts
+end_time: 1780096084430
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 35b2c03a73c244a1acc078978d269427
+run_name: bold-cat-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780096046893
+status: 3
+tags: []
+user_id: plgmaczynspwr

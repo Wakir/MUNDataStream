@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/672a658bfda24d2ea31052b7aacdd656/artifacts
+end_time: 1780119773039
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 672a658bfda24d2ea31052b7aacdd656
+run_name: clean-fish-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119735608
+status: 3
+tags: []
+user_id: plgmaczynspwr

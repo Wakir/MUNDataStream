@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/ddd9b9a937d7472db8774a8fea7d278d/artifacts
+end_time: 1780371302706
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: ddd9b9a937d7472db8774a8fea7d278d
+run_name: useful-seal-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780370378154
+status: 3
+tags: []
+user_id: plgmaczynspwr

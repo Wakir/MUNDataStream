@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/b631449c56d142998b7294ea9120ba55/artifacts
+end_time: 1780524761252
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: b631449c56d142998b7294ea9120ba55
+run_name: unleashed-seal-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524722752
+status: 3
+tags: []
+user_id: plgmaczynspwr

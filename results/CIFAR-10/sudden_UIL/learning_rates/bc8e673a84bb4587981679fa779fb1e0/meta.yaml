@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/bc8e673a84bb4587981679fa779fb1e0/artifacts
+end_time: 1780545827271
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: bc8e673a84bb4587981679fa779fb1e0
+run_name: defiant-perch-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545789848
+status: 3
+tags: []
+user_id: plgmaczynspwr

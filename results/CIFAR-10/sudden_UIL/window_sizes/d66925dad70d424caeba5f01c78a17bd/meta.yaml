@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/d66925dad70d424caeba5f01c78a17bd/artifacts
+end_time: 1780505436229
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: d66925dad70d424caeba5f01c78a17bd
+run_name: worried-fly-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780505400705
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/d0406aaf27d04f60b15a01312285a1c6/artifacts
+end_time: 1780522235313
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: d0406aaf27d04f60b15a01312285a1c6
+run_name: hilarious-steed-102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780522196205
+status: 3
+tags: []
+user_id: plgmaczynspwr

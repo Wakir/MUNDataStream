@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/b7e3ee0a6a6a4df0acc75f12daef9436/artifacts
+end_time: 1780527527144
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: b7e3ee0a6a6a4df0acc75f12daef9436
+run_name: flawless-stork-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527488516
+status: 3
+tags: []
+user_id: plgmaczynspwr

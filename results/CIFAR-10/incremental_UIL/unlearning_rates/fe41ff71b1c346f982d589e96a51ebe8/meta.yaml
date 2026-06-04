@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/fe41ff71b1c346f982d589e96a51ebe8/artifacts
+end_time: 1780554395860
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: fe41ff71b1c346f982d589e96a51ebe8
+run_name: stately-crab-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554350128
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/25063a5c37b94f80a96d80e9eba9b155/artifacts
+end_time: 1780546615213
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 25063a5c37b94f80a96d80e9eba9b155
+run_name: mysterious-loon-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546576674
+status: 3
+tags: []
+user_id: plgmaczynspwr

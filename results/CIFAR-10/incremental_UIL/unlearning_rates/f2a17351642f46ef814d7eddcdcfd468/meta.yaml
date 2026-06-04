@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/f2a17351642f46ef814d7eddcdcfd468/artifacts
+end_time: 1780556302407
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: f2a17351642f46ef814d7eddcdcfd468
+run_name: resilient-fly-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556256999
+status: 3
+tags: []
+user_id: plgmaczynspwr

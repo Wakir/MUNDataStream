@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/5f0c25a7e8844ed49826a863dcbd4961/artifacts
+end_time: 1780545040430
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 5f0c25a7e8844ed49826a863dcbd4961
+run_name: victorious-trout-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544996910
+status: 3
+tags: []
+user_id: plgmaczynspwr

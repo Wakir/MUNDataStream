@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/d42304df7086419ca5daae6c547ead20/artifacts
+end_time: 1780313661424
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: d42304df7086419ca5daae6c547ead20
+run_name: bedecked-yak-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780312369166
+status: 3
+tags: []
+user_id: plgmaczynspwr

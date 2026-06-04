@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/21c39c3affef41e0858dce79e741f5bc/artifacts
+end_time: 1780282032022
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 21c39c3affef41e0858dce79e741f5bc
+run_name: vaunted-flea-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780279833881
+status: 3
+tags: []
+user_id: plgmaczynspwr

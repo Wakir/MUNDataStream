@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/570db437cdec400387a6c6e443009b7f/artifacts
+end_time: 1780547604191
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 570db437cdec400387a6c6e443009b7f
+run_name: nervous-skunk-856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547563722
+status: 3
+tags: []
+user_id: plgmaczynspwr

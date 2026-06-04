@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/a6a7f53ee2034e8fa141831f7a83d12b/artifacts
+end_time: 1780506087122
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: a6a7f53ee2034e8fa141831f7a83d12b
+run_name: awesome-dolphin-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506050366
+status: 3
+tags: []
+user_id: plgmaczynspwr

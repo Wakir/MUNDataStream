@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/14308db2d455445e9889edfa84adf6b1/artifacts
+end_time: 1780376393164
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 14308db2d455445e9889edfa84adf6b1
+run_name: smiling-grub-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780374823647
+status: 3
+tags: []
+user_id: plgmaczynspwr

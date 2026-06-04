@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/292d955ac27f40b0a3347621eec514e6/artifacts
+end_time: 1780382308459
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 292d955ac27f40b0a3347621eec514e6
+run_name: masked-hawk-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780381684501
+status: 3
+tags: []
+user_id: plgmaczynspwr

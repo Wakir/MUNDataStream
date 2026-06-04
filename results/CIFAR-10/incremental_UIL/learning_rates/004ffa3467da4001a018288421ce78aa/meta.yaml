@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/004ffa3467da4001a018288421ce78aa/artifacts
+end_time: 1780549828890
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 004ffa3467da4001a018288421ce78aa
+run_name: mercurial-chimp-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549784196
+status: 3
+tags: []
+user_id: plgmaczynspwr

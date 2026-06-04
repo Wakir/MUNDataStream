@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/468eb81961d74efea44a0cb8332b974c/artifacts
+end_time: 1780543763534
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 468eb81961d74efea44a0cb8332b974c
+run_name: dapper-turtle-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543724388
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/b5663b09aaba419fb10ac2146c771ca0/artifacts
+end_time: 1780266783562
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: b5663b09aaba419fb10ac2146c771ca0
+run_name: clumsy-crane-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780266745163
+status: 3
+tags: []
+user_id: plgmaczynspwr

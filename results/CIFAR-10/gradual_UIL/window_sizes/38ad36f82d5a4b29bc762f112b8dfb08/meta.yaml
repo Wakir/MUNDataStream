@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/38ad36f82d5a4b29bc762f112b8dfb08/artifacts
+end_time: 1780518183380
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 38ad36f82d5a4b29bc762f112b8dfb08
+run_name: luminous-bird-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518147679
+status: 3
+tags: []
+user_id: plgmaczynspwr

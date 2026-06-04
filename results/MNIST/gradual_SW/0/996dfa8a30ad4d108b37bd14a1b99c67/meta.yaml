@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/996dfa8a30ad4d108b37bd14a1b99c67/artifacts
+end_time: 1780304516118
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 996dfa8a30ad4d108b37bd14a1b99c67
+run_name: youthful-trout-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780302292703
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/461309bb3fa64fff923519ea0e2039ea/artifacts
+end_time: 1780525975257
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 461309bb3fa64fff923519ea0e2039ea
+run_name: bald-quail-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525936373
+status: 3
+tags: []
+user_id: plgmaczynspwr

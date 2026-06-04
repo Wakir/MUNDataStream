@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/d677035ca0984103adffdafc8b2261d0/artifacts
+end_time: 1780545156605
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: d677035ca0984103adffdafc8b2261d0
+run_name: vaunted-fly-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545119372
+status: 3
+tags: []
+user_id: plgmaczynspwr

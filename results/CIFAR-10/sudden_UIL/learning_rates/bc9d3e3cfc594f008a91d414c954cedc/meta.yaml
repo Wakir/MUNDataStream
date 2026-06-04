@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/bc9d3e3cfc594f008a91d414c954cedc/artifacts
+end_time: 1780527914928
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: bc9d3e3cfc594f008a91d414c954cedc
+run_name: abrasive-rat-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527875359
+status: 3
+tags: []
+user_id: plgmaczynspwr

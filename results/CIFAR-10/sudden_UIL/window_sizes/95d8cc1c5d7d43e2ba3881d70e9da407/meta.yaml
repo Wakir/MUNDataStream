@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/95d8cc1c5d7d43e2ba3881d70e9da407/artifacts
+end_time: 1780506521332
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 95d8cc1c5d7d43e2ba3881d70e9da407
+run_name: handsome-bug-802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506485928
+status: 3
+tags: []
+user_id: plgmaczynspwr

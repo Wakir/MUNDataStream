@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/4fdd30d279fe422490b39ff47f7256d0/artifacts
+end_time: 1780549037380
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 4fdd30d279fe422490b39ff47f7256d0
+run_name: crawling-snipe-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548991351
+status: 3
+tags: []
+user_id: plgmaczynspwr

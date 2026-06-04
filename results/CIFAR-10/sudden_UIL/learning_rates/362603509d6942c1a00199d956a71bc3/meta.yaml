@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/362603509d6942c1a00199d956a71bc3/artifacts
+end_time: 1780547481227
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 362603509d6942c1a00199d956a71bc3
+run_name: indecisive-sheep-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547443585
+status: 3
+tags: []
+user_id: plgmaczynspwr

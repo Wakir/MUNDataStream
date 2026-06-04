@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/b88f1d91d55546249897133d73cdd5b4/artifacts
+end_time: 1780328279880
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: b88f1d91d55546249897133d73cdd5b4
+run_name: sincere-toad-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780326499064
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/258b9103773f49239cabd23c2a76c572/artifacts
+end_time: 1780527409835
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 258b9103773f49239cabd23c2a76c572
+run_name: exultant-shrimp-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527369988
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/52a9e3d4093243cb88b73f434d795fe3/artifacts
+end_time: 1780505507206
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 52a9e3d4093243cb88b73f434d795fe3
+run_name: resilient-stoat-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780505471622
+status: 3
+tags: []
+user_id: plgmaczynspwr

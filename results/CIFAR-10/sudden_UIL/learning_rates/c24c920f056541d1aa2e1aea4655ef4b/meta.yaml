@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/c24c920f056541d1aa2e1aea4655ef4b/artifacts
+end_time: 1780527719626
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: c24c920f056541d1aa2e1aea4655ef4b
+run_name: mercurial-cow-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527680383
+status: 3
+tags: []
+user_id: plgmaczynspwr

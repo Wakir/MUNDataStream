@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/b9bc42733519444a803d763e2c82898a/artifacts
+end_time: 1780554118672
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: b9bc42733519444a803d763e2c82898a
+run_name: stately-moth-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554070501
+status: 3
+tags: []
+user_id: plgmaczynspwr

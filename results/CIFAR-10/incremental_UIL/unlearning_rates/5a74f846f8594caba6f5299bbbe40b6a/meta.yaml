@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/5a74f846f8594caba6f5299bbbe40b6a/artifacts
+end_time: 1780553442730
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 5a74f846f8594caba6f5299bbbe40b6a
+run_name: burly-whale-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553398559
+status: 3
+tags: []
+user_id: plgmaczynspwr

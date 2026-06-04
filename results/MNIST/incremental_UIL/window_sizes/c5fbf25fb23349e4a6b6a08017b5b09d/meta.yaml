@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/c5fbf25fb23349e4a6b6a08017b5b09d/artifacts
+end_time: 1780248700948
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: c5fbf25fb23349e4a6b6a08017b5b09d
+run_name: luxuriant-newt-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780248664798
+status: 3
+tags: []
+user_id: plgmaczynspwr

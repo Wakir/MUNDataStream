@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/477043b627c043409d75ef94b716c859/artifacts
+end_time: 1780527680379
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 477043b627c043409d75ef94b716c859
+run_name: righteous-hound-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527642047
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/341c6417bd1c405888f01bcb078d49f8/artifacts
+end_time: 1780522546020
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 341c6417bd1c405888f01bcb078d49f8
+run_name: bouncy-squid-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780522507162
+status: 3
+tags: []
+user_id: plgmaczynspwr

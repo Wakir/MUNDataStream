@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/63e09ca51efb41aa991b722adb6b87b2/artifacts
+end_time: 1780546878021
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 63e09ca51efb41aa991b722adb6b87b2
+run_name: calm-skunk-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546840295
+status: 3
+tags: []
+user_id: plgmaczynspwr

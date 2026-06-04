@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/89370c09d9af497284d390395b3e41fe/artifacts
+end_time: 1780241882852
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 89370c09d9af497284d390395b3e41fe
+run_name: sedate-mouse-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241846436
+status: 3
+tags: []
+user_id: plgmaczynspwr

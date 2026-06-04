@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/0a7be38c3a114f0babaec22edd51c1ce/artifacts
+end_time: 1780239534268
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 0a7be38c3a114f0babaec22edd51c1ce
+run_name: bittersweet-seal-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780239501298
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/8c76ef7f6bef4a53800f19c9ccc709bc/artifacts
+end_time: 1780269935429
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 8c76ef7f6bef4a53800f19c9ccc709bc
+run_name: traveling-lamb-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780269886421
+status: 3
+tags: []
+user_id: plgmaczynspwr

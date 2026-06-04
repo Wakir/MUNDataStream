@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/02167cfcf86846cb8474a25e3282bccd/artifacts
+end_time: 1780244232340
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 02167cfcf86846cb8474a25e3282bccd
+run_name: funny-perch-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780244196775
+status: 3
+tags: []
+user_id: plgmaczynspwr

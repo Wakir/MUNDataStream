@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/68f6577779bf411481b086181015bd3f/artifacts
+end_time: 1780524226094
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 68f6577779bf411481b086181015bd3f
+run_name: serious-ant-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524187803
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/0e5a17adf8c44dd18a931f14f1f250f6/artifacts
+end_time: 1780546402802
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 0e5a17adf8c44dd18a931f14f1f250f6
+run_name: bedecked-duck-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546359715
+status: 3
+tags: []
+user_id: plgmaczynspwr

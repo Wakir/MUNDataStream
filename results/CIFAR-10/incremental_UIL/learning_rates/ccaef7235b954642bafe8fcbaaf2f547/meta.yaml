@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/ccaef7235b954642bafe8fcbaaf2f547/artifacts
+end_time: 1780549693158
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: ccaef7235b954642bafe8fcbaaf2f547
+run_name: indecisive-mare-853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549646246
+status: 3
+tags: []
+user_id: plgmaczynspwr

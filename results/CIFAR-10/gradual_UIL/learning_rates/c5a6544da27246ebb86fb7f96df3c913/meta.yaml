@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/c5a6544da27246ebb86fb7f96df3c913/artifacts
+end_time: 1780547689239
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: c5a6544da27246ebb86fb7f96df3c913
+run_name: bouncy-goose-73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547644157
+status: 3
+tags: []
+user_id: plgmaczynspwr

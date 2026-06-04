@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/1f5fca3b13164672a444aecbf1a632ee/artifacts
+end_time: 1780542897980
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 1f5fca3b13164672a444aecbf1a632ee
+run_name: treasured-newt-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542854948
+status: 3
+tags: []
+user_id: plgmaczynspwr

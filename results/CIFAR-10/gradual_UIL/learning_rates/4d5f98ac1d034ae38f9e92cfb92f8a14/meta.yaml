@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/4d5f98ac1d034ae38f9e92cfb92f8a14/artifacts
+end_time: 1780542782419
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 4d5f98ac1d034ae38f9e92cfb92f8a14
+run_name: gifted-smelt-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542739561
+status: 3
+tags: []
+user_id: plgmaczynspwr

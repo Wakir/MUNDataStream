@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/43cef566908a48c2bc7d23c7866c754b/artifacts
+end_time: 1780528031265
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 43cef566908a48c2bc7d23c7866c754b
+run_name: blushing-duck-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527994910
+status: 3
+tags: []
+user_id: plgmaczynspwr

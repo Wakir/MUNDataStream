@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/458041061a7a4844896fb68835669555/artifacts
+end_time: 1780119847990
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 458041061a7a4844896fb68835669555
+run_name: luminous-deer-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119810525
+status: 3
+tags: []
+user_id: plgmaczynspwr

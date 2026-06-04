@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/397549d6b33445da8cc9a0b7386aefef/artifacts
+end_time: 1780526548656
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 397549d6b33445da8cc9a0b7386aefef
+run_name: masked-deer-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526509458
+status: 3
+tags: []
+user_id: plgmaczynspwr

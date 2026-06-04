@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/7dbb385adf6b43c0bda82e12e69c143f/artifacts
+end_time: 1780518034101
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 7dbb385adf6b43c0bda82e12e69c143f
+run_name: welcoming-skunk-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517996713
+status: 3
+tags: []
+user_id: plgmaczynspwr

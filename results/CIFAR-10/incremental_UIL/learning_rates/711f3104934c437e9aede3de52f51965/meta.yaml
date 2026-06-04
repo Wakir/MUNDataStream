@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/711f3104934c437e9aede3de52f51965/artifacts
+end_time: 1780546416995
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 711f3104934c437e9aede3de52f51965
+run_name: caring-cod-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546373769
+status: 3
+tags: []
+user_id: plgmaczynspwr

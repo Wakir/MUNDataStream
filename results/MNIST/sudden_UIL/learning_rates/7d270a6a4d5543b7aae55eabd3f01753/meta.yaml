@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/7d270a6a4d5543b7aae55eabd3f01753/artifacts
+end_time: 1780117833876
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 7d270a6a4d5543b7aae55eabd3f01753
+run_name: big-moth-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117797108
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/b384b6cdaf234adca10f6f2319af66c9/artifacts
+end_time: 1780134314769
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: b384b6cdaf234adca10f6f2319af66c9
+run_name: intelligent-fox-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780134276188
+status: 3
+tags: []
+user_id: plgmaczynspwr

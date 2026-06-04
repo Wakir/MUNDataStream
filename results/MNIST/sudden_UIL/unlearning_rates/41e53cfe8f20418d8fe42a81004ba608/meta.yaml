@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/41e53cfe8f20418d8fe42a81004ba608/artifacts
+end_time: 1780123813331
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 41e53cfe8f20418d8fe42a81004ba608
+run_name: welcoming-wasp-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123774000
+status: 3
+tags: []
+user_id: plgmaczynspwr

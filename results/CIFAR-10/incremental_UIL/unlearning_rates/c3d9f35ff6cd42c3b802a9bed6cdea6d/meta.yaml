@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/c3d9f35ff6cd42c3b802a9bed6cdea6d/artifacts
+end_time: 1780555840909
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: c3d9f35ff6cd42c3b802a9bed6cdea6d
+run_name: mysterious-bear-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555795774
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/93dd9d154959418c8df0d3a39e368ae2/artifacts
+end_time: 1780555750521
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 93dd9d154959418c8df0d3a39e368ae2
+run_name: efficient-wolf-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555702229
+status: 3
+tags: []
+user_id: plgmaczynspwr

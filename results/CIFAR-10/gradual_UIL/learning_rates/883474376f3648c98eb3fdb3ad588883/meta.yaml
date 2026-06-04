@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/883474376f3648c98eb3fdb3ad588883/artifacts
+end_time: 1780523172460
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 883474376f3648c98eb3fdb3ad588883
+run_name: stately-duck-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523132909
+status: 3
+tags: []
+user_id: plgmaczynspwr

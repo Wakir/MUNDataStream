@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/4f9a57b992334fcc8de7ef732502bf00/artifacts
+end_time: 1780118274815
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 4f9a57b992334fcc8de7ef732502bf00
+run_name: gifted-duck-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118238036
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/fb11ff4a36924c21aff8befa1865f626/artifacts
+end_time: 1780271150535
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: fb11ff4a36924c21aff8befa1865f626
+run_name: unequaled-moth-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780271103962
+status: 3
+tags: []
+user_id: plgmaczynspwr

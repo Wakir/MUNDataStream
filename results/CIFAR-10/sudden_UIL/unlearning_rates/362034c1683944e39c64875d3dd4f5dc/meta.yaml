@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/362034c1683944e39c64875d3dd4f5dc/artifacts
+end_time: 1780524185701
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 362034c1683944e39c64875d3dd4f5dc
+run_name: nebulous-stag-231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524146779
+status: 3
+tags: []
+user_id: plgmaczynspwr

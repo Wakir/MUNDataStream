@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/f058ed72378f4de099d1bbff215f7cb7/artifacts
+end_time: 1780564169198
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: f058ed72378f4de099d1bbff215f7cb7
+run_name: rare-shad-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564131238
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/d46b09e979624469b23f1f340157a2a0/artifacts
+end_time: 1780526703572
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: d46b09e979624469b23f1f340157a2a0
+run_name: luxuriant-wolf-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526665071
+status: 3
+tags: []
+user_id: plgmaczynspwr

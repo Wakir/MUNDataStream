@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/d213f3e97a7b4f91b61f9eab9039840c/artifacts
+end_time: 1780542812943
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: d213f3e97a7b4f91b61f9eab9039840c
+run_name: upbeat-snipe-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542769567
+status: 3
+tags: []
+user_id: plgmaczynspwr

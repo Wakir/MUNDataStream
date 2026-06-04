@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/45dbc6417f104ef08096e13dcfcc1e4f/artifacts
+end_time: 1780546679118
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 45dbc6417f104ef08096e13dcfcc1e4f
+run_name: bald-grouse-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546635444
+status: 3
+tags: []
+user_id: plgmaczynspwr

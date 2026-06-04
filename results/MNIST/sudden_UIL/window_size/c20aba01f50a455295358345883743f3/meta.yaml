@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/c20aba01f50a455295358345883743f3/artifacts
+end_time: 1780242511149
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: c20aba01f50a455295358345883743f3
+run_name: stately-moose-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242477262
+status: 3
+tags: []
+user_id: plgmaczynspwr

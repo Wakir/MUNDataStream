@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/7a29988070ed4cba8912304967f03eb7/artifacts
+end_time: 1780527329983
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 7a29988070ed4cba8912304967f03eb7
+run_name: valuable-crane-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527290506
+status: 3
+tags: []
+user_id: plgmaczynspwr

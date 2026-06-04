@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/475d2e65bf9843529d243956b593a249/artifacts
+end_time: 1780524953614
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 475d2e65bf9843529d243956b593a249
+run_name: peaceful-mule-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524914839
+status: 3
+tags: []
+user_id: plgmaczynspwr

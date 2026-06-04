@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/94d22a6002fc45e39f765ec82796696e/artifacts
+end_time: 1780547813140
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 94d22a6002fc45e39f765ec82796696e
+run_name: nebulous-chimp-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547767536
+status: 3
+tags: []
+user_id: plgmaczynspwr

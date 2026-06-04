@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/99c74f24da474d4a872e466117612197/artifacts
+end_time: 1780277398524
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 99c74f24da474d4a872e466117612197
+run_name: wistful-penguin-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780277342791
+status: 3
+tags: []
+user_id: plgmaczynspwr

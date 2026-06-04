@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/e83e9ebb2a8241728f98e1d3fcf00b68/artifacts
+end_time: 1780548214826
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: e83e9ebb2a8241728f98e1d3fcf00b68
+run_name: amusing-shoat-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548170571
+status: 3
+tags: []
+user_id: plgmaczynspwr

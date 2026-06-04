@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/137c5aabcfd243d7b5e1f57b19b01ee8/artifacts
+end_time: 1780238823773
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 137c5aabcfd243d7b5e1f57b19b01ee8
+run_name: popular-whale-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238790846
+status: 3
+tags: []
+user_id: plgmaczynspwr

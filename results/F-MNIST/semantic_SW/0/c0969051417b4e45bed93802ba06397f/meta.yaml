@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602_2/915626349192667294/c0969051417b4e45bed93802ba06397f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '915626349192667294'
+lifecycle_stage: active
+run_id: c0969051417b4e45bed93802ba06397f
+run_name: unleashed-ram-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780398851308
+status: 1
+tags: []
+user_id: plgmaczynspwr

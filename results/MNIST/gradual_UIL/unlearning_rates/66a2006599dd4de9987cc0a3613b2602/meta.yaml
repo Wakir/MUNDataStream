@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/66a2006599dd4de9987cc0a3613b2602/artifacts
+end_time: 1780242953158
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 66a2006599dd4de9987cc0a3613b2602
+run_name: glamorous-goose-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242917526
+status: 3
+tags: []
+user_id: plgmaczynspwr

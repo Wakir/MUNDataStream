@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/23a43c6d771e42268ec6705db6b9c7c0/artifacts
+end_time: 1780544933520
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 23a43c6d771e42268ec6705db6b9c7c0
+run_name: classy-fowl-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544896213
+status: 3
+tags: []
+user_id: plgmaczynspwr

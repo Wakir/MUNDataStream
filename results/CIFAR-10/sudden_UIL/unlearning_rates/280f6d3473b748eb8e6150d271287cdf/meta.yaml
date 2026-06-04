@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/280f6d3473b748eb8e6150d271287cdf/artifacts
+end_time: 1780523368370
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 280f6d3473b748eb8e6150d271287cdf
+run_name: polite-rook-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523328008
+status: 3
+tags: []
+user_id: plgmaczynspwr

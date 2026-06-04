@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/ba0060636f694dafa2eefb88efe5017f/artifacts
+end_time: 1780566189785
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: ba0060636f694dafa2eefb88efe5017f
+run_name: righteous-lynx-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566151440
+status: 3
+tags: []
+user_id: plgmaczynspwr

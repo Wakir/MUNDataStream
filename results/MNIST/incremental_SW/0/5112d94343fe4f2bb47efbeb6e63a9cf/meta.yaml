@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/5112d94343fe4f2bb47efbeb6e63a9cf/artifacts
+end_time: 1780331747792
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 5112d94343fe4f2bb47efbeb6e63a9cf
+run_name: puzzled-kite-86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780330455945
+status: 3
+tags: []
+user_id: plgmaczynspwr

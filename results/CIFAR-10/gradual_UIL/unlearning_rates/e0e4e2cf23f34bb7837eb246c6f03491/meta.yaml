@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/e0e4e2cf23f34bb7837eb246c6f03491/artifacts
+end_time: 1780562723836
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: e0e4e2cf23f34bb7837eb246c6f03491
+run_name: puzzled-fawn-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562685190
+status: 3
+tags: []
+user_id: plgmaczynspwr

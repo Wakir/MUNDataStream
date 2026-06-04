@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/939a2a461ae3419db12328733207f9d6/artifacts
+end_time: 1780242421858
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: 939a2a461ae3419db12328733207f9d6
+run_name: traveling-bug-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780242386824
+status: 3
+tags: []
+user_id: plgmaczynspwr

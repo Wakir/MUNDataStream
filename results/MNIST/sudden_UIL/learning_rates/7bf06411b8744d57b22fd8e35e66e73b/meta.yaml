@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/7bf06411b8744d57b22fd8e35e66e73b/artifacts
+end_time: 1780119735603
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 7bf06411b8744d57b22fd8e35e66e73b
+run_name: whimsical-moose-949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119698110
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/d4319e1f655644ffaa39cbecf76cd3f7/artifacts
+end_time: 1780548168320
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: d4319e1f655644ffaa39cbecf76cd3f7
+run_name: painted-newt-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548130799
+status: 3
+tags: []
+user_id: plgmaczynspwr

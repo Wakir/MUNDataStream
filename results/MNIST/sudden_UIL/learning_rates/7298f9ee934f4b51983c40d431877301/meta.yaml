@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/7298f9ee934f4b51983c40d431877301/artifacts
+end_time: 1780120083560
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 7298f9ee934f4b51983c40d431877301
+run_name: legendary-cod-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120044091
+status: 3
+tags: []
+user_id: plgmaczynspwr

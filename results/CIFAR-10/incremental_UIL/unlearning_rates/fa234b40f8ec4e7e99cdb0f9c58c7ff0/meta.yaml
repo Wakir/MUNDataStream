@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/fa234b40f8ec4e7e99cdb0f9c58c7ff0/artifacts
+end_time: 1780556071494
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: fa234b40f8ec4e7e99cdb0f9c58c7ff0
+run_name: upset-ant-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556024298
+status: 3
+tags: []
+user_id: plgmaczynspwr

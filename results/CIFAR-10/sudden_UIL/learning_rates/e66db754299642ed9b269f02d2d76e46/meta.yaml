@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/e66db754299642ed9b269f02d2d76e46/artifacts
+end_time: 1780545566210
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: e66db754299642ed9b269f02d2d76e46
+run_name: abrasive-wasp-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545529080
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/8ca1627b5a024b4f87ccb1a19c1a6d6d/artifacts
+end_time: 1780525658279
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 8ca1627b5a024b4f87ccb1a19c1a6d6d
+run_name: merciful-calf-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525618511
+status: 3
+tags: []
+user_id: plgmaczynspwr

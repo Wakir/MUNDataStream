@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/b65c6d675fc24e46a70d474b787b1240/artifacts
+end_time: 1780521921433
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: b65c6d675fc24e46a70d474b787b1240
+run_name: upset-sow-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780521882779
+status: 3
+tags: []
+user_id: plgmaczynspwr

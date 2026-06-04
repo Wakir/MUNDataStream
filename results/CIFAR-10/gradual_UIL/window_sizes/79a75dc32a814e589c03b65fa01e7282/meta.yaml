@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/79a75dc32a814e589c03b65fa01e7282/artifacts
+end_time: 1780517515476
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 79a75dc32a814e589c03b65fa01e7282
+run_name: worried-dolphin-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517478997
+status: 3
+tags: []
+user_id: plgmaczynspwr

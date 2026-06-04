@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/6d706d76e6dc4b6986110ae44055a969/artifacts
+end_time: 1780527091942
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 6d706d76e6dc4b6986110ae44055a969
+run_name: secretive-ray-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527052440
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/952c253d8c8d4ed695e8d204f182a8cc/artifacts
+end_time: 1780566914405
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 952c253d8c8d4ed695e8d204f182a8cc
+run_name: unequaled-lark-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566876521
+status: 3
+tags: []
+user_id: plgmaczynspwr

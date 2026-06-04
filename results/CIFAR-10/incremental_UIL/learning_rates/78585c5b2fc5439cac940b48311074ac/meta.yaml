@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/78585c5b2fc5439cac940b48311074ac/artifacts
+end_time: 1780548080170
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 78585c5b2fc5439cac940b48311074ac
+run_name: dashing-goat-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548034912
+status: 3
+tags: []
+user_id: plgmaczynspwr

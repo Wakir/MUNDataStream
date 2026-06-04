@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/53e2f114dfea41eb96602e6d821a879e/artifacts
+end_time: 1780517442748
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 53e2f114dfea41eb96602e6d821a879e
+run_name: fortunate-sloth-129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517406571
+status: 3
+tags: []
+user_id: plgmaczynspwr

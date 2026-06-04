@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/9f2a5d30d3be4e7499c29074fe5cb506/artifacts
+end_time: 1780132377561
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 9f2a5d30d3be4e7499c29074fe5cb506
+run_name: secretive-sheep-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780132339535
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/415ca6e5abf64000a7b55c144871936b/artifacts
+end_time: 1780526245483
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 415ca6e5abf64000a7b55c144871936b
+run_name: efficient-grouse-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526206819
+status: 3
+tags: []
+user_id: plgmaczynspwr

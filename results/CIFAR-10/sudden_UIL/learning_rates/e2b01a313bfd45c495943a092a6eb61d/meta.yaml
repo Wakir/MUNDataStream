@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/e2b01a313bfd45c495943a092a6eb61d/artifacts
+end_time: 1780546765248
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: e2b01a313bfd45c495943a092a6eb61d
+run_name: legendary-trout-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546727753
+status: 3
+tags: []
+user_id: plgmaczynspwr

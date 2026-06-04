@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/ae1e9d22c61c4f77b912371aabff0ebd/artifacts
+end_time: 1780522362828
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: ae1e9d22c61c4f77b912371aabff0ebd
+run_name: rebellious-kit-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780522324194
+status: 3
+tags: []
+user_id: plgmaczynspwr

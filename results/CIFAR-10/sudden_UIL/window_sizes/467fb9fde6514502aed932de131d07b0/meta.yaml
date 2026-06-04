@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/467fb9fde6514502aed932de131d07b0/artifacts
+end_time: 1780505471618
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 467fb9fde6514502aed932de131d07b0
+run_name: melodic-stork-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780505436233
+status: 3
+tags: []
+user_id: plgmaczynspwr

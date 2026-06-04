@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns505/837377287474883666/88a5a71bf37645da8f73818db12f7738/artifacts
+end_time: 1780140948952
+entry_point_name: ''
+experiment_id: '837377287474883666'
+lifecycle_stage: active
+run_id: 88a5a71bf37645da8f73818db12f7738
+run_name: wistful-carp-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780140911108
+status: 3
+tags: []
+user_id: plgmaczynspwr

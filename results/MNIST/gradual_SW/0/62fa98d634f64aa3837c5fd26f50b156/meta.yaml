@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/62fa98d634f64aa3837c5fd26f50b156/artifacts
+end_time: 1780388522619
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 62fa98d634f64aa3837c5fd26f50b156
+run_name: wistful-robin-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780387306599
+status: 3
+tags: []
+user_id: plgmaczynspwr

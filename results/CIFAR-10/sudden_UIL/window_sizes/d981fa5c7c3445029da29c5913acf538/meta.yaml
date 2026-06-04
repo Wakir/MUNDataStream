@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/d981fa5c7c3445029da29c5913acf538/artifacts
+end_time: 1780506415452
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: d981fa5c7c3445029da29c5913acf538
+run_name: bouncy-hen-526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780506380379
+status: 3
+tags: []
+user_id: plgmaczynspwr

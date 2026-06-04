@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/c1a716e5a044473facbadf4d6228f71a/artifacts
+end_time: 1780119453710
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: c1a716e5a044473facbadf4d6228f71a
+run_name: upbeat-croc-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119414372
+status: 3
+tags: []
+user_id: plgmaczynspwr

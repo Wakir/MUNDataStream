@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/37928641fb64482ca6c680cb322a4f2b/artifacts
+end_time: 1780547075965
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 37928641fb64482ca6c680cb322a4f2b
+run_name: gaudy-mole-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547030322
+status: 3
+tags: []
+user_id: plgmaczynspwr

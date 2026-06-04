@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/44ebc6c86a0042e6a8d9e5afab800bec/artifacts
+end_time: 1780548717047
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 44ebc6c86a0042e6a8d9e5afab800bec
+run_name: abrasive-mink-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548670606
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/fc8d78f0a2e347bc88b32b8e9d517e7a/artifacts
+end_time: 1780524338801
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: fc8d78f0a2e347bc88b32b8e9d517e7a
+run_name: overjoyed-finch-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524300412
+status: 3
+tags: []
+user_id: plgmaczynspwr

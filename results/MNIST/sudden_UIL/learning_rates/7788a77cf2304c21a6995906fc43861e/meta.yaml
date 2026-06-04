@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/7788a77cf2304c21a6995906fc43861e/artifacts
+end_time: 1780119698104
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 7788a77cf2304c21a6995906fc43861e
+run_name: judicious-flea-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119660759
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/425991885924745336/167c7605a5b14b7cb9e06b1960ec374c/artifacts
+end_time: 1780199258555
+entry_point_name: ''
+experiment_id: '425991885924745336'
+lifecycle_stage: active
+run_id: 167c7605a5b14b7cb9e06b1960ec374c
+run_name: welcoming-hen-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780199222018
+status: 3
+tags: []
+user_id: plgmaczynspwr

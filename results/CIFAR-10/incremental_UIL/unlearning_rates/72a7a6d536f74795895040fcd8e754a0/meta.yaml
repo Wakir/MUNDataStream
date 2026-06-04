@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/72a7a6d536f74795895040fcd8e754a0/artifacts
+end_time: 1780554905431
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 72a7a6d536f74795895040fcd8e754a0
+run_name: loud-dog-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554859324
+status: 3
+tags: []
+user_id: plgmaczynspwr

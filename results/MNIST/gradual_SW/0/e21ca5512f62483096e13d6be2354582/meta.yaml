@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/e21ca5512f62483096e13d6be2354582/artifacts
+end_time: 1780312182033
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: e21ca5512f62483096e13d6be2354582
+run_name: smiling-asp-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780310821592
+status: 3
+tags: []
+user_id: plgmaczynspwr

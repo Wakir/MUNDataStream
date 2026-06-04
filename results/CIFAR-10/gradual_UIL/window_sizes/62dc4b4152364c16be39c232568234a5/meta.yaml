@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/62dc4b4152364c16be39c232568234a5/artifacts
+end_time: 1780518808624
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 62dc4b4152364c16be39c232568234a5
+run_name: marvelous-loon-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518771344
+status: 3
+tags: []
+user_id: plgmaczynspwr

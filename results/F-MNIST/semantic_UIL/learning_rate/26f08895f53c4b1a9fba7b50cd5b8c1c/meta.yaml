@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/26f08895f53c4b1a9fba7b50cd5b8c1c/artifacts
+end_time: 1780270328625
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 26f08895f53c4b1a9fba7b50cd5b8c1c
+run_name: rare-hen-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780270280670
+status: 3
+tags: []
+user_id: plgmaczynspwr

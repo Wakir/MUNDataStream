@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/9792440de35a421bbd5882d2c591c8b5/artifacts
+end_time: 1780527712420
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 9792440de35a421bbd5882d2c591c8b5
+run_name: rumbling-mink-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527675752
+status: 3
+tags: []
+user_id: plgmaczynspwr

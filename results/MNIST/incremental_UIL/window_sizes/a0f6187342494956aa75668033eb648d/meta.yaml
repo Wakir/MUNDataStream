@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/a0f6187342494956aa75668033eb648d/artifacts
+end_time: 1780249722743
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: a0f6187342494956aa75668033eb648d
+run_name: rogue-dog-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780249686785
+status: 3
+tags: []
+user_id: plgmaczynspwr

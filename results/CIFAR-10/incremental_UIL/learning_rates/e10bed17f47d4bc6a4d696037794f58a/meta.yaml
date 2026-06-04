@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/e10bed17f47d4bc6a4d696037794f58a/artifacts
+end_time: 1780547253199
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: e10bed17f47d4bc6a4d696037794f58a
+run_name: peaceful-yak-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547208570
+status: 3
+tags: []
+user_id: plgmaczynspwr

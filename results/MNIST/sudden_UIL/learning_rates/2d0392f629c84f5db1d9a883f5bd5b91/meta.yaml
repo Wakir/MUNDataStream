@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/2d0392f629c84f5db1d9a883f5bd5b91/artifacts
+end_time: 1780238426655
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: 2d0392f629c84f5db1d9a883f5bd5b91
+run_name: delicate-seal-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238393561
+status: 3
+tags: []
+user_id: plgmaczynspwr

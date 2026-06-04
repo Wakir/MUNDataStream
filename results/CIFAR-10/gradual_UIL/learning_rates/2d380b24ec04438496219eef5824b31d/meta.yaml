@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/2d380b24ec04438496219eef5824b31d/artifacts
+end_time: 1780524110324
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 2d380b24ec04438496219eef5824b31d
+run_name: legendary-shark-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524072171
+status: 3
+tags: []
+user_id: plgmaczynspwr

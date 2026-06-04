@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/354f2442518a4c9ebff58fd9ed18b6fe/artifacts
+end_time: 1780517334330
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 354f2442518a4c9ebff58fd9ed18b6fe
+run_name: defiant-mare-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517298330
+status: 3
+tags: []
+user_id: plgmaczynspwr

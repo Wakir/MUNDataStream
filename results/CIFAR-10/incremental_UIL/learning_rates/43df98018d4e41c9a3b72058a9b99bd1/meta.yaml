@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/43df98018d4e41c9a3b72058a9b99bd1/artifacts
+end_time: 1780545170396
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 43df98018d4e41c9a3b72058a9b99bd1
+run_name: polite-shad-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545126504
+status: 3
+tags: []
+user_id: plgmaczynspwr

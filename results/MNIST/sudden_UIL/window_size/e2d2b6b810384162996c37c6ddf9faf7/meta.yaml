@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/961522451611186513/e2d2b6b810384162996c37c6ddf9faf7/artifacts
+end_time: 1780114520894
+entry_point_name: ''
+experiment_id: '961522451611186513'
+lifecycle_stage: active
+run_id: e2d2b6b810384162996c37c6ddf9faf7
+run_name: zealous-doe-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780114485431
+status: 3
+tags: []
+user_id: plgmaczynspwr

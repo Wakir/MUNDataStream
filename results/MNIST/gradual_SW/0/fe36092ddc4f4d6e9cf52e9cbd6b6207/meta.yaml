@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/fe36092ddc4f4d6e9cf52e9cbd6b6207/artifacts
+end_time: 1780379874236
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: fe36092ddc4f4d6e9cf52e9cbd6b6207
+run_name: debonair-bug-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780379534623
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/bfc87f37906548669ee5d616dfb1b994/artifacts
+end_time: 1780250499875
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: bfc87f37906548669ee5d616dfb1b994
+run_name: exultant-frog-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780250461955
+status: 3
+tags: []
+user_id: plgmaczynspwr

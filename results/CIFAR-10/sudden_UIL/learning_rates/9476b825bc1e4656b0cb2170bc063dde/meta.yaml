@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/9476b825bc1e4656b0cb2170bc063dde/artifacts
+end_time: 1780544475295
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 9476b825bc1e4656b0cb2170bc063dde
+run_name: rambunctious-ram-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544437950
+status: 3
+tags: []
+user_id: plgmaczynspwr

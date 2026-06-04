@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/cdd6e1ec23cc45b4ab90a4df2cca1578/artifacts
+end_time: 1780525696864
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: cdd6e1ec23cc45b4ab90a4df2cca1578
+run_name: fearless-gnat-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525658285
+status: 3
+tags: []
+user_id: plgmaczynspwr

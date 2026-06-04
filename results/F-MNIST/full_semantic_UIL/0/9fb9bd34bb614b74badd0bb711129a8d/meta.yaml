@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/9fb9bd34bb614b74badd0bb711129a8d/artifacts
+end_time: 1780271538513
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 9fb9bd34bb614b74badd0bb711129a8d
+run_name: abundant-shrike-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780271490998
+status: 3
+tags: []
+user_id: plgmaczynspwr

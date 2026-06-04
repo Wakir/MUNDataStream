@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/b56aa968af684600bff103b7bd655087/artifacts
+end_time: 1780566876517
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: b56aa968af684600bff103b7bd655087
+run_name: mercurial-mule-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566838696
+status: 3
+tags: []
+user_id: plgmaczynspwr

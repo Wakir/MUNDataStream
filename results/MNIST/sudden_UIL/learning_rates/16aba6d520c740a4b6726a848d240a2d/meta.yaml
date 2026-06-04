@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/16aba6d520c740a4b6726a848d240a2d/artifacts
+end_time: 1780120112711
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 16aba6d520c740a4b6726a848d240a2d
+run_name: skittish-midge-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120075116
+status: 3
+tags: []
+user_id: plgmaczynspwr

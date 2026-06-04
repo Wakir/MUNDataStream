@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/1df5247c2a57416a8c19fb5894c7fcbb/artifacts
+end_time: 1780239692135
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 1df5247c2a57416a8c19fb5894c7fcbb
+run_name: colorful-toad-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780239655946
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/2dc438484b9c49fc9629f30ab99ddbbe/artifacts
+end_time: 1780524033943
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 2dc438484b9c49fc9629f30ab99ddbbe
+run_name: caring-worm-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523995579
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/cdc37a9eb94c45a4906f32319eca666d/artifacts
+end_time: 1780238194548
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: cdc37a9eb94c45a4906f32319eca666d
+run_name: placid-roo-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238161321
+status: 3
+tags: []
+user_id: plgmaczynspwr

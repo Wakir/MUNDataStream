@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/237912627878562299/bdc9726d563845c09a93d8b493b83f4d/artifacts
+end_time: 1780237862592
+entry_point_name: ''
+experiment_id: '237912627878562299'
+lifecycle_stage: active
+run_id: bdc9726d563845c09a93d8b493b83f4d
+run_name: puzzled-wolf-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780237829526
+status: 3
+tags: []
+user_id: plgmaczynspwr

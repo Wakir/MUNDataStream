@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/126d90fbf7d442f5a7b790d7170b43f4/artifacts
+end_time: 1780120834374
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 126d90fbf7d442f5a7b790d7170b43f4
+run_name: thundering-sow-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780120796833
+status: 3
+tags: []
+user_id: plgmaczynspwr

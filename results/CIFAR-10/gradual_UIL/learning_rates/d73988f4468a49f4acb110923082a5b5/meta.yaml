@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/d73988f4468a49f4acb110923082a5b5/artifacts
+end_time: 1780546575106
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: d73988f4468a49f4acb110923082a5b5
+run_name: rogue-robin-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546532429
+status: 3
+tags: []
+user_id: plgmaczynspwr

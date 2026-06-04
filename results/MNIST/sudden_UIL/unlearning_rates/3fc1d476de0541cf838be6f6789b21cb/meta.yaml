@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/3fc1d476de0541cf838be6f6789b21cb/artifacts
+end_time: 1780135690606
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 3fc1d476de0541cf838be6f6789b21cb
+run_name: aged-turtle-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780135651654
+status: 3
+tags: []
+user_id: plgmaczynspwr

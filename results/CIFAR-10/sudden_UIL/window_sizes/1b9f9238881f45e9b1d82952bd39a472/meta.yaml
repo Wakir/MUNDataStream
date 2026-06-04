@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/1b9f9238881f45e9b1d82952bd39a472/artifacts
+end_time: 1780505904039
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 1b9f9238881f45e9b1d82952bd39a472
+run_name: blushing-gnat-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780505867654
+status: 3
+tags: []
+user_id: plgmaczynspwr

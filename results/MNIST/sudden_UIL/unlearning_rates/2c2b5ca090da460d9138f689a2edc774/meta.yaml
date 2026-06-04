@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/2c2b5ca090da460d9138f689a2edc774/artifacts
+end_time: 1780123724749
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 2c2b5ca090da460d9138f689a2edc774
+run_name: illustrious-sow-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780123686313
+status: 3
+tags: []
+user_id: plgmaczynspwr

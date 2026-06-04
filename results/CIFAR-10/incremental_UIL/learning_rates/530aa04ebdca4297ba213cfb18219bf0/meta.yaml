@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/530aa04ebdca4297ba213cfb18219bf0/artifacts
+end_time: 1780545586438
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 530aa04ebdca4297ba213cfb18219bf0
+run_name: lyrical-snail-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545546423
+status: 3
+tags: []
+user_id: plgmaczynspwr

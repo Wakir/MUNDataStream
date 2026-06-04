@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/69c1d80f5c71460f941f1df8b4b6d1c5/artifacts
+end_time: 1780524960254
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 69c1d80f5c71460f941f1df8b4b6d1c5
+run_name: skittish-crane-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524921607
+status: 3
+tags: []
+user_id: plgmaczynspwr

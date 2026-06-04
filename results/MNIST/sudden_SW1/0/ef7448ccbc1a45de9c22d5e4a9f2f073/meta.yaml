@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/ef7448ccbc1a45de9c22d5e4a9f2f073/artifacts
+end_time: 1780393763927
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: ef7448ccbc1a45de9c22d5e4a9f2f073
+run_name: bustling-vole-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780392794489
+status: 3
+tags: []
+user_id: plgmaczynspwr

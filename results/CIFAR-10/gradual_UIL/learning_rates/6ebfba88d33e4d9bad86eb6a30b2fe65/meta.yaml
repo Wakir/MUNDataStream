@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/6ebfba88d33e4d9bad86eb6a30b2fe65/artifacts
+end_time: 1780543132543
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 6ebfba88d33e4d9bad86eb6a30b2fe65
+run_name: adorable-wolf-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543089474
+status: 3
+tags: []
+user_id: plgmaczynspwr

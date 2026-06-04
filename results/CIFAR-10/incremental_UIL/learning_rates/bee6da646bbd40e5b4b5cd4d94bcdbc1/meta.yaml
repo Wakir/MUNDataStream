@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/bee6da646bbd40e5b4b5cd4d94bcdbc1/artifacts
+end_time: 1780545980027
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: bee6da646bbd40e5b4b5cd4d94bcdbc1
+run_name: traveling-trout-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545936812
+status: 3
+tags: []
+user_id: plgmaczynspwr

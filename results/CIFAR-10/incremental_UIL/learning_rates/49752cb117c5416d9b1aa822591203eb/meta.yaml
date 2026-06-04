@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/49752cb117c5416d9b1aa822591203eb/artifacts
+end_time: 1780547676714
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 49752cb117c5416d9b1aa822591203eb
+run_name: abundant-mare-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547626625
+status: 3
+tags: []
+user_id: plgmaczynspwr

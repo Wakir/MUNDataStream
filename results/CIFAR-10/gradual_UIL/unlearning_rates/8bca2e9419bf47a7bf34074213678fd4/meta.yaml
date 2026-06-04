@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/8bca2e9419bf47a7bf34074213678fd4/artifacts
+end_time: 1780547906241
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 8bca2e9419bf47a7bf34074213678fd4
+run_name: glamorous-ant-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547861719
+status: 3
+tags: []
+user_id: plgmaczynspwr

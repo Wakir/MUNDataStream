@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/c8cfc06e28664738b4173bcf68bf76d1/artifacts
+end_time: 1780518659645
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: c8cfc06e28664738b4173bcf68bf76d1
+run_name: salty-bee-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518622465
+status: 3
+tags: []
+user_id: plgmaczynspwr

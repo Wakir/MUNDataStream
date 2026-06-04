@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/fd06b7ba7fbf4dd1ac5c6973d8b0652a/artifacts
+end_time: 1780542601475
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: fd06b7ba7fbf4dd1ac5c6973d8b0652a
+run_name: entertaining-seal-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542560219
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/dc5036d7534446deb96c197d02c9943b/artifacts
+end_time: 1780272970195
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: dc5036d7534446deb96c197d02c9943b
+run_name: likeable-vole-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780272921902
+status: 3
+tags: []
+user_id: plgmaczynspwr

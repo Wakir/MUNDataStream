@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/78b2ecac48b24880911b85f798b5da4d/artifacts
+end_time: 1780566990162
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 78b2ecac48b24880911b85f798b5da4d
+run_name: invincible-stag-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566952357
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/40b3fdd3c8d24f8889e08cc9e29d349e/artifacts
+end_time: 1780552022471
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 40b3fdd3c8d24f8889e08cc9e29d349e
+run_name: fearless-jay-386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551978028
+status: 3
+tags: []
+user_id: plgmaczynspwr

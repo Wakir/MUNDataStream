@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/102073786106845405/7ea7cb8228d04b19984521773d75ad53/artifacts
+end_time: 1780367137567
+entry_point_name: ''
+experiment_id: '102073786106845405'
+lifecycle_stage: active
+run_id: 7ea7cb8228d04b19984521773d75ad53
+run_name: loud-quail-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780366513671
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/ecfd72d9f91f44e8aaebfd8e56b54eda/artifacts
+end_time: 1780527012927
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: ecfd72d9f91f44e8aaebfd8e56b54eda
+run_name: adventurous-fish-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526974117
+status: 3
+tags: []
+user_id: plgmaczynspwr

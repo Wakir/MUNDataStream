@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/26eb51ebdfb64a4692aaa61ac767cfd1/artifacts
+end_time: 1780526974113
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 26eb51ebdfb64a4692aaa61ac767cfd1
+run_name: nervous-bass-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526934744
+status: 3
+tags: []
+user_id: plgmaczynspwr

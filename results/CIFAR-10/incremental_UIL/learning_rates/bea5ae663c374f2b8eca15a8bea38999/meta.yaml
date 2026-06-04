@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/bea5ae663c374f2b8eca15a8bea38999/artifacts
+end_time: 1780547422116
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: bea5ae663c374f2b8eca15a8bea38999
+run_name: funny-snake-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547381020
+status: 3
+tags: []
+user_id: plgmaczynspwr

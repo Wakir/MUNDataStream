@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/1905bb2db4d1471c83f6f0814e9030f3/artifacts
+end_time: 1780245825015
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 1905bb2db4d1471c83f6f0814e9030f3
+run_name: rogue-shoat-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780245788111
+status: 3
+tags: []
+user_id: plgmaczynspwr

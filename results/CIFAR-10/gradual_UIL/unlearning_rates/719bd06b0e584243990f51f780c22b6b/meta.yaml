@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/719bd06b0e584243990f51f780c22b6b/artifacts
+end_time: 1780566112788
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 719bd06b0e584243990f51f780c22b6b
+run_name: stately-gnu-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566074541
+status: 3
+tags: []
+user_id: plgmaczynspwr

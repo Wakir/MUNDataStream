@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/603c1357c2f74a938ec8ef5f643bed9f/artifacts
+end_time: 1780298441485
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 603c1357c2f74a938ec8ef5f643bed9f
+run_name: wise-skink-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780296376833
+status: 3
+tags: []
+user_id: plgmaczynspwr

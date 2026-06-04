@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/066ca1615f9948f3ae18003cf731c5ab/artifacts
+end_time: 1780555558120
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 066ca1615f9948f3ae18003cf731c5ab
+run_name: blushing-sponge-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555516453
+status: 3
+tags: []
+user_id: plgmaczynspwr

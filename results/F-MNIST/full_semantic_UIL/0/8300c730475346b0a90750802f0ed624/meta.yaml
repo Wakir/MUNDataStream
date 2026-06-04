@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/8300c730475346b0a90750802f0ed624/artifacts
+end_time: 1780269292106
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 8300c730475346b0a90750802f0ed624
+run_name: loud-hen-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780269240546
+status: 3
+tags: []
+user_id: plgmaczynspwr

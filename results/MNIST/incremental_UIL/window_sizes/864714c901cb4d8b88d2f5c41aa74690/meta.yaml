@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/864714c901cb4d8b88d2f5c41aa74690/artifacts
+end_time: 1780249286827
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 864714c901cb4d8b88d2f5c41aa74690
+run_name: merciful-vole-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780249249436
+status: 3
+tags: []
+user_id: plgmaczynspwr

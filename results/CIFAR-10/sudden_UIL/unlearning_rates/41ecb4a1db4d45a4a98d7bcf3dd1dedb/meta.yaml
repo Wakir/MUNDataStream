@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/41ecb4a1db4d45a4a98d7bcf3dd1dedb/artifacts
+end_time: 1780525110367
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 41ecb4a1db4d45a4a98d7bcf3dd1dedb
+run_name: spiffy-grouse-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525070925
+status: 3
+tags: []
+user_id: plgmaczynspwr

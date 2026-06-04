@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/518fa8a055724298a643555ae2240b63/artifacts
+end_time: 1780556530386
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 518fa8a055724298a643555ae2240b63
+run_name: adventurous-asp-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556483929
+status: 3
+tags: []
+user_id: plgmaczynspwr

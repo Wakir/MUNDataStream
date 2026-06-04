@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/d2a5a010100e45caa0f117e7d8959189/artifacts
+end_time: 1780554257487
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: d2a5a010100e45caa0f117e7d8959189
+run_name: puzzled-ram-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554211150
+status: 3
+tags: []
+user_id: plgmaczynspwr

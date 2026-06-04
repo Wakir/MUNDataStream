@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/9a2e96d2eea741e399dc5a7fe30384fc/artifacts
+end_time: 1780551144605
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 9a2e96d2eea741e399dc5a7fe30384fc
+run_name: welcoming-foal-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551101001
+status: 3
+tags: []
+user_id: plgmaczynspwr

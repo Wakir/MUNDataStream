@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/487d775fa5084a849b81ce06dd0b2516/artifacts
+end_time: 1780548395888
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 487d775fa5084a849b81ce06dd0b2516
+run_name: luxuriant-eel-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548349458
+status: 3
+tags: []
+user_id: plgmaczynspwr

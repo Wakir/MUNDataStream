@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/2c417d12be964d3c95672e2207662829/artifacts
+end_time: 1780542133838
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 2c417d12be964d3c95672e2207662829
+run_name: legendary-dog-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542088796
+status: 3
+tags: []
+user_id: plgmaczynspwr

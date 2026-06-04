@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/5bc25835835a4c85a904f968b0d02bdc/artifacts
+end_time: 1780128334301
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: 5bc25835835a4c85a904f968b0d02bdc
+run_name: welcoming-bee-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780128296875
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/fec8f12a76344a90a5a2137180ad0477/artifacts
+end_time: 1780548670600
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: fec8f12a76344a90a5a2137180ad0477
+run_name: adventurous-bird-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548626301
+status: 3
+tags: []
+user_id: plgmaczynspwr

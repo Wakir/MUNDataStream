@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/d5a41e9c0ab141b2a65af866ece48dff/artifacts
+end_time: 1780543534201
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: d5a41e9c0ab141b2a65af866ece48dff
+run_name: bemused-wolf-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543494161
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/1ec4bc2006584038a81e612ef2102b0f/artifacts
+end_time: 1780507429965
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 1ec4bc2006584038a81e612ef2102b0f
+run_name: monumental-bat-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780507392668
+status: 3
+tags: []
+user_id: plgmaczynspwr

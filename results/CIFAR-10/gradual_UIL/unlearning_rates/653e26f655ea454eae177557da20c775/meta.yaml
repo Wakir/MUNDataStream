@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/653e26f655ea454eae177557da20c775/artifacts
+end_time: 1780564398161
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 653e26f655ea454eae177557da20c775
+run_name: judicious-bass-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780564360162
+status: 3
+tags: []
+user_id: plgmaczynspwr

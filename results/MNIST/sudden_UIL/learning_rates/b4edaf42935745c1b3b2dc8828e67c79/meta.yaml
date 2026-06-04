@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/752167732684536158/b4edaf42935745c1b3b2dc8828e67c79/artifacts
+end_time: 1780118348490
+entry_point_name: ''
+experiment_id: '752167732684536158'
+lifecycle_stage: active
+run_id: b4edaf42935745c1b3b2dc8828e67c79
+run_name: redolent-whale-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118311627
+status: 3
+tags: []
+user_id: plgmaczynspwr

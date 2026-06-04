@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/385b2c269d744014aa4c50301550edf2/artifacts
+end_time: 1780562495011
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 385b2c269d744014aa4c50301550edf2
+run_name: abrasive-dolphin-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562457037
+status: 3
+tags: []
+user_id: plgmaczynspwr

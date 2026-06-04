@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/7858ea4da4e245bcbcba99447b9a1784/artifacts
+end_time: 1780565084670
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 7858ea4da4e245bcbcba99447b9a1784
+run_name: luxuriant-skunk-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780565046224
+status: 3
+tags: []
+user_id: plgmaczynspwr

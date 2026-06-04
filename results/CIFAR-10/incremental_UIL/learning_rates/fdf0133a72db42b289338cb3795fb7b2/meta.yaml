@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/fdf0133a72db42b289338cb3795fb7b2/artifacts
+end_time: 1780548170564
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: fdf0133a72db42b289338cb3795fb7b2
+run_name: adaptable-cat-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548125871
+status: 3
+tags: []
+user_id: plgmaczynspwr

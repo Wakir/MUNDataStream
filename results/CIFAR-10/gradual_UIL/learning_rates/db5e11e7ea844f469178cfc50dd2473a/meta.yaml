@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/db5e11e7ea844f469178cfc50dd2473a/artifacts
+end_time: 1780524342012
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: db5e11e7ea844f469178cfc50dd2473a
+run_name: shivering-duck-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524303559
+status: 3
+tags: []
+user_id: plgmaczynspwr

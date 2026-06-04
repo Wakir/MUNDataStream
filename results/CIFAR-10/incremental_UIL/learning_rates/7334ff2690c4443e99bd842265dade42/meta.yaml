@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/7334ff2690c4443e99bd842265dade42/artifacts
+end_time: 1780548490258
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 7334ff2690c4443e99bd842265dade42
+run_name: bustling-cub-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548444167
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/099708f831da4bf4ab5b57eab6a93bf0/artifacts
+end_time: 1780284581600
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 099708f831da4bf4ab5b57eab6a93bf0
+run_name: intelligent-loon-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780282432767
+status: 3
+tags: []
+user_id: plgmaczynspwr

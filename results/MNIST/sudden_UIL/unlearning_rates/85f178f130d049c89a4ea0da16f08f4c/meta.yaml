@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/85f178f130d049c89a4ea0da16f08f4c/artifacts
+end_time: 1780129790441
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: 85f178f130d049c89a4ea0da16f08f4c
+run_name: secretive-vole-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780129750493
+status: 3
+tags: []
+user_id: plgmaczynspwr

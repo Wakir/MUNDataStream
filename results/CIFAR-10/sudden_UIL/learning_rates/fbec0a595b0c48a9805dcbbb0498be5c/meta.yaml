@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/fbec0a595b0c48a9805dcbbb0498be5c/artifacts
+end_time: 1780548470176
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: fbec0a595b0c48a9805dcbbb0498be5c
+run_name: illustrious-lark-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548432622
+status: 3
+tags: []
+user_id: plgmaczynspwr

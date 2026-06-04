@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/7974106b35f1415ca3f5f9886574c57a/artifacts
+end_time: 1780545267895
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 7974106b35f1415ca3f5f9886574c57a
+run_name: burly-mink-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545230791
+status: 3
+tags: []
+user_id: plgmaczynspwr

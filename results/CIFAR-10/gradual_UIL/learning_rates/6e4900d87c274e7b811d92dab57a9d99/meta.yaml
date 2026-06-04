@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/6e4900d87c274e7b811d92dab57a9d99/artifacts
+end_time: 1780523880437
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 6e4900d87c274e7b811d92dab57a9d99
+run_name: calm-deer-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523842087
+status: 3
+tags: []
+user_id: plgmaczynspwr

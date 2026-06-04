@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/d9b5757a251c41dc822c56779bb11db9/artifacts
+end_time: 1780517884695
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: d9b5757a251c41dc822c56779bb11db9
+run_name: luminous-colt-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517847344
+status: 3
+tags: []
+user_id: plgmaczynspwr

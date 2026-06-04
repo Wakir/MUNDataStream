@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/f34cf12e86f64a6cb56746d025d34a2d/artifacts
+end_time: 1780241809729
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: f34cf12e86f64a6cb56746d025d34a2d
+run_name: overjoyed-mouse-912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780241773238
+status: 3
+tags: []
+user_id: plgmaczynspwr

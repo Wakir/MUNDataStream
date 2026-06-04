@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/3efd0969279c4d89bf78b038e1c600ee/artifacts
+end_time: 1780288913091
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 3efd0969279c4d89bf78b038e1c600ee
+run_name: skittish-chimp-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780288381080
+status: 3
+tags: []
+user_id: plgmaczynspwr

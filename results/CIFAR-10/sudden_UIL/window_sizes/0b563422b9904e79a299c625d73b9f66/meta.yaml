@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns503/102781124370845359/0b563422b9904e79a299c625d73b9f66/artifacts
+end_time: 1780507355520
+entry_point_name: ''
+experiment_id: '102781124370845359'
+lifecycle_stage: active
+run_id: 0b563422b9904e79a299c625d73b9f66
+run_name: gregarious-crab-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780507318295
+status: 3
+tags: []
+user_id: plgmaczynspwr

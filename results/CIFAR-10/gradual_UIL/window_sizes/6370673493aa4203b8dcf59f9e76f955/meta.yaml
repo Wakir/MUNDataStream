@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/6370673493aa4203b8dcf59f9e76f955/artifacts
+end_time: 1780518958667
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: 6370673493aa4203b8dcf59f9e76f955
+run_name: valuable-trout-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780518920979
+status: 3
+tags: []
+user_id: plgmaczynspwr

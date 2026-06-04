@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/d58257246aa54aecb36a48f6430e2d17/artifacts
+end_time: 1780248808868
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: d58257246aa54aecb36a48f6430e2d17
+run_name: rogue-lark-646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780248772735
+status: 3
+tags: []
+user_id: plgmaczynspwr

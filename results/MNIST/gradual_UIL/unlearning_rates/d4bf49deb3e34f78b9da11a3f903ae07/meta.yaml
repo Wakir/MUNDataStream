@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/445877405336848117/d4bf49deb3e34f78b9da11a3f903ae07/artifacts
+end_time: 1780240713430
+entry_point_name: ''
+experiment_id: '445877405336848117'
+lifecycle_stage: active
+run_id: d4bf49deb3e34f78b9da11a3f903ae07
+run_name: delicate-stag-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780240679140
+status: 3
+tags: []
+user_id: plgmaczynspwr

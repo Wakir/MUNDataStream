@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns506/526028744030167079/e31cfca2dd3c4fe1924513edbf4f491a/artifacts
+end_time: 1780119610231
+entry_point_name: ''
+experiment_id: '526028744030167079'
+lifecycle_stage: active
+run_id: e31cfca2dd3c4fe1924513edbf4f491a
+run_name: calm-skink-215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780119570930
+status: 3
+tags: []
+user_id: plgmaczynspwr

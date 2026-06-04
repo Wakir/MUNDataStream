@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/5367de4f37d743eab2c5dd574239211b/artifacts
+end_time: 1780547141190
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: 5367de4f37d743eab2c5dd574239211b
+run_name: burly-bee-391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547103359
+status: 3
+tags: []
+user_id: plgmaczynspwr

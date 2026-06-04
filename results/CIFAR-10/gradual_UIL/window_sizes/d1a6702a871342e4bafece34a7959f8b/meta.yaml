@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/d1a6702a871342e4bafece34a7959f8b/artifacts
+end_time: 1780517810150
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: d1a6702a871342e4bafece34a7959f8b
+run_name: bright-vole-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517773048
+status: 3
+tags: []
+user_id: plgmaczynspwr

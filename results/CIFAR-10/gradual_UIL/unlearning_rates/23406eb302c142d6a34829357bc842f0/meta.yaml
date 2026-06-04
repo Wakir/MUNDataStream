@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/23406eb302c142d6a34829357bc842f0/artifacts
+end_time: 1780566725074
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 23406eb302c142d6a34829357bc842f0
+run_name: classy-shrew-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780566686736
+status: 3
+tags: []
+user_id: plgmaczynspwr

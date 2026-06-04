@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/dac5b06e2807493a8c6e73cd96a6df85/artifacts
+end_time: 1780551396596
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: dac5b06e2807493a8c6e73cd96a6df85
+run_name: fearless-sloth-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551355731
+status: 3
+tags: []
+user_id: plgmaczynspwr

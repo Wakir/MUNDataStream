@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/bfea8f656dcf4839acfc67102b3ac261/artifacts
+end_time: 1780118939474
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: bfea8f656dcf4839acfc67102b3ac261
+run_name: legendary-frog-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780118901829
+status: 3
+tags: []
+user_id: plgmaczynspwr

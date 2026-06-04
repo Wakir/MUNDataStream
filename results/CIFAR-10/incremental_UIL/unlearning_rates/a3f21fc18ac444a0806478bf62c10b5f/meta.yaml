@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/a3f21fc18ac444a0806478bf62c10b5f/artifacts
+end_time: 1780552292736
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: a3f21fc18ac444a0806478bf62c10b5f
+run_name: mercurial-roo-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552245988
+status: 3
+tags: []
+user_id: plgmaczynspwr

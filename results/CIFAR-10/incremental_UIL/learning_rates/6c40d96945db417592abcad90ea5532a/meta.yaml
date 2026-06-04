@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/6c40d96945db417592abcad90ea5532a/artifacts
+end_time: 1780545463640
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 6c40d96945db417592abcad90ea5532a
+run_name: gifted-newt-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545423880
+status: 3
+tags: []
+user_id: plgmaczynspwr

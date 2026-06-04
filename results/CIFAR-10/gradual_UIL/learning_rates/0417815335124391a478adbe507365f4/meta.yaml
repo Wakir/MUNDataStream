@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/0417815335124391a478adbe507365f4/artifacts
+end_time: 1780544947348
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 0417815335124391a478adbe507365f4
+run_name: debonair-steed-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544904818
+status: 3
+tags: []
+user_id: plgmaczynspwr

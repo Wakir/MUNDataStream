@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns502/714567052393999582/966a0cce40c84b279317d8a0fcc4ba23/artifacts
+end_time: 1780191665424
+entry_point_name: ''
+experiment_id: '714567052393999582'
+lifecycle_stage: active
+run_id: 966a0cce40c84b279317d8a0fcc4ba23
+run_name: flawless-stoat-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780191620111
+status: 3
+tags: []
+user_id: plgmaczynspwr

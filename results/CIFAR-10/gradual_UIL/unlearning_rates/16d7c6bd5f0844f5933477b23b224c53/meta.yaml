@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/16d7c6bd5f0844f5933477b23b224c53/artifacts
+end_time: 1780562457033
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: 16d7c6bd5f0844f5933477b23b224c53
+run_name: melodic-mole-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780562418985
+status: 3
+tags: []
+user_id: plgmaczynspwr

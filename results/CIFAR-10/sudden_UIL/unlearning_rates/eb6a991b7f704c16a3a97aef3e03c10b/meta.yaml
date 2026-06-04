@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/eb6a991b7f704c16a3a97aef3e03c10b/artifacts
+end_time: 1780525579839
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: eb6a991b7f704c16a3a97aef3e03c10b
+run_name: receptive-sloth-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525541556
+status: 3
+tags: []
+user_id: plgmaczynspwr

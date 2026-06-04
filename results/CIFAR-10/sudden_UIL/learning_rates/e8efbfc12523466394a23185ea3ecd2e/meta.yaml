@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/751766752266229638/e8efbfc12523466394a23185ea3ecd2e/artifacts
+end_time: 1780548018015
+entry_point_name: ''
+experiment_id: '751766752266229638'
+lifecycle_stage: active
+run_id: e8efbfc12523466394a23185ea3ecd2e
+run_name: rebellious-dove-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547980241
+status: 3
+tags: []
+user_id: plgmaczynspwr

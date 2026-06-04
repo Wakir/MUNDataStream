@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/6f039c21881a4e2683bac7b875a36d9e/artifacts
+end_time: 1780395699191
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 6f039c21881a4e2683bac7b875a36d9e
+run_name: enchanting-toad-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780394730881
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/b12b752aa2d14cb7aa534bf7be9819f4/artifacts
+end_time: 1780548034906
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: b12b752aa2d14cb7aa534bf7be9819f4
+run_name: merciful-skunk-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547991912
+status: 3
+tags: []
+user_id: plgmaczynspwr

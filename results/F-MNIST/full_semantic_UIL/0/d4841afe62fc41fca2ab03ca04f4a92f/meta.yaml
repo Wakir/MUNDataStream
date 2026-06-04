@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/d4841afe62fc41fca2ab03ca04f4a92f/artifacts
+end_time: 1780274312120
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: d4841afe62fc41fca2ab03ca04f4a92f
+run_name: rogue-foal-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780274259671
+status: 3
+tags: []
+user_id: plgmaczynspwr

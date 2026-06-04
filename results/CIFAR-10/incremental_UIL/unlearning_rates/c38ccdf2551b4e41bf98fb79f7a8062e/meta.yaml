@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/c38ccdf2551b4e41bf98fb79f7a8062e/artifacts
+end_time: 1780552427712
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: c38ccdf2551b4e41bf98fb79f7a8062e
+run_name: masked-smelt-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552382227
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/d71cf8f5a3154499ad264d876c2222d7/artifacts
+end_time: 1780373733537
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: d71cf8f5a3154499ad264d876c2222d7
+run_name: invincible-fox-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780372518447
+status: 3
+tags: []
+user_id: plgmaczynspwr

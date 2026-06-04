@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/6d09e8f6de8043b1bab9d96240287043/artifacts
+end_time: 1780281620978
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 6d09e8f6de8043b1bab9d96240287043
+run_name: youthful-mole-609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780281568940
+status: 3
+tags: []
+user_id: plgmaczynspwr

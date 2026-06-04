@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/05b99f276f42405fa214dcb56f449291/artifacts
+end_time: 1780238232013
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: 05b99f276f42405fa214dcb56f449291
+run_name: welcoming-bat-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780238197786
+status: 3
+tags: []
+user_id: plgmaczynspwr

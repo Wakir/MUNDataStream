@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/539270793408924238/e105bc5e890f46929e4bf50c430ae72b/artifacts
+end_time: 1780249976779
+entry_point_name: ''
+experiment_id: '539270793408924238'
+lifecycle_stage: active
+run_id: e105bc5e890f46929e4bf50c430ae72b
+run_name: monumental-squid-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780249940264
+status: 3
+tags: []
+user_id: plgmaczynspwr

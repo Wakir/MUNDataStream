@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/229998478497768262/7aaa13a33eaa49cfb9715e489293be4d/artifacts
+end_time: 1780381062572
+entry_point_name: ''
+experiment_id: '229998478497768262'
+lifecycle_stage: active
+run_id: 7aaa13a33eaa49cfb9715e489293be4d
+run_name: unequaled-mouse-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780380438826
+status: 3
+tags: []
+user_id: plgmaczynspwr

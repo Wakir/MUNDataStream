@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602_2/915626349192667294/91ba82b459644b00a91b0a2c2934bbd3/artifacts
+end_time: 1780383095487
+entry_point_name: ''
+experiment_id: '915626349192667294'
+lifecycle_stage: active
+run_id: 91ba82b459644b00a91b0a2c2934bbd3
+run_name: ambitious-fly-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780382060717
+status: 3
+tags: []
+user_id: plgmaczynspwr

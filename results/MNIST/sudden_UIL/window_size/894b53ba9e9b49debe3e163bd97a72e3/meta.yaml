@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns505/837377287474883666/894b53ba9e9b49debe3e163bd97a72e3/artifacts
+end_time: 1780117659480
+entry_point_name: ''
+experiment_id: '837377287474883666'
+lifecycle_stage: active
+run_id: 894b53ba9e9b49debe3e163bd97a72e3
+run_name: caring-snipe-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780117623525
+status: 3
+tags: []
+user_id: plgmaczynspwr

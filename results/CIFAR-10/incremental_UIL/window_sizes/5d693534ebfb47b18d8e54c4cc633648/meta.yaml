@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/5d693534ebfb47b18d8e54c4cc633648/artifacts
+end_time: 1780528391906
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 5d693534ebfb47b18d8e54c4cc633648
+run_name: welcoming-gull-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528355474
+status: 3
+tags: []
+user_id: plgmaczynspwr

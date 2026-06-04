@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/39c2b9a1c1af4c96ac97e93ab18b92ba/artifacts
+end_time: 1780556577030
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 39c2b9a1c1af4c96ac97e93ab18b92ba
+run_name: righteous-moth-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556530393
+status: 3
+tags: []
+user_id: plgmaczynspwr

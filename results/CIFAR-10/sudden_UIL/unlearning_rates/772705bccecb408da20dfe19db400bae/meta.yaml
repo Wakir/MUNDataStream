@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/772705bccecb408da20dfe19db400bae/artifacts
+end_time: 1780522039538
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: 772705bccecb408da20dfe19db400bae
+run_name: flawless-panda-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780521999722
+status: 3
+tags: []
+user_id: plgmaczynspwr

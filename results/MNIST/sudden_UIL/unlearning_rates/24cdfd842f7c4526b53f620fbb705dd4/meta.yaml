@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns504/298382929841153001/24cdfd842f7c4526b53f620fbb705dd4/artifacts
+end_time: 1780126587183
+entry_point_name: ''
+experiment_id: '298382929841153001'
+lifecycle_stage: active
+run_id: 24cdfd842f7c4526b53f620fbb705dd4
+run_name: sedate-midge-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780126547859
+status: 3
+tags: []
+user_id: plgmaczynspwr

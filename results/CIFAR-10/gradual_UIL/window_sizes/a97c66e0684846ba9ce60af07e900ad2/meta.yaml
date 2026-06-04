@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns6011/170656065438032757/a97c66e0684846ba9ce60af07e900ad2/artifacts
+end_time: 1780517773044
+entry_point_name: ''
+experiment_id: '170656065438032757'
+lifecycle_stage: active
+run_id: a97c66e0684846ba9ce60af07e900ad2
+run_name: adventurous-kite-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780517736089
+status: 3
+tags: []
+user_id: plgmaczynspwr

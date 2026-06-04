@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/89c7cdd8e0044fb69584873dcd860a49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 89c7cdd8e0044fb69584873dcd860a49
+run_name: victorious-asp-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780337113934
+status: 1
+tags: []
+user_id: plgmaczynspwr

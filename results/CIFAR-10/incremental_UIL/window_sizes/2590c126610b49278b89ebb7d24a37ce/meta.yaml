@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/721967343226962875/2590c126610b49278b89ebb7d24a37ce/artifacts
+end_time: 1780527994907
+entry_point_name: ''
+experiment_id: '721967343226962875'
+lifecycle_stage: active
+run_id: 2590c126610b49278b89ebb7d24a37ce
+run_name: stately-ray-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527959360
+status: 3
+tags: []
+user_id: plgmaczynspwr

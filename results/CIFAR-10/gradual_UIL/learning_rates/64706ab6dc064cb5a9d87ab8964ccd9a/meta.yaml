@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/64706ab6dc064cb5a9d87ab8964ccd9a/artifacts
+end_time: 1780525114785
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 64706ab6dc064cb5a9d87ab8964ccd9a
+run_name: polite-bird-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525075969
+status: 3
+tags: []
+user_id: plgmaczynspwr

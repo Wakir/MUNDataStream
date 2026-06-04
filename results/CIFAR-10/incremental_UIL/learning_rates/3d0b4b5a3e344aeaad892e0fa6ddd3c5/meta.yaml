@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701/903181531140195936/3d0b4b5a3e344aeaad892e0fa6ddd3c5/artifacts
+end_time: 1780549386914
+entry_point_name: ''
+experiment_id: '903181531140195936'
+lifecycle_stage: active
+run_id: 3d0b4b5a3e344aeaad892e0fa6ddd3c5
+run_name: intrigued-moose-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549343621
+status: 3
+tags: []
+user_id: plgmaczynspwr

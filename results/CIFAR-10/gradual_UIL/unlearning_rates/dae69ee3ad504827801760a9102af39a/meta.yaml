@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/384267233835474024/dae69ee3ad504827801760a9102af39a/artifacts
+end_time: 1780567145567
+entry_point_name: ''
+experiment_id: '384267233835474024'
+lifecycle_stage: active
+run_id: dae69ee3ad504827801760a9102af39a
+run_name: suave-jay-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780567107884
+status: 3
+tags: []
+user_id: plgmaczynspwr

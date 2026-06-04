@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501/776296785470498507/facd0946885c4ba48850bbe527d47c18/artifacts
+end_time: 1780527875355
+entry_point_name: ''
+experiment_id: '776296785470498507'
+lifecycle_stage: active
+run_id: facd0946885c4ba48850bbe527d47c18
+run_name: whimsical-steed-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527836512
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601/835294233577725937/3aa20de5af384c17913af9c46df60fae/artifacts
+end_time: 1780524496717
+entry_point_name: ''
+experiment_id: '835294233577725937'
+lifecycle_stage: active
+run_id: 3aa20de5af384c17913af9c46df60fae
+run_name: salty-mouse-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780524457921
+status: 3
+tags: []
+user_id: plgmaczynspwr
