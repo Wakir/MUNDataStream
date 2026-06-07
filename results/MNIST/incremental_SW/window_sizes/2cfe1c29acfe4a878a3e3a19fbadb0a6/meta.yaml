@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/2cfe1c29acfe4a878a3e3a19fbadb0a6/artifacts
+end_time: 1780698470284
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 2cfe1c29acfe4a878a3e3a19fbadb0a6
+run_name: silent-frog-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282785
+status: 3
+tags: []
+user_id: root

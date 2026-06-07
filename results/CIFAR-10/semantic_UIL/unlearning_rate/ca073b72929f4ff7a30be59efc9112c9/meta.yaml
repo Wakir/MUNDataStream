@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ca073b72929f4ff7a30be59efc9112c9/artifacts
+end_time: 1780532021835
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ca073b72929f4ff7a30be59efc9112c9
+run_name: bold-frog-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531986837
+status: 3
+tags: []
+user_id: plgmaczynspwr

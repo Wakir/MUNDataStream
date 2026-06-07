@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/ebe5fd6a86fb448ea178e208a5d6faf2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: ebe5fd6a86fb448ea178e208a5d6faf2
+run_name: capable-shoat-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780681917941
+status: 1
+tags: []
+user_id: root

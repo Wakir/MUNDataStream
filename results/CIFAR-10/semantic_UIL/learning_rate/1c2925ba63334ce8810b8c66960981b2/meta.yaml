@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1c2925ba63334ce8810b8c66960981b2/artifacts
+end_time: 1780546916789
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1c2925ba63334ce8810b8c66960981b2
+run_name: redolent-ox-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546878645
+status: 3
+tags: []
+user_id: plgmaczynspwr

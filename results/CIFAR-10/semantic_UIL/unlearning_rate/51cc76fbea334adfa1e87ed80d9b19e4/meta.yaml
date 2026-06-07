@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/51cc76fbea334adfa1e87ed80d9b19e4/artifacts
+end_time: 1780536908147
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 51cc76fbea334adfa1e87ed80d9b19e4
+run_name: judicious-stag-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536873004
+status: 3
+tags: []
+user_id: plgmaczynspwr

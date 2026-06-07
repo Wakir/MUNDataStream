@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/96c34e0025fd441c9060609ce65c55be/artifacts
+end_time: 1780711690720
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 96c34e0025fd441c9060609ce65c55be
+run_name: receptive-goose-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709642450
+status: 3
+tags: []
+user_id: root

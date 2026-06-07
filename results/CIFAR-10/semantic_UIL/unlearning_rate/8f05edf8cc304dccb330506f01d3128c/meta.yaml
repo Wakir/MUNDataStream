@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8f05edf8cc304dccb330506f01d3128c/artifacts
+end_time: 1780529790665
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8f05edf8cc304dccb330506f01d3128c
+run_name: delicate-loon-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529755885
+status: 3
+tags: []
+user_id: plgmaczynspwr

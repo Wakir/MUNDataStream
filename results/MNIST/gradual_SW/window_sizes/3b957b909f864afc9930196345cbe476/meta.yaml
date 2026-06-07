@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/3b957b909f864afc9930196345cbe476/artifacts
+end_time: 1780720277406
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 3b957b909f864afc9930196345cbe476
+run_name: adorable-lynx-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780717089244
+status: 3
+tags: []
+user_id: root

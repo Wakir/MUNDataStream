@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/45c091c60e874a9585a586cb6cf1b8bd/artifacts
+end_time: 1780525929648
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 45c091c60e874a9585a586cb6cf1b8bd
+run_name: gaudy-ox-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525894530
+status: 3
+tags: []
+user_id: plgmaczynspwr

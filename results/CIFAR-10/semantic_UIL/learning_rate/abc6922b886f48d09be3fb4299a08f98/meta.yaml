@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/abc6922b886f48d09be3fb4299a08f98/artifacts
+end_time: 1780541194468
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: abc6922b886f48d09be3fb4299a08f98
+run_name: clumsy-grouse-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541158942
+status: 3
+tags: []
+user_id: plgmaczynspwr

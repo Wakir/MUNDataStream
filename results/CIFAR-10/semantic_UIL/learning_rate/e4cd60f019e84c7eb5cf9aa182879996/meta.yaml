@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e4cd60f019e84c7eb5cf9aa182879996/artifacts
+end_time: 1780545977440
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e4cd60f019e84c7eb5cf9aa182879996
+run_name: vaunted-zebra-838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545939697
+status: 3
+tags: []
+user_id: plgmaczynspwr

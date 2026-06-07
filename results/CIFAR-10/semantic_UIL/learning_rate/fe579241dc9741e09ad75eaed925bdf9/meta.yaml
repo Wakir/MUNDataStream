@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fe579241dc9741e09ad75eaed925bdf9/artifacts
+end_time: 1780553580805
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fe579241dc9741e09ad75eaed925bdf9
+run_name: big-snipe-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553545609
+status: 3
+tags: []
+user_id: plgmaczynspwr

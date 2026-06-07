@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/162bb3c99221475195ebfb338154930d/artifacts
+end_time: 1780535992385
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 162bb3c99221475195ebfb338154930d
+run_name: gifted-snake-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535956895
+status: 3
+tags: []
+user_id: plgmaczynspwr

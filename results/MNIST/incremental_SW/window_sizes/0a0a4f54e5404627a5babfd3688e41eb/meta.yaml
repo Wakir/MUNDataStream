@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/0a0a4f54e5404627a5babfd3688e41eb/artifacts
+end_time: 1780704775032
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 0a0a4f54e5404627a5babfd3688e41eb
+run_name: legendary-crab-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282552
+status: 3
+tags: []
+user_id: root

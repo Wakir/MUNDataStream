@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns803/822932791729974551/d2d29a36c6c84ae4a0ab2934193b563b/artifacts
+end_time: 1780824310078
+entry_point_name: ''
+experiment_id: '822932791729974551'
+lifecycle_stage: active
+run_id: d2d29a36c6c84ae4a0ab2934193b563b
+run_name: SW_vs_UIL_Comparison
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780818776078
+status: 4
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/826512a8cca24a72a40899fb775f15b8/artifacts
+end_time: 1780535146911
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 826512a8cca24a72a40899fb775f15b8
+run_name: exultant-fawn-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535111836
+status: 3
+tags: []
+user_id: plgmaczynspwr

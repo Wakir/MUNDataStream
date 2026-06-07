@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/0e931d6521da412d99ac887854d72a73/artifacts
+end_time: 1780698198108
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 0e931d6521da412d99ac887854d72a73
+run_name: sincere-jay-297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572409
+status: 3
+tags: []
+user_id: root

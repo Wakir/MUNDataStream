@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/3145a1aa1ebe4d3a9747a2f46c1547eb/artifacts
+end_time: 1780698472519
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 3145a1aa1ebe4d3a9747a2f46c1547eb
+run_name: casual-mole-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282517
+status: 3
+tags: []
+user_id: root

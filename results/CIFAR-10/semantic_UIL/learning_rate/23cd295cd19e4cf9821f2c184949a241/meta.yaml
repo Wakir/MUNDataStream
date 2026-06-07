@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/23cd295cd19e4cf9821f2c184949a241/artifacts
+end_time: 1780551922203
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 23cd295cd19e4cf9821f2c184949a241
+run_name: loud-pug-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551887102
+status: 3
+tags: []
+user_id: plgmaczynspwr

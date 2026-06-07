@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2fc2ffdb454a486e8ce45b03042f5a09/artifacts
+end_time: 1780535746771
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2fc2ffdb454a486e8ce45b03042f5a09
+run_name: vaunted-squirrel-658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535711994
+status: 3
+tags: []
+user_id: plgmaczynspwr

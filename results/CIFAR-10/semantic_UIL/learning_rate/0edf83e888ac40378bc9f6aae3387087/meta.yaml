@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0edf83e888ac40378bc9f6aae3387087/artifacts
+end_time: 1780545645684
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0edf83e888ac40378bc9f6aae3387087
+run_name: dapper-crab-587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545609843
+status: 3
+tags: []
+user_id: plgmaczynspwr

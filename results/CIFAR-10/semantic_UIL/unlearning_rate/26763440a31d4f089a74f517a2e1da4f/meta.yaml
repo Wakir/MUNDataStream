@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/26763440a31d4f089a74f517a2e1da4f/artifacts
+end_time: 1780540157754
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 26763440a31d4f089a74f517a2e1da4f
+run_name: tasteful-calf-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540122192
+status: 3
+tags: []
+user_id: plgmaczynspwr

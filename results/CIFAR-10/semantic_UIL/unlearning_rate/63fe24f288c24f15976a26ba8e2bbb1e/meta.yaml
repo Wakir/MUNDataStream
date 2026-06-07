@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/63fe24f288c24f15976a26ba8e2bbb1e/artifacts
+end_time: 1780527775278
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 63fe24f288c24f15976a26ba8e2bbb1e
+run_name: defiant-fish-472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527740689
+status: 3
+tags: []
+user_id: plgmaczynspwr

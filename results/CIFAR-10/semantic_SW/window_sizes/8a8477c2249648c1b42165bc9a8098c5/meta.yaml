@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/8a8477c2249648c1b42165bc9a8098c5/artifacts
+end_time: 1780703093909
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 8a8477c2249648c1b42165bc9a8098c5
+run_name: bustling-squid-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780700969011
+status: 3
+tags: []
+user_id: root

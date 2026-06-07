@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/94415e3254aa4ccf817ddbd4c1bd125b/artifacts
+end_time: 1780553899667
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 94415e3254aa4ccf817ddbd4c1bd125b
+run_name: stylish-dog-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553864529
+status: 3
+tags: []
+user_id: plgmaczynspwr

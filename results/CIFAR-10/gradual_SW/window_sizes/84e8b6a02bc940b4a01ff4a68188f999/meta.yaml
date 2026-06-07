@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/84e8b6a02bc940b4a01ff4a68188f999/artifacts
+end_time: 1780589451766
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: 84e8b6a02bc940b4a01ff4a68188f999
+run_name: lyrical-goat-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780588608218
+status: 3
+tags: []
+user_id: plgmaczynspwr

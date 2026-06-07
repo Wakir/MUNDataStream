@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/876e5c3cb730450f8dde9968b82f7717/artifacts
+end_time: 1780545609839
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 876e5c3cb730450f8dde9968b82f7717
+run_name: overjoyed-turtle-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545574221
+status: 3
+tags: []
+user_id: plgmaczynspwr

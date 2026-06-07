@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/487c71785c144ef582d1a3c7125c9ac5/artifacts
+end_time: 1780530972459
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 487c71785c144ef582d1a3c7125c9ac5
+run_name: colorful-owl-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530937616
+status: 3
+tags: []
+user_id: plgmaczynspwr

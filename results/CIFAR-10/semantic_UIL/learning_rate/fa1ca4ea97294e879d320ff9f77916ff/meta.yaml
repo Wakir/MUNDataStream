@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fa1ca4ea97294e879d320ff9f77916ff/artifacts
+end_time: 1780545392846
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fa1ca4ea97294e879d320ff9f77916ff
+run_name: righteous-koi-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545357270
+status: 3
+tags: []
+user_id: plgmaczynspwr

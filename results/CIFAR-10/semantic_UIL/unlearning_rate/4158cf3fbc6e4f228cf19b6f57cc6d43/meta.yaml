@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4158cf3fbc6e4f228cf19b6f57cc6d43/artifacts
+end_time: 1780527671389
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4158cf3fbc6e4f228cf19b6f57cc6d43
+run_name: enchanting-lark-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527636749
+status: 3
+tags: []
+user_id: plgmaczynspwr

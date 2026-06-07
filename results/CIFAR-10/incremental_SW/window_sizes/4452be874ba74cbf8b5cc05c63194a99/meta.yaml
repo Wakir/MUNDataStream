@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/538833447499745968/4452be874ba74cbf8b5cc05c63194a99/artifacts
+end_time: 1780583269327
+entry_point_name: ''
+experiment_id: '538833447499745968'
+lifecycle_stage: active
+run_id: 4452be874ba74cbf8b5cc05c63194a99
+run_name: luxuriant-flea-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780582732046
+status: 3
+tags: []
+user_id: plgmaczynspwr

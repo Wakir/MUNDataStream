@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e29136c1a78248d8ba87bb20812f00f5/artifacts
+end_time: 1780541087388
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e29136c1a78248d8ba87bb20812f00f5
+run_name: selective-ram-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541051817
+status: 3
+tags: []
+user_id: plgmaczynspwr

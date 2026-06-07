@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7a154ca8a41d4a61867f66fbc73af78b/artifacts
+end_time: 1780537859881
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7a154ca8a41d4a61867f66fbc73af78b
+run_name: adorable-bug-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780537824656
+status: 3
+tags: []
+user_id: plgmaczynspwr

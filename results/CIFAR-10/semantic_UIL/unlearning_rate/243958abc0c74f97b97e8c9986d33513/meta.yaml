@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/243958abc0c74f97b97e8c9986d33513/artifacts
+end_time: 1780536873000
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 243958abc0c74f97b97e8c9986d33513
+run_name: melodic-panda-960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536837668
+status: 3
+tags: []
+user_id: plgmaczynspwr

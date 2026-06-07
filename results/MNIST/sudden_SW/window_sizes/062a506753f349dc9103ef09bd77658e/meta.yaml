@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/062a506753f349dc9103ef09bd77658e/artifacts
+end_time: 1780698944186
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: 062a506753f349dc9103ef09bd77658e
+run_name: kindly-deer-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780698520965
+status: 3
+tags: []
+user_id: plgmaczynspwr

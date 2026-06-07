@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/ed8b4a372fc34b49aa5b27844d7e9809/artifacts
+end_time: 1780267059350
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: ed8b4a372fc34b49aa5b27844d7e9809
+run_name: gregarious-colt-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267020042
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/367635d9b96d4fe489c731a02f7c4e4d/artifacts
+end_time: 1780525686145
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 367635d9b96d4fe489c731a02f7c4e4d
+run_name: defiant-mole-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525651410
+status: 3
+tags: []
+user_id: plgmaczynspwr

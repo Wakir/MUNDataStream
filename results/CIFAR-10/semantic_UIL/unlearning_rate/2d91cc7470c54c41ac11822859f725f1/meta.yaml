@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2d91cc7470c54c41ac11822859f725f1/artifacts
+end_time: 1780535429906
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2d91cc7470c54c41ac11822859f725f1
+run_name: magnificent-ant-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535394608
+status: 3
+tags: []
+user_id: plgmaczynspwr

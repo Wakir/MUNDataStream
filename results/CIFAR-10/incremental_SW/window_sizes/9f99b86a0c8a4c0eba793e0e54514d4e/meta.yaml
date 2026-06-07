@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/9f99b86a0c8a4c0eba793e0e54514d4e/artifacts
+end_time: 1780702254467
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 9f99b86a0c8a4c0eba793e0e54514d4e
+run_name: suave-ray-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780700254668
+status: 3
+tags: []
+user_id: root

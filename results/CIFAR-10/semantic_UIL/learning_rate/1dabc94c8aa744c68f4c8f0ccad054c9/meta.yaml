@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1dabc94c8aa744c68f4c8f0ccad054c9/artifacts
+end_time: 1780542911218
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1dabc94c8aa744c68f4c8f0ccad054c9
+run_name: aged-gull-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542875050
+status: 3
+tags: []
+user_id: plgmaczynspwr

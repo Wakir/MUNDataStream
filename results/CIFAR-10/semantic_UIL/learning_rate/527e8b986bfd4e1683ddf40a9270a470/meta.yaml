@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/527e8b986bfd4e1683ddf40a9270a470/artifacts
+end_time: 1780544026778
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 527e8b986bfd4e1683ddf40a9270a470
+run_name: peaceful-frog-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543990397
+status: 3
+tags: []
+user_id: plgmaczynspwr

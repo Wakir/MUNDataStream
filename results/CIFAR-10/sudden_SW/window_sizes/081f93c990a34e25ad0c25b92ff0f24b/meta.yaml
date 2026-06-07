@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/081f93c990a34e25ad0c25b92ff0f24b/artifacts
+end_time: 1780573498224
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 081f93c990a34e25ad0c25b92ff0f24b
+run_name: flawless-skunk-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780573077721
+status: 3
+tags: []
+user_id: plgmaczynspwr

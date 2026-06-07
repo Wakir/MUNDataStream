@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fb466d58ecd1472296b688586cdff241/artifacts
+end_time: 1780526140002
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fb466d58ecd1472296b688586cdff241
+run_name: luxuriant-dog-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526105082
+status: 3
+tags: []
+user_id: plgmaczynspwr

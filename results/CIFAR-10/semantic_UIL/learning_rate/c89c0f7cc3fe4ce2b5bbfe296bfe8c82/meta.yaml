@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c89c0f7cc3fe4ce2b5bbfe296bfe8c82/artifacts
+end_time: 1780554358233
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c89c0f7cc3fe4ce2b5bbfe296bfe8c82
+run_name: carefree-grub-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554322776
+status: 3
+tags: []
+user_id: plgmaczynspwr

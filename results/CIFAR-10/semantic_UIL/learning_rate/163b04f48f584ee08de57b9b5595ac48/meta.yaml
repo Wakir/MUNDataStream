@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/163b04f48f584ee08de57b9b5595ac48/artifacts
+end_time: 1780548362606
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 163b04f48f584ee08de57b9b5595ac48
+run_name: bedecked-quail-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548327044
+status: 3
+tags: []
+user_id: plgmaczynspwr

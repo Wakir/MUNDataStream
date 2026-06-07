@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/538833447499745968/0ec5ffc5949848ee95e5099b1bc830e8/artifacts
+end_time: 1780588358231
+entry_point_name: ''
+experiment_id: '538833447499745968'
+lifecycle_stage: active
+run_id: 0ec5ffc5949848ee95e5099b1bc830e8
+run_name: amazing-jay-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780587523393
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a7b161cb89934730b3dc9ce0086e2c57/artifacts
+end_time: 1780534619724
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a7b161cb89934730b3dc9ce0086e2c57
+run_name: illustrious-ray-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534584546
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/071f8c99bb2044a1b67f0f8615bcee62/artifacts
+end_time: 1780705546078
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 071f8c99bb2044a1b67f0f8615bcee62
+run_name: bittersweet-foal-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701603536
+status: 3
+tags: []
+user_id: root

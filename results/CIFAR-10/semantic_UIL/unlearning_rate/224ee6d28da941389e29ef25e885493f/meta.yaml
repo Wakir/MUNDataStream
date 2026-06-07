@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/224ee6d28da941389e29ef25e885493f/artifacts
+end_time: 1780526796947
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 224ee6d28da941389e29ef25e885493f
+run_name: nervous-ape-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526762417
+status: 3
+tags: []
+user_id: plgmaczynspwr

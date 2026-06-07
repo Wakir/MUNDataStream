@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/e673b97dd4224b85b33e9f39ac111fad/artifacts
+end_time: 1780275242126
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: e673b97dd4224b85b33e9f39ac111fad
+run_name: invincible-calf-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780275192146
+status: 3
+tags: []
+user_id: plgmaczynspwr

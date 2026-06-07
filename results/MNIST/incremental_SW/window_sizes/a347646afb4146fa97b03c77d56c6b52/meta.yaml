@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/a347646afb4146fa97b03c77d56c6b52/artifacts
+end_time: 1780707792962
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: a347646afb4146fa97b03c77d56c6b52
+run_name: honorable-crane-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282926
+status: 3
+tags: []
+user_id: root

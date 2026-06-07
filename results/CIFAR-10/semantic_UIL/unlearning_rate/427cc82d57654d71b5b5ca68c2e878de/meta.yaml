@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/427cc82d57654d71b5b5ca68c2e878de/artifacts
+end_time: 1780536837664
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 427cc82d57654d71b5b5ca68c2e878de
+run_name: illustrious-hawk-574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536802228
+status: 3
+tags: []
+user_id: plgmaczynspwr

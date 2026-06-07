@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/95792441085d47288c92db0eca4b8d93/artifacts
+end_time: 1780708824465
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 95792441085d47288c92db0eca4b8d93
+run_name: whimsical-shrimp-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780704934320
+status: 3
+tags: []
+user_id: root

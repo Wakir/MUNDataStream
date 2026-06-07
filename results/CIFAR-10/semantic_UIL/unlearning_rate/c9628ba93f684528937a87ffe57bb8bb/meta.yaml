@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c9628ba93f684528937a87ffe57bb8bb/artifacts
+end_time: 1780529651424
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c9628ba93f684528937a87ffe57bb8bb
+run_name: masked-midge-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529617004
+status: 3
+tags: []
+user_id: plgmaczynspwr

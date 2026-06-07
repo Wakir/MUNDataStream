@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4252591748dc48e99330fa97c78812de/artifacts
+end_time: 1780527491861
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4252591748dc48e99330fa97c78812de
+run_name: stately-wolf-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527457295
+status: 3
+tags: []
+user_id: plgmaczynspwr

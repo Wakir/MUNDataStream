@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/1074e53dddda49c4a2940d4aaab47ae5/artifacts
+end_time: 1780721682298
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 1074e53dddda49c4a2940d4aaab47ae5
+run_name: masked-rook-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719738474
+status: 3
+tags: []
+user_id: root

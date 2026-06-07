@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2ca62fba9f7f4ffc83a8a0449d8ab236/artifacts
+end_time: 1780561058074
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2ca62fba9f7f4ffc83a8a0449d8ab236
+run_name: debonair-bird-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561022303
+status: 3
+tags: []
+user_id: plgmaczynspwr

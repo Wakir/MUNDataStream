@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e650d5ee13824ad7942a196c08cce6dd/artifacts
+end_time: 1780526348688
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e650d5ee13824ad7942a196c08cce6dd
+run_name: merciful-cod-911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526314097
+status: 3
+tags: []
+user_id: plgmaczynspwr

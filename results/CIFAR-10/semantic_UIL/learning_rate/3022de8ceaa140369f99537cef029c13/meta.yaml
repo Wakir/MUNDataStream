@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3022de8ceaa140369f99537cef029c13/artifacts
+end_time: 1780546765491
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3022de8ceaa140369f99537cef029c13
+run_name: lyrical-horse-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546728151
+status: 3
+tags: []
+user_id: plgmaczynspwr

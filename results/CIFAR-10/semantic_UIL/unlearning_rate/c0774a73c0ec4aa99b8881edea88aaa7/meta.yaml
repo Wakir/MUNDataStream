@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c0774a73c0ec4aa99b8881edea88aaa7/artifacts
+end_time: 1780529859874
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c0774a73c0ec4aa99b8881edea88aaa7
+run_name: rebellious-wren-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529825230
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/17d8f311b8424584a4508770ecfa6987/artifacts
+end_time: 1780531250892
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 17d8f311b8424584a4508770ecfa6987
+run_name: exultant-ram-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531215929
+status: 3
+tags: []
+user_id: plgmaczynspwr

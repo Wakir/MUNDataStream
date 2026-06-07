@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e593acb259c54717bdef959d869388f6/artifacts
+end_time: 1780532302432
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e593acb259c54717bdef959d869388f6
+run_name: skittish-grouse-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532267466
+status: 3
+tags: []
+user_id: plgmaczynspwr

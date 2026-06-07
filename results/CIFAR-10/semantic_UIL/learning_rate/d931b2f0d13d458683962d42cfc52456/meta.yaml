@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d931b2f0d13d458683962d42cfc52456/artifacts
+end_time: 1780551218773
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d931b2f0d13d458683962d42cfc52456
+run_name: delicate-fly-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551183736
+status: 3
+tags: []
+user_id: plgmaczynspwr

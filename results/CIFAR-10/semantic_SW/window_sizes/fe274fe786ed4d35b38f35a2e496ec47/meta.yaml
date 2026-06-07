@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/fe274fe786ed4d35b38f35a2e496ec47/artifacts
+end_time: 1780704171575
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: fe274fe786ed4d35b38f35a2e496ec47
+run_name: loud-moose-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780702817110
+status: 3
+tags: []
+user_id: root

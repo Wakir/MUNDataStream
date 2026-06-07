@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e7b7b769ea2f4a429c8cc5aa2fc414c0/artifacts
+end_time: 1780539874382
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e7b7b769ea2f4a429c8cc5aa2fc414c0
+run_name: big-bird-80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780539839231
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/26044ed6beca4219ab96f8f859b59351/artifacts
+end_time: 1780711689241
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 26044ed6beca4219ab96f8f859b59351
+run_name: peaceful-shrike-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709642394
+status: 3
+tags: []
+user_id: root

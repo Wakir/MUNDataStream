@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fd990eb75cd04c718b47d0e834085d03/artifacts
+end_time: 1780559045004
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fd990eb75cd04c718b47d0e834085d03
+run_name: serious-whale-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780559011483
+status: 3
+tags: []
+user_id: plgmaczynspwr

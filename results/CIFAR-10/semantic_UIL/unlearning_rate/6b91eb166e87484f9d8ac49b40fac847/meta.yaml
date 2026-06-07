@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/6b91eb166e87484f9d8ac49b40fac847/artifacts
+end_time: 1780540086842
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 6b91eb166e87484f9d8ac49b40fac847
+run_name: resilient-mole-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540051471
+status: 3
+tags: []
+user_id: plgmaczynspwr

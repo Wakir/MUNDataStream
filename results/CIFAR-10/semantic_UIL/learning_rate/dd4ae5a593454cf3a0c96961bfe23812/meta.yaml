@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/dd4ae5a593454cf3a0c96961bfe23812/artifacts
+end_time: 1780542587074
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: dd4ae5a593454cf3a0c96961bfe23812
+run_name: judicious-mare-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542551039
+status: 3
+tags: []
+user_id: plgmaczynspwr

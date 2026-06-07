@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/538833447499745968/8db4b26131fd4035a2097f24be995097/artifacts
+end_time: 1780575771759
+entry_point_name: ''
+experiment_id: '538833447499745968'
+lifecycle_stage: active
+run_id: 8db4b26131fd4035a2097f24be995097
+run_name: lyrical-eel-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780575223523
+status: 3
+tags: []
+user_id: plgmaczynspwr

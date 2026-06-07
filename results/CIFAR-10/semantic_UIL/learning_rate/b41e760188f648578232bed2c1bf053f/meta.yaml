@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b41e760188f648578232bed2c1bf053f/artifacts
+end_time: 1780552732217
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b41e760188f648578232bed2c1bf053f
+run_name: bouncy-rook-661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552697040
+status: 3
+tags: []
+user_id: plgmaczynspwr

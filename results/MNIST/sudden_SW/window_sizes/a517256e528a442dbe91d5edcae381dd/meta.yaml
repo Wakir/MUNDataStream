@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/a517256e528a442dbe91d5edcae381dd/artifacts
+end_time: 1780699367742
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: a517256e528a442dbe91d5edcae381dd
+run_name: receptive-snake-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780698944192
+status: 3
+tags: []
+user_id: plgmaczynspwr

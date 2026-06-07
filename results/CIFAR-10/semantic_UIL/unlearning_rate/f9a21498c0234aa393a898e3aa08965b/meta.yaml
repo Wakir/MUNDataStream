@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f9a21498c0234aa393a898e3aa08965b/artifacts
+end_time: 1780534830663
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f9a21498c0234aa393a898e3aa08965b
+run_name: burly-snipe-791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534794731
+status: 3
+tags: []
+user_id: plgmaczynspwr

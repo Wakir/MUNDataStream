@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/ac98b2c320e84fe29a1d6afc5fb10afc/artifacts
+end_time: 1780582935490
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: ac98b2c320e84fe29a1d6afc5fb10afc
+run_name: handsome-rook-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780582200862
+status: 3
+tags: []
+user_id: plgmaczynspwr

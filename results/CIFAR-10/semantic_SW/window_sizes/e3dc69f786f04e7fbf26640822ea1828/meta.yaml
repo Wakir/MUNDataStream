@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/e3dc69f786f04e7fbf26640822ea1828/artifacts
+end_time: 1780702741156
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: e3dc69f786f04e7fbf26640822ea1828
+run_name: bustling-gnu-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780698708045
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f2582bb37a5b4cec9d7c4b3d4b51f36f/artifacts
+end_time: 1780557212975
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f2582bb37a5b4cec9d7c4b3d4b51f36f
+run_name: bittersweet-moth-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557179264
+status: 3
+tags: []
+user_id: plgmaczynspwr

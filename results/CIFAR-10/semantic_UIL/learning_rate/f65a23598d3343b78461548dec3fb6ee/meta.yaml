@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f65a23598d3343b78461548dec3fb6ee/artifacts
+end_time: 1780544889894
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f65a23598d3343b78461548dec3fb6ee
+run_name: youthful-sloth-302
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544854343
+status: 3
+tags: []
+user_id: plgmaczynspwr

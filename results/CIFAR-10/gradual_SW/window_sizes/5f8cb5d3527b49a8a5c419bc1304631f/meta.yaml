@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/5f8cb5d3527b49a8a5c419bc1304631f/artifacts
+end_time: 1780583731293
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: 5f8cb5d3527b49a8a5c419bc1304631f
+run_name: rare-rook-937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780583169412
+status: 3
+tags: []
+user_id: plgmaczynspwr

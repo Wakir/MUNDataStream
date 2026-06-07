@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/5a25ac3f3b8147d8bae4edf3bf6c4acd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 5a25ac3f3b8147d8bae4edf3bf6c4acd
+run_name: classy-quail-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780680775590
+status: 1
+tags: []
+user_id: root

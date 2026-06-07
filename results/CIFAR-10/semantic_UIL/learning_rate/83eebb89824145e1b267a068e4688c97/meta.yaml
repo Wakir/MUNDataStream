@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/83eebb89824145e1b267a068e4688c97/artifacts
+end_time: 1780542157751
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 83eebb89824145e1b267a068e4688c97
+run_name: nervous-shrimp-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542121922
+status: 3
+tags: []
+user_id: plgmaczynspwr

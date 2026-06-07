@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ddef1462dbda4e93bec72829705d0392/artifacts
+end_time: 1780528538198
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ddef1462dbda4e93bec72829705d0392
+run_name: melodic-fish-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528503171
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/5b5d4fa0fb1c40c2ac57a588947861b0/artifacts
+end_time: 1780701102191
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 5b5d4fa0fb1c40c2ac57a588947861b0
+run_name: tasteful-swan-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780699663754
+status: 3
+tags: []
+user_id: root

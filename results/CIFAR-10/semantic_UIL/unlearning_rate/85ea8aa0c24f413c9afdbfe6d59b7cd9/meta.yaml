@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/85ea8aa0c24f413c9afdbfe6d59b7cd9/artifacts
+end_time: 1780532407479
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 85ea8aa0c24f413c9afdbfe6d59b7cd9
+run_name: clean-bass-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532372493
+status: 3
+tags: []
+user_id: plgmaczynspwr

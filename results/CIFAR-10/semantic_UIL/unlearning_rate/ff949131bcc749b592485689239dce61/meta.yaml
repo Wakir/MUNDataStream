@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ff949131bcc749b592485689239dce61/artifacts
+end_time: 1780527248594
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ff949131bcc749b592485689239dce61
+run_name: glamorous-stag-755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527213016
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a499c67188b94ca484f8b1041b680810/artifacts
+end_time: 1780539061830
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a499c67188b94ca484f8b1041b680810
+run_name: intelligent-gnu-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780539026213
+status: 3
+tags: []
+user_id: plgmaczynspwr

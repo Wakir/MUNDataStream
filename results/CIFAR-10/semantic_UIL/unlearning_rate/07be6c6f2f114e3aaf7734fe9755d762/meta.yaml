@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/07be6c6f2f114e3aaf7734fe9755d762/artifacts
+end_time: 1780526971278
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 07be6c6f2f114e3aaf7734fe9755d762
+run_name: indecisive-bird-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526935486
+status: 3
+tags: []
+user_id: plgmaczynspwr

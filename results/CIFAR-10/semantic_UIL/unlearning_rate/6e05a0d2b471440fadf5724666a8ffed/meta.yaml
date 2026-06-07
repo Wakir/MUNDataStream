@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/6e05a0d2b471440fadf5724666a8ffed/artifacts
+end_time: 1780530903036
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 6e05a0d2b471440fadf5724666a8ffed
+run_name: smiling-dove-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530868364
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ac45fcc9eb9d4058a39e9be1c2a42467/artifacts
+end_time: 1780557941490
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ac45fcc9eb9d4058a39e9be1c2a42467
+run_name: legendary-worm-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557906209
+status: 3
+tags: []
+user_id: plgmaczynspwr

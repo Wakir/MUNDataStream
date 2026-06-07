@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f9c6fa16b4b14ff7aa8308d1859caf9a/artifacts
+end_time: 1780558728460
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f9c6fa16b4b14ff7aa8308d1859caf9a
+run_name: melodic-shoat-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558693219
+status: 3
+tags: []
+user_id: plgmaczynspwr

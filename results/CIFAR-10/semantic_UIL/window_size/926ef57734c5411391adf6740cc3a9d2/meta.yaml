@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/926ef57734c5411391adf6740cc3a9d2/artifacts
+end_time: 1780561747084
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 926ef57734c5411391adf6740cc3a9d2
+run_name: clumsy-shoat-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561711927
+status: 3
+tags: []
+user_id: plgmaczynspwr

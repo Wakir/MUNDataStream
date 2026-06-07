@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f2352c11310340d098dad6645df7c619/artifacts
+end_time: 1780538142118
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f2352c11310340d098dad6645df7c619
+run_name: invincible-newt-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538106837
+status: 3
+tags: []
+user_id: plgmaczynspwr

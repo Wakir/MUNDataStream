@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2d55b5f3422a480884eaf1be95bc7e43/artifacts
+end_time: 1780538423995
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2d55b5f3422a480884eaf1be95bc7e43
+run_name: efficient-shoat-181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538388884
+status: 3
+tags: []
+user_id: plgmaczynspwr

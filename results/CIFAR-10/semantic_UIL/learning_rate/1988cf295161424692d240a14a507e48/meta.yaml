@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1988cf295161424692d240a14a507e48/artifacts
+end_time: 1780541158937
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1988cf295161424692d240a14a507e48
+run_name: gifted-rook-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541123090
+status: 3
+tags: []
+user_id: plgmaczynspwr

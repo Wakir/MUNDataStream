@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e6282aca2b4d4500af77960ecaae1d80/artifacts
+end_time: 1780558010272
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e6282aca2b4d4500af77960ecaae1d80
+run_name: luminous-ant-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557976965
+status: 3
+tags: []
+user_id: plgmaczynspwr

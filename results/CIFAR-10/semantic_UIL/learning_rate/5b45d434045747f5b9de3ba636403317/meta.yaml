@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/5b45d434045747f5b9de3ba636403317/artifacts
+end_time: 1780552520580
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 5b45d434045747f5b9de3ba636403317
+run_name: salty-snake-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552485517
+status: 3
+tags: []
+user_id: plgmaczynspwr

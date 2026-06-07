@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4906f7969fc54f6a89b51db7e7a53169/artifacts
+end_time: 1780555843324
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4906f7969fc54f6a89b51db7e7a53169
+run_name: lyrical-shad-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555808060
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/406603e2c9af4961aa74c68d2a323767/artifacts
+end_time: 1780681918610
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 406603e2c9af4961aa74c68d2a323767
+run_name: stately-snail-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780681917559
+status: 4
+tags: []
+user_id: root

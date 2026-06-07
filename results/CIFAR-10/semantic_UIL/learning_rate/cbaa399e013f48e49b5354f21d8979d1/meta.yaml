@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/cbaa399e013f48e49b5354f21d8979d1/artifacts
+end_time: 1780551604661
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: cbaa399e013f48e49b5354f21d8979d1
+run_name: nosy-zebra-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551569511
+status: 3
+tags: []
+user_id: plgmaczynspwr

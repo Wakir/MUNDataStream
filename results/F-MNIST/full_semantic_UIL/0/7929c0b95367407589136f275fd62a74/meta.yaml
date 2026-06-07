@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/7929c0b95367407589136f275fd62a74/artifacts
+end_time: 1780273949069
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 7929c0b95367407589136f275fd62a74
+run_name: gifted-moth-782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273899654
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fc675d88d9bc4d75a8666c94b50504c7/artifacts
+end_time: 1780537190449
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fc675d88d9bc4d75a8666c94b50504c7
+run_name: bedecked-penguin-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780537155299
+status: 3
+tags: []
+user_id: plgmaczynspwr

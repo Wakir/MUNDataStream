@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0a5fe7c4883a4410999ecb8e3b00dd42/artifacts
+end_time: 1780530171710
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0a5fe7c4883a4410999ecb8e3b00dd42
+run_name: whimsical-cow-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530136976
+status: 3
+tags: []
+user_id: plgmaczynspwr

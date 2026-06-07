@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/02d0284c07bc4373af1756b4852758fe/artifacts
+end_time: 1780543487683
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 02d0284c07bc4373af1756b4852758fe
+run_name: salty-fawn-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543451943
+status: 3
+tags: []
+user_id: plgmaczynspwr

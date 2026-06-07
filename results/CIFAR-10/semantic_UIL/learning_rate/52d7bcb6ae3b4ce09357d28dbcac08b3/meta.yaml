@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/52d7bcb6ae3b4ce09357d28dbcac08b3/artifacts
+end_time: 1780556411565
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 52d7bcb6ae3b4ce09357d28dbcac08b3
+run_name: sassy-jay-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556376139
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/438e3e99db87468bb7312c3993810c5c/artifacts
+end_time: 1780531809781
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 438e3e99db87468bb7312c3993810c5c
+run_name: spiffy-owl-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531774027
+status: 3
+tags: []
+user_id: plgmaczynspwr

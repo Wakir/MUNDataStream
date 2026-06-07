@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/323e73fd5c3b409d98bd7b67a6f54b7a/artifacts
+end_time: 1780556446993
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 323e73fd5c3b409d98bd7b67a6f54b7a
+run_name: calm-bug-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556411570
+status: 3
+tags: []
+user_id: plgmaczynspwr

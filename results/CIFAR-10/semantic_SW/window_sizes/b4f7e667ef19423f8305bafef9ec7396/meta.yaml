@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/b4f7e667ef19423f8305bafef9ec7396/artifacts
+end_time: 1780705081522
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: b4f7e667ef19423f8305bafef9ec7396
+run_name: youthful-koi-342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701753290
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ada9695f225c4e01acd47a7b3ad21963/artifacts
+end_time: 1780549842795
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ada9695f225c4e01acd47a7b3ad21963
+run_name: flawless-shad-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549807304
+status: 3
+tags: []
+user_id: plgmaczynspwr

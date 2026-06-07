@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/4f9be68d510842bab21b67b96f1963dc/artifacts
+end_time: 1780709947452
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 4f9be68d510842bab21b67b96f1963dc
+run_name: righteous-snake-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780708598625
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/af7bb97c633845d8bafb5b77995fa7eb/artifacts
+end_time: 1780540336125
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: af7bb97c633845d8bafb5b77995fa7eb
+run_name: bald-hound-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540300313
+status: 3
+tags: []
+user_id: plgmaczynspwr

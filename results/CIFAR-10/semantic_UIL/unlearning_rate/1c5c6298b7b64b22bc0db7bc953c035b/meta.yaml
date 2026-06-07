@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1c5c6298b7b64b22bc0db7bc953c035b/artifacts
+end_time: 1780530868360
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1c5c6298b7b64b22bc0db7bc953c035b
+run_name: indecisive-seal-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530833358
+status: 3
+tags: []
+user_id: plgmaczynspwr

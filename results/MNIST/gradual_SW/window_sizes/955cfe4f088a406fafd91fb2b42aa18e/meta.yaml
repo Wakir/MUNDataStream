@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/955cfe4f088a406fafd91fb2b42aa18e/artifacts
+end_time: 1780721911831
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 955cfe4f088a406fafd91fb2b42aa18e
+run_name: delicate-shad-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719908327
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/737c3c492f4f437ca0964773e73887d7/artifacts
+end_time: 1780534689503
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 737c3c492f4f437ca0964773e73887d7
+run_name: stately-toad-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534654638
+status: 3
+tags: []
+user_id: plgmaczynspwr

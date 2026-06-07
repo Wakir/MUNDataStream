@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/39c2adc4bcbf480f91c8f46ec9b98d87/artifacts
+end_time: 1780543630529
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 39c2adc4bcbf480f91c8f46ec9b98d87
+run_name: glamorous-wren-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543595088
+status: 3
+tags: []
+user_id: plgmaczynspwr

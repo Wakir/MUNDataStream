@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/086f7e6af02b43f4ae116233d2d49cbe/artifacts
+end_time: 1780719737856
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 086f7e6af02b43f4ae116233d2d49cbe
+run_name: angry-skink-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780717088912
+status: 3
+tags: []
+user_id: root

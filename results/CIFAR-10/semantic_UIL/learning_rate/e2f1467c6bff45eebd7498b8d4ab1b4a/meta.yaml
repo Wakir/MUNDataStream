@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e2f1467c6bff45eebd7498b8d4ab1b4a/artifacts
+end_time: 1780554287589
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e2f1467c6bff45eebd7498b8d4ab1b4a
+run_name: masked-duck-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554252448
+status: 3
+tags: []
+user_id: plgmaczynspwr

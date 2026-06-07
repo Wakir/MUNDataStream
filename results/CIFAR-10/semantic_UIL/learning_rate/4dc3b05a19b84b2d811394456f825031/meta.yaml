@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4dc3b05a19b84b2d811394456f825031/artifacts
+end_time: 1780553050956
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4dc3b05a19b84b2d811394456f825031
+run_name: delicate-mink-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553013479
+status: 3
+tags: []
+user_id: plgmaczynspwr

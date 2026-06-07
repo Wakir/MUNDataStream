@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e79e2c41defb4e5ca55271f4cc298b1c/artifacts
+end_time: 1780559661424
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e79e2c41defb4e5ca55271f4cc298b1c
+run_name: sneaky-ox-324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780559626350
+status: 3
+tags: []
+user_id: plgmaczynspwr

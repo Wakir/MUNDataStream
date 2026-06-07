@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/89be1b732e514c129f07d2681674fde1/artifacts
+end_time: 1780706533758
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 89be1b732e514c129f07d2681674fde1
+run_name: overjoyed-crab-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780705135784
+status: 3
+tags: []
+user_id: root

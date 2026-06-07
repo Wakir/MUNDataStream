@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/47dbb149b0ae41a692c5c1e64a91eef6/artifacts
+end_time: 1780706514153
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 47dbb149b0ae41a692c5c1e64a91eef6
+run_name: dashing-bird-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780703823904
+status: 3
+tags: []
+user_id: root

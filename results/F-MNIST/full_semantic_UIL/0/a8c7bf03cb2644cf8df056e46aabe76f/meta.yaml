@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/a8c7bf03cb2644cf8df056e46aabe76f/artifacts
+end_time: 1780283916675
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: a8c7bf03cb2644cf8df056e46aabe76f
+run_name: bright-seal-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780283864993
+status: 3
+tags: []
+user_id: plgmaczynspwr

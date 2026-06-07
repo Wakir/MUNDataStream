@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/a0fe008332024a569d3f8c7b53f8a6d7/artifacts
+end_time: 1780716375433
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: a0fe008332024a569d3f8c7b53f8a6d7
+run_name: righteous-ray-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780705891108
+status: 3
+tags: []
+user_id: root

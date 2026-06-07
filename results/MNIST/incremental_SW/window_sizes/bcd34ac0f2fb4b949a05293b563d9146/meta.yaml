@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/bcd34ac0f2fb4b949a05293b563d9146/artifacts
+end_time: 1780701668541
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: bcd34ac0f2fb4b949a05293b563d9146
+run_name: capricious-worm-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282933
+status: 3
+tags: []
+user_id: root

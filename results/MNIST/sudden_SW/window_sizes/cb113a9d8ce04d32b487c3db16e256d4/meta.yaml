@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/cb113a9d8ce04d32b487c3db16e256d4/artifacts
+end_time: 1780365959888
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: cb113a9d8ce04d32b487c3db16e256d4
+run_name: gentle-hen-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780364981324
+status: 3
+tags: []
+user_id: plgmaczynspwr

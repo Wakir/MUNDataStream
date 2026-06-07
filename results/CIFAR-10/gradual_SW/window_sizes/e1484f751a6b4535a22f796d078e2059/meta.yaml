@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/e1484f751a6b4535a22f796d078e2059/artifacts
+end_time: 1780587763792
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: e1484f751a6b4535a22f796d078e2059
+run_name: delicate-skink-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780586918466
+status: 3
+tags: []
+user_id: plgmaczynspwr

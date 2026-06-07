@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/04317bd787b245e3b51fa73f01a18749/artifacts
+end_time: 1780581606152
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 04317bd787b245e3b51fa73f01a18749
+run_name: worried-hawk-967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780581007545
+status: 3
+tags: []
+user_id: plgmaczynspwr

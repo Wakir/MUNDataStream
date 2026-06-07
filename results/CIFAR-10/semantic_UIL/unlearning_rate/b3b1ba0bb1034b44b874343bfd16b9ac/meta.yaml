@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b3b1ba0bb1034b44b874343bfd16b9ac/artifacts
+end_time: 1780527457291
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b3b1ba0bb1034b44b874343bfd16b9ac
+run_name: legendary-skunk-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527422291
+status: 3
+tags: []
+user_id: plgmaczynspwr

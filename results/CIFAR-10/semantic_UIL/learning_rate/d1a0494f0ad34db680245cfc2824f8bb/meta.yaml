@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d1a0494f0ad34db680245cfc2824f8bb/artifacts
+end_time: 1780555206261
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d1a0494f0ad34db680245cfc2824f8bb
+run_name: skittish-toad-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555171011
+status: 3
+tags: []
+user_id: plgmaczynspwr

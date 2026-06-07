@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/6d84bf9e4cc6431ba8a5f6ffb7f5c471/artifacts
+end_time: 1780574341016
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 6d84bf9e4cc6431ba8a5f6ffb7f5c471
+run_name: hilarious-colt-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780573918639
+status: 3
+tags: []
+user_id: plgmaczynspwr

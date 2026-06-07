@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/d0a5f18a5f4c481d8db8ee45c342edda/artifacts
+end_time: 1780698771300
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: d0a5f18a5f4c481d8db8ee45c342edda
+run_name: gaudy-fly-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572842
+status: 3
+tags: []
+user_id: root

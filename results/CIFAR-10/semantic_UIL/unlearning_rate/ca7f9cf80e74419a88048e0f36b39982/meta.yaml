@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ca7f9cf80e74419a88048e0f36b39982/artifacts
+end_time: 1780536943735
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ca7f9cf80e74419a88048e0f36b39982
+run_name: trusting-hog-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536908151
+status: 3
+tags: []
+user_id: plgmaczynspwr

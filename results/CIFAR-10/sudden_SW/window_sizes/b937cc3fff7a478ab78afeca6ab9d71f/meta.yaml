@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/b937cc3fff7a478ab78afeca6ab9d71f/artifacts
+end_time: 1780576934001
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: b937cc3fff7a478ab78afeca6ab9d71f
+run_name: capricious-swan-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780576174739
+status: 3
+tags: []
+user_id: plgmaczynspwr

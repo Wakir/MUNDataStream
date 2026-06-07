@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/bda7034eabc844988244fc88e1059702/artifacts
+end_time: 1780573914405
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: bda7034eabc844988244fc88e1059702
+run_name: grandiose-ant-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780573494949
+status: 3
+tags: []
+user_id: plgmaczynspwr

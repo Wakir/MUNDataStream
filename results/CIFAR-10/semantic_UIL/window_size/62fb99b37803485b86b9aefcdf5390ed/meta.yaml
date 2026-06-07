@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/62fb99b37803485b86b9aefcdf5390ed/artifacts
+end_time: 1780558623612
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 62fb99b37803485b86b9aefcdf5390ed
+run_name: skillful-mole-187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558588849
+status: 3
+tags: []
+user_id: plgmaczynspwr

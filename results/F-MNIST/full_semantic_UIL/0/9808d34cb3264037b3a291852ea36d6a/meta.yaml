@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/9808d34cb3264037b3a291852ea36d6a/artifacts
+end_time: 1780279667255
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 9808d34cb3264037b3a291852ea36d6a
+run_name: handsome-deer-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780279617531
+status: 3
+tags: []
+user_id: plgmaczynspwr

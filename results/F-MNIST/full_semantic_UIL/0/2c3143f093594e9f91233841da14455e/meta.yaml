@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/2c3143f093594e9f91233841da14455e/artifacts
+end_time: 1780266821971
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 2c3143f093594e9f91233841da14455e
+run_name: gaudy-vole-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780266783568
+status: 3
+tags: []
+user_id: plgmaczynspwr

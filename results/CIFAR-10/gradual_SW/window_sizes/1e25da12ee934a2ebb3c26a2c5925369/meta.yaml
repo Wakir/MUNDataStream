@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/1e25da12ee934a2ebb3c26a2c5925369/artifacts
+end_time: 1780573494942
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: 1e25da12ee934a2ebb3c26a2c5925369
+run_name: luxuriant-goat-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780573074502
+status: 3
+tags: []
+user_id: plgmaczynspwr

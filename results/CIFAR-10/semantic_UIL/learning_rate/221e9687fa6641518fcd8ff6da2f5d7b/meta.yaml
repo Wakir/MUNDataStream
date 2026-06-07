@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/221e9687fa6641518fcd8ff6da2f5d7b/artifacts
+end_time: 1780541979447
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 221e9687fa6641518fcd8ff6da2f5d7b
+run_name: thundering-ray-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541943890
+status: 3
+tags: []
+user_id: plgmaczynspwr

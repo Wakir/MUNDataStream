@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/51b16d84a69349a19d3792835ea7255c/artifacts
+end_time: 1780534339528
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 51b16d84a69349a19d3792835ea7255c
+run_name: respected-hound-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534304449
+status: 3
+tags: []
+user_id: plgmaczynspwr

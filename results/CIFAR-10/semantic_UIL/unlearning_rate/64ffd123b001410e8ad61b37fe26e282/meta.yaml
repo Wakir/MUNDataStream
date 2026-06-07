@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/64ffd123b001410e8ad61b37fe26e282/artifacts
+end_time: 1780539626829
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 64ffd123b001410e8ad61b37fe26e282
+run_name: invincible-loon-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780539591589
+status: 3
+tags: []
+user_id: plgmaczynspwr

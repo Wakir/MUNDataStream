@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4275e7b4a1bd4b919fb24cf0e4ef80ae/artifacts
+end_time: 1780551676503
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4275e7b4a1bd4b919fb24cf0e4ef80ae
+run_name: auspicious-mare-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551641381
+status: 3
+tags: []
+user_id: plgmaczynspwr

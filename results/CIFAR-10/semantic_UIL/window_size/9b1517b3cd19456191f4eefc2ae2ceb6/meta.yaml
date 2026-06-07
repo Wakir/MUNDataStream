@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9b1517b3cd19456191f4eefc2ae2ceb6/artifacts
+end_time: 1780558416161
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9b1517b3cd19456191f4eefc2ae2ceb6
+run_name: amazing-crane-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558381743
+status: 3
+tags: []
+user_id: plgmaczynspwr

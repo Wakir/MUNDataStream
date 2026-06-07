@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/03000e9e00ae441aa6d3f0d291b8b06f/artifacts
+end_time: 1780573918635
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 03000e9e00ae441aa6d3f0d291b8b06f
+run_name: shivering-newt-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780573498228
+status: 3
+tags: []
+user_id: plgmaczynspwr

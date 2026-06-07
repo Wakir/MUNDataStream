@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/9c5f62e58d0b46cf9ef419461cc5e924/artifacts
+end_time: 1780687796946
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 9c5f62e58d0b46cf9ef419461cc5e924
+run_name: awesome-newt-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780686254552
+status: 3
+tags: []
+user_id: root

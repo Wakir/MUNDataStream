@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2f2c18cde0f24c0f9e8c125deede0f58/artifacts
+end_time: 1780527566113
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2f2c18cde0f24c0f9e8c125deede0f58
+run_name: dapper-trout-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527527795
+status: 3
+tags: []
+user_id: plgmaczynspwr

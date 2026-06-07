@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d4193564765d4823a9b126f035a21a6b/artifacts
+end_time: 1780559696393
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d4193564765d4823a9b126f035a21a6b
+run_name: whimsical-loon-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780559661429
+status: 3
+tags: []
+user_id: plgmaczynspwr

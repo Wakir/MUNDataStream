@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d75c3201c2474a33a7cd93be4464fd5b/artifacts
+end_time: 1780542371884
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d75c3201c2474a33a7cd93be4464fd5b
+run_name: rogue-kit-50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542336468
+status: 3
+tags: []
+user_id: plgmaczynspwr

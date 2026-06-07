@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a3fc49fcf8894619a719c047a027cf86/artifacts
+end_time: 1780545681348
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a3fc49fcf8894619a719c047a027cf86
+run_name: fun-stoat-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545645688
+status: 3
+tags: []
+user_id: plgmaczynspwr

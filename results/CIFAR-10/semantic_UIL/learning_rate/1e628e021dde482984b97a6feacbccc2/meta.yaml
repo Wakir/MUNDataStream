@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1e628e021dde482984b97a6feacbccc2/artifacts
+end_time: 1780556696930
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1e628e021dde482984b97a6feacbccc2
+run_name: fun-bird-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556661485
+status: 3
+tags: []
+user_id: plgmaczynspwr

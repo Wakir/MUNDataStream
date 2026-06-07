@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b7f38be838244d14ac3f5ba4ca8b0d26/artifacts
+end_time: 1780536239159
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b7f38be838244d14ac3f5ba4ca8b0d26
+run_name: righteous-bee-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536203943
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/899068a8ff5f4bffac306cd35b293c37/artifacts
+end_time: 1780558869411
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 899068a8ff5f4bffac306cd35b293c37
+run_name: fun-sponge-440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558834036
+status: 3
+tags: []
+user_id: plgmaczynspwr

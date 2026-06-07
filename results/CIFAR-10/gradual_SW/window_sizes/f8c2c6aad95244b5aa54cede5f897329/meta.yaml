@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/f8c2c6aad95244b5aa54cede5f897329/artifacts
+end_time: 1780586918460
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: f8c2c6aad95244b5aa54cede5f897329
+run_name: powerful-smelt-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780586229818
+status: 3
+tags: []
+user_id: plgmaczynspwr

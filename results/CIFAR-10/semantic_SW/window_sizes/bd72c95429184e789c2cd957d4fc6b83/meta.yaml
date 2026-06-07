@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/bd72c95429184e789c2cd957d4fc6b83/artifacts
+end_time: 1780698179553
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: bd72c95429184e789c2cd957d4fc6b83
+run_name: sedate-fawn-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572541
+status: 3
+tags: []
+user_id: root

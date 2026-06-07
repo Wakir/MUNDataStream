@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/c46ce286f7a44803a8baa3a0c2014bc6/artifacts
+end_time: 1780718918190
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: c46ce286f7a44803a8baa3a0c2014bc6
+run_name: respected-calf-429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707793411
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/42531af9cbb24da5ab65b9298f81801a/artifacts
+end_time: 1780541943881
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 42531af9cbb24da5ab65b9298f81801a
+run_name: learned-cod-512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541908338
+status: 3
+tags: []
+user_id: plgmaczynspwr

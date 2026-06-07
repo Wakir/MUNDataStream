@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/5b20f039e1ce48cd8708f77ee09c09e4/artifacts
+end_time: 1780713092548
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 5b20f039e1ce48cd8708f77ee09c09e4
+run_name: auspicious-kite-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780710789504
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0c4e3f8afa9a4628ae3109c4a59e8c1c/artifacts
+end_time: 1780561399437
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0c4e3f8afa9a4628ae3109c4a59e8c1c
+run_name: sincere-bird-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561365226
+status: 3
+tags: []
+user_id: plgmaczynspwr

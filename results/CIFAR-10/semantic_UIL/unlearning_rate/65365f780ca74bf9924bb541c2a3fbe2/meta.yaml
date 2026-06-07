@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/65365f780ca74bf9924bb541c2a3fbe2/artifacts
+end_time: 1780539662275
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 65365f780ca74bf9924bb541c2a3fbe2
+run_name: shivering-robin-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780539626835
+status: 3
+tags: []
+user_id: plgmaczynspwr

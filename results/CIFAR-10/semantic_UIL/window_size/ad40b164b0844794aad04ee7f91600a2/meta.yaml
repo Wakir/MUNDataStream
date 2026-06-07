@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ad40b164b0844794aad04ee7f91600a2/artifacts
+end_time: 1780559112085
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ad40b164b0844794aad04ee7f91600a2
+run_name: delightful-whale-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780559078566
+status: 3
+tags: []
+user_id: plgmaczynspwr

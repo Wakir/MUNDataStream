@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/14b62ddac72944da84dbecabc72c11dd/artifacts
+end_time: 1780539697750
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 14b62ddac72944da84dbecabc72c11dd
+run_name: bouncy-dog-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780539662280
+status: 3
+tags: []
+user_id: plgmaczynspwr

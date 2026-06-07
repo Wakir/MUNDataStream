@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7410f688a88b4756bc9b7bbc69eefb84/artifacts
+end_time: 1780534865722
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7410f688a88b4756bc9b7bbc69eefb84
+run_name: skittish-quail-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534830669
+status: 3
+tags: []
+user_id: plgmaczynspwr

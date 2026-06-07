@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3ba65cc7e71a44fbbadca4551d63da2e/artifacts
+end_time: 1780527040515
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3ba65cc7e71a44fbbadca4551d63da2e
+run_name: kindly-hen-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527005812
+status: 3
+tags: []
+user_id: plgmaczynspwr

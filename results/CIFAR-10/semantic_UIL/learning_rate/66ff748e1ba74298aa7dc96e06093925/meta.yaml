@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/66ff748e1ba74298aa7dc96e06093925/artifacts
+end_time: 1780553794207
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 66ff748e1ba74298aa7dc96e06093925
+run_name: mercurial-koi-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553759130
+status: 3
+tags: []
+user_id: plgmaczynspwr

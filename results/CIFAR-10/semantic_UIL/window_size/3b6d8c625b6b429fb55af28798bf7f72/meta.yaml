@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3b6d8c625b6b429fb55af28798bf7f72/artifacts
+end_time: 1780558484933
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3b6d8c625b6b429fb55af28798bf7f72
+run_name: adaptable-steed-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558450531
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/b3d6138d4af2432099e12d858de454d7/artifacts
+end_time: 1780720282360
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: b3d6138d4af2432099e12d858de454d7
+run_name: intelligent-koi-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780717089313
+status: 3
+tags: []
+user_id: root

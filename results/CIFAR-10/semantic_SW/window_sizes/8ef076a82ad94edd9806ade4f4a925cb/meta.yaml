@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/8ef076a82ad94edd9806ade4f4a925cb/artifacts
+end_time: 1780708921612
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 8ef076a82ad94edd9806ade4f4a925cb
+run_name: burly-asp-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780705039237
+status: 3
+tags: []
+user_id: root

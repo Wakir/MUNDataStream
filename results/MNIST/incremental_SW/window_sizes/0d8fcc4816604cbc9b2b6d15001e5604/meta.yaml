@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/0d8fcc4816604cbc9b2b6d15001e5604/artifacts
+end_time: 1780715254157
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 0d8fcc4816604cbc9b2b6d15001e5604
+run_name: agreeable-gnu-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780698472933
+status: 3
+tags: []
+user_id: root

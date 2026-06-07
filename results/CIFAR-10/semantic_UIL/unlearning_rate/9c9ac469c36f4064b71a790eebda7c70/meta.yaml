@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9c9ac469c36f4064b71a790eebda7c70/artifacts
+end_time: 1780531355805
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9c9ac469c36f4064b71a790eebda7c70
+run_name: monumental-mole-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531320922
+status: 3
+tags: []
+user_id: plgmaczynspwr

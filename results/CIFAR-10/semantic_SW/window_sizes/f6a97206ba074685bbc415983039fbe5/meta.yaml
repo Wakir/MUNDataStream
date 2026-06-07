@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/f6a97206ba074685bbc415983039fbe5/artifacts
+end_time: 1780701753252
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: f6a97206ba074685bbc415983039fbe5
+run_name: suave-finch-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780698334783
+status: 3
+tags: []
+user_id: root

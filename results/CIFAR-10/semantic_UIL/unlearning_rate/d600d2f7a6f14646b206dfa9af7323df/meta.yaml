@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d600d2f7a6f14646b206dfa9af7323df/artifacts
+end_time: 1780530589781
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d600d2f7a6f14646b206dfa9af7323df
+run_name: caring-crow-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530554672
+status: 3
+tags: []
+user_id: plgmaczynspwr

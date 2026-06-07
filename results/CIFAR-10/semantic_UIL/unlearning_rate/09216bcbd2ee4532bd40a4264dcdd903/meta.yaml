@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/09216bcbd2ee4532bd40a4264dcdd903/artifacts
+end_time: 1780528156050
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 09216bcbd2ee4532bd40a4264dcdd903
+run_name: dashing-fox-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528121626
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761/4c2c0097f04248cb92d1007e26e9c4bd/artifacts
+end_time: 1780381396627
+entry_point_name: ''
+experiment_id: '166217003607222761'
+lifecycle_stage: active
+run_id: 4c2c0097f04248cb92d1007e26e9c4bd
+run_name: fearless-robin-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780380430804
+status: 3
+tags: []
+user_id: plgmaczynspwr

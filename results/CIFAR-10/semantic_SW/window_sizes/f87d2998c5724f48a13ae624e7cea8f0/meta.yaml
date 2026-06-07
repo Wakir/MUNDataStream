@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/f87d2998c5724f48a13ae624e7cea8f0/artifacts
+end_time: 1780698334720
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: f87d2998c5724f48a13ae624e7cea8f0
+run_name: blushing-bear-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780696967071
+status: 3
+tags: []
+user_id: root

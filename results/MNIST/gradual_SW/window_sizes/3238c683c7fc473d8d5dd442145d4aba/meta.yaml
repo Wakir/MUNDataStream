@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/3238c683c7fc473d8d5dd442145d4aba/artifacts
+end_time: 1780718528128
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 3238c683c7fc473d8d5dd442145d4aba
+run_name: beautiful-hare-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780717089005
+status: 3
+tags: []
+user_id: root

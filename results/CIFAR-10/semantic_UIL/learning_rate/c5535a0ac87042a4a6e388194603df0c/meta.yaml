@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c5535a0ac87042a4a6e388194603df0c/artifacts
+end_time: 1780552309936
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c5535a0ac87042a4a6e388194603df0c
+run_name: exultant-deer-520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780552274828
+status: 3
+tags: []
+user_id: plgmaczynspwr

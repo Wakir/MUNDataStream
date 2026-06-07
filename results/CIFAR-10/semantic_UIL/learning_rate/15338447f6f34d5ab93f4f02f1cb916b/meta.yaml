@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/15338447f6f34d5ab93f4f02f1cb916b/artifacts
+end_time: 1780549913651
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 15338447f6f34d5ab93f4f02f1cb916b
+run_name: worried-sloth-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549878218
+status: 3
+tags: []
+user_id: plgmaczynspwr

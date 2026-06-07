@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ec5b4fa370304c3482d466d73c150e4e/artifacts
+end_time: 1780543738096
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ec5b4fa370304c3482d466d73c150e4e
+run_name: calm-stoat-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543702501
+status: 3
+tags: []
+user_id: plgmaczynspwr

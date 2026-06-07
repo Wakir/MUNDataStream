@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/83b4bafa5d754f3d945443f9e62a2adc/artifacts
+end_time: 1780556661480
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 83b4bafa5d754f3d945443f9e62a2adc
+run_name: brawny-flea-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556624438
+status: 3
+tags: []
+user_id: plgmaczynspwr

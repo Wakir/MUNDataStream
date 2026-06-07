@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/d78e35f3a546476e9dedf6ffc6913937/artifacts
+end_time: 1780681917989
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: d78e35f3a546476e9dedf6ffc6913937
+run_name: gifted-cat-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780681917089
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/9c65c7c458574a02b24b2c15a1a25ec0/artifacts
+end_time: 1780721672954
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 9c65c7c458574a02b24b2c15a1a25ec0
+run_name: colorful-perch-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719731350
+status: 3
+tags: []
+user_id: root

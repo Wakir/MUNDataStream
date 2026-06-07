@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8fc256c46c564c66a4e26ff188e84a9e/artifacts
+end_time: 1780528642456
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8fc256c46c564c66a4e26ff188e84a9e
+run_name: vaunted-goat-74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528607714
+status: 3
+tags: []
+user_id: plgmaczynspwr

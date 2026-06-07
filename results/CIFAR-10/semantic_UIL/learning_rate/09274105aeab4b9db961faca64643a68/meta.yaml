@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/09274105aeab4b9db961faca64643a68/artifacts
+end_time: 1780555949164
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 09274105aeab4b9db961faca64643a68
+run_name: thoughtful-lamb-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555913859
+status: 3
+tags: []
+user_id: plgmaczynspwr

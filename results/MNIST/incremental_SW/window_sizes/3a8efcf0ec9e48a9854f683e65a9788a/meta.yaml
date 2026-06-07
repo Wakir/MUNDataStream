@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/3a8efcf0ec9e48a9854f683e65a9788a/artifacts
+end_time: 1780707799689
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 3a8efcf0ec9e48a9854f683e65a9788a
+run_name: wistful-mole-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282959
+status: 3
+tags: []
+user_id: root

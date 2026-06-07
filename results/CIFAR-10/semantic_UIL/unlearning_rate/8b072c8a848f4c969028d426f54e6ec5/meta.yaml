@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8b072c8a848f4c969028d426f54e6ec5/artifacts
+end_time: 1780525476787
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8b072c8a848f4c969028d426f54e6ec5
+run_name: nebulous-crow-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525442036
+status: 3
+tags: []
+user_id: plgmaczynspwr

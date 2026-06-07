@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/c483fccb53ee40c2beb491fd0853e32b/artifacts
+end_time: 1780712296286
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: c483fccb53ee40c2beb491fd0853e32b
+run_name: carefree-pig-369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780704783443
+status: 3
+tags: []
+user_id: root

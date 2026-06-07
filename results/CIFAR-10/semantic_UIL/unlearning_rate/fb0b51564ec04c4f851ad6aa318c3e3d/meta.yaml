@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fb0b51564ec04c4f851ad6aa318c3e3d/artifacts
+end_time: 1780540443255
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fb0b51564ec04c4f851ad6aa318c3e3d
+run_name: adorable-moth-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540407867
+status: 3
+tags: []
+user_id: plgmaczynspwr

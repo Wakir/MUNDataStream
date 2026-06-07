@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/b590083d46e146639eeb138869d85f10/artifacts
+end_time: 1780720963028
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: b590083d46e146639eeb138869d85f10
+run_name: caring-skunk-829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719119528
+status: 3
+tags: []
+user_id: root

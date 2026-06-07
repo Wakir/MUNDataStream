@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/dc5280b60cc8462584882a1bcb050340/artifacts
+end_time: 1780530449691
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: dc5280b60cc8462584882a1bcb050340
+run_name: big-calf-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530414624
+status: 3
+tags: []
+user_id: plgmaczynspwr

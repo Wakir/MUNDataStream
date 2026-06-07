@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fe89d72d211d4c8e9fb4c8c35909ce4e/artifacts
+end_time: 1780528921056
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fe89d72d211d4c8e9fb4c8c35909ce4e
+run_name: unequaled-crab-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528886149
+status: 3
+tags: []
+user_id: plgmaczynspwr

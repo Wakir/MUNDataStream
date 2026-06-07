@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3b754c16130746c3b04d530cdabd01a6/artifacts
+end_time: 1780557555165
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3b754c16130746c3b04d530cdabd01a6
+run_name: likeable-fly-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557520638
+status: 3
+tags: []
+user_id: plgmaczynspwr

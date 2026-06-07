@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/81a092449a094dd4a5ae1ef443e8fd3d/artifacts
+end_time: 1780535956891
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 81a092449a094dd4a5ae1ef443e8fd3d
+run_name: adaptable-mouse-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535921867
+status: 3
+tags: []
+user_id: plgmaczynspwr

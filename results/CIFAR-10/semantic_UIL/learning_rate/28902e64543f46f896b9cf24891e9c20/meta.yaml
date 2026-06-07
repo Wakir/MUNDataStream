@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/28902e64543f46f896b9cf24891e9c20/artifacts
+end_time: 1780546315038
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 28902e64543f46f896b9cf24891e9c20
+run_name: stately-horse-998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546279322
+status: 3
+tags: []
+user_id: plgmaczynspwr

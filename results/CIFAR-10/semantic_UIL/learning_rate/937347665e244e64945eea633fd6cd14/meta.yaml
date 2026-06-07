@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/937347665e244e64945eea633fd6cd14/artifacts
+end_time: 1780543666892
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 937347665e244e64945eea633fd6cd14
+run_name: industrious-croc-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543630534
+status: 3
+tags: []
+user_id: plgmaczynspwr

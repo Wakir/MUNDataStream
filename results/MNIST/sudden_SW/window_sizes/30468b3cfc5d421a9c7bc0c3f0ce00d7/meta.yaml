@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/30468b3cfc5d421a9c7bc0c3f0ce00d7/artifacts
+end_time: 1780705522238
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: 30468b3cfc5d421a9c7bc0c3f0ce00d7
+run_name: shivering-stag-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780705088142
+status: 3
+tags: []
+user_id: plgmaczynspwr

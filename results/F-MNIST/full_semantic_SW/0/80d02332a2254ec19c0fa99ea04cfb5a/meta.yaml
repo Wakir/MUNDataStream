@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/80d02332a2254ec19c0fa99ea04cfb5a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 80d02332a2254ec19c0fa99ea04cfb5a
+run_name: adaptable-shrimp-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780680774703
+status: 1
+tags: []
+user_id: root

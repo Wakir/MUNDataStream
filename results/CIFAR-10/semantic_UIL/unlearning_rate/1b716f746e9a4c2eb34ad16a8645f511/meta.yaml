@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1b716f746e9a4c2eb34ad16a8645f511/artifacts
+end_time: 1780530206346
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1b716f746e9a4c2eb34ad16a8645f511
+run_name: upbeat-moose-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530171714
+status: 3
+tags: []
+user_id: plgmaczynspwr

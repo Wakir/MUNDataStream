@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fa6d84e3df484c06ad69f33f0319bd33/artifacts
+end_time: 1780525442032
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fa6d84e3df484c06ad69f33f0319bd33
+run_name: indecisive-rook-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525407512
+status: 3
+tags: []
+user_id: plgmaczynspwr

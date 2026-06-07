@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/74192fb551e5496d9de21a9de1f284b9/artifacts
+end_time: 1780531286032
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 74192fb551e5496d9de21a9de1f284b9
+run_name: bouncy-pig-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531250898
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/0bd7184ff53e494b988fb08609f48edd/artifacts
+end_time: 1780708598585
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 0bd7184ff53e494b988fb08609f48edd
+run_name: invincible-wolf-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780706475217
+status: 3
+tags: []
+user_id: root

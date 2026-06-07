@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/5a4a594cc4f44e6c89d3349a2088400e/artifacts
+end_time: 1780581724105
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: 5a4a594cc4f44e6c89d3349a2088400e
+run_name: smiling-cat-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780581480601
+status: 3
+tags: []
+user_id: plgmaczynspwr

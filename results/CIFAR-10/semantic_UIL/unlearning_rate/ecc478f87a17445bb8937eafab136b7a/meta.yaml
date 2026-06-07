@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ecc478f87a17445bb8937eafab136b7a/artifacts
+end_time: 1780534971426
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ecc478f87a17445bb8937eafab136b7a
+run_name: bedecked-loon-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534936524
+status: 3
+tags: []
+user_id: plgmaczynspwr

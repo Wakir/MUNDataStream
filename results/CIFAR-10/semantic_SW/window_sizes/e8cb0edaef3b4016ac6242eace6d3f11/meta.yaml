@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/e8cb0edaef3b4016ac6242eace6d3f11/artifacts
+end_time: 1780705003828
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: e8cb0edaef3b4016ac6242eace6d3f11
+run_name: bald-bat-45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780702982801
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/maciek/Documents/GitHub/UnlearningDataStreamPlayground/mlruns/0/f7ec4b1d158a45ba851803b901f0d7ca/artifacts
+end_time: 1780664719656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7ec4b1d158a45ba851803b901f0d7ca
+run_name: debonair-quail-823
+run_uuid: f7ec4b1d158a45ba851803b901f0d7ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780663365780
+status: 3
+tags: []
+user_id: maciek

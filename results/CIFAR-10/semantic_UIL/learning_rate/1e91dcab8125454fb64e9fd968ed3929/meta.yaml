@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1e91dcab8125454fb64e9fd968ed3929/artifacts
+end_time: 1780554748290
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1e91dcab8125454fb64e9fd968ed3929
+run_name: caring-vole-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554712997
+status: 3
+tags: []
+user_id: plgmaczynspwr

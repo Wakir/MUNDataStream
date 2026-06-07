@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/ec6b46a130604258ac60bbf28186fbeb/artifacts
+end_time: 1780704081802
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: ec6b46a130604258ac60bbf28186fbeb
+run_name: traveling-panda-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780702741192
+status: 3
+tags: []
+user_id: root

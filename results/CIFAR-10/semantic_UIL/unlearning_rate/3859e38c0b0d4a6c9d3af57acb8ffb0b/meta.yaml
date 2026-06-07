@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3859e38c0b0d4a6c9d3af57acb8ffb0b/artifacts
+end_time: 1780533813048
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3859e38c0b0d4a6c9d3af57acb8ffb0b
+run_name: tasteful-foal-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780533778272
+status: 3
+tags: []
+user_id: plgmaczynspwr

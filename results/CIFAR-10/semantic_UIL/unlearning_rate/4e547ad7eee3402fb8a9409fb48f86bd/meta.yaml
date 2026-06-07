@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4e547ad7eee3402fb8a9409fb48f86bd/artifacts
+end_time: 1780526762413
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4e547ad7eee3402fb8a9409fb48f86bd
+run_name: exultant-kite-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526728227
+status: 3
+tags: []
+user_id: plgmaczynspwr

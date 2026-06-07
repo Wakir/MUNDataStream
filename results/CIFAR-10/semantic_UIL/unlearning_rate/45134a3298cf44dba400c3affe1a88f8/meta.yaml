@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/45134a3298cf44dba400c3affe1a88f8/artifacts
+end_time: 1780526728223
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 45134a3298cf44dba400c3affe1a88f8
+run_name: fearless-rook-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526693725
+status: 3
+tags: []
+user_id: plgmaczynspwr

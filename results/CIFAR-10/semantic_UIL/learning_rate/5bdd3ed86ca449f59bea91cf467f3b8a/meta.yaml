@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/5bdd3ed86ca449f59bea91cf467f3b8a/artifacts
+end_time: 1780550302558
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 5bdd3ed86ca449f59bea91cf467f3b8a
+run_name: rogue-perch-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550267296
+status: 3
+tags: []
+user_id: plgmaczynspwr

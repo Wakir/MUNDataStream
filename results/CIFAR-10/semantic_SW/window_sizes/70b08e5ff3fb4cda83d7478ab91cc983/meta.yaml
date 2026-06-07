@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/70b08e5ff3fb4cda83d7478ab91cc983/artifacts
+end_time: 1780707480839
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 70b08e5ff3fb4cda83d7478ab91cc983
+run_name: rogue-moose-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780704191853
+status: 3
+tags: []
+user_id: root

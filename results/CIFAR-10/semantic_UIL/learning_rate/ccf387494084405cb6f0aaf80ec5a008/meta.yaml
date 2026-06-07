@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ccf387494084405cb6f0aaf80ec5a008/artifacts
+end_time: 1780553191582
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ccf387494084405cb6f0aaf80ec5a008
+run_name: calm-goose-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553156434
+status: 3
+tags: []
+user_id: plgmaczynspwr

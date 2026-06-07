@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ade2a160d6c048c2b5a5901e6dffa55a/artifacts
+end_time: 1780557382881
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ade2a160d6c048c2b5a5901e6dffa55a
+run_name: bouncy-calf-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557348620
+status: 3
+tags: []
+user_id: plgmaczynspwr

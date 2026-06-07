@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b06534bd89024f389f86615a4d9e7ab5/artifacts
+end_time: 1780542515157
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b06534bd89024f389f86615a4d9e7ab5
+run_name: masked-whale-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542479227
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f062e596102b4cc6ad085e1c857e31b5/artifacts
+end_time: 1780560357445
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f062e596102b4cc6ad085e1c857e31b5
+run_name: bedecked-cub-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560323375
+status: 3
+tags: []
+user_id: plgmaczynspwr

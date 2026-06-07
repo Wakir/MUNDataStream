@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/maciek/Documents/GitHub/UnlearningDataStreamPlayground/mlruns/0/b650e3aed5534faaad9f6cc55fcb958a/artifacts
+end_time: 1780664714895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b650e3aed5534faaad9f6cc55fcb958a
+run_name: big-fowl-682
+run_uuid: b650e3aed5534faaad9f6cc55fcb958a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780663365780
+status: 3
+tags: []
+user_id: maciek

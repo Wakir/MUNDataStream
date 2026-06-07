@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/e0b128df532b42fd82173da4d266d7a1/artifacts
+end_time: 1780703722108
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: e0b128df532b42fd82173da4d266d7a1
+run_name: skittish-frog-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780702325671
+status: 3
+tags: []
+user_id: root

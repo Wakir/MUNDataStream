@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/58d8dc6f882443588db776f8c6bb4d05/artifacts
+end_time: 1780531986832
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 58d8dc6f882443588db776f8c6bb4d05
+run_name: valuable-goose-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531951909
+status: 3
+tags: []
+user_id: plgmaczynspwr

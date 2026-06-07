@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9a1e9ffe6e8645a9a361153a7f1ca909/artifacts
+end_time: 1780536344859
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9a1e9ffe6e8645a9a361153a7f1ca909
+run_name: bemused-crow-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536309756
+status: 3
+tags: []
+user_id: plgmaczynspwr

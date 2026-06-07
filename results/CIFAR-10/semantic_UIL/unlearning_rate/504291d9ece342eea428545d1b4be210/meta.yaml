@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/504291d9ece342eea428545d1b4be210/artifacts
+end_time: 1780531564355
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 504291d9ece342eea428545d1b4be210
+run_name: agreeable-ram-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531529622
+status: 3
+tags: []
+user_id: plgmaczynspwr

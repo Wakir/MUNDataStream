@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fe420a0e917344d8af80459a9a19c652/artifacts
+end_time: 1780561852773
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fe420a0e917344d8af80459a9a19c652
+run_name: vaunted-shoat-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561817462
+status: 3
+tags: []
+user_id: plgmaczynspwr

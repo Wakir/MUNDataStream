@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c114f1b5572f4442baa3e183ed15b3bd/artifacts
+end_time: 1780551078466
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c114f1b5572f4442baa3e183ed15b3bd
+run_name: mysterious-squid-688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551043326
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/941aacafa7ab4f988e600821da69e2de/artifacts
+end_time: 1780529234439
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 941aacafa7ab4f988e600821da69e2de
+run_name: salty-trout-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529199576
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/31886f7b1bf94bc6bb8ca2eec1bb4e0a/artifacts
+end_time: 1780561433989
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 31886f7b1bf94bc6bb8ca2eec1bb4e0a
+run_name: fortunate-sheep-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561399442
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/24e0cf81ab2e4faf9c100324e3682dc2/artifacts
+end_time: 1780544251890
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 24e0cf81ab2e4faf9c100324e3682dc2
+run_name: traveling-vole-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544214818
+status: 3
+tags: []
+user_id: plgmaczynspwr

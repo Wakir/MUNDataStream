@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/c0481607d2384b9494d36a63fd18a31c/artifacts
+end_time: 1780700404873
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: c0481607d2384b9494d36a63fd18a31c
+run_name: receptive-perch-585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780699793068
+status: 3
+tags: []
+user_id: plgmaczynspwr

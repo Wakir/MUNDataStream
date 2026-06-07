@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4251f141fbe84ddc88f5ff14bfba9a2d/artifacts
+end_time: 1780527947763
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4251f141fbe84ddc88f5ff14bfba9a2d
+run_name: grandiose-colt-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527913482
+status: 3
+tags: []
+user_id: plgmaczynspwr

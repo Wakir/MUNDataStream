@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/c8ae2584f0e54347a5d4790eb11d0d4e/artifacts
+end_time: 1780273274346
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: c8ae2584f0e54347a5d4790eb11d0d4e
+run_name: capricious-ox-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273225313
+status: 3
+tags: []
+user_id: plgmaczynspwr

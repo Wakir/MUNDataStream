@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3625a7528da34792808076a18b1174e4/artifacts
+end_time: 1780531668516
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3625a7528da34792808076a18b1174e4
+run_name: rare-turtle-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531633823
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a62282167ed24453be9172004cb2624d/artifacts
+end_time: 1780541908333
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a62282167ed24453be9172004cb2624d
+run_name: luxuriant-stag-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541872600
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1d9477c80e4346d7bc1135df22f9f281/artifacts
+end_time: 1780528956035
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1d9477c80e4346d7bc1135df22f9f281
+run_name: redolent-squid-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528921062
+status: 3
+tags: []
+user_id: plgmaczynspwr

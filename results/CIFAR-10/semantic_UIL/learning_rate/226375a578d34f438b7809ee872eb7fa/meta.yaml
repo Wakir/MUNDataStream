@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/226375a578d34f438b7809ee872eb7fa/artifacts
+end_time: 1780541443798
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 226375a578d34f438b7809ee872eb7fa
+run_name: welcoming-shrew-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541408306
+status: 3
+tags: []
+user_id: plgmaczynspwr

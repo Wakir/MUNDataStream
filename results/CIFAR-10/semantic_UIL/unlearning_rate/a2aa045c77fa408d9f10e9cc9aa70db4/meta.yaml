@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a2aa045c77fa408d9f10e9cc9aa70db4/artifacts
+end_time: 1780540657477
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a2aa045c77fa408d9f10e9cc9aa70db4
+run_name: painted-doe-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540621833
+status: 3
+tags: []
+user_id: plgmaczynspwr

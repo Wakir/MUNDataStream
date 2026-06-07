@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/6560d33644de4e29bb9e205c06be4c59/artifacts
+end_time: 1780701080520
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 6560d33644de4e29bb9e205c06be4c59
+run_name: receptive-crane-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780699647027
+status: 3
+tags: []
+user_id: root

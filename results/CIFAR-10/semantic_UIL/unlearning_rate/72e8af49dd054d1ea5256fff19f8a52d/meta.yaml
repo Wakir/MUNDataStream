@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/72e8af49dd054d1ea5256fff19f8a52d/artifacts
+end_time: 1780525859252
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 72e8af49dd054d1ea5256fff19f8a52d
+run_name: upbeat-skunk-731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525824808
+status: 3
+tags: []
+user_id: plgmaczynspwr

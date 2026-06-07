@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/279edb7e7acc482cae201c0f8d3f6402/artifacts
+end_time: 1780525545657
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 279edb7e7acc482cae201c0f8d3f6402
+run_name: lyrical-ox-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525511389
+status: 3
+tags: []
+user_id: plgmaczynspwr

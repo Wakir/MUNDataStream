@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/9cbc66ec36094eeabd5e7cc7d817f9f3/artifacts
+end_time: 1780711682478
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 9cbc66ec36094eeabd5e7cc7d817f9f3
+run_name: selective-smelt-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709642175
+status: 3
+tags: []
+user_id: root

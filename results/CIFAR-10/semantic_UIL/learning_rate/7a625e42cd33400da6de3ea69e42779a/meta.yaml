@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7a625e42cd33400da6de3ea69e42779a/artifacts
+end_time: 1780556090584
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7a625e42cd33400da6de3ea69e42779a
+run_name: burly-gnat-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556054960
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9cd1684187dd46e094d21c4f9488f7b4/artifacts
+end_time: 1780538990330
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9cd1684187dd46e094d21c4f9488f7b4
+run_name: adorable-hen-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538954512
+status: 3
+tags: []
+user_id: plgmaczynspwr

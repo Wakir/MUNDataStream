@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/77d7c50b06db451f88cbaaec519c9293/artifacts
+end_time: 1780699576909
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 77d7c50b06db451f88cbaaec519c9293
+run_name: suave-koi-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780697529095
+status: 3
+tags: []
+user_id: root

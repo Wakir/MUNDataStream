@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1ff8f5c22f0b4fd3af111d4ba6f2c32f/artifacts
+end_time: 1780539733168
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1ff8f5c22f0b4fd3af111d4ba6f2c32f
+run_name: rambunctious-roo-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780539697755
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/79bbb4f298714bd78fcd906867d84749/artifacts
+end_time: 1780544214812
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 79bbb4f298714bd78fcd906867d84749
+run_name: treasured-grouse-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544177415
+status: 3
+tags: []
+user_id: plgmaczynspwr

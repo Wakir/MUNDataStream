@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f7af676670b645309ba6055a4550d29d/artifacts
+end_time: 1780531916599
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f7af676670b645309ba6055a4550d29d
+run_name: beautiful-cow-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531881014
+status: 3
+tags: []
+user_id: plgmaczynspwr

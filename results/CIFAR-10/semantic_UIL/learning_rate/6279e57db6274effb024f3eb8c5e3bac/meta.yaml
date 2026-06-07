@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/6279e57db6274effb024f3eb8c5e3bac/artifacts
+end_time: 1780543199534
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 6279e57db6274effb024f3eb8c5e3bac
+run_name: selective-foal-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543163298
+status: 3
+tags: []
+user_id: plgmaczynspwr

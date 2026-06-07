@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fc04a7ae1682435a99c49811d145de41/artifacts
+end_time: 1780541229977
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fc04a7ae1682435a99c49811d145de41
+run_name: defiant-donkey-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541194478
+status: 3
+tags: []
+user_id: plgmaczynspwr

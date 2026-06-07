@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/538833447499745968/c8fa1919ba264f469faa81f5e60adcad/artifacts
+end_time: 1780574129683
+entry_point_name: ''
+experiment_id: '538833447499745968'
+lifecycle_stage: active
+run_id: c8fa1919ba264f469faa81f5e60adcad
+run_name: bemused-trout-344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780573753186
+status: 3
+tags: []
+user_id: plgmaczynspwr

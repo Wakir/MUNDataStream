@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/af19bdd921114074b924849438e0af2a/artifacts
+end_time: 1780689963268
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: af19bdd921114074b924849438e0af2a
+run_name: capable-dove-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780687579505
+status: 3
+tags: []
+user_id: root

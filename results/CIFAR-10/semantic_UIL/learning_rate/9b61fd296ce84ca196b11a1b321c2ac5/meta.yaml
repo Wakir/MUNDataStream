@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9b61fd296ce84ca196b11a1b321c2ac5/artifacts
+end_time: 1780543595081
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9b61fd296ce84ca196b11a1b321c2ac5
+run_name: traveling-loon-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543559379
+status: 3
+tags: []
+user_id: plgmaczynspwr

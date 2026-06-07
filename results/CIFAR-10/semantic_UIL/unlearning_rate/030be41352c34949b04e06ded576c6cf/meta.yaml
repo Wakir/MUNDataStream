@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/030be41352c34949b04e06ded576c6cf/artifacts
+end_time: 1780532652875
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 030be41352c34949b04e06ded576c6cf
+run_name: luminous-rat-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532617462
+status: 3
+tags: []
+user_id: plgmaczynspwr

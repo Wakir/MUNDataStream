@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/34d2845a296c4d7a9a5ad0127b1694cb/artifacts
+end_time: 1780705509172
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 34d2845a296c4d7a9a5ad0127b1694cb
+run_name: unequaled-wren-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780702964273
+status: 3
+tags: []
+user_id: root

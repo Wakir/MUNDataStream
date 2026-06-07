@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/33d5f6009b3941e79ac52d8ebd3a75a9/artifacts
+end_time: 1780527213012
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 33d5f6009b3941e79ac52d8ebd3a75a9
+run_name: welcoming-worm-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527178119
+status: 3
+tags: []
+user_id: plgmaczynspwr

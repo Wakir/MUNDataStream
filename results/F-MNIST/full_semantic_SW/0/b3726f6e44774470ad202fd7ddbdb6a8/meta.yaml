@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/b3726f6e44774470ad202fd7ddbdb6a8/artifacts
+end_time: 1780686257267
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: b3726f6e44774470ad202fd7ddbdb6a8
+run_name: enthused-bat-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780684663896
+status: 3
+tags: []
+user_id: root

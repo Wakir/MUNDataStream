@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/055c1205ab17400093dbe66f1e570baf/artifacts
+end_time: 1780699646959
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 055c1205ab17400093dbe66f1e570baf
+run_name: aged-grouse-750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780697579734
+status: 3
+tags: []
+user_id: root

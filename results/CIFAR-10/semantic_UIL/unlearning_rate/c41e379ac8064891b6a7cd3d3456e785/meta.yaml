@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c41e379ac8064891b6a7cd3d3456e785/artifacts
+end_time: 1780526624268
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c41e379ac8064891b6a7cd3d3456e785
+run_name: caring-finch-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526590001
+status: 3
+tags: []
+user_id: plgmaczynspwr

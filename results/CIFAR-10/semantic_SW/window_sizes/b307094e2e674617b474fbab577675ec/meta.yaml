@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/b307094e2e674617b474fbab577675ec/artifacts
+end_time: 1780708801382
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: b307094e2e674617b474fbab577675ec
+run_name: victorious-grub-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780706514233
+status: 3
+tags: []
+user_id: root

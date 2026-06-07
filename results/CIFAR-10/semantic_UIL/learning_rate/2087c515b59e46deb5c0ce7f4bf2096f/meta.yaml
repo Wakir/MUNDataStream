@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2087c515b59e46deb5c0ce7f4bf2096f/artifacts
+end_time: 1780554783557
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2087c515b59e46deb5c0ce7f4bf2096f
+run_name: shivering-boar-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554748295
+status: 3
+tags: []
+user_id: plgmaczynspwr

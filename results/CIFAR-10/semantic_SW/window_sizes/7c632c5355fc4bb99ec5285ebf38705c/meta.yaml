@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/7c632c5355fc4bb99ec5285ebf38705c/artifacts
+end_time: 1780711888885
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 7c632c5355fc4bb99ec5285ebf38705c
+run_name: handsome-ant-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709324599
+status: 3
+tags: []
+user_id: root

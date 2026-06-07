@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7ed4ed7a61144df68a08c2df0627f356/artifacts
+end_time: 1780551852014
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7ed4ed7a61144df68a08c2df0627f356
+run_name: vaunted-worm-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551816995
+status: 3
+tags: []
+user_id: plgmaczynspwr

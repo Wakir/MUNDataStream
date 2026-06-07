@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/78b9b4ce9da74ab6b30e6a8858e6a51f/artifacts
+end_time: 1780699663726
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 78b9b4ce9da74ab6b30e6a8858e6a51f
+run_name: crawling-hawk-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780697586403
+status: 3
+tags: []
+user_id: root

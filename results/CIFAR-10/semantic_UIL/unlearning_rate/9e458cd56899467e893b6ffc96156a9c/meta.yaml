@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9e458cd56899467e893b6ffc96156a9c/artifacts
+end_time: 1780534164441
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9e458cd56899467e893b6ffc96156a9c
+run_name: bald-fish-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534129185
+status: 3
+tags: []
+user_id: plgmaczynspwr

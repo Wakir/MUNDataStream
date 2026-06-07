@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/5cbeeb1f000c45a7aab60c9f0eab19b5/artifacts
+end_time: 1780579583113
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 5cbeeb1f000c45a7aab60c9f0eab19b5
+run_name: placid-vole-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780579168635
+status: 3
+tags: []
+user_id: plgmaczynspwr

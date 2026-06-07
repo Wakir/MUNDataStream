@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7eb2658903b64b84a531d4c6dcb93f9c/artifacts
+end_time: 1780544705154
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7eb2658903b64b84a531d4c6dcb93f9c
+run_name: crawling-snake-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544667861
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/02aac22b95754f1194b1559adaa48909/artifacts
+end_time: 1780536590387
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 02aac22b95754f1194b1559adaa48909
+run_name: beautiful-quail-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536555348
+status: 3
+tags: []
+user_id: plgmaczynspwr

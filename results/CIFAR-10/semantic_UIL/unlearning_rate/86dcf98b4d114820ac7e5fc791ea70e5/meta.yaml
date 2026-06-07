@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/86dcf98b4d114820ac7e5fc791ea70e5/artifacts
+end_time: 1780538777091
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 86dcf98b4d114820ac7e5fc791ea70e5
+run_name: treasured-mouse-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538741834
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/2d397fc0678a45da94d9834a44096be9/artifacts
+end_time: 1780710156421
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 2d397fc0678a45da94d9834a44096be9
+run_name: nimble-bass-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780708801459
+status: 3
+tags: []
+user_id: root

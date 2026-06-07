@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/72b10cf5f04c42faa4d22ab889fb9e0f/artifacts
+end_time: 1780721917995
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 72b10cf5f04c42faa4d22ab889fb9e0f
+run_name: carefree-frog-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719912184
+status: 3
+tags: []
+user_id: root

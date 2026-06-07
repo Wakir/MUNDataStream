@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/1f7a5ffc2cd1492ba36175136f14202a/artifacts
+end_time: 1780719912129
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 1f7a5ffc2cd1492ba36175136f14202a
+run_name: nervous-swan-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780718531298
+status: 3
+tags: []
+user_id: root

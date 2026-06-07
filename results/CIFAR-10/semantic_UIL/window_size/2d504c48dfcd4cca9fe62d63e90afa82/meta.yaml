@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2d504c48dfcd4cca9fe62d63e90afa82/artifacts
+end_time: 1780560323365
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2d504c48dfcd4cca9fe62d63e90afa82
+run_name: masked-cow-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560289212
+status: 3
+tags: []
+user_id: plgmaczynspwr

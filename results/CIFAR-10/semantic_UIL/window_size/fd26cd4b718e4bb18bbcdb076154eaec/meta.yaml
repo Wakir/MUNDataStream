@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fd26cd4b718e4bb18bbcdb076154eaec/artifacts
+end_time: 1780561923521
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fd26cd4b718e4bb18bbcdb076154eaec
+run_name: peaceful-bass-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561888128
+status: 3
+tags: []
+user_id: plgmaczynspwr

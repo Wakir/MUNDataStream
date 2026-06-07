@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0c5e127e9c654c449dea47da8f5cf70a/artifacts
+end_time: 1780542551034
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0c5e127e9c654c449dea47da8f5cf70a
+run_name: stately-mouse-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542515164
+status: 3
+tags: []
+user_id: plgmaczynspwr

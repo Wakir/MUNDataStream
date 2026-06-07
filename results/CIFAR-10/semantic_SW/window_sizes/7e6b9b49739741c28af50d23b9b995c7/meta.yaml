@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/7e6b9b49739741c28af50d23b9b995c7/artifacts
+end_time: 1780698275338
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 7e6b9b49739741c28af50d23b9b995c7
+run_name: nimble-fox-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780696939497
+status: 3
+tags: []
+user_id: root

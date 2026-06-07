@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/560a63b6012e4b4fa966151a52603916/artifacts
+end_time: 1780536802222
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 560a63b6012e4b4fa966151a52603916
+run_name: bald-grouse-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536766807
+status: 3
+tags: []
+user_id: plgmaczynspwr

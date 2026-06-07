@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/bb6c161d4df54216ab59e772f08959bc/artifacts
+end_time: 1780533532626
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: bb6c161d4df54216ab59e772f08959bc
+run_name: aged-chimp-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780533497484
+status: 3
+tags: []
+user_id: plgmaczynspwr

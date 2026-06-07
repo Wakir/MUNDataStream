@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/b3d4bf3dd6e8420cb62535d21dc0ae0e/artifacts
+end_time: 1780697585938
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: b3d4bf3dd6e8420cb62535d21dc0ae0e
+run_name: dazzling-panda-298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572023
+status: 3
+tags: []
+user_id: root

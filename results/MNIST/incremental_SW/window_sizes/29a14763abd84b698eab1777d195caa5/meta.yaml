@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/29a14763abd84b698eab1777d195caa5/artifacts
+end_time: 1780705900516
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 29a14763abd84b698eab1777d195caa5
+run_name: upbeat-frog-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701676060
+status: 3
+tags: []
+user_id: root

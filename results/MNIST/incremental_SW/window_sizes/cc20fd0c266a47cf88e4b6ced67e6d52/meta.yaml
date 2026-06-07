@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/cc20fd0c266a47cf88e4b6ced67e6d52/artifacts
+end_time: 1780701673799
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: cc20fd0c266a47cf88e4b6ced67e6d52
+run_name: bittersweet-fish-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282517
+status: 3
+tags: []
+user_id: root

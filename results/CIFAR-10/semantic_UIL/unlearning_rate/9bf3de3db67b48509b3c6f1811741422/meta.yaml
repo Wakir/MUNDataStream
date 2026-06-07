@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9bf3de3db67b48509b3c6f1811741422/artifacts
+end_time: 1780525304222
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9bf3de3db67b48509b3c6f1811741422
+run_name: casual-cow-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525268948
+status: 3
+tags: []
+user_id: plgmaczynspwr

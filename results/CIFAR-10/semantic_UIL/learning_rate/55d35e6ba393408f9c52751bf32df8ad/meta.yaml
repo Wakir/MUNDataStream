@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/55d35e6ba393408f9c52751bf32df8ad/artifacts
+end_time: 1780541801072
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 55d35e6ba393408f9c52751bf32df8ad
+run_name: sassy-fox-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541765412
+status: 3
+tags: []
+user_id: plgmaczynspwr

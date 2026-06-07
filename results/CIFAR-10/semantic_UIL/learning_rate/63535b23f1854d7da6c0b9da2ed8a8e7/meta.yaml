@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/63535b23f1854d7da6c0b9da2ed8a8e7/artifacts
+end_time: 1780547858866
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 63535b23f1854d7da6c0b9da2ed8a8e7
+run_name: peaceful-smelt-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547819808
+status: 3
+tags: []
+user_id: plgmaczynspwr

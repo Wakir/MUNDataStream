@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/b03fb387e514456290e40c13619b99f9/artifacts
+end_time: 1780703183863
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: b03fb387e514456290e40c13619b99f9
+run_name: valuable-asp-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780702419173
+status: 3
+tags: []
+user_id: plgmaczynspwr

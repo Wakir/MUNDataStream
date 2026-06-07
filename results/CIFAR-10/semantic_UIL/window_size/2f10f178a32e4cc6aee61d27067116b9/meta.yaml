@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2f10f178a32e4cc6aee61d27067116b9/artifacts
+end_time: 1780560915254
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2f10f178a32e4cc6aee61d27067116b9
+run_name: ambitious-boar-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560879525
+status: 3
+tags: []
+user_id: plgmaczynspwr

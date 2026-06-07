@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e6b56612544946f59260d47374f3aa20/artifacts
+end_time: 1780538071693
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e6b56612544946f59260d47374f3aa20
+run_name: auspicious-cow-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538036244
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/dc24cb45a9a1471bbcd159a840d14fcd/artifacts
+end_time: 1780541265434
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: dc24cb45a9a1471bbcd159a840d14fcd
+run_name: fearless-ram-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541229981
+status: 3
+tags: []
+user_id: plgmaczynspwr

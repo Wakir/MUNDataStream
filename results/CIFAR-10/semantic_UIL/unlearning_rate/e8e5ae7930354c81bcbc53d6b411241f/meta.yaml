@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e8e5ae7930354c81bcbc53d6b411241f/artifacts
+end_time: 1780534374476
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e8e5ae7930354c81bcbc53d6b411241f
+run_name: dashing-conch-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534339534
+status: 3
+tags: []
+user_id: plgmaczynspwr

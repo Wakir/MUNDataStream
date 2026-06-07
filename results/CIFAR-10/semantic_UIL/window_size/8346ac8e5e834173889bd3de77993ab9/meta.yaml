@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8346ac8e5e834173889bd3de77993ab9/artifacts
+end_time: 1780557729824
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8346ac8e5e834173889bd3de77993ab9
+run_name: treasured-shoat-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557694809
+status: 3
+tags: []
+user_id: plgmaczynspwr

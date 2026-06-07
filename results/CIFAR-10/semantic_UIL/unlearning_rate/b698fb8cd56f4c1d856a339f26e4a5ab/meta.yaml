@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b698fb8cd56f4c1d856a339f26e4a5ab/artifacts
+end_time: 1780534901146
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b698fb8cd56f4c1d856a339f26e4a5ab
+run_name: nervous-ant-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534865727
+status: 3
+tags: []
+user_id: plgmaczynspwr

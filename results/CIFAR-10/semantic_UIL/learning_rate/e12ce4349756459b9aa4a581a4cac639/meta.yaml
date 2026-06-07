@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e12ce4349756459b9aa4a581a4cac639/artifacts
+end_time: 1780543916930
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e12ce4349756459b9aa4a581a4cac639
+run_name: thundering-cub-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543880911
+status: 3
+tags: []
+user_id: plgmaczynspwr

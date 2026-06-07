@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e7799fc2236e4c13b17968130857de44/artifacts
+end_time: 1780551711595
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e7799fc2236e4c13b17968130857de44
+run_name: lyrical-stork-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551676508
+status: 3
+tags: []
+user_id: plgmaczynspwr

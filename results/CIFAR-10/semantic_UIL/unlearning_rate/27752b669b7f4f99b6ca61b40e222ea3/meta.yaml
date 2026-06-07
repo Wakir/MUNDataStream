@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/27752b669b7f4f99b6ca61b40e222ea3/artifacts
+end_time: 1780538565500
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 27752b669b7f4f99b6ca61b40e222ea3
+run_name: worried-trout-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538529542
+status: 3
+tags: []
+user_id: plgmaczynspwr

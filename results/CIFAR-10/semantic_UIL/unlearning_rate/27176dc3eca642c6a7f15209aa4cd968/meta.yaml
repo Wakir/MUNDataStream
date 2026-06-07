@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/27176dc3eca642c6a7f15209aa4cd968/artifacts
+end_time: 1780540728478
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 27176dc3eca642c6a7f15209aa4cd968
+run_name: rare-deer-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540692865
+status: 3
+tags: []
+user_id: plgmaczynspwr

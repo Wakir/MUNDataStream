@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/4f6981190f884d53a33978c31ddcb65a/artifacts
+end_time: 1780707735854
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: 4f6981190f884d53a33978c31ddcb65a
+run_name: rumbling-cow-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707131905
+status: 3
+tags: []
+user_id: plgmaczynspwr

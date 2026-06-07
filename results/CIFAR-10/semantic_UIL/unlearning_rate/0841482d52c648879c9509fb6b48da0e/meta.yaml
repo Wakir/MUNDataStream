@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0841482d52c648879c9509fb6b48da0e/artifacts
+end_time: 1780529095364
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0841482d52c648879c9509fb6b48da0e
+run_name: hilarious-rat-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529060584
+status: 3
+tags: []
+user_id: plgmaczynspwr

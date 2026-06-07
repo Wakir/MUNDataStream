@@ -1,8 +1,0 @@
-artifact_location: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/166217003607222761
-creation_time: 1780266217635
-experiment_id: '166217003607222761'
-last_update_time: 1780266217635
-lifecycle_stage: active
-name: MNIST_SuddenDrift
-trace_location: null
-workspace: default

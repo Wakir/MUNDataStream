@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7debcef6bfc146ffb3ca33233011dc9a/artifacts
+end_time: 1780530694417
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7debcef6bfc146ffb3ca33233011dc9a
+run_name: bouncy-koi-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530659685
+status: 3
+tags: []
+user_id: plgmaczynspwr

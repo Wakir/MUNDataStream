@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/4c6078ce964941838501995e38964c7a/artifacts
+end_time: 1780583650871
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 4c6078ce964941838501995e38964c7a
+run_name: enchanting-bee-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780582935496
+status: 3
+tags: []
+user_id: plgmaczynspwr

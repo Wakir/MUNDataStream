@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/24a87b19288f418fb4cb91a09aed330f/artifacts
+end_time: 1780588608212
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: 24a87b19288f418fb4cb91a09aed330f
+run_name: calm-lynx-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780587763799
+status: 3
+tags: []
+user_id: plgmaczynspwr

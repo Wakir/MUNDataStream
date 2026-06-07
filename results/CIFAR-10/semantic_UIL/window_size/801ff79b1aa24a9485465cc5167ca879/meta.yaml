@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/801ff79b1aa24a9485465cc5167ca879/artifacts
+end_time: 1780559418620
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 801ff79b1aa24a9485465cc5167ca879
+run_name: gifted-bat-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780559384253
+status: 3
+tags: []
+user_id: plgmaczynspwr

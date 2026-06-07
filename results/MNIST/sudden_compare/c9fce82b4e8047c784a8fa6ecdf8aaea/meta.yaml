@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns801_2/751507500747603118/c9fce82b4e8047c784a8fa6ecdf8aaea/artifacts
+end_time: 1780681382670
+entry_point_name: ''
+experiment_id: '751507500747603118'
+lifecycle_stage: active
+run_id: c9fce82b4e8047c784a8fa6ecdf8aaea
+run_name: Sliding_noise=0.0_seed=65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780680482700
+status: 3
+tags: []
+user_id: plgmaczynspwr

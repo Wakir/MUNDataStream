@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7cc7a114eee4471c8c1b47ec2105d17d/artifacts
+end_time: 1780525407507
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7cc7a114eee4471c8c1b47ec2105d17d
+run_name: adorable-cub-188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525373117
+status: 3
+tags: []
+user_id: plgmaczynspwr

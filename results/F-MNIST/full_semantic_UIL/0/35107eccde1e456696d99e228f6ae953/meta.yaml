@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/35107eccde1e456696d99e228f6ae953/artifacts
+end_time: 1780268161034
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 35107eccde1e456696d99e228f6ae953
+run_name: stylish-wren-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268110725
+status: 3
+tags: []
+user_id: plgmaczynspwr

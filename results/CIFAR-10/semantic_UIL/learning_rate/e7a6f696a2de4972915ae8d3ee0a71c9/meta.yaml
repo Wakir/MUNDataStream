@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e7a6f696a2de4972915ae8d3ee0a71c9/artifacts
+end_time: 1780548769829
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e7a6f696a2de4972915ae8d3ee0a71c9
+run_name: suave-donkey-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548734131
+status: 3
+tags: []
+user_id: plgmaczynspwr

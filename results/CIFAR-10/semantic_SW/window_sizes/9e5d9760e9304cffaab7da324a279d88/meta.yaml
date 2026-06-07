@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/9e5d9760e9304cffaab7da324a279d88/artifacts
+end_time: 1780709325883
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 9e5d9760e9304cffaab7da324a279d88
+run_name: beautiful-ape-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780706541990
+status: 3
+tags: []
+user_id: root

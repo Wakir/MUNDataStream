@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ef0de749633a43e3b91d94612d5a3eae/artifacts
+end_time: 1780532757820
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ef0de749633a43e3b91d94612d5a3eae
+run_name: spiffy-fawn-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532722648
+status: 3
+tags: []
+user_id: plgmaczynspwr

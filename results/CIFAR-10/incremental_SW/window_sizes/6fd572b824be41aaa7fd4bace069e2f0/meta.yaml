@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/6fd572b824be41aaa7fd4bace069e2f0/artifacts
+end_time: 1780706177932
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 6fd572b824be41aaa7fd4bace069e2f0
+run_name: nosy-fowl-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780703567526
+status: 3
+tags: []
+user_id: root

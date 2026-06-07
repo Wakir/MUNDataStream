@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/14107987477942d9b7543f27b79cca9c/artifacts
+end_time: 1780555065378
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 14107987477942d9b7543f27b79cca9c
+run_name: colorful-calf-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555030255
+status: 3
+tags: []
+user_id: plgmaczynspwr

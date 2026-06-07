@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b7d5128d20d244fdbdbf06ba91be13ed/artifacts
+end_time: 1780557348615
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b7d5128d20d244fdbdbf06ba91be13ed
+run_name: kindly-moth-894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557314444
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/6dcb296914db4ff287e186ef061f884b/artifacts
+end_time: 1780719741275
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 6dcb296914db4ff287e186ef061f884b
+run_name: gregarious-newt-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780717089134
+status: 3
+tags: []
+user_id: root

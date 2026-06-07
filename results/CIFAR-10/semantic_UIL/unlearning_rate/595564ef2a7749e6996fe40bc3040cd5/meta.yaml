@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/595564ef2a7749e6996fe40bc3040cd5/artifacts
+end_time: 1780529894457
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 595564ef2a7749e6996fe40bc3040cd5
+run_name: receptive-wren-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529859878
+status: 3
+tags: []
+user_id: plgmaczynspwr

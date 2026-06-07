@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/af2d679e204244a0b46c16be54efd183/artifacts
+end_time: 1780702963741
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: af2d679e204244a0b46c16be54efd183
+run_name: vaunted-goose-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780700254760
+status: 3
+tags: []
+user_id: root

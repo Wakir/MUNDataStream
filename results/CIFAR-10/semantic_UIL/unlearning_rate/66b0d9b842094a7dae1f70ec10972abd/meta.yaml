@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/66b0d9b842094a7dae1f70ec10972abd/artifacts
+end_time: 1780535886718
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 66b0d9b842094a7dae1f70ec10972abd
+run_name: righteous-stoat-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535851793
+status: 3
+tags: []
+user_id: plgmaczynspwr

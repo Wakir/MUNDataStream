@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/bf25f784a77c43029f928cec46a33f46/artifacts
+end_time: 1780710758149
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: bf25f784a77c43029f928cec46a33f46
+run_name: welcoming-snipe-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707459556
+status: 3
+tags: []
+user_id: root

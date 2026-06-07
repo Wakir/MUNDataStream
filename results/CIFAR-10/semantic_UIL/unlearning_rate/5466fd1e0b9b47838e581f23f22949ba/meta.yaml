@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/5466fd1e0b9b47838e581f23f22949ba/artifacts
+end_time: 1780536097751
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 5466fd1e0b9b47838e581f23f22949ba
+run_name: bald-panda-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536062800
+status: 3
+tags: []
+user_id: plgmaczynspwr

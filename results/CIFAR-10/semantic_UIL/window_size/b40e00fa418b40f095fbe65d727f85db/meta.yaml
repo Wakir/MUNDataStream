@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b40e00fa418b40f095fbe65d727f85db/artifacts
+end_time: 1780561711922
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b40e00fa418b40f095fbe65d727f85db
+run_name: dazzling-ray-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561676771
+status: 3
+tags: []
+user_id: plgmaczynspwr

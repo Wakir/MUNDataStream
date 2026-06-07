@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e49aff44e31d4eb3938cc92ae922f52e/artifacts
+end_time: 1780551746561
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e49aff44e31d4eb3938cc92ae922f52e
+run_name: colorful-sloth-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551711600
+status: 3
+tags: []
+user_id: plgmaczynspwr

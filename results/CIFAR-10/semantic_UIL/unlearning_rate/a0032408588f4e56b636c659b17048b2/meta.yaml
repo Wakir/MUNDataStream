@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a0032408588f4e56b636c659b17048b2/artifacts
+end_time: 1780525232288
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a0032408588f4e56b636c659b17048b2
+run_name: masked-mule-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525197499
+status: 3
+tags: []
+user_id: plgmaczynspwr

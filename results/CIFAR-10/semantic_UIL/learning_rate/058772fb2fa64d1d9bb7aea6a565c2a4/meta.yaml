@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/058772fb2fa64d1d9bb7aea6a565c2a4/artifacts
+end_time: 1780544102913
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 058772fb2fa64d1d9bb7aea6a565c2a4
+run_name: exultant-koi-570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544064218
+status: 3
+tags: []
+user_id: plgmaczynspwr

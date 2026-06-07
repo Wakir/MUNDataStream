@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c53a26572f9f4070a80afc7e59ef369c/artifacts
+end_time: 1780525616921
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c53a26572f9f4070a80afc7e59ef369c
+run_name: blushing-mole-166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525581289
+status: 3
+tags: []
+user_id: plgmaczynspwr

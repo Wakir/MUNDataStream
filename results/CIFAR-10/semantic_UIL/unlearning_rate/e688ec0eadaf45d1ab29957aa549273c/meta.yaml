@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e688ec0eadaf45d1ab29957aa549273c/artifacts
+end_time: 1780528433594
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e688ec0eadaf45d1ab29957aa549273c
+run_name: thundering-slug-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528398995
+status: 3
+tags: []
+user_id: plgmaczynspwr

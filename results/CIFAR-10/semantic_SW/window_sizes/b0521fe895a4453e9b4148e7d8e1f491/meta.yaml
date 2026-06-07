@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/b0521fe895a4453e9b4148e7d8e1f491/artifacts
+end_time: 1780697579187
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: b0521fe895a4453e9b4148e7d8e1f491
+run_name: nervous-penguin-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572203
+status: 3
+tags: []
+user_id: root

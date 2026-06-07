@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2b26b40e18154049954eec110094a189/artifacts
+end_time: 1780554924723
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2b26b40e18154049954eec110094a189
+run_name: adorable-shrew-957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554889548
+status: 3
+tags: []
+user_id: plgmaczynspwr

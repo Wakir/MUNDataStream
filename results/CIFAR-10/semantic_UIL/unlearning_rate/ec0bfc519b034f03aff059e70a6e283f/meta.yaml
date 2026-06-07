@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ec0bfc519b034f03aff059e70a6e283f/artifacts
+end_time: 1780530067560
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ec0bfc519b034f03aff059e70a6e283f
+run_name: bright-squirrel-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530032941
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/110cfd8b75a44b5ab2ce2f844abc1440/artifacts
+end_time: 1780530624637
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 110cfd8b75a44b5ab2ce2f844abc1440
+run_name: bright-jay-704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530589786
+status: 3
+tags: []
+user_id: plgmaczynspwr

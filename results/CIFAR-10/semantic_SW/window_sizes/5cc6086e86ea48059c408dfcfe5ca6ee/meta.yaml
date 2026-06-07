@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/5cc6086e86ea48059c408dfcfe5ca6ee/artifacts
+end_time: 1780710789461
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 5cc6086e86ea48059c408dfcfe5ca6ee
+run_name: spiffy-shrimp-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707480870
+status: 3
+tags: []
+user_id: root

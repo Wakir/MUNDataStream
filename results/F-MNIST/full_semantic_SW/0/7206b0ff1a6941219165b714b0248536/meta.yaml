@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/7206b0ff1a6941219165b714b0248536/artifacts
+end_time: 1780680918734
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 7206b0ff1a6941219165b714b0248536
+run_name: upbeat-donkey-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780680774976
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/80e775eda2954a8ba804d942f19ed406/artifacts
+end_time: 1780535076696
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 80e775eda2954a8ba804d942f19ed406
+run_name: upbeat-fox-774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535041540
+status: 3
+tags: []
+user_id: plgmaczynspwr

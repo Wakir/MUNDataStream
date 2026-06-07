@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/0002c463cd614f609f5fcf4c829675c6/artifacts
+end_time: 1780708884422
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 0002c463cd614f609f5fcf4c829675c6
+run_name: overjoyed-sponge-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780705003908
+status: 3
+tags: []
+user_id: root

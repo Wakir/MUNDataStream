@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/bd2a13f3a3364e65a1a5c9b332505cf7/artifacts
+end_time: 1780535394604
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: bd2a13f3a3364e65a1a5c9b332505cf7
+run_name: grandiose-fly-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535359396
+status: 3
+tags: []
+user_id: plgmaczynspwr

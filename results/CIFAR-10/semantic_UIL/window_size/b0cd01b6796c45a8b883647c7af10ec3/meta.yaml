@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b0cd01b6796c45a8b883647c7af10ec3/artifacts
+end_time: 1780560255099
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b0cd01b6796c45a8b883647c7af10ec3
+run_name: wistful-sponge-204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560219336
+status: 3
+tags: []
+user_id: plgmaczynspwr

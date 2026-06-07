@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/69b42545351a48929d0a95b580e93fb2/artifacts
+end_time: 1780546690601
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 69b42545351a48929d0a95b580e93fb2
+run_name: rare-bass-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780546653001
+status: 3
+tags: []
+user_id: plgmaczynspwr

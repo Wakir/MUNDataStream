@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/296e296997c943f4ab6b1d3b09a63851/artifacts
+end_time: 1780544960964
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 296e296997c943f4ab6b1d3b09a63851
+run_name: bouncy-stag-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544925469
+status: 3
+tags: []
+user_id: plgmaczynspwr

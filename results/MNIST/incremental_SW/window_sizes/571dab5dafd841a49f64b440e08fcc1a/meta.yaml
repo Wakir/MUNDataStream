@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/571dab5dafd841a49f64b440e08fcc1a/artifacts
+end_time: 1780707804785
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 571dab5dafd841a49f64b440e08fcc1a
+run_name: upbeat-shark-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780694282970
+status: 3
+tags: []
+user_id: root

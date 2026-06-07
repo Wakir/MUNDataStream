@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/759c7cb57aae49daa8e31dfec9181d38/artifacts
+end_time: 1780545538337
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 759c7cb57aae49daa8e31dfec9181d38
+run_name: calm-sow-498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545501458
+status: 3
+tags: []
+user_id: plgmaczynspwr

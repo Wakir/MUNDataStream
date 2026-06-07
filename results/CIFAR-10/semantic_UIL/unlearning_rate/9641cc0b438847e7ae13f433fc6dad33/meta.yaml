@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9641cc0b438847e7ae13f433fc6dad33/artifacts
+end_time: 1780530275736
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9641cc0b438847e7ae13f433fc6dad33
+run_name: mysterious-cub-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530240961
+status: 3
+tags: []
+user_id: plgmaczynspwr

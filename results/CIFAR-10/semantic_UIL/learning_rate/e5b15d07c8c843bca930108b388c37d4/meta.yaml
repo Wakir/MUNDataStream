@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e5b15d07c8c843bca930108b388c37d4/artifacts
+end_time: 1780545250800
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e5b15d07c8c843bca930108b388c37d4
+run_name: unruly-snake-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545214313
+status: 3
+tags: []
+user_id: plgmaczynspwr

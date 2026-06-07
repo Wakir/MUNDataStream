@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e3fe0fc2a84842bdb13dcc7ebb7b9938/artifacts
+end_time: 1780534794726
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e3fe0fc2a84842bdb13dcc7ebb7b9938
+run_name: lyrical-crane-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534759544
+status: 3
+tags: []
+user_id: plgmaczynspwr

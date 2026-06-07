@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/9a6b6fc4b9614ee5876b7ce82bb95883/artifacts
+end_time: 1780706608091
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 9a6b6fc4b9614ee5876b7ce82bb95883
+run_name: handsome-moose-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780703718504
+status: 3
+tags: []
+user_id: root

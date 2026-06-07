@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/013bf4372fe343ca8a9f537a80e7fc48/artifacts
+end_time: 1780712245117
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 013bf4372fe343ca8a9f537a80e7fc48
+run_name: bemused-whale-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780704755249
+status: 3
+tags: []
+user_id: root

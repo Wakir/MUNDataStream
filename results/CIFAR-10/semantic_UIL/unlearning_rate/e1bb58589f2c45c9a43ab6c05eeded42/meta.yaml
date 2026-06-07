@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e1bb58589f2c45c9a43ab6c05eeded42/artifacts
+end_time: 1780538671075
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e1bb58589f2c45c9a43ab6c05eeded42
+run_name: victorious-hawk-277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538635765
+status: 3
+tags: []
+user_id: plgmaczynspwr

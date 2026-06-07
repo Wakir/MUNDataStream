@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/cd6f3447c9cb410385ee4cb1fdd49006/artifacts
+end_time: 1780528746901
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: cd6f3447c9cb410385ee4cb1fdd49006
+run_name: spiffy-kite-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528711953
+status: 3
+tags: []
+user_id: plgmaczynspwr

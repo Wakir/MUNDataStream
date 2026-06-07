@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7cec6f0aa5bd4505a2db470a400b33e4/artifacts
+end_time: 1780526034950
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7cec6f0aa5bd4505a2db470a400b33e4
+run_name: traveling-shark-409
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525999958
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/51b8899b8df84d44874b3cefd2096619/artifacts
+end_time: 1780271927892
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 51b8899b8df84d44874b3cefd2096619
+run_name: merciful-doe-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780271881287
+status: 3
+tags: []
+user_id: plgmaczynspwr

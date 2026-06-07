@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/24a94233ee4148aca6f10e8828048f82/artifacts
+end_time: 1780531738729
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 24a94233ee4148aca6f10e8828048f82
+run_name: fun-horse-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531703284
+status: 3
+tags: []
+user_id: plgmaczynspwr

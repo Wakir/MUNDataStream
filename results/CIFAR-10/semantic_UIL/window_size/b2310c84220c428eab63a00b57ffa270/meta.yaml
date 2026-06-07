@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b2310c84220c428eab63a00b57ffa270/artifacts
+end_time: 1780558693214
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b2310c84220c428eab63a00b57ffa270
+run_name: salty-sow-596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558658436
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a36c524e30854aa883b7250ba0942772/artifacts
+end_time: 1780549486070
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a36c524e30854aa883b7250ba0942772
+run_name: luminous-ox-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549450294
+status: 3
+tags: []
+user_id: plgmaczynspwr

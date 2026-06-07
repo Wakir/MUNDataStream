@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/db25b5ec93094f98ab4d47fbe62004bd/artifacts
+end_time: 1780573074496
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: db25b5ec93094f98ab4d47fbe62004bd
+run_name: hilarious-pig-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780572828741
+status: 3
+tags: []
+user_id: plgmaczynspwr

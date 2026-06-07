@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ff837fdf23f444ba9271e7c0af24b533/artifacts
+end_time: 1780540264816
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ff837fdf23f444ba9271e7c0af24b533
+run_name: luminous-jay-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540229026
+status: 3
+tags: []
+user_id: plgmaczynspwr

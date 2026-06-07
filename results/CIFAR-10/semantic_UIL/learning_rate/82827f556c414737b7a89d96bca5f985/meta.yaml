@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/82827f556c414737b7a89d96bca5f985/artifacts
+end_time: 1780549021282
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 82827f556c414737b7a89d96bca5f985
+run_name: stately-jay-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548985495
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/e5ec8025a53b4a30b92915021d067925/artifacts
+end_time: 1780712261151
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: e5ec8025a53b4a30b92915021d067925
+run_name: omniscient-stoat-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709902377
+status: 3
+tags: []
+user_id: root

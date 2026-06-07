@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/fbce3383dc4f436e9761b35458c02b1f/artifacts
+end_time: 1780558519519
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: fbce3383dc4f436e9761b35458c02b1f
+run_name: welcoming-zebra-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558484938
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7374467a97de4e1fab2cc9fa838b564d/artifacts
+end_time: 1780547519420
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7374467a97de4e1fab2cc9fa838b564d
+run_name: worried-snake-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547481908
+status: 3
+tags: []
+user_id: plgmaczynspwr

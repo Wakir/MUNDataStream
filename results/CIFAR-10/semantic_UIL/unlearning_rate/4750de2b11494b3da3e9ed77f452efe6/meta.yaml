@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4750de2b11494b3da3e9ed77f452efe6/artifacts
+end_time: 1780551464314
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4750de2b11494b3da3e9ed77f452efe6
+run_name: clean-ram-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551429270
+status: 3
+tags: []
+user_id: plgmaczynspwr

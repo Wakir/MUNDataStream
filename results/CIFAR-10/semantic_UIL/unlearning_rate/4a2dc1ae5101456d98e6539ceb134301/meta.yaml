@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4a2dc1ae5101456d98e6539ceb134301/artifacts
+end_time: 1780529512800
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4a2dc1ae5101456d98e6539ceb134301
+run_name: ambitious-worm-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529477851
+status: 3
+tags: []
+user_id: plgmaczynspwr

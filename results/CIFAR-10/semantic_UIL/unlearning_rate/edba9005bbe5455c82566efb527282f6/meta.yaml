@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/edba9005bbe5455c82566efb527282f6/artifacts
+end_time: 1780530136972
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: edba9005bbe5455c82566efb527282f6
+run_name: blushing-perch-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530102542
+status: 3
+tags: []
+user_id: plgmaczynspwr

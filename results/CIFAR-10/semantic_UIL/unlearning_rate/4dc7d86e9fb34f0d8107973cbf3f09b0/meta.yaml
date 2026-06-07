@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4dc7d86e9fb34f0d8107973cbf3f09b0/artifacts
+end_time: 1780533567870
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4dc7d86e9fb34f0d8107973cbf3f09b0
+run_name: smiling-rat-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780533532630
+status: 3
+tags: []
+user_id: plgmaczynspwr

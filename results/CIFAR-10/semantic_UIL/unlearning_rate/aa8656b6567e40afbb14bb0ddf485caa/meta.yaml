@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/aa8656b6567e40afbb14bb0ddf485caa/artifacts
+end_time: 1780526693719
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: aa8656b6567e40afbb14bb0ddf485caa
+run_name: grandiose-mole-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526658884
+status: 3
+tags: []
+user_id: plgmaczynspwr

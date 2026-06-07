@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1acde48ffad84bff9940b8bc8e13724e/artifacts
+end_time: 1780556838654
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1acde48ffad84bff9940b8bc8e13724e
+run_name: peaceful-shrew-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556803306
+status: 3
+tags: []
+user_id: plgmaczynspwr

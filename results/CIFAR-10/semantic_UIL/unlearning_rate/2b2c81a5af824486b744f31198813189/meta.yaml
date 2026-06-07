@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2b2c81a5af824486b744f31198813189/artifacts
+end_time: 1780535324159
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2b2c81a5af824486b744f31198813189
+run_name: charming-turtle-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535288730
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/90073505d6ba44f9b51b8470e7b65c14/artifacts
+end_time: 1780538036240
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 90073505d6ba44f9b51b8470e7b65c14
+run_name: stately-crow-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538000911
+status: 3
+tags: []
+user_id: plgmaczynspwr

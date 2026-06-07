@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/867f035bf09d408a84ff6d4e53ee3020/artifacts
+end_time: 1780705891048
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 867f035bf09d408a84ff6d4e53ee3020
+run_name: amazing-whale-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701668987
+status: 3
+tags: []
+user_id: root

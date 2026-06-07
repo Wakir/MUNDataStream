@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/6c99ef4a9331456abf81dfce0122b13e/artifacts
+end_time: 1780530554668
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 6c99ef4a9331456abf81dfce0122b13e
+run_name: capricious-goat-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530519779
+status: 3
+tags: []
+user_id: plgmaczynspwr

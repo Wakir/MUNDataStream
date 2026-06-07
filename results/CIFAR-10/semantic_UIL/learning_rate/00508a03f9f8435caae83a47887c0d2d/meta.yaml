@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/00508a03f9f8435caae83a47887c0d2d/artifacts
+end_time: 1780553829389
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 00508a03f9f8435caae83a47887c0d2d
+run_name: secretive-ant-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553794212
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8bcc0e71e5a34efbadff68c06bbbee80/artifacts
+end_time: 1780551113584
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8bcc0e71e5a34efbadff68c06bbbee80
+run_name: defiant-shrike-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551078471
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d50ae838b77645c1a792524afb85db52/artifacts
+end_time: 1780536027446
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d50ae838b77645c1a792524afb85db52
+run_name: entertaining-bat-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535992391
+status: 3
+tags: []
+user_id: plgmaczynspwr

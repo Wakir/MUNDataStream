@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602_2/915626349192667294/a36f761b0f2140f599e0e1fca30076a6/artifacts
+end_time: 1780385501517
+entry_point_name: ''
+experiment_id: '915626349192667294'
+lifecycle_stage: active
+run_id: a36f761b0f2140f599e0e1fca30076a6
+run_name: melodic-robin-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780384131940
+status: 3
+tags: []
+user_id: plgmaczynspwr

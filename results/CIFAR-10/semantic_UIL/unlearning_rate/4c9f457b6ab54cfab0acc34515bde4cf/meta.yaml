@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4c9f457b6ab54cfab0acc34515bde4cf/artifacts
+end_time: 1780533882990
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4c9f457b6ab54cfab0acc34515bde4cf
+run_name: worried-crab-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780533848058
+status: 3
+tags: []
+user_id: plgmaczynspwr

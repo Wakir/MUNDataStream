@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/086f1edadca143ae8a25eaceb56aa7a9/artifacts
+end_time: 1780558834031
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 086f1edadca143ae8a25eaceb56aa7a9
+run_name: zealous-rook-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558798739
+status: 3
+tags: []
+user_id: plgmaczynspwr

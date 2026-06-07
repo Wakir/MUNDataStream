@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ba15b4af267f43b88afa6b6f56483e25/artifacts
+end_time: 1780525999953
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ba15b4af267f43b88afa6b6f56483e25
+run_name: luxuriant-stork-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525965407
+status: 3
+tags: []
+user_id: plgmaczynspwr

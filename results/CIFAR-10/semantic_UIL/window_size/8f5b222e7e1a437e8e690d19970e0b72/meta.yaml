@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8f5b222e7e1a437e8e690d19970e0b72/artifacts
+end_time: 1780557314439
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8f5b222e7e1a437e8e690d19970e0b72
+run_name: luminous-wasp-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557280560
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/b7e40a34108e4af794cfb14c5e9e859e/artifacts
+end_time: 1780268307511
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: b7e40a34108e4af794cfb14c5e9e859e
+run_name: classy-robin-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780268259386
+status: 3
+tags: []
+user_id: plgmaczynspwr

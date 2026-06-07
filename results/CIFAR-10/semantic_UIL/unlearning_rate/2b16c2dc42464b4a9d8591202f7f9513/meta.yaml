@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2b16c2dc42464b4a9d8591202f7f9513/artifacts
+end_time: 1780528017500
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2b16c2dc42464b4a9d8591202f7f9513
+run_name: rambunctious-fly-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527982481
+status: 3
+tags: []
+user_id: plgmaczynspwr

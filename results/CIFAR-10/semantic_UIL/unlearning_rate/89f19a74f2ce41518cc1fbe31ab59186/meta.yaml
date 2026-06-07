@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/89f19a74f2ce41518cc1fbe31ab59186/artifacts
+end_time: 1780537120058
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 89f19a74f2ce41518cc1fbe31ab59186
+run_name: unleashed-rook-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780537085081
+status: 3
+tags: []
+user_id: plgmaczynspwr

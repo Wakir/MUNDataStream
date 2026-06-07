@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/806a582e8a8e498e81a94d7734cd0f63/artifacts
+end_time: 1780540979885
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 806a582e8a8e498e81a94d7734cd0f63
+run_name: rumbling-jay-826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540943833
+status: 3
+tags: []
+user_id: plgmaczynspwr

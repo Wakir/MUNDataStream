@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/3ed2e392043d4c5e906cc8da31aed1dd/artifacts
+end_time: 1780709902334
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 3ed2e392043d4c5e906cc8da31aed1dd
+run_name: sincere-crow-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780708551721
+status: 3
+tags: []
+user_id: root

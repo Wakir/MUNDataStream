@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/953910bb50e74008846295f476200cbe/artifacts
+end_time: 1780698123048
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 953910bb50e74008846295f476200cbe
+run_name: powerful-quail-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572871
+status: 3
+tags: []
+user_id: root

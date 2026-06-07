@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns804/510514683007224667/12e80e185fc94fa088130491625791a7/artifacts
+end_time: 1780825815741
+entry_point_name: ''
+experiment_id: '510514683007224667'
+lifecycle_stage: active
+run_id: 12e80e185fc94fa088130491625791a7
+run_name: Unlearning_noise=fashion_v2_seed=88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780825778492
+status: 3
+tags: []
+user_id: plgmaczynspwr

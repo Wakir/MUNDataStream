@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ffe123dabbc34787bc72701fa20e8265/artifacts
+end_time: 1780561161141
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ffe123dabbc34787bc72701fa20e8265
+run_name: burly-robin-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780561127434
+status: 3
+tags: []
+user_id: plgmaczynspwr

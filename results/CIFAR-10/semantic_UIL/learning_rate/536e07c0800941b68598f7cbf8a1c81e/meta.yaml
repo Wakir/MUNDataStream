@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/536e07c0800941b68598f7cbf8a1c81e/artifacts
+end_time: 1780548621076
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 536e07c0800941b68598f7cbf8a1c81e
+run_name: charming-mole-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548583533
+status: 3
+tags: []
+user_id: plgmaczynspwr

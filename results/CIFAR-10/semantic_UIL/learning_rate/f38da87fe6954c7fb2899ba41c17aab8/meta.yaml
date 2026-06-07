@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f38da87fe6954c7fb2899ba41c17aab8/artifacts
+end_time: 1780543845236
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f38da87fe6954c7fb2899ba41c17aab8
+run_name: handsome-skunk-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780543809482
+status: 3
+tags: []
+user_id: plgmaczynspwr

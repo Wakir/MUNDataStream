@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/a93ae0e62d764ad38f11923692d815ab/artifacts
+end_time: 1780547406849
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: a93ae0e62d764ad38f11923692d815ab
+run_name: industrious-crow-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547369188
+status: 3
+tags: []
+user_id: plgmaczynspwr

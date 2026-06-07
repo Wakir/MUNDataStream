@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9b0547bf5fcc48f3ab564b931e81c878/artifacts
+end_time: 1780535571115
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9b0547bf5fcc48f3ab564b931e81c878
+run_name: vaunted-finch-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535536079
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4498683c845140e59e0ecc2bf62fa605/artifacts
+end_time: 1780545793848
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4498683c845140e59e0ecc2bf62fa605
+run_name: righteous-bear-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545753236
+status: 3
+tags: []
+user_id: plgmaczynspwr

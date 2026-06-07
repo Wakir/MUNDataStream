@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/122ed82ae7d448359e08b83a83231979/artifacts
+end_time: 1780545463804
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 122ed82ae7d448359e08b83a83231979
+run_name: worried-worm-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780545428281
+status: 3
+tags: []
+user_id: plgmaczynspwr

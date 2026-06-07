@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e6acd4c4dc98442e8e89353cdc4b580a/artifacts
+end_time: 1780535641616
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e6acd4c4dc98442e8e89353cdc4b580a
+run_name: wistful-rat-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535606197
+status: 3
+tags: []
+user_id: plgmaczynspwr

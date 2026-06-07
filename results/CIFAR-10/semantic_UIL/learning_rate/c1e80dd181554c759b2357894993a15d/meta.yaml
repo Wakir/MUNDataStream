@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c1e80dd181554c759b2357894993a15d/artifacts
+end_time: 1780541836903
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c1e80dd181554c759b2357894993a15d
+run_name: colorful-conch-694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541801078
+status: 3
+tags: []
+user_id: plgmaczynspwr

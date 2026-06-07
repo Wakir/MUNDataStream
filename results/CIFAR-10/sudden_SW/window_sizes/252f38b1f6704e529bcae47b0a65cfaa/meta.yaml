@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/252f38b1f6704e529bcae47b0a65cfaa/artifacts
+end_time: 1780579168629
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 252f38b1f6704e529bcae47b0a65cfaa
+run_name: victorious-crane-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780578928603
+status: 3
+tags: []
+user_id: plgmaczynspwr

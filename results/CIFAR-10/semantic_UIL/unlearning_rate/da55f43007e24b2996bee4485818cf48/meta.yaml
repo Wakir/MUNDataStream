@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/da55f43007e24b2996bee4485818cf48/artifacts
+end_time: 1780532267460
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: da55f43007e24b2996bee4485818cf48
+run_name: glamorous-loon-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532232537
+status: 3
+tags: []
+user_id: plgmaczynspwr

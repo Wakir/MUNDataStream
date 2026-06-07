@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/dcc0720a1ba0408884bc7cc1a838594b/artifacts
+end_time: 1780544780512
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: dcc0720a1ba0408884bc7cc1a838594b
+run_name: fearless-ox-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544742663
+status: 3
+tags: []
+user_id: plgmaczynspwr

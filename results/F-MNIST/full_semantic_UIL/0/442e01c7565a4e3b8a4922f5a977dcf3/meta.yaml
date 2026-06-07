@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/442e01c7565a4e3b8a4922f5a977dcf3/artifacts
+end_time: 1780273999948
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 442e01c7565a4e3b8a4922f5a977dcf3
+run_name: big-foal-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273949076
+status: 3
+tags: []
+user_id: plgmaczynspwr

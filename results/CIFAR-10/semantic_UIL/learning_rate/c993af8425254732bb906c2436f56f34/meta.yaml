@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c993af8425254732bb906c2436f56f34/artifacts
+end_time: 1780548217940
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c993af8425254732bb906c2436f56f34
+run_name: righteous-crab-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548182427
+status: 3
+tags: []
+user_id: plgmaczynspwr

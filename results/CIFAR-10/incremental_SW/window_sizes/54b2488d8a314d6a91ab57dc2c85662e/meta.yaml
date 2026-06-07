@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/54b2488d8a314d6a91ab57dc2c85662e/artifacts
+end_time: 1780705600692
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 54b2488d8a314d6a91ab57dc2c85662e
+run_name: languid-squid-465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701665220
+status: 3
+tags: []
+user_id: root

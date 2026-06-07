@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/d73fc84d79e74a11bdf3500e244e7ccb/artifacts
+end_time: 1780711137807
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: d73fc84d79e74a11bdf3500e244e7ccb
+run_name: smiling-wolf-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707836640
+status: 3
+tags: []
+user_id: root

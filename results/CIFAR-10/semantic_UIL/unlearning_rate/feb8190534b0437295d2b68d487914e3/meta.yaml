@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/feb8190534b0437295d2b68d487914e3/artifacts
+end_time: 1780525755325
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: feb8190534b0437295d2b68d487914e3
+run_name: dashing-bee-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780525720292
+status: 3
+tags: []
+user_id: plgmaczynspwr

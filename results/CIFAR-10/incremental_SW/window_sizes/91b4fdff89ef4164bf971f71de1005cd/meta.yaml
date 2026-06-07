@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/91b4fdff89ef4164bf971f71de1005cd/artifacts
+end_time: 1780701603036
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 91b4fdff89ef4164bf971f71de1005cd
+run_name: rare-chimp-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780700254667
+status: 3
+tags: []
+user_id: root

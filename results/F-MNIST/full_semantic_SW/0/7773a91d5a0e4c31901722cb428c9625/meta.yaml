@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/7773a91d5a0e4c31901722cb428c9625/artifacts
+end_time: 1780690655923
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 7773a91d5a0e4c31901722cb428c9625
+run_name: caring-donkey-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780688253057
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/539953198a7e485d9918b6823a0b9177/artifacts
+end_time: 1780696938948
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 539953198a7e485d9918b6823a0b9177
+run_name: bittersweet-fly-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572060
+status: 3
+tags: []
+user_id: root

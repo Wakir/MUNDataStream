@@ -1,0 +1,9 @@
+artifact_location: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516
+creation_time: 1780680752255
+effective_trace_archival_retention: null
+experiment_id: '645240336292099516'
+last_update_time: 1780680752255
+lifecycle_stage: active
+name: FashionMNIST_WindowSize
+trace_location: null
+workspace: default

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/eafcb6e48fa24e60baea51b3536a7050/artifacts
+end_time: 1780551641376
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: eafcb6e48fa24e60baea51b3536a7050
+run_name: funny-panda-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780551604666
+status: 3
+tags: []
+user_id: plgmaczynspwr

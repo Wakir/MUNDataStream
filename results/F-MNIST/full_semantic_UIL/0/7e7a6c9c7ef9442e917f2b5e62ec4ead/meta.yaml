@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/7e7a6c9c7ef9442e917f2b5e62ec4ead/artifacts
+end_time: 1780273899646
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 7e7a6c9c7ef9442e917f2b5e62ec4ead
+run_name: burly-zebra-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780273847989
+status: 3
+tags: []
+user_id: plgmaczynspwr

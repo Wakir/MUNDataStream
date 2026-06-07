@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/180d1de56ab848c1bf3df4470d749d7c/artifacts
+end_time: 1780560460385
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 180d1de56ab848c1bf3df4470d749d7c
+run_name: overjoyed-hare-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560426048
+status: 3
+tags: []
+user_id: plgmaczynspwr

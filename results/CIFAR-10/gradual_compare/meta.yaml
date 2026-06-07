@@ -1,0 +1,9 @@
+artifact_location: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns802_1/103092841671034769
+creation_time: 1780818727738
+effective_trace_archival_retention: null
+experiment_id: '103092841671034769'
+last_update_time: 1780818727738
+lifecycle_stage: active
+name: SW_vs_UIL_NoiseComparisonGrad
+trace_location: null
+workspace: default

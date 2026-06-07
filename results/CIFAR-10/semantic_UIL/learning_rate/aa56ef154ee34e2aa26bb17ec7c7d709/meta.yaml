@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/aa56ef154ee34e2aa26bb17ec7c7d709/artifacts
+end_time: 1780553299295
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: aa56ef154ee34e2aa26bb17ec7c7d709
+run_name: sneaky-auk-492
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780553264110
+status: 3
+tags: []
+user_id: plgmaczynspwr

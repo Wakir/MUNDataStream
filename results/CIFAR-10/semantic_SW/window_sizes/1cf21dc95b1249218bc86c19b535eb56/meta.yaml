@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/1cf21dc95b1249218bc86c19b535eb56/artifacts
+end_time: 1780710947425
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 1cf21dc95b1249218bc86c19b535eb56
+run_name: sincere-skunk-85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780708921661
+status: 3
+tags: []
+user_id: root

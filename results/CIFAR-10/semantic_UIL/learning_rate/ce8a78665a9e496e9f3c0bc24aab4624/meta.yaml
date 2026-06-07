@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/ce8a78665a9e496e9f3c0bc24aab4624/artifacts
+end_time: 1780543018749
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: ce8a78665a9e496e9f3c0bc24aab4624
+run_name: marvelous-gull-812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542982694
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4439b42f7a674397896f4ce334569733/artifacts
+end_time: 1780556267888
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4439b42f7a674397896f4ce334569733
+run_name: luxuriant-frog-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780556232233
+status: 3
+tags: []
+user_id: plgmaczynspwr

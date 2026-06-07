@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/8c1b247b1af64a229de4dfd97eb96645/artifacts
+end_time: 1780706397030
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 8c1b247b1af64a229de4dfd97eb96645
+run_name: gentle-shad-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780703122941
+status: 3
+tags: []
+user_id: root

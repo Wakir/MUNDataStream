@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/51cbb59be8024f84becc17f659b69c10/artifacts
+end_time: 1780555737383
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 51cbb59be8024f84becc17f659b69c10
+run_name: burly-hen-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780555702116
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/45534c5cc8e3413ba0dc52d8895c627a/artifacts
+end_time: 1780541408301
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 45534c5cc8e3413ba0dc52d8895c627a
+run_name: polite-bee-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780541372707
+status: 3
+tags: []
+user_id: plgmaczynspwr

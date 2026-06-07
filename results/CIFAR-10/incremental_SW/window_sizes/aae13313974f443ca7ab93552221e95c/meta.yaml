@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/538833447499745968/aae13313974f443ca7ab93552221e95c/artifacts
+end_time: 1780577158803
+entry_point_name: ''
+experiment_id: '538833447499745968'
+lifecycle_stage: active
+run_id: aae13313974f443ca7ab93552221e95c
+run_name: carefree-ray-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780576465390
+status: 3
+tags: []
+user_id: plgmaczynspwr

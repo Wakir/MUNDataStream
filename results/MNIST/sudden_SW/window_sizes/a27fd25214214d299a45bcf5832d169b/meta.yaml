@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/a27fd25214214d299a45bcf5832d169b/artifacts
+end_time: 1780705088136
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: a27fd25214214d299a45bcf5832d169b
+run_name: sincere-grub-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780704672383
+status: 3
+tags: []
+user_id: plgmaczynspwr

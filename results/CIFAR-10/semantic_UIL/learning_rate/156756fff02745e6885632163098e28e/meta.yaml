@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/156756fff02745e6885632163098e28e/artifacts
+end_time: 1780542875046
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 156756fff02745e6885632163098e28e
+run_name: mysterious-fowl-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780542838830
+status: 3
+tags: []
+user_id: plgmaczynspwr

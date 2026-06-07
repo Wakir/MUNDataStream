@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/5d1bb54f38c44878a4108e0a3355b91b/artifacts
+end_time: 1780719908277
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 5d1bb54f38c44878a4108e0a3355b91b
+run_name: rogue-lamb-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780718528779
+status: 3
+tags: []
+user_id: root

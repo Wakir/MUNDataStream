@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/bced4bf1ef4e41b1acaad216d9d97537/artifacts
+end_time: 1780267725056
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: bced4bf1ef4e41b1acaad216d9d97537
+run_name: chill-ant-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780267677874
+status: 3
+tags: []
+user_id: plgmaczynspwr

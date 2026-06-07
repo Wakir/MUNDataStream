@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/daf3037d3e684b82bdb96019a2cc797e/artifacts
+end_time: 1780687612335
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: daf3037d3e684b82bdb96019a2cc797e
+run_name: grandiose-cod-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780684663324
+status: 3
+tags: []
+user_id: root

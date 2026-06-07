@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/553e4a8fe8b3405b9618b75a284e05ea/artifacts
+end_time: 1780530659678
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 553e4a8fe8b3405b9618b75a284e05ea
+run_name: incongruous-kite-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530624641
+status: 3
+tags: []
+user_id: plgmaczynspwr

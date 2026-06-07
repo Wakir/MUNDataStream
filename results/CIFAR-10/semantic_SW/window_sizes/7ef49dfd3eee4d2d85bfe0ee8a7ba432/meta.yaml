@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/7ef49dfd3eee4d2d85bfe0ee8a7ba432/artifacts
+end_time: 1780707459491
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 7ef49dfd3eee4d2d85bfe0ee8a7ba432
+run_name: auspicious-hog-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780704171642
+status: 3
+tags: []
+user_id: root

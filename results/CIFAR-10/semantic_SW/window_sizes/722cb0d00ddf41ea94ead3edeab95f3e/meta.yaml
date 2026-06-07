@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/722cb0d00ddf41ea94ead3edeab95f3e/artifacts
+end_time: 1780710831275
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 722cb0d00ddf41ea94ead3edeab95f3e
+run_name: mysterious-ray-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780708824501
+status: 3
+tags: []
+user_id: root

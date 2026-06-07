@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/86a50b61aa7946ceb22ef2c2a9c31ab1/artifacts
+end_time: 1780535359392
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 86a50b61aa7946ceb22ef2c2a9c31ab1
+run_name: puzzled-gnu-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780535324165
+status: 3
+tags: []
+user_id: plgmaczynspwr

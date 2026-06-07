@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/410281458226398307/1978e2cf19a84ad1a75ed737cb42a031/artifacts
+end_time: 1780274106320
+entry_point_name: ''
+experiment_id: '410281458226398307'
+lifecycle_stage: active
+run_id: 1978e2cf19a84ad1a75ed737cb42a031
+run_name: upset-snail-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780274052822
+status: 3
+tags: []
+user_id: plgmaczynspwr

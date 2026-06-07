@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3fe5ff8f00f145e0ad57b4e2ea5a3021/artifacts
+end_time: 1780560426043
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3fe5ff8f00f145e0ad57b4e2ea5a3021
+run_name: able-ant-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560391801
+status: 3
+tags: []
+user_id: plgmaczynspwr

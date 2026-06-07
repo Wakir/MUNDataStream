@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/7cbef22e462b497fb407138ef2d80d72/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 7cbef22e462b497fb407138ef2d80d72
+run_name: resilient-chimp-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780681963199
+status: 1
+tags: []
+user_id: root

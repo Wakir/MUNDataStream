@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9932a46cd5344c68991466e9bf0b4d62/artifacts
+end_time: 1780549271581
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9932a46cd5344c68991466e9bf0b4d62
+run_name: vaunted-crab-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780549235726
+status: 3
+tags: []
+user_id: plgmaczynspwr

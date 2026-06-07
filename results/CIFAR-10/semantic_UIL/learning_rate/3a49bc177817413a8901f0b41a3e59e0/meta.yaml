@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3a49bc177817413a8901f0b41a3e59e0/artifacts
+end_time: 1780555030250
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3a49bc177817413a8901f0b41a3e59e0
+run_name: funny-mole-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780554995085
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/283ee19966e2487f936bebd7f8f3b4bd/artifacts
+end_time: 1780557870788
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 283ee19966e2487f936bebd7f8f3b4bd
+run_name: flawless-goose-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557835583
+status: 3
+tags: []
+user_id: plgmaczynspwr

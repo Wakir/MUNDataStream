@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f8c6912f05c2461aa38731562e8761e8/artifacts
+end_time: 1780548471047
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f8c6912f05c2461aa38731562e8761e8
+run_name: adorable-whale-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548435467
+status: 3
+tags: []
+user_id: plgmaczynspwr

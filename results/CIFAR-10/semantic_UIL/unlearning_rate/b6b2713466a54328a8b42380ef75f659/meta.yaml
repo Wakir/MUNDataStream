@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b6b2713466a54328a8b42380ef75f659/artifacts
+end_time: 1780531215925
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b6b2713466a54328a8b42380ef75f659
+run_name: burly-moth-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531181319
+status: 3
+tags: []
+user_id: plgmaczynspwr

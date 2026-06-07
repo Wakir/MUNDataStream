@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/223102548132168462/0bc320cda7084d1799630f644d7f9520/artifacts
+end_time: 1780701664760
+entry_point_name: ''
+experiment_id: '223102548132168462'
+lifecycle_stage: active
+run_id: 0bc320cda7084d1799630f644d7f9520
+run_name: dazzling-flea-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780700254982
+status: 3
+tags: []
+user_id: root

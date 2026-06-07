@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/5acd2add649944438936b131d0e4a0ae/artifacts
+end_time: 1780712634347
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 5acd2add649944438936b131d0e4a0ae
+run_name: nebulous-roo-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709947501
+status: 3
+tags: []
+user_id: root

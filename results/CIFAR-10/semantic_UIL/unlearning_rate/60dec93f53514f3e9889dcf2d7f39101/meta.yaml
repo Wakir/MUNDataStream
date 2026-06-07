@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/60dec93f53514f3e9889dcf2d7f39101/artifacts
+end_time: 1780538106833
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 60dec93f53514f3e9889dcf2d7f39101
+run_name: delicate-bass-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780538071698
+status: 3
+tags: []
+user_id: plgmaczynspwr

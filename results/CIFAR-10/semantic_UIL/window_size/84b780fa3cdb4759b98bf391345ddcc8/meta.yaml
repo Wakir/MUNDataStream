@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/84b780fa3cdb4759b98bf391345ddcc8/artifacts
+end_time: 1780559281365
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 84b780fa3cdb4759b98bf391345ddcc8
+run_name: indecisive-cat-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780559247357
+status: 3
+tags: []
+user_id: plgmaczynspwr

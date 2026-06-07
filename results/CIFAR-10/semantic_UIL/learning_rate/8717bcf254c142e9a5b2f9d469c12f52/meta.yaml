@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/8717bcf254c142e9a5b2f9d469c12f52/artifacts
+end_time: 1780544551147
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 8717bcf254c142e9a5b2f9d469c12f52
+run_name: capable-stoat-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780544513890
+status: 3
+tags: []
+user_id: plgmaczynspwr

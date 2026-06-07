@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/ec180711ff854c26a5f478e78a4e729c/artifacts
+end_time: 1780575565931
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: ec180711ff854c26a5f478e78a4e729c
+run_name: auspicious-gnat-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780574949125
+status: 3
+tags: []
+user_id: plgmaczynspwr

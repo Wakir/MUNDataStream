@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/f407c4855bd3452699fcf1684868569c/artifacts
+end_time: 1780689084681
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: f407c4855bd3452699fcf1684868569c
+run_name: aged-perch-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780686929648
+status: 3
+tags: []
+user_id: root

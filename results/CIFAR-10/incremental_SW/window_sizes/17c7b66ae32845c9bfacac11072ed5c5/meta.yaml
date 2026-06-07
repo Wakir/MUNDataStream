@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns701_2/538833447499745968/17c7b66ae32845c9bfacac11072ed5c5/artifacts
+end_time: 1780587523389
+entry_point_name: ''
+experiment_id: '538833447499745968'
+lifecycle_stage: active
+run_id: 17c7b66ae32845c9bfacac11072ed5c5
+run_name: monumental-ram-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780586688697
+status: 3
+tags: []
+user_id: plgmaczynspwr

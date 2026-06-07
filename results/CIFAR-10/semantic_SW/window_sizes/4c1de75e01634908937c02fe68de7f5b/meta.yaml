@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/4c1de75e01634908937c02fe68de7f5b/artifacts
+end_time: 1780713097844
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 4c1de75e01634908937c02fe68de7f5b
+run_name: abrasive-crow-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780710831307
+status: 3
+tags: []
+user_id: root

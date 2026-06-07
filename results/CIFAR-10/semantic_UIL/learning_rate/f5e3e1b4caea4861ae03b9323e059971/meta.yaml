@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/f5e3e1b4caea4861ae03b9323e059971/artifacts
+end_time: 1780547331631
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: f5e3e1b4caea4861ae03b9323e059971
+run_name: blushing-mink-608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547293565
+status: 3
+tags: []
+user_id: plgmaczynspwr

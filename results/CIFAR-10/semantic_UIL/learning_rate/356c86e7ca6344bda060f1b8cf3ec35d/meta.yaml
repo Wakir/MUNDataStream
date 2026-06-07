@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/356c86e7ca6344bda060f1b8cf3ec35d/artifacts
+end_time: 1780547254076
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 356c86e7ca6344bda060f1b8cf3ec35d
+run_name: handsome-sow-143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780547216694
+status: 3
+tags: []
+user_id: plgmaczynspwr

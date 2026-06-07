@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/e584712a4de94f1cacacbef1f1176189/artifacts
+end_time: 1780532827873
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: e584712a4de94f1cacacbef1f1176189
+run_name: gentle-stoat-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532792878
+status: 3
+tags: []
+user_id: plgmaczynspwr

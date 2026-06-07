@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2e61f74fb6b5494490edc0421dfb3189/artifacts
+end_time: 1780532933568
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2e61f74fb6b5494490edc0421dfb3189
+run_name: omniscient-robin-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532898271
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/7b1394d2d3574d78bc5e099f17ab6e5a/artifacts
+end_time: 1780718530704
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 7b1394d2d3574d78bc5e099f17ab6e5a
+run_name: ambitious-ray-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780717088885
+status: 3
+tags: []
+user_id: root

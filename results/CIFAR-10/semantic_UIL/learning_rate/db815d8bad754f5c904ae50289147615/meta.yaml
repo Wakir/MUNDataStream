@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/db815d8bad754f5c904ae50289147615/artifacts
+end_time: 1780540799988
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: db815d8bad754f5c904ae50289147615
+run_name: whimsical-horse-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540763991
+status: 3
+tags: []
+user_id: plgmaczynspwr

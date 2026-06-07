@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/aa24230d67dd49ffbb4322d2491f5db0/artifacts
+end_time: 1780721896778
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: aa24230d67dd49ffbb4322d2491f5db0
+run_name: marvelous-stag-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719885406
+status: 3
+tags: []
+user_id: root

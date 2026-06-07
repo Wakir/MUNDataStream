@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/eadf33f21cbb45ba9e196fdb169cfd0d/artifacts
+end_time: 1780532162286
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: eadf33f21cbb45ba9e196fdb169cfd0d
+run_name: wise-lynx-521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780532127368
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/2641fda894af4ecfb1b86d58ccca8565/artifacts
+end_time: 1780560598696
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 2641fda894af4ecfb1b86d58ccca8565
+run_name: bemused-frog-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560563886
+status: 3
+tags: []
+user_id: plgmaczynspwr

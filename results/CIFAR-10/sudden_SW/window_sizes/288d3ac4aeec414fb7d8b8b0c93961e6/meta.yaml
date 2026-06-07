@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/980348246270327762/288d3ac4aeec414fb7d8b8b0c93961e6/artifacts
+end_time: 1780576174734
+entry_point_name: ''
+experiment_id: '980348246270327762'
+lifecycle_stage: active
+run_id: 288d3ac4aeec414fb7d8b8b0c93961e6
+run_name: bemused-shoat-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780575570194
+status: 3
+tags: []
+user_id: plgmaczynspwr

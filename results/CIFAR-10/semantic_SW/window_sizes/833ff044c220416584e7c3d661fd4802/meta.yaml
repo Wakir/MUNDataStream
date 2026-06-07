@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/833ff044c220416584e7c3d661fd4802/artifacts
+end_time: 1780706475091
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 833ff044c220416584e7c3d661fd4802
+run_name: exultant-squid-642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780705081576
+status: 3
+tags: []
+user_id: root

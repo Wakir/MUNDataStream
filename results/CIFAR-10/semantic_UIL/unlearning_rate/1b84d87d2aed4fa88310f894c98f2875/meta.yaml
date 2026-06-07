@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/1b84d87d2aed4fa88310f894c98f2875/artifacts
+end_time: 1780540621828
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 1b84d87d2aed4fa88310f894c98f2875
+run_name: stylish-kite-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540586167
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/4acbdf2699a24c86aa10afc0debba187/artifacts
+end_time: 1780548435462
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 4acbdf2699a24c86aa10afc0debba187
+run_name: rare-squirrel-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780548398222
+status: 3
+tags: []
+user_id: plgmaczynspwr

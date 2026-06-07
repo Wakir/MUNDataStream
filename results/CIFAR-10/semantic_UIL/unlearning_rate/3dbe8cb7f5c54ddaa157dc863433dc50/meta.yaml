@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/3dbe8cb7f5c54ddaa157dc863433dc50/artifacts
+end_time: 1780526314093
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 3dbe8cb7f5c54ddaa157dc863433dc50
+run_name: selective-mouse-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780526279599
+status: 3
+tags: []
+user_id: plgmaczynspwr

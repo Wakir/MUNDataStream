@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/542abe2954ac4f94b7545531a2e6b1da/artifacts
+end_time: 1780560773548
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 542abe2954ac4f94b7545531a2e6b1da
+run_name: powerful-cub-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780560738504
+status: 3
+tags: []
+user_id: plgmaczynspwr

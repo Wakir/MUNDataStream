@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/e863468dac8d4f2d84a3ca070a8dad78/artifacts
+end_time: 1780711890650
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: e863468dac8d4f2d84a3ca070a8dad78
+run_name: upbeat-lark-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780709325920
+status: 3
+tags: []
+user_id: root

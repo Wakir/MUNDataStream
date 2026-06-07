@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs4.0/645240336292099516/8436ddf626964d6fbe0b9f30e4d2fb3c/artifacts
+end_time: 1780686929168
+entry_point_name: ''
+experiment_id: '645240336292099516'
+lifecycle_stage: active
+run_id: 8436ddf626964d6fbe0b9f30e4d2fb3c
+run_name: puzzled-mole-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780684663624
+status: 3
+tags: []
+user_id: root

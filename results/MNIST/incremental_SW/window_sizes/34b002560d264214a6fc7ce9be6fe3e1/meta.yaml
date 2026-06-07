@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs3.0/755303465557510522/34b002560d264214a6fc7ce9be6fe3e1/artifacts
+end_time: 1780718928872
+entry_point_name: ''
+experiment_id: '755303465557510522'
+lifecycle_stage: active
+run_id: 34b002560d264214a6fc7ce9be6fe3e1
+run_name: enchanting-boar-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707805197
+status: 3
+tags: []
+user_id: root

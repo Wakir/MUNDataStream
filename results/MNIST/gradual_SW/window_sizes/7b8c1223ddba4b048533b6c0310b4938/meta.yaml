@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs6.0/327982507451605921/7b8c1223ddba4b048533b6c0310b4938/artifacts
+end_time: 1780720973212
+entry_point_name: ''
+experiment_id: '327982507451605921'
+lifecycle_stage: active
+run_id: 7b8c1223ddba4b048533b6c0310b4938
+run_name: victorious-cow-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780719131544
+status: 3
+tags: []
+user_id: root

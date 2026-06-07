@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/500548f579be49fcb5ef5a8d28b35b4a/artifacts
+end_time: 1780534234231
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 500548f579be49fcb5ef5a8d28b35b4a
+run_name: abrasive-shrike-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780534199342
+status: 3
+tags: []
+user_id: plgmaczynspwr

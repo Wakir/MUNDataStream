@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/22d5d468355c49e197de8932ba43e26e/artifacts
+end_time: 1780537646962
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 22d5d468355c49e197de8932ba43e26e
+run_name: worried-bat-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780537611935
+status: 3
+tags: []
+user_id: plgmaczynspwr

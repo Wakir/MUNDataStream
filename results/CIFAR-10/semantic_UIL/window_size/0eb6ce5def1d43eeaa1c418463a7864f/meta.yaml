@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0eb6ce5def1d43eeaa1c418463a7864f/artifacts
+end_time: 1780557520633
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0eb6ce5def1d43eeaa1c418463a7864f
+run_name: upbeat-bee-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780557486016
+status: 3
+tags: []
+user_id: plgmaczynspwr

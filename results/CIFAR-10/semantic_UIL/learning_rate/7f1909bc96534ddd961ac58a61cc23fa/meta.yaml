@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7f1909bc96534ddd961ac58a61cc23fa/artifacts
+end_time: 1780550937466
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7f1909bc96534ddd961ac58a61cc23fa
+run_name: victorious-fowl-361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550902338
+status: 3
+tags: []
+user_id: plgmaczynspwr

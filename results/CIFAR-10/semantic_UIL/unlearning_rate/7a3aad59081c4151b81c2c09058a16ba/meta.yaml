@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7a3aad59081c4151b81c2c09058a16ba/artifacts
+end_time: 1780528259766
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7a3aad59081c4151b81c2c09058a16ba
+run_name: burly-seal-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780528225335
+status: 3
+tags: []
+user_id: plgmaczynspwr

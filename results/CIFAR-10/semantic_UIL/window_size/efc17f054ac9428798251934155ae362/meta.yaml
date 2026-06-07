@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/efc17f054ac9428798251934155ae362/artifacts
+end_time: 1780558245518
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: efc17f054ac9428798251934155ae362
+run_name: dazzling-calf-394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558211646
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/b8ade2bf5fbb4f3b85d21068f5eb5e4c/artifacts
+end_time: 1780550654758
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: b8ade2bf5fbb4f3b85d21068f5eb5e4c
+run_name: glamorous-croc-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550619669
+status: 3
+tags: []
+user_id: plgmaczynspwr

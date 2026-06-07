@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/5c3212fa1b814c2387059e271ef02cdb/artifacts
+end_time: 1780558381738
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 5c3212fa1b814c2387059e271ef02cdb
+run_name: clean-worm-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780558347625
+status: 3
+tags: []
+user_id: plgmaczynspwr

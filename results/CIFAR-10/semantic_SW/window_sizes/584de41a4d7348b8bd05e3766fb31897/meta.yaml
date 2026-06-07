@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/584de41a4d7348b8bd05e3766fb31897/artifacts
+end_time: 1780704934269
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 584de41a4d7348b8bd05e3766fb31897
+run_name: flawless-wolf-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701642247
+status: 3
+tags: []
+user_id: root

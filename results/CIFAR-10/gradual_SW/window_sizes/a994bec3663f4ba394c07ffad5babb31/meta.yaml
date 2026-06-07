@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_2/778160814580067499/a994bec3663f4ba394c07ffad5babb31/artifacts
+end_time: 1780584843846
+entry_point_name: ''
+experiment_id: '778160814580067499'
+lifecycle_stage: active
+run_id: a994bec3663f4ba394c07ffad5babb31
+run_name: mercurial-fish-923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780584294132
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/600f81f2f10844d080193bdbb586075e/artifacts
+end_time: 1780527143747
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 600f81f2f10844d080193bdbb586075e
+run_name: bustling-horse-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527109439
+status: 3
+tags: []
+user_id: plgmaczynspwr

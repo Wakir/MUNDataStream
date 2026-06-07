@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602_2/915626349192667294/29f922c32bad4e5aab24a62fdec86190/artifacts
+end_time: 1780389952753
+entry_point_name: ''
+experiment_id: '915626349192667294'
+lifecycle_stage: active
+run_id: 29f922c32bad4e5aab24a62fdec86190
+run_name: bustling-shark-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780388241779
+status: 3
+tags: []
+user_id: plgmaczynspwr

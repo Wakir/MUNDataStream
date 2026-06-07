@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/0edbe7721a2944988ab74aeb7d344da2/artifacts
+end_time: 1780537717785
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 0edbe7721a2944988ab74aeb7d344da2
+run_name: receptive-panda-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780537682163
+status: 3
+tags: []
+user_id: plgmaczynspwr

@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602_2/302227534225438566/a6af95ff8bab459083bd6a50898c0abf/artifacts
+end_time: 1780633087018
+entry_point_name: ''
+experiment_id: '302227534225438566'
+lifecycle_stage: active
+run_id: a6af95ff8bab459083bd6a50898c0abf
+run_name: sassy-bat-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780632135694
+status: 3
+tags: []
+user_id: plgmaczynspwr

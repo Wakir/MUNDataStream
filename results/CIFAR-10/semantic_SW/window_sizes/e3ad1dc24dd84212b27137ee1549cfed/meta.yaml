@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/e3ad1dc24dd84212b27137ee1549cfed/artifacts
+end_time: 1780696973434
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: e3ad1dc24dd84212b27137ee1549cfed
+run_name: gentle-ray-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780695572155
+status: 3
+tags: []
+user_id: root

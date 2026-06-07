@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns501_2/403428482520358732/e57d760c3bba46ec8c0765ee8210af95/artifacts
+end_time: 1780708504836
+entry_point_name: ''
+experiment_id: '403428482520358732'
+lifecycle_stage: active
+run_id: e57d760c3bba46ec8c0765ee8210af95
+run_name: righteous-colt-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780707735860
+status: 3
+tags: []
+user_id: plgmaczynspwr

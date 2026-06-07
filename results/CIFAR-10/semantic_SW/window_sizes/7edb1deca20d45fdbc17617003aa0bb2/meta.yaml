@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/mlflow_runs5.0/286382742100996341/7edb1deca20d45fdbc17617003aa0bb2/artifacts
+end_time: 1780703849614
+entry_point_name: ''
+experiment_id: '286382742100996341'
+lifecycle_stage: active
+run_id: 7edb1deca20d45fdbc17617003aa0bb2
+run_name: big-jay-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780701102226
+status: 3
+tags: []
+user_id: root

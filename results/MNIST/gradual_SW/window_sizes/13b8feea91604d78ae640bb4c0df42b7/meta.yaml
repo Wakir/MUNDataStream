@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns601_3/506569840866584260/13b8feea91604d78ae640bb4c0df42b7/artifacts
+end_time: 1780632808659
+entry_point_name: ''
+experiment_id: '506569840866584260'
+lifecycle_stage: active
+run_id: 13b8feea91604d78ae640bb4c0df42b7
+run_name: gifted-pig-799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780631902269
+status: 3
+tags: []
+user_id: plgmaczynspwr

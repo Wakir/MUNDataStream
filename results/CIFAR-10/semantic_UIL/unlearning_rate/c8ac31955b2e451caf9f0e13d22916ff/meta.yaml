@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/c8ac31955b2e451caf9f0e13d22916ff/artifacts
+end_time: 1780527283328
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: c8ac31955b2e451caf9f0e13d22916ff
+run_name: welcoming-crane-982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780527248600
+status: 3
+tags: []
+user_id: plgmaczynspwr

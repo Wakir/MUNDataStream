@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9481317fa5f84543b2de1814d5f7a1f1/artifacts
+end_time: 1780533987804
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9481317fa5f84543b2de1814d5f7a1f1
+run_name: gifted-ram-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780533952972
+status: 3
+tags: []
+user_id: plgmaczynspwr

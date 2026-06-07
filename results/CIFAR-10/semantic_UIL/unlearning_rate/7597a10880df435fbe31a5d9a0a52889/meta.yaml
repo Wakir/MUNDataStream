@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/7597a10880df435fbe31a5d9a0a52889/artifacts
+end_time: 1780536625292
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 7597a10880df435fbe31a5d9a0a52889
+run_name: nebulous-stork-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780536590402
+status: 3
+tags: []
+user_id: plgmaczynspwr

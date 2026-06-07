@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/9c4b2eb0b3e84694b9111bd0c72e5ecf/artifacts
+end_time: 1780530729091
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: 9c4b2eb0b3e84694b9111bd0c72e5ecf
+run_name: carefree-elk-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780530694423
+status: 3
+tags: []
+user_id: plgmaczynspwr

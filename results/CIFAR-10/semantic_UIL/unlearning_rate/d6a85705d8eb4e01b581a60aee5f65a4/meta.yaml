@@ -1,0 +1,14 @@
+artifact_uri: file:///net/tscratch/people/plgmaczynspwr/UnlearningDataStreamPlayground/mlruns602/208586779104555153/d6a85705d8eb4e01b581a60aee5f65a4/artifacts
+end_time: 1780540300308
+entry_point_name: ''
+experiment_id: '208586779104555153'
+lifecycle_stage: active
+run_id: d6a85705d8eb4e01b581a60aee5f65a4
+run_name: auspicious-whale-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780540264821
+status: 3
+tags: []
+user_id: plgmaczynspwr
