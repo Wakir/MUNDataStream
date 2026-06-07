@@ -31,6 +31,6 @@ The hiperparameters uses in following experiments are:
 ### Results
 
 Achived results are categoriased based on stream type (`Synthetic` or `INSECTS`). In the following subdirectories:
-* `full` - contains numpy files with full experiment results.
+* `results` - contains numpy files with full experiment results.
 * `tables` - contains excel tables with avareage results of the following experiments for all chunks in stream.
 * `plots` - contains comparison plots of proposed method and reference methods for each chunk in stream.
