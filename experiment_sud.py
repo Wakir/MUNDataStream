@@ -1,17 +1,18 @@
 import numpy as np
 import pandas as pd
+import os
+import json
 from tensorflow.keras.datasets import mnist, cifar10
 from strlearn.evaluators import TestThenTrain
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import f1_score,  balanced_accuracy_score as bac, precision_score, recall_score
 from specificity import specificity, specificity_macro
-from strlearn2.classifiers import FisherUnlearningAdam, HessianResNetUnlearning
+from strlearn2.classifiers import SlidingWindowPerceptron,SlidingWindowCNN, HessianResNetUnlearning, HessianCNNUnlearning
 from collections import defaultdict
 
 
 def recovery_analysis(metric, rolling_metric, drift_chunk, max_chunk):
 
-    # ❗ brak driftu lub drift poza zakresem
     if drift_chunk is None:
         return {
             "theta": None,
@@ -76,48 +77,84 @@ def recovery_analysis(metric, rolling_metric, drift_chunk, max_chunk):
         "status": "ok"
     }
 
-from tensorflow.keras.datasets import fashion_mnist, cifar10
-import numpy as np
-from collections import defaultdict
-
-
 class DataStream:
-
     def __init__(
         self,
         chunk_size: int,
         dataset_name: str,
-        semantic_case_1: str,
-        semantic_case_2: str,
+        noise_percent: float,
+        delta_noise: float,
         random_seed: int = 42,
     ):
-
         self.chunk_size = chunk_size
         self.dataset_name = dataset_name.upper()
-        self.semantic_case_1 = semantic_case_1
-        self.semantic_case_2 = semantic_case_2
-        self.classes_ = np.array([0, 1])
+        self.noise_percent = noise_percent
+        self.delta_noise = delta_noise
         self.random_seed = random_seed
+
         self.rng = np.random.default_rng(random_seed)
 
-        self.X, self.y_original = self._load_raw_dataset()
+        # Load data
+        self.X, self.y = self._load_dataset()
+        self.classes_ = np.unique(self.y)
 
+        # Prepare chunks
         self._shuffle()
+        self.chunks = self._create_balanced_chunks()
 
-        self.chunks = self._create_chunks()
+        # Required by strlearn
         self.n_chunks = len(self.chunks)
-        self.drift_chunk = self.n_chunks // 2
-
         self.reset()
 
-    # --------------------------------------------------
-    # RAW DATA
-    # --------------------------------------------------
+        # Noise drift point
+        self.noise_change_chunk = self.n_chunks // 2
 
-    def _load_raw_dataset(self):
+    # --------------------------------------------------
+    # Required API
+    # --------------------------------------------------
+    def reset(self):
+        self.chunk_id = 0
+        self.previous_chunk = None
 
-        if self.dataset_name == "FASHION-MNIST":
-            (X1, y1), (X2, y2) = fashion_mnist.load_data()
+    def __len__(self):
+        return self.n_chunks
+
+    def get_chunk(self, i=None):
+        """
+        Fully compatible with strlearn.Stream
+        """
+        # Sequential access
+        if i is None:
+            i = self.chunk_id
+
+        if i >= self.n_chunks:
+            raise IndexError("Chunk index out of range")
+
+        idx = self.chunks[i]
+        X_chunk = self.X[idx]
+        y_chunk = self.y[idx]
+
+        # Apply noise (concept drift)
+        if i < self.noise_change_chunk:
+            X_chunk = self._add_noise(X_chunk, self.noise_percent)
+        else:
+            X_chunk = self._add_noise(
+                X_chunk,
+                self.delta_noise
+            )
+
+        # Update internal state (CRUCIAL)
+        self.previous_chunk = (X_chunk, y_chunk)
+        self.chunk_id = i + 1
+
+        return X_chunk, y_chunk
+
+    # --------------------------------------------------
+    # Dataset loading
+    # --------------------------------------------------
+    def _load_dataset(self):
+        if self.dataset_name == "MNIST":
+            (X1, y1), (X2, y2) = mnist.load_data()
             X = np.concatenate([X1, X2])
             y = np.concatenate([y1, y2])
             X = X[..., np.newaxis]
@@ -127,80 +164,64 @@ class DataStream:
             X = np.concatenate([X1, X2])
             y = np.concatenate([y1.flatten(), y2.flatten()])
 
+            mean = np.array([0.4914, 0.4822, 0.4465], dtype=np.float32)
+            std = np.array([0.2470, 0.2435, 0.2616], dtype=np.float32)
+
         else:
-            raise ValueError("Supported datasets: FASHION-MNIST, CIFAR-10")
+            raise ValueError("Supported datasets: MNIST, CIFAR-10")
 
         return X.astype(np.float32) / 255.0, y
 
     # --------------------------------------------------
-    # SEMANTIC MAPS
+    # Utilities
     # --------------------------------------------------
+    def _shuffle(self):
+        idx = self.rng.permutation(len(self.X))
+        self.X = self.X[idx]
+        self.y = self.y[idx]
 
-    def _get_positive_set(self, case):
+    def _create_balanced_chunks(self):
+        per_class_indices = defaultdict(list)
+        for i, label in enumerate(self.y):
+            per_class_indices[label].append(i)
 
-        if self.dataset_name == "CIFAR-10":
+        n_classes = len(self.classes_)
+        samples_per_class = self.chunk_size // n_classes
 
-            if case == "animals":
-                return {2, 3, 4, 5, 6, 7}
+        pointers = {c: 0 for c in self.classes_}
+        chunks = []
 
-            elif case == "swim":
-                return {6, 8}
+        while True:
+            chunk_idx = []
+            for c in self.classes_:
+                start = pointers[c]
+                end = start + samples_per_class
+                if end > len(per_class_indices[c]):
+                    return chunks
+                chunk_idx.extend(per_class_indices[c][start:end])
+                pointers[c] = end
 
-            elif case == "fly":
-                return {0, 2}
+            self.rng.shuffle(chunk_idx)
+            chunks.append(chunk_idx)
 
-            else:
-                raise ValueError("CIFAR cases: animals, swim, fly")
+    def _add_noise(self, X, noise_percent, sigma=0.5):
+        if noise_percent <= 0:
+            return X
 
-        elif self.dataset_name == "FASHION-MNIST":
+        X_noisy = X.copy()
+        N, H, W, C = X.shape
+        total_pixels = H * W * C
+        n_noisy = int(noise_percent * total_pixels)
 
-            if case == "fashion_v1":
-                return {0, 2, 4, 7, 9}
+        for i in range(N):
+            idx = self.rng.choice(total_pixels, n_noisy, replace=False)
+            noise = self.rng.normal(0, sigma, n_noisy)
+            flat = X_noisy[i].reshape(-1)
+            flat[idx] += noise
+            X_noisy[i] = flat.reshape(H, W, C)
 
-            elif case == "fashion_v2":
-                return {1, 3, 5}
-
-            else:
-                raise ValueError("Fashion cases: fashion_v1, fashion_v2")
-
-    # --------------------------------------------------
-    # STREAM API
-    # --------------------------------------------------
-
-    def reset(self):
-        self.chunk_id = 0
-        self.previous_chunk = None
-
-    def __len__(self):
-        return self.n_chunks
-
-    def get_chunk(self, i=None):
-
-        if i is None:
-            i = self.chunk_id
-
-        if i >= self.n_chunks:
-            raise IndexError("Chunk index out of range")
-
-        idx = self.chunks[i]
-        X_chunk = self.X[idx]
-        y_raw = self.y_original[idx]
-
-        # WYBÓR SEMANTYKI
-        if i < self.drift_chunk:
-            positive_set = self._get_positive_set(self.semantic_case_1)
-        else:
-            positive_set = self._get_positive_set(self.semantic_case_2)
-
-        y_chunk = np.array(
-            [1 if label in positive_set else 0 for label in y_raw]
-        )
-
-        self.previous_chunk = (X_chunk, y_chunk)
-        self.chunk_id = i + 1
-
-        return X_chunk, y_chunk
-
+        return np.clip(X_noisy, 0.0, 1.0)
+    
     def __iter__(self):
         self.reset()
         return self
@@ -210,37 +231,24 @@ class DataStream:
             raise StopIteration
         return self.get_chunk()
 
-    # --------------------------------------------------
-    # CHUNKING
-    # --------------------------------------------------
 
-    def _shuffle(self):
-        idx = self.rng.permutation(len(self.X))
-        self.X = self.X[idx]
-        self.y_original = self.y_original[idx]
-
-    def _create_chunks(self):
-        chunks = []
-        for start in range(0, len(self.X), self.chunk_size):
-            end = start + self.chunk_size
-            if end > len(self.X):
-                break
-            chunks.append(np.arange(start, end))
-        return chunks
     def is_dry(self):
         return self.chunk_id >= self.n_chunks - 1
     
 
-def run_experiment(chunk_size, dataset_name, semantic_case_1, semantic_case_2, window_size, random_seed, ulr, learning_rate, metrics):
+def run_experiment(chunk_size, dataset_name, noise_percent, delta_noise, window_size, random_seed, ulr, learning_rate, metrics, alghoritm):
     stream = DataStream(
         chunk_size=chunk_size,
         dataset_name=dataset_name,
-        semantic_case_1=semantic_case_1,
-        semantic_case_2=semantic_case_2,
+        noise_percent=noise_percent,
+        delta_noise=delta_noise,
         random_seed=random_seed,
     )
 
-    clf = HessianResNetUnlearning(window_size=window_size, unlearning_rate = ulr, lr = learning_rate)
+    if alghoritm=="Sliding":
+        clf = SlidingWindowPerceptron(window_size=window_size, lr = learning_rate)
+    elif alghoritm=="Unlearning":
+        clf = HessianResNetUnlearning(window_size=window_size, unlearning_rate = ulr, lr=learning_rate)
     evaluator = TestThenTrain(metrics=list(metrics.values()))
 
     X0, y0 = next(iter(stream))
@@ -257,7 +265,7 @@ def run_experiment(chunk_size, dataset_name, semantic_case_1, semantic_case_2, w
             name: scores[:, i]   
             for i, name in enumerate(metrics.keys())
         },
-        "drift_chunk": stream.drift_chunk,
+        "drift_chunk": stream.noise_change_chunk,
         "max_chunk": stream.n_chunks,
         "mean_time": train_times.mean(),
         "mean_memory": memory.mean(),
@@ -265,30 +273,32 @@ def run_experiment(chunk_size, dataset_name, semantic_case_1, semantic_case_2, w
 
 import mlflow
 
-def mlflow_run(chunk_size, dataset_name, semantic_case_1, semantic_case_2, window_size, random_seed, ulrealing_rate, learning_rate, metrics):
+def mlflow_run(chunk_size, noise_percent, delta_noise, window_size, random_seed, ulrealing_rate, learning_rate, metrics, dataset_name, alghorithm):
     with mlflow.start_run(nested=True):
 
         mlflow.log_params({
             "chunk_size": chunk_size,
             "dataset_name": dataset_name,
-            "semantic_case_1": semantic_case_1,
-            "semantic_case_2": semantic_case_2,
+            "noise_percent": noise_percent,
+            "delta_noise": delta_noise,
             "window_size": window_size,
             "unlearning_rate": ulrealing_rate,
+            "learning_rate": learning_rate,
             "random_seed": random_seed,
-            "learning_rate": learning_rate
+            "alghorithm": alghorithm
         })
 
         output = run_experiment(
             chunk_size,
             dataset_name,
-            semantic_case_1,
-            semantic_case_2,
+            noise_percent,
+            delta_noise,
             window_size,
             random_seed,
             ulrealing_rate,
             learning_rate,
-            metrics
+            metrics,
+            alghorithm
         )
 
         curves = output["metric_curves"]
@@ -301,7 +311,7 @@ def mlflow_run(chunk_size, dataset_name, semantic_case_1, semantic_case_2, windo
 
         for metric_name, values in curves.items():
 
-            # 📈 1. PRZEBIEG METRYKI
+            # 📈 1. METRICS OVER TIME
             for step, value in enumerate(values):
                 mlflow.log_metric(metric_name, float(value), step=step)
 
@@ -323,7 +333,7 @@ def mlflow_run(chunk_size, dataset_name, semantic_case_1, semantic_case_2, windo
 
             recovery_results_all[metric_name] = recovery
 
-            # 🔹 4. ZAPIS DO MLFLOW (metryki scalar)
+            # 🔹 4. SAVE TO MLFLOW
             if recovery["status"] == "ok":
                 for k, v in recovery.items():
                     if k != "status" and v is not None:
@@ -337,17 +347,22 @@ def mlflow_run(chunk_size, dataset_name, semantic_case_1, semantic_case_2, windo
 # HIPERPARAMETERS
 
 chunk_sizes = [200]
-dataset_name = "FASHION-MNIST"
-semantic_cases_1 = ["fashion_v1", "fashion_v2"]
-semantic_cases_2 = ["fashion_v1", "fashion_v2"]
-window_sizes = [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
-random_seeds = [42, 65, 88]
-ulrealing_rates = [0.01]
-learning_rates = [0.01]
+noise_percents = [0.0, 0.5]
+new_noises = [0.0, 0.5]
+window_sizes = [4, 8, 12, 16, 20, 24, 28, 32, 36, 40]
+algorithms = ["Slidng", "Unlearning"]
+dataset_names = ["CIFAR-10", "MNIST"]
+random_seeds = [42]
+learning_rates = [0.0001, 0.0002, 0.0003, 0.0004, 0.0005, 0.0006, 0.0007, 0.0008, 0.0009, 0.0010,
+                  0.0011, 0.0012, 0.0013, 0.0014, 0.0015, 0.0016, 0.0017, 0.0018, 0.0019, 0.0020, 
+                  0.0021, 0.0022, 0.0023, 0.0024, 0.0025]
+unlearning_rates = [0.0001, 0.0002, 0.0003, 0.0004, 0.0005, 0.0006, 0.0007, 0.0008, 0.0009, 0.0010,
+                  0.0011, 0.0012, 0.0013, 0.0014, 0.0015, 0.0016, 0.0017, 0.0018, 0.0019, 0.0020, 
+                  0.0021, 0.0022, 0.0023, 0.0024, 0.0025]
 
 from functools import partial
 
-#NO HIPERPARAMETERS (METRICS)
+#NOT HIPERPARAMETERS (METRICS)
 metrics = {
     "accuracy": accuracy_score,
     "balanced_accuracy": bac,
@@ -357,76 +372,45 @@ metrics = {
     "specificity_macro": specificity_macro
 }
 
-mlflow.set_experiment("FashionMNIST")
+mlflow.set_experiment("MNIST_SuddenDrift")
 
 from joblib import Parallel, delayed
 import itertools
 
-# 🔽 GENERATE ONLY VALID COMBINATION
 param_grid = [
-    (chunk_size, semantic_case_1, semantic_case_2, window_size, ulrealing_rate, random_seed, learning_rates)
-    for chunk_size, semantic_case_1, semantic_case_2, window_size, ulrealing_rate, random_seed, learning_rates
+    (chunk_size, noise_percent, delta_noise, window_size, unlearning_rate, lr, random_seed, dataset_name, algorithm)
+    for chunk_size, noise_percent, delta_noise, window_size, unlearning_rate, lr, random_seed, dataset_name, algorithm
     in itertools.product(
         chunk_sizes,
-        semantic_cases_1,
-        semantic_cases_2,
+        noise_percents,
+        new_noises,
         window_sizes,
-        ulrealing_rates,
+        unlearning_rates,
+        learning_rates,
         random_seeds,
-        learning_rates
+        dataset_names,
+        algorithms
     )
-    if semantic_case_1 != semantic_case_2
+    if noise_percent != delta_noise
 ]
 
-param_grid2 = [
-    (chunk_size, semantic_case_1, semantic_case_2, window_size2, ulrealing_rate2, random_seed, learning_rates2)
-    for chunk_size, semantic_case_1, semantic_case_2, window_size2, ulrealing_rate2, random_seed, learning_rates2
-    in itertools.product(
-        chunk_sizes,
-        semantic_cases_1,
-        semantic_cases_2,
-        window_sizes2,
-        ulrealing_rates2,
-        random_seeds,
-        learning_rates2
-    )
-    if semantic_case_1 != semantic_case_2
-]
-
-param_grid3 = [
-    (chunk_size, semantic_case_1, semantic_case_2, window_size3, ulrealing_rate3, random_seed, learning_rates3)
-    for chunk_size, semantic_case_1, semantic_case_2, window_size3, ulrealing_rate3, random_seed, learning_rates3
-    in itertools.product(
-        chunk_sizes,
-        semantic_cases_1,
-        semantic_cases_2,
-        window_sizes2,
-        ulrealing_rates2,
-        random_seeds,
-        learning_rates2
-    )
-    if semantic_case_1 != semantic_case_2
-]
-
-
-print(f"Liczba uruchamianych eksperymentów: {len(param_grid)}")
-
-from tensorflow.keras.datasets import fashion_mnist
-
-(X1, y1), (X2, y2) = fashion_mnist.load_data()
-print("Download OK")
+print(f"Number of experiments: {len(param_grid)}")
 
 results = Parallel(n_jobs=-1, verbose=10)(
     delayed(mlflow_run)(
         chunk_size,
-        dataset_name,
-        semantic_case_1,
-        semantic_case_2,
+        noise_percent,
+        delta_noise,
         window_size,
         random_seed,
         ulrealing_rate,
-        learning_rate,
-        metrics
+        learning_rates,
+        metrics,
+        dataset_name,
+        algorithm
     )
-    for chunk_size, semantic_case_1, semantic_case_2, window_size, ulrealing_rate, random_seed, learning_rate in param_grid
+    for chunk_size, noise_percent, delta_noise, window_size, ulrealing_rate, learning_rates, random_seed, dataset_name, algorithm in param_grid
 )
+
+df = pd.DataFrame(results)
+print(df.sort_values("accuracy", ascending=False).head())

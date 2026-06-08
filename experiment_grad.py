@@ -1,17 +1,21 @@
+from filelock import FileLock
+import os
+os.environ["MLFLOW_ALLOW_FILE_STORE"] = "true"
 import numpy as np
 import pandas as pd
-import os
+import json
 from tensorflow.keras.datasets import mnist, cifar10
 from strlearn.evaluators import TestThenTrain
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import f1_score,  balanced_accuracy_score as bac, precision_score, recall_score
 from specificity import specificity, specificity_macro
-from strlearn2.classifiers import SlidingWindowPerceptron, HessianResNetUnlearning
+from strlearn2.classifiers import SlidingWindowPerceptron,SlidingWindowCNN, HessianResNetUnlearning, HessianCNNUnlearning
 from collections import defaultdict
 
 
 def recovery_analysis(metric, rolling_metric, drift_chunk, max_chunk):
 
+    # ❗ brak driftu lub drift poza zakresem
     if drift_chunk is None:
         return {
             "theta": None,
@@ -76,6 +80,11 @@ def recovery_analysis(metric, rolling_metric, drift_chunk, max_chunk):
         "status": "ok"
     }
 
+from tensorflow.keras.datasets import fashion_mnist, cifar10
+import numpy as np
+from collections import defaultdict
+
+
 class DataStream:
     def __init__(
         self,
@@ -83,12 +92,16 @@ class DataStream:
         dataset_name: str,
         noise_percent: float,
         delta_noise: float,
+        overlap_chunks: int = 5,
+        equal_overlap: bool = False,
         random_seed: int = 42,
     ):
         self.chunk_size = chunk_size
         self.dataset_name = dataset_name.upper()
         self.noise_percent = noise_percent
         self.delta_noise = delta_noise
+        self.overlap_chunks = overlap_chunks
+        self.equal_overlap = equal_overlap
         self.random_seed = random_seed
 
         self.rng = np.random.default_rng(random_seed)
@@ -105,12 +118,15 @@ class DataStream:
         self.n_chunks = len(self.chunks)
         self.reset()
 
-        # Noise drift point
-        self.noise_change_chunk = self.n_chunks // 2
+        # -------- GRADUAL DRIFT DEFINITION --------
+        self.drift_center = self.n_chunks // 2
+        self.drift_start = self.drift_center - self.overlap_chunks // 2
+        self.drift_end = self.drift_center + self.overlap_chunks // 2
 
     # --------------------------------------------------
     # Required API
     # --------------------------------------------------
+
     def reset(self):
         self.chunk_id = 0
         self.previous_chunk = None
@@ -119,10 +135,7 @@ class DataStream:
         return self.n_chunks
 
     def get_chunk(self, i=None):
-        """
-        Fully compatible with strlearn.Stream
-        """
-        # Sequential access
+
         if i is None:
             i = self.chunk_id
 
@@ -133,16 +146,39 @@ class DataStream:
         X_chunk = self.X[idx]
         y_chunk = self.y[idx]
 
-        # Apply noise (concept drift)
-        if i < self.noise_change_chunk:
-            X_chunk = self._add_noise(X_chunk, self.noise_percent)
+        # -------- BEFORE DRIFT --------
+        if i < self.drift_start:
+
+            X_chunk = self._add_noise(
+                X_chunk,
+                self.noise_percent
+            )
+
+        # -------- GRADUAL DRIFT --------
+        elif self.drift_start <= i <= self.drift_end:
+
+            progress = (i - self.drift_start) / (self.drift_end - self.drift_start)
+
+            if self.equal_overlap:
+                proportion_old = 0.5
+            else:
+                proportion_old = 1 - progress
+
+            X_chunk = self._apply_gradual_noise(
+                X_chunk,
+                self.noise_percent,
+                self.delta_noise,
+                proportion_old
+            )
+
+        # -------- AFTER DRIFT --------
         else:
+
             X_chunk = self._add_noise(
                 X_chunk,
                 self.delta_noise
             )
 
-        # Update internal state (CRUCIAL)
         self.previous_chunk = (X_chunk, y_chunk)
         self.chunk_id = i + 1
 
@@ -151,15 +187,26 @@ class DataStream:
     # --------------------------------------------------
     # Dataset loading
     # --------------------------------------------------
+
     def _load_dataset(self):
+
         if self.dataset_name == "MNIST":
+
+            from tensorflow.keras.datasets import mnist
+
             (X1, y1), (X2, y2) = mnist.load_data()
+
             X = np.concatenate([X1, X2])
             y = np.concatenate([y1, y2])
+
             X = X[..., np.newaxis]
 
         elif self.dataset_name == "CIFAR-10":
+
+            from tensorflow.keras.datasets import cifar10
+
             (X1, y1), (X2, y2) = cifar10.load_data()
+
             X = np.concatenate([X1, X2])
             y = np.concatenate([y1.flatten(), y2.flatten()])
 
@@ -171,13 +218,20 @@ class DataStream:
     # --------------------------------------------------
     # Utilities
     # --------------------------------------------------
+
     def _shuffle(self):
+
         idx = self.rng.permutation(len(self.X))
+
         self.X = self.X[idx]
         self.y = self.y[idx]
 
     def _create_balanced_chunks(self):
+
+        from collections import defaultdict
+
         per_class_indices = defaultdict(list)
+
         for i, label in enumerate(self.y):
             per_class_indices[label].append(i)
 
@@ -185,66 +239,116 @@ class DataStream:
         samples_per_class = self.chunk_size // n_classes
 
         pointers = {c: 0 for c in self.classes_}
+
         chunks = []
 
         while True:
+
             chunk_idx = []
+
             for c in self.classes_:
+
                 start = pointers[c]
                 end = start + samples_per_class
+
                 if end > len(per_class_indices[c]):
                     return chunks
+
                 chunk_idx.extend(per_class_indices[c][start:end])
                 pointers[c] = end
 
             self.rng.shuffle(chunk_idx)
             chunks.append(chunk_idx)
 
+    # --------------------------------------------------
+    # Gradual drift helper
+    # --------------------------------------------------
+
+    def _apply_gradual_noise(self, X, old_noise, new_noise, proportion_old):
+
+        N = len(X)
+
+        n_old = int(proportion_old * N)
+
+        idx = self.rng.permutation(N)
+
+        old_idx = idx[:n_old]
+        new_idx = idx[n_old:]
+
+        X_new = X.copy()
+
+        if len(old_idx) > 0:
+            X_new[old_idx] = self._add_noise(X_new[old_idx], old_noise)
+
+        if len(new_idx) > 0:
+            X_new[new_idx] = self._add_noise(X_new[new_idx], new_noise)
+
+        return X_new
+
+    # --------------------------------------------------
+    # Noise injection
+    # --------------------------------------------------
+
     def _add_noise(self, X, noise_percent, sigma=0.5):
+
         if noise_percent <= 0:
             return X
 
         X_noisy = X.copy()
+
         N, H, W, C = X.shape
+
         total_pixels = H * W * C
         n_noisy = int(noise_percent * total_pixels)
 
         for i in range(N):
+
             idx = self.rng.choice(total_pixels, n_noisy, replace=False)
+
             noise = self.rng.normal(0, sigma, n_noisy)
+
             flat = X_noisy[i].reshape(-1)
+
             flat[idx] += noise
+
             X_noisy[i] = flat.reshape(H, W, C)
 
         return np.clip(X_noisy, 0.0, 1.0)
-    
+
+    # --------------------------------------------------
+    # Stream iterator
+    # --------------------------------------------------
+
     def __iter__(self):
         self.reset()
         return self
 
     def __next__(self):
+
         if self.chunk_id >= self.n_chunks:
             raise StopIteration
+
         return self.get_chunk()
 
-
     def is_dry(self):
+
         return self.chunk_id >= self.n_chunks - 1
     
 
-def run_experiment(chunk_size, noise_percent, delta_noise, window_size, random_seed, ulr, metrics, alghoritm):
+def run_experiment(chunk_size, dataset_name, noise_percent, delta_noise, window_size, overlap_chunk, ulr, learning_rate, random_seed, metrics, alghoritm):
     stream = DataStream(
         chunk_size=chunk_size,
-        dataset_name="MNIST",
+        dataset_name=dataset_name,
         noise_percent=noise_percent,
         delta_noise=delta_noise,
+        overlap_chunks=overlap_chunk,
         random_seed=random_seed,
     )
 
     if alghoritm=="Sliding":
-        clf = SlidingWindowPerceptron(window_size=window_size)
+        clf = SlidingWindowPerceptron(window_size=window_size, lr = learning_rate)
     elif alghoritm=="Unlearning":
-        clf = HessianResNetUnlearning(window_size=window_size, unlearning_rate = ulr)
+        clf = HessianResNetUnlearning(window_size=window_size, unlearning_rate = ulr, lr=learning_rate)
     evaluator = TestThenTrain(metrics=list(metrics.values()))
 
     X0, y0 = next(iter(stream))
@@ -261,7 +365,8 @@ def run_experiment(chunk_size, noise_percent, delta_noise, window_size, random_s
             name: scores[:, i]   
             for i, name in enumerate(metrics.keys())
         },
-        "drift_chunk": stream.noise_change_chunk,
+        "drift_start": stream.drift_start,
+        "drift_end": stream.drift_end,
         "max_chunk": stream.n_chunks,
         "mean_time": train_times.mean(),
         "mean_memory": memory.mean(),
@@ -269,7 +374,17 @@ def run_experiment(chunk_size, noise_percent, delta_noise, window_size, random_s
 
 import mlflow
 
-def mlflow_run(chunk_size, noise_percent, delta_noise, window_size, random_seed, ulrealing_rate, metrics, algorithm):
+def mlflow_run(chunk_size,
+        noise_percent,
+        delta_noise,
+        window_size,
+        overlap_chunk,
+        unlearning_rate,
+        learning_rate,
+        random_seed,
+        metrics,
+        dataset_name, 
+        alghorithm):
     with mlflow.start_run(nested=True):
 
         mlflow.log_params({
@@ -277,24 +392,31 @@ def mlflow_run(chunk_size, noise_percent, delta_noise, window_size, random_seed,
             "noise_percent": noise_percent,
             "delta_noise": delta_noise,
             "window_size": window_size,
-            "unlearning_rate": ulrealing_rate,
+            "overlap_chunk": overlap_chunk,
+            "unlearning_rate": unlearning_rate,
+            "learning_rate": learning_rate,
             "random_seed": random_seed,
-            "algorithm": algorithm
+            "alghorithm": alghorithm,
+            "dataset_name": dataset_name,
         })
 
         output = run_experiment(
             chunk_size,
+            dataset_name,
             noise_percent,
             delta_noise,
             window_size,
+            overlap_chunk,
+            unlearning_rate,
+            learning_rate,
             random_seed,
-            ulrealing_rate,
             metrics,
-            algorithm
+            alghorithm
         )
 
         curves = output["metric_curves"]
-        drift_chunk = output["drift_chunk"]
+        drift_start = output["drift_start"]
+        drift_end = output["drift_end"]
         max_chunk = output["max_chunk"]
         mean_time = output["mean_time"]
         mean_memory = output["mean_memory"]
@@ -303,7 +425,7 @@ def mlflow_run(chunk_size, noise_percent, delta_noise, window_size, random_seed,
 
         for metric_name, values in curves.items():
 
-            # 📈 1. METRICS OVER TIME
+            # 📈 1. PRZEBIEG METRYKI
             for step, value in enumerate(values):
                 mlflow.log_metric(metric_name, float(value), step=step)
 
@@ -319,36 +441,46 @@ def mlflow_run(chunk_size, noise_percent, delta_noise, window_size, random_seed,
             recovery = recovery_analysis(
                 values,
                 rolling,
-                drift_chunk,
+                drift_start,
                 max_chunk
             )
 
             recovery_results_all[metric_name] = recovery
 
-            # 🔹 4. SAVE TO MLFLOW
+            # 🔹 4. ZAPIS DO MLFLOW (metryki scalar)
             if recovery["status"] == "ok":
                 for k, v in recovery.items():
                     if k != "status" and v is not None:
                         mlflow.log_metric(f"{metric_name}_{k}", float(v))
             else:
                 mlflow.log_param(f"{metric_name}_recovery_status", recovery["status"])
-        mlflow.log_metric("drift_chunk", drift_chunk)
+        mlflow.log_metric("drift_start", drift_start)
+        mlflow.log_metric("drift_end", drift_end)
         mlflow.log_metric("mean_time", mean_time)
         mlflow.log_metric("mean_memory", mean_memory)
 
-# HIPERPARAMETERS
+# HIPERPARAMETRY
+from joblib import Parallel, delayed
+import itertools
 
 chunk_sizes = [200]
 noise_percents = [0.0, 0.5]
-new_noises = [0.0, 0.5]
-window_sizes = [20]
+new_noises = [0.5, 0.0]
+overlap_chunks = [7]
+window_sizes = [4, 8, 12, 16, 20, 24, 28, 32, 36, 40]
+algorithms = ["Slidng", "Unlearning"]
+dataset_names = ["CIFAR-10", "MNIST"]
 random_seeds = [42, 65, 88]
-ulrealing_rates = [0.05]
-algorithms = ["Sliding", "Unlearning"]
+learning_rates = [0.0001, 0.0002, 0.0003, 0.0004, 0.0005, 0.0006, 0.0007, 0.0008, 0.0009, 0.001,
+                  0.0011, 0.0012, 0.0013, 0.0014, 0.0015, 0.0016, 0.0017, 0.0018, 0.0019, 0.0020,
+                  0.0021, 0.0022, 0.0023, 0.0024, 0.0025]
+unlearning_rates = [0.0001, 0.0002, 0.0003, 0.0004, 0.0005, 0.0006, 0.0007, 0.0008, 0.0009, 0.001,
+                  0.0011, 0.0012, 0.0013, 0.0014, 0.0015, 0.0016, 0.0017, 0.0018, 0.0019, 0.0020,
+                  0.0021, 0.0022, 0.0023, 0.0024, 0.0025]
 
 from functools import partial
 
-#NOT HIPERPARAMETERS (METRICS)
+#NIE HIPERPARAMETRY (METRYKi DO ZAPISU)
 metrics = {
     "accuracy": accuracy_score,
     "balanced_accuracy": bac,
@@ -358,25 +490,21 @@ metrics = {
     "specificity_macro": specificity_macro
 }
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MLRUNS_DIR = os.path.join(BASE_DIR, "mlruns")
+mlflow.set_experiment("GradualDrift")
 
-mlflow.set_experiment("MNIST_SuddenDrift")
-
-from joblib import Parallel, delayed
-import itertools
-
-# 🔽 GENERATE ONLY VALID COMBINATIONS
 param_grid = [
-    (chunk_size, noise_percent, delta_noise, window_size, ulrealing_rates, random_seed, algorithms)
-    for chunk_size, noise_percent, delta_noise, window_size, ulrealing_rates, random_seed, algorithms
+    (chunk_size, noise_percent, delta_noise, window_size, overlap_chunk, unlearning_rate, lr, random_seed, dataset_name, algorithm)
+    for chunk_size, noise_percent, delta_noise, window_size, overlap_chunk, unlearning_rate, lr, random_seed, dataset_name, algorithm
     in itertools.product(
         chunk_sizes,
         noise_percents,
         new_noises,
         window_sizes,
-        ulrealing_rates,
+        overlap_chunks,
+        unlearning_rates,
+        learning_rates,
         random_seeds,
+        dataset_names,
         algorithms
     )
     if noise_percent != delta_noise
@@ -390,13 +518,13 @@ results = Parallel(n_jobs=-1, verbose=10)(
         noise_percent,
         delta_noise,
         window_size,
+        overlap_chunks,
+        unlearning_rates,
+        learning_rates,
         random_seed,
-        ulrealing_rate,
         metrics,
-        algorithms
+        dataset_name,
+        algorithm
     )
-    for chunk_size, noise_percent, delta_noise, window_size, ulrealing_rate, random_seed, algorithms in param_grid
+    for chunk_size, noise_percent, delta_noise, window_size, overlap_chunks, unlearning_rates, learning_rates, random_seed, dataset_name, algorithm in param_grid
 )
-
-df = pd.DataFrame(results)
-print(df.sort_values("accuracy", ascending=False).head())
