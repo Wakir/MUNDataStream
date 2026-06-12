@@ -24,11 +24,11 @@ The hiperparameters uses in following experiments are:
 * `chunk_sizes` - number of samples in each data batch.
 * `noise_precents` - specifies the fraction of all pixel values in each image that are randomly selected and perturbed by adding Gaussian noise before concept drift ([0, 1] for sudden, gradual and incremental drifts).
 * `delta_noise` - specifies the fraction of all pixel values in each image that are randomly selected and perturbed by adding Gaussian noise after concept drift ([0, 1] for sudden, gradual and incremental drifts).
-* 'overlap_chunks' - number of overlap chunks (for gradual drift)
-* 'noise_steps' - linear change of noise between each chunk during drift change (for incremental drift)
-* 'semantic_cases_1' - type of semantic case before drift (for semantic drift)
-* 'semantic_cases_2' - type of semantic case after drift (for semantic drift)
-* 'dataset_name' - dataset name used as a base for datastream (CIFAR-10, MNIST for sudden,gradual and incremental streams, CIFAR-10 and FASHION-MNIST for semantic)
+* `overlap_chunks` - number of overlap chunks (for gradual drift)
+* `noise_steps` - linear change of noise between each chunk during drift change (for incremental drift)
+* `semantic_cases_1` - type of semantic case before drift (for semantic drift)
+* `semantic_cases_2` - type of semantic case after drift (for semantic drift)
+* `dataset_name` - dataset name used as a base for datastream (CIFAR-10, MNIST for sudden,gradual and incremental streams, CIFAR-10 and FASHION-MNIST for semantic)
 * `algorithms` - alghoritms used in experiments (Sliding for SW, Unlearning for UIL)
 * `random_seeds` - the seeds used by the random number generator.
 * `window_sizes` - number of maximum chunks in sliding window
